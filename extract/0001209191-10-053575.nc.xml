@@ -1,0 +1,106 @@
+<Source file="./0001209191-10-053575.nc">
+<SUBMISSION ACCESSION-NUMBER="0001209191-10-053575" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101105" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001334362" CONFORMED-NAME="Faulkner Larry R" /><FILING-VALUES ACT="34" FILE-NUMBER="001-08634" FILM-NUMBER="101171274" FORM-TYPE="4" /><MAIL-ADDRESS CITY="AUSTIN" STATE="TX" STREET1="1300 SOUTH MOPAC" ZIP="78746" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="2631" CIK="0000731939" CONFORMED-NAME="TEMPLE INLAND INC" FISCAL-YEAR-END="1231" IRS-NUMBER="751903917" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="AUSTIN" PHONE="5124345800" STATE="TX" STREET1="1300 MOPAC EXPRESSWAY SOUTH" STREET2="3RD FLOOR" ZIP="78746" /><MAIL-ADDRESS CITY="AUSTIN" STATE="TX" STREET1="1300 MOPAC EXPRESSWAY SOUTH" STREET2="3RD FLOOR" ZIP="78746" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-05" schemaVersion="X0303">
+<issuer> issuerCik="0000731939" 
+ issuerName="TEMPLE INLAND INC" 
+ issuerTradingSymbol="TIN" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001334362" 
+ rptOwnerName="Faulkner Larry R" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="AUSTIN" rptOwnerState="TX" rptOwnerStreet1="1300 SOUTH MOPAC" rptOwnerStreet2="THIRD FLOOR" rptOwnerZipCode="78746">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="1" 
+ isOfficer="0" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeHolding><securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="200" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="In IRA">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+</nonDerivativeTable>
+<derivativeTable><derivativeHolding><securityTitle> value="Option (right to buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="17.51">
+<footnoteId id="F1" /> 
+</conversionOrExercisePrice>
+<exerciseDate> value="2006-08-05" 
+<footnoteId id="F2" /> 
+</exerciseDate>
+<expirationDate> value="2015-08-05" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="20000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="20000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeTransaction>
+<securityTitle> value="Restricted Stock Units (Deferred)" 
+</securityTitle>
+<conversionOrExercisePrice>
+<footnoteId id="F3" /> 
+</conversionOrExercisePrice>
+<transactionDate> value="2010-11-05" 
+</transactionDate>
+<deemedExecutionDate value="2010-11-05">
+</deemedExecutionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="A" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="1043" 
+</transactionShares>
+<transactionPricePerShare value="0.00">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate> value="2016-05-06" 
+<footnoteId id="F3" /> 
+</exerciseDate>
+<expirationDate> value="2031-05-06" 
+<footnoteId id="F3" /> 
+</expirationDate>
+<underlyingSecurity><underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="1043">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="74456" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="The exercise price of these outstanding options were amended from that previously reported in connection with the spin-off announced by the Company effective 12/28/2007, and pursuant to anti-dilution provisions set forth in the option plan and is intended to give the option the same economic value it had before the spin-off." /> 
+ <footnote id="F2" text="Options Vesting Schedule:  Options Exercisable 08/05/2006 - 8,000, Options Exercisable 08/05/2007 - 8,000, and Options Exercisable 08/05/2008 - 4,000." /> 
+ <footnote id="F3" text="Restricted stock units deferred under a Company plan, to be settled upon the reporting person&apos;s retirement. RSUs earned before 2006 are payable in stock. RSUs earned in 2006 or later are payable in cash." /> 
+</footnotes>
+<remarks />
+<ownerSignature> signatureName="Leslie K. O'Neal signed on behalf of Larry R. Faulkner" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

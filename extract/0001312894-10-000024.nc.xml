@@ -1,0 +1,50 @@
+<Source file="./0001312894-10-000024.nc">
+<SUBMISSION ACCESSION-NUMBER="0001312894-10-000024" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001223344" CONFORMED-NAME="HEWITT WILLIAM B" /><FILING-VALUES ACT="34" FILE-NUMBER="001-14330" FILM-NUMBER="101172646" FORM-TYPE="4" /><MAIL-ADDRESS CITY="CHARLOTTE" STATE="NC" STREET1="9335 HARRIS CORNERS PARKWAY" STREET2="SUITE 300" ZIP="28269" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="2221" CIK="0000927417" CONFORMED-NAME="POLYMER GROUP INC" FISCAL-YEAR-END="1231" IRS-NUMBER="571003983" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="CHARLOTTE" PHONE="704-697-5100" STATE="NC" STREET1="9335 HARRIS CORNERS PARKWAY" STREET2="SUITE 300" ZIP="28269" /><MAIL-ADDRESS CITY="CHARLOTTE" STATE="NC" STREET1="9335 HARRIS CORNERS PARKWAY" STREET2="SUITE 300" ZIP="28269" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0000927417" 
+ issuerName="POLYMER GROUP INC" 
+ issuerTradingSymbol="POLGA.OB" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001223344" 
+ rptOwnerName="HEWITT WILLIAM B" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="CHARLOTTE" rptOwnerState="NC" rptOwnerStreet1="9335 HARRIS CORNERS PARKWAY" rptOwnerStreet2="SUITE 300" rptOwnerZipCode="28269">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="1" 
+ isOfficer="0" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Class A Common Stock" 
+<footnoteId id="F1" /> 
+</securityTitle>
+<transactionDate> value="2010-11-04" 
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="J" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="8109" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="28968" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<footnotes> <footnote id="F1" text="The transaction involves a reversal of a previously reported gift of Class A Common Stock to a charitable organization due to certain administrative reasons affecting the prior gift." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="/s/Daniel L. Rikard, attorney in fact">
+</ownerSignature>
+</ownershipDocument></Source>

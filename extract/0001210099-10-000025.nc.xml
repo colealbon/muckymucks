@@ -1,0 +1,63 @@
+<Source file="./0001210099-10-000025.nc">
+<SUBMISSION ACCESSION-NUMBER="0001210099-10-000025" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101105" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001209801" CONFORMED-NAME="LANNON CHARLES E" /><FILING-VALUES ACT="34" FILE-NUMBER="001-13820" FILM-NUMBER="101173222" FORM-TYPE="4" /><MAIL-ADDRESS CITY="BUFFALO" STATE="NY" STREET1="C/O SOVRAN SELF STORAGE INC" STREET2="6467 MAIN STREET" ZIP="14221" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="6798" CIK="0000944314" CONFORMED-NAME="SOVRAN SELF STORAGE INC" FISCAL-YEAR-END="1231" IRS-NUMBER="161194043" STATE-OF-INCORPORATION="MD" /><BUSINESS-ADDRESS CITY="WILLIAMSVILLE" PHONE="7166331850" STATE="NY" STREET1="6467 MAIN ST" ZIP="14221" /><MAIL-ADDRESS CITY="WILLIAMSVILLE" STATE="NY" STREET1="6467 MAIN ST" ZIP="14221" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-05" schemaVersion="X0303">
+<issuer> issuerCik="0000944314" 
+ issuerName="SOVRAN SELF STORAGE INC" 
+ issuerTradingSymbol="sss" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001209801" 
+ rptOwnerName="LANNON CHARLES E" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="BUFFALO" rptOwnerState="NY" rptOwnerStreet1="C/O SOVRAN SELF STORAGE INC" rptOwnerStreet2="6467 MAIN STREET" rptOwnerZipCode="14221">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="1" 
+ isOfficer="0" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<derivativeTable><derivativeTransaction><securityTitle> value="Common Stock unit" 
+</securityTitle>
+<conversionOrExercisePrice value="0">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="A" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="1004.63" 
+</transactionShares>
+<transactionPricePerShare>
+<footnoteId id="F2" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="A" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate> value="2010-11-05" 
+</exerciseDate>
+<expirationDate>
+<footnoteId id="F1" /> 
+</expirationDate>
+<underlyingSecurity><underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="1004.63">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="11394.6" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="The Units have no expiration date but will be converted into common stock and distributed at the earlier of the Director&apos;s election or within ten days of the cessation of the Director&apos;s service as a Director." /> 
+ <footnote id="F2" text="Phantom shares of Common Stock (Units) acquired in lieu of director&apos;s fees pursuant to the Sovran Self Storage, Inc. Deferred Compensation Plan for Directors.  The number of Units was determined by dividing the amount of compensation otherwise payable by the closing price of the Company&apos;s Common Stock on November 4, 2010, $40.55." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="David L. Rogers - attorney in fact">
+</ownerSignature>
+</ownershipDocument></Source>

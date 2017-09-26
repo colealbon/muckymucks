@@ -1,0 +1,53 @@
+<Source file="./0001181431-10-053931.nc">
+<SUBMISSION ACCESSION-NUMBER="0001181431-10-053931" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101103" PUBLIC-DOCUMENT-COUNT="2" TYPE="3"><ISSUER><COMPANY-DATA ASSIGNED-SIC="7374" CIK="0001068875" CONFORMED-NAME="INFOSPACE INC" FISCAL-YEAR-END="1231" IRS-NUMBER="911718107" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="BELLEVUE" PHONE="4258821602" STATE="WA" STREET1="601 108TH AVE NE" STREET2="SUITE 1200" ZIP="98004" /><FORMER-COMPANY DATE-CHANGED="19980824" FORMER-CONFORMED-NAME="INFOSPACE COM INC" /></ISSUER><REPORTING-OWNER><OWNER-DATA CIK="0001504647" CONFORMED-NAME="McElfresh Travis" /><FILING-VALUES ACT="34" FILE-NUMBER="000-25131" FILM-NUMBER="101171570" FORM-TYPE="3" /><MAIL-ADDRESS CITY="BELLEVUE" STATE="WA" STREET1="601 108TH AVENUE NE, SUITE 1200" ZIP="98004" /></REPORTING-OWNER></SUBMISSION><ownershipDocument documentType="3" noSecuritiesOwned="0" periodOfReport="2010-11-03" schemaVersion="X0203">
+<issuer> issuerCik="0001068875" 
+ issuerName="INFOSPACE INC" 
+ issuerTradingSymbol="INSP" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001504647" 
+ rptOwnerName="McElfresh Travis" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="BELLEVUE" rptOwnerState="WA" rptOwnerStreet1="601 108TH AVENUE NE, SUITE 1200" rptOwnerStreet2="" rptOwnerZipCode="98004" />
+
+
+<reportingOwnerRelationship isDirector="0" isOfficer="1" isOther="0" isTenPercentOwner="0" officerTitle="Chief Technology Officer">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeHolding><securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="100000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+</nonDerivativeTable>
+<derivativeTable><derivativeHolding><securityTitle> value="Stock Option (Right to Buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="8.26">
+</conversionOrExercisePrice>
+<exerciseDate>
+<footnoteId id="F1" /> 
+</exerciseDate>
+<expirationDate> value="2017-09-20" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="200000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="The option vests according to the following schedule: 33.33% vests on September 20, 2011, and approximately 16.67% vests at the end of each six-month period thereafter, such that the option will be fully vested on September 20, 2013." /> 
+</footnotes>
+ remarks="Exhibit 24 - Power of Attorney" 
+<ownerSignature signatureDate="2010-11-05" signatureName="/s/ Alesia L. Pinney, as Attorney-in-Fact">
+</ownerSignature>
+</ownershipDocument></Source>

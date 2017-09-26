@@ -1,0 +1,67 @@
+<Source file="./0001127602-10-027211.nc">
+<SUBMISSION ACCESSION-NUMBER="0001127602-10-027211" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101105" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0000903213" CONFORMED-NAME="FOLEY WILLIAM P II" FISCAL-YEAR-END="1231" STATE-OF-INCORPORATION="CA" /><FILING-VALUES ACT="34" FILE-NUMBER="001-16427" FILM-NUMBER="101171396" FORM-TYPE="4" /><MAIL-ADDRESS CITY="JACKSONVILLE" STATE="FL" STREET1="FIDELITY NATIONAL FINANCIAL, INC." STREET2="601 RIVERSIDE AVENUE" ZIP="32204" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="7389" CIK="0001136893" CONFORMED-NAME="Fidelity National Information Services, Inc." FISCAL-YEAR-END="1231" IRS-NUMBER="371490331" /><BUSINESS-ADDRESS CITY="JACKSONVILLE" PHONE="904-854-8547" STATE="FL" STREET1="601 RIVERSIDE AVENUE" ZIP="32204" /><MAIL-ADDRESS CITY="JACKSONVILLE" STATE="FL" STREET1="601 RIVERSIDE AVENUE" ZIP="32204" /><FORMER-COMPANY DATE-CHANGED="20010607" FORMER-CONFORMED-NAME="CERTEGY INC" /><FORMER-COMPANY DATE-CHANGED="20010315" FORMER-CONFORMED-NAME="EQUIFAX PS INC" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" periodOfReport="2010-11-05" schemaVersion="X0303">
+<issuer> issuerCik="0001136893" 
+ issuerName="Fidelity National Information Services, Inc." 
+ issuerTradingSymbol="FIS" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0000903213" 
+ rptOwnerName="FOLEY WILLIAM P II" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="JACKSONVILLE" rptOwnerState="FL" rptOwnerStreet1="601 RIVERSIDE AVENUE" rptOwnerStreet2="" rptOwnerZipCode="32204" />
+
+
+<reportingOwnerRelationship isDirector="1" isOfficer="1" officerTitle="Exec.Chairman">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="F" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness />
+<transactionAmounts><transactionShares> value="7048" 
+</transactionShares>
+<transactionPricePerShare value="27.95">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="223001" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeHolding>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="560269" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="Folco Development Corporation">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="155238" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="Foley Family Charitable Foundation">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+</nonDerivativeTable>
+<ownerSignature signatureDate="2010-11-08" signatureName="/s/ Stacey A. Lombardi, attorney-in-fact">
+</ownerSignature>
+</ownershipDocument></Source>

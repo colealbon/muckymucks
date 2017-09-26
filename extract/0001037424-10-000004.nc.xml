@@ -1,0 +1,52 @@
+<Source file="./0001037424-10-000004.nc">
+<SUBMISSION ACCESSION-NUMBER="0001037424-10-000004" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101105" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001037424" CONFORMED-NAME="MEHNE GENE C" /><FILING-VALUES ACT="34" FILE-NUMBER="001-15877" FILM-NUMBER="101173029" FORM-TYPE="4" /><MAIL-ADDRESS CITY="INDIANAPOLIS" STATE="IN" STREET1="LEGRE &amp; BARNES" STREET2="9100 KEYSTONE CROSSING SUITE 800" ZIP="46240" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="6022" CIK="0000714395" CONFORMED-NAME="GERMAN AMERICAN BANCORP, INC." FISCAL-YEAR-END="1231" IRS-NUMBER="351547518" STATE-OF-INCORPORATION="IN" /><BUSINESS-ADDRESS CITY="JASPER" PHONE="8124821314" STATE="IN" STREET1="711 MAIN ST" STREET2="P O BOX 810" ZIP="47546" /><MAIL-ADDRESS CITY="JASPER" STATE="IN" STREET1="711 MAIN STREET" ZIP="47546" /><FORMER-COMPANY DATE-CHANGED="19950510" FORMER-CONFORMED-NAME="GERMAN AMERICAN BANCORP" /><FORMER-COMPANY DATE-CHANGED="19950510" FORMER-CONFORMED-NAME="GAB BANCORP" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" periodOfReport="2010-11-05" schemaVersion="X0303">
+<issuer> issuerCik="0000714395" 
+ issuerName="GERMAN AMERICAN BANCORP, INC." 
+ issuerTradingSymbol="GABC" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001037424" 
+ rptOwnerName="MEHNE GENE C" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="JASPER" rptOwnerState="IN" rptOwnerStreet1="3563 WEST PORTERSVILLE RD E" rptOwnerStreet2="" rptOwnerZipCode="47546" />
+
+
+<reportingOwnerRelationship isDirector="1" isOfficer="0" isOther="0" isTenPercentOwner="0">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="P" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="340" 
+</transactionShares>
+<transactionPricePerShare value="18.52">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="14551.653" 
+<footnoteId id="F1" /> 
+<footnoteId id="F2" />
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<footnotes>
+<footnote id="F1" text="Column 5 includes 3,975.595 shares held by Mr. Mehne&apos;s spouse" /> 
+ <footnote id="F2" text="Includes shares acquired pursuant to German American Bancorp&apos;s Dividend Reinvestment Plan" /> 
+</footnotes>
+<remarks />
+<ownerSignature> signatureName="Mark A Schroeder POA  Gene C Mehne" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

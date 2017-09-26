@@ -1,0 +1,169 @@
+<Source file="./0001181431-10-054002.nc">
+<SUBMISSION ACCESSION-NUMBER="0001181431-10-054002" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101105" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001239471" CONFORMED-NAME="BARONNER ROBERT F JR" /><FILING-VALUES ACT="34" FILE-NUMBER="000-24958" FILM-NUMBER="101172190" FORM-TYPE="4" /><MAIL-ADDRESS CITY="MARTINSBURG" STATE="WV" STREET1="200 CAMBRIAN CT" ZIP="25401" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="6022" CIK="0000925173" CONFORMED-NAME="POTOMAC BANCSHARES INC" FISCAL-YEAR-END="1231" IRS-NUMBER="550732247" STATE-OF-INCORPORATION="WV" /><BUSINESS-ADDRESS CITY="CHARLES TOWN" PHONE="3047258431" STATE="WV" STREET1="111 EAST WASHINGTON ST" ZIP="25414" /><MAIL-ADDRESS CITY="CHARLES TOWN" STATE="WV" STREET1="P O BOX 906" ZIP="25414" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-05" schemaVersion="X0303">
+<issuer> issuerCik="0000925173" 
+ issuerName="POTOMAC BANCSHARES INC" 
+ issuerTradingSymbol="PTBS" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001239471" 
+ rptOwnerName="BARONNER ROBERT F JR" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="MARTINSBURG" rptOwnerState="WV" rptOwnerStreet1="200 CAMBRIAN CT" rptOwnerStreet2="" rptOwnerZipCode="25401" />
+
+
+<reportingOwnerRelationship isDirector="1" isOfficer="1" isOther="0" isTenPercentOwner="0" officerTitle="President &amp; CEO">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Potomac Bancshares Inc. Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="P" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="500" 
+</transactionShares>
+<transactionPricePerShare value="4.90">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="13313" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeHolding>
+<securityTitle> value="Potomac Bancshares Inc. Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="2500" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="Mother">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding>
+<securityTitle> value="Potomac Bancshares Inc. Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="797" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="Sons">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding>
+<securityTitle> value="Potomac Bancshares Inc. Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="61" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="Wife">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+</nonDerivativeTable>
+<derivativeTable><derivativeHolding><securityTitle> value="Incentive Stock Option" 
+</securityTitle>
+<conversionOrExercisePrice value="15.60">
+</conversionOrExercisePrice>
+<exerciseDate value="2008-01-09">
+</exerciseDate>
+<expirationDate value="2017-01-09">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="4000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="4000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Incentive Stock Option" 
+</securityTitle>
+<conversionOrExercisePrice value="16.90">
+</conversionOrExercisePrice>
+<exerciseDate value="2007-01-10">
+</exerciseDate>
+<expirationDate value="2016-01-10">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="5100">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="5100" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Incentive Stock Option" 
+</securityTitle>
+<conversionOrExercisePrice value="13.72">
+</conversionOrExercisePrice>
+<exerciseDate value="2006-01-11">
+</exerciseDate>
+<expirationDate value="2015-01-11">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="5100">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="5100" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Incentive Stock Option" 
+</securityTitle>
+<conversionOrExercisePrice value="11.04">
+</conversionOrExercisePrice>
+<exerciseDate value="2005-03-10">
+</exerciseDate>
+<expirationDate value="2014-03-10">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="4080">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="4080" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+</derivativeTable>
+<ownerSignature> signatureName="Robert F. Baronner, Jr." 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

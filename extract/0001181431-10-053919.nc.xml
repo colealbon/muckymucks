@@ -1,0 +1,105 @@
+<Source file="./0001181431-10-053919.nc">
+<SUBMISSION ACCESSION-NUMBER="0001181431-10-053919" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><ISSUER><COMPANY-DATA ASSIGNED-SIC="6141" CIK="0001464343" CONFORMED-NAME="CompuCredit Holdings Corp" FISCAL-YEAR-END="1231" IRS-NUMBER="000000000" STATE-OF-INCORPORATION="GA" /><BUSINESS-ADDRESS CITY="ATLANTA" PHONE="770-828-2000" STATE="GA" STREET1="FIVE CONCOURSE PARKWAY" STREET2="SUITE 400" ZIP="30328" /><MAIL-ADDRESS CITY="ATLANTA" STATE="GA" STREET1="FIVE CONCOURSE PARKWAY" STREET2="SUITE 400" ZIP="30328" /></ISSUER><REPORTING-OWNER><OWNER-DATA CIK="0001106489" CONFORMED-NAME="GILBERT RICHARD W" /><FILING-VALUES ACT="34" FILE-NUMBER="000-53717" FILM-NUMBER="101171200" FORM-TYPE="4" /><MAIL-ADDRESS CITY="SUITE 400" STATE="GA" STREET1="C/O COMPUCREDIT CORP" STREET2="FIVE CONCOURSE PARKWAY" ZIP="30328" /></REPORTING-OWNER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0001464343" 
+ issuerName="CompuCredit Holdings Corp" 
+ issuerTradingSymbol="CCRT" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001106489" 
+ rptOwnerName="GILBERT RICHARD W" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="ATLANTA" rptOwnerState="GA" rptOwnerStreet1="C/O COMPUCREDIT HOLDINGS CORPORATION" rptOwnerStreet2="FIVE CONCOURSE PARKWAY, SUITE 400" rptOwnerZipCode="30328">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="1" 
+ isOfficer="1" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+ officerTitle="Chief Operating Officer" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeHolding><securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="204858" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+<footnoteId id="F1" /> 
+</transactionCoding>
+<transactionAmounts><transactionShares> value="22100" 
+</transactionShares>
+<transactionPricePerShare value="6.0814">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="203606" 
+<footnoteId id="F2" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="Gilbert &amp; Gilbert, LLLP">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+<footnoteId id="F1" /> 
+</transactionCoding>
+<transactionAmounts><transactionShares> value="3414" 
+</transactionShares>
+<transactionPricePerShare value="6.0191">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="200192" 
+<footnoteId id="F2" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="Gilbert &amp; Gilbert, LLLP">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeHolding>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="689006" 
+<footnoteId id="F2" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="Gilbert Capital LLC">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+</nonDerivativeTable>
+<footnotes> <footnote id="F1" text="This transaction was effected pursuant to a Rule 10b5-1 trading plan adopted by the reporting person." /> 
+ <footnote id="F2" text="The reporting person disclaims beneficial ownership of these securities except to the extent of the reporting person&apos;s pecuniary interest therein, and this report shall not be deemed an admission that the reporting person is the beneficial owner of such securities for purposes of Section 16 or any other purpose." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="/s/  RICHARD W. GILBERT">
+</ownerSignature>
+</ownershipDocument></Source>

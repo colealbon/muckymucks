@@ -1,0 +1,69 @@
+<Source file="./0001233402-10-000330.nc">
+<SUBMISSION ACCESSION-NUMBER="0001233402-10-000330" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001385260" CONFORMED-NAME="McAdam Lowell C" /><FILING-VALUES ACT="34" FILE-NUMBER="001-08606" FILM-NUMBER="101171788" FORM-TYPE="4" /><MAIL-ADDRESS CITY="NEW YORK" STATE="NY" STREET1="140 WEST STREET, 29TH FLOOR" ZIP="10007" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="4813" CIK="0000732712" CONFORMED-NAME="VERIZON COMMUNICATIONS INC" FISCAL-YEAR-END="1231" IRS-NUMBER="232259884" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="NEW YORK" PHONE="212-395-1000" STATE="NY" STREET1="140 WEST STREET" STREET2="29TH FLOOR" ZIP="10007" /><MAIL-ADDRESS CITY="NEW YORK" STATE="NY" STREET1="140 WEST STREET" STREET2="29TH FLOOR" ZIP="10007" /><FORMER-COMPANY DATE-CHANGED="19920703" FORMER-CONFORMED-NAME="BELL ATLANTIC CORP" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0000732712" 
+ issuerName="VERIZON COMMUNICATIONS INC" 
+ issuerTradingSymbol="VZ" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001385260" 
+ rptOwnerName="McAdam Lowell C" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="NEW YORK" rptOwnerState="NY" rptOwnerStreet1="VERIZON COMMUNICATIONS INC." rptOwnerStreet2="140 WEST STREET, 29TH FLOOR" rptOwnerZipCode="10007">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="1" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+ officerTitle="President and COO" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<derivativeTable><derivativeTransaction><securityTitle> value="Restricted Stock Units - 2010-2012 Award Cycle" 
+</securityTitle>
+<conversionOrExercisePrice>
+<footnoteId id="F1" /> 
+</conversionOrExercisePrice>
+<transactionDate> value="2010-11-04" 
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="A" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="7471" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate><footnoteId id="F1" /> 
+</exerciseDate>
+<expirationDate><footnoteId id="F1" /> 
+</expirationDate>
+<underlyingSecurity><underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="7471">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="64977" 
+<footnoteId id="F2" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<footnotes>
+<footnote id="F1" text="Each Restricted Stock Unit (RSU) represents the right to receive a cash payment equal to the value of one share of common stock, plus accrued dividends, upon vesting.  Subject to the terms of the Restricted Stock Unit Agreement, each RSU will vest on December 31, 2012, and the cash payment will be based on the closing stock price on the last trading day in December 2012." /> 
+ <footnote id="F2" text="Includes additional RSUs acquired through reinvestment of dividend equivalents." /> 
+</footnotes>
+<remarks />
+<ownerSignature> signatureName="William L. Horton, Jr., Attorney-in-fact for McAdam, Lowell C." 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

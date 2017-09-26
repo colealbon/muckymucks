@@ -1,0 +1,55 @@
+<Source file="./0001427152-10-000357.nc">
+<SUBMISSION ACCESSION-NUMBER="0001427152-10-000357" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101106" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001499967" CONFORMED-NAME="LARKEY ROSLYN R" /><FILING-VALUES ACT="34" FILE-NUMBER="001-13884" FILM-NUMBER="101172623" FORM-TYPE="4" /><MAIL-ADDRESS CITY="HOUSTON" STATE="TX" STREET1="1333 WEST LOOP SOUTH, STE 1700" ZIP="77027" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="3533" CIK="0000941548" CONFORMED-NAME="CAMERON INTERNATIONAL CORP" FISCAL-YEAR-END="1231" IRS-NUMBER="760451843" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="HOUSTON" PHONE="7135133322" STATE="TX" STREET1="1333 WEST LOOP SOUTH" STREET2="STE 1700" ZIP="77027" /><MAIL-ADDRESS CITY="HOUSTON" STATE="TX" STREET1="1333 WEST LOOP SOUTH" STREET2="STE 1700" ZIP="77027" /><FORMER-COMPANY DATE-CHANGED="19950315" FORMER-CONFORMED-NAME="COOPER CAMERON CORP" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-06" schemaVersion="X0303">
+<issuer> issuerCik="0000941548" 
+ issuerName="CAMERON INTERNATIONAL CORP" 
+ issuerTradingSymbol="CAM" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001499967" 
+ rptOwnerName="LARKEY ROSLYN R" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="HOUSTON" rptOwnerState="TX" rptOwnerStreet1="1333 WEST LOOP SOUTH, STE 1700" rptOwnerStreet2="" rptOwnerZipCode="77027" />
+
+
+<reportingOwnerRelationship isDirector="0" isOfficer="1" isOther="0" isTenPercentOwner="0" officerTitle="Vice President, Human Resource">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-06">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="F" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="114" 
+</transactionShares>
+<transactionPricePerShare value="46.13">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="17070" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeHolding>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="7770.42" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="by Trust">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+</nonDerivativeTable>
+<ownerSignature> signatureName="By: Grace B. Holmes  For: Roslyn R Larkey" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

@@ -1,0 +1,20 @@
+<Source file="./0001247640-10-000057.nc">
+<SUBMISSION ACCESSION-NUMBER="0001247640-10-000057" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="2" TYPE="3"><REPORTING-OWNER><OWNER-DATA CIK="0001504970" CONFORMED-NAME="Ramakrishna Sudhakar" /><FILING-VALUES ACT="34" FILE-NUMBER="000-27978" FILM-NUMBER="101173772" FORM-TYPE="3" /><MAIL-ADDRESS CITY="PLEASANTON" STATE="CA" STREET1="4750 WILLOW RD." ZIP="94588" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="3661" CIK="0001010552" CONFORMED-NAME="POLYCOM INC" FISCAL-YEAR-END="1231" IRS-NUMBER="943128324" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="PLEASANTON" PHONE="9259246000" STATE="CA" STREET1="4750 WILLOW ROAD" ZIP="94588-2708" /><MAIL-ADDRESS CITY="PLEASANTON" STATE="CA" STREET1="4750 WILLOW RD" ZIP="94588" /></ISSUER></SUBMISSION><ownershipDocument documentType="3" noSecuritiesOwned="1" periodOfReport="2010-11-04" schemaVersion="X0203">
+<issuer> issuerCik="0001010552" 
+ issuerName="POLYCOM INC" 
+ issuerTradingSymbol="PLCM" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001504970" 
+ rptOwnerName="Ramakrishna Sudhakar" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="PLEASANTON" rptOwnerState="CA" rptOwnerStreet1="4750 WILLOW ROAD" rptOwnerStreet2="" rptOwnerZipCode="94588" />
+
+
+<reportingOwnerRelationship isDirector="0" isOfficer="1" isOther="0" isTenPercentOwner="0" officerTitle="CDO">
+</reportingOwnerRelationship>
+</reportingOwner>
+ remarks="Exhibit List:  Exhibit 24 - Power of Attorney" 
+<ownerSignature signatureDate="2010-11-08" signatureName="/s/ JoAnne Zinman , Attorney-in-Fact for Sudhakar Ramakrishna">
+</ownerSignature>
+</ownershipDocument></Source>

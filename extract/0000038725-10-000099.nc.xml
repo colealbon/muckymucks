@@ -1,0 +1,156 @@
+<Source file="./0000038725-10-000099.nc">
+<SUBMISSION ACCESSION-NUMBER="0000038725-10-000099" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101108" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001399052" CONFORMED-NAME="davis delancey w" /><FILING-VALUES ACT="34" FILE-NUMBER="000-00362" FILM-NUMBER="101172874" FORM-TYPE="4" /><MAIL-ADDRESS CITY="FORT WAYNE" STATE="IN" STREET1="1524 SYCAMORE HILLS DRIVE" ZIP="46814" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="3621" CIK="0000038725" CONFORMED-NAME="FRANKLIN ELECTRIC CO INC" FISCAL-YEAR-END="0725" IRS-NUMBER="350827455" STATE-OF-INCORPORATION="IN" /><BUSINESS-ADDRESS CITY="BLUFFTON" PHONE="2608242900" STATE="IN" STREET1="400 E SPRING ST" ZIP="46714" /><MAIL-ADDRESS CITY="BLUFFTON" STATE="IN" STREET1="400 E SPRING STREET" ZIP="46714" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-08" schemaVersion="X0303">
+<issuer> issuerCik="0000038725" 
+ issuerName="FRANKLIN ELECTRIC CO INC" 
+ issuerTradingSymbol="fele" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001399052" 
+ rptOwnerName="davis delancey w" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="FORT WAYNE" rptOwnerState="IN" rptOwnerStreet1="1524 SYCAMORE HILLS DRIVE" rptOwnerStreet2="" rptOwnerZipCode="46814" />
+
+
+<reportingOwnerRelationship isDirector="0" isOfficer="1" isOther="0" isTenPercentOwner="0" officerTitle="Vice President">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeHolding><securityTitle> value="common stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="116" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="ESOP">
+<footnoteId id="F4" /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding><securityTitle> value="common stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="4000" 
+<footnoteId id="F1" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding>
+<securityTitle> value="common stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="2500" 
+<footnoteId id="F2" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding>
+<securityTitle> value="common stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="1637" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+</nonDerivativeTable>
+<derivativeTable><derivativeHolding><securityTitle> value="common stock" 
+</securityTitle>
+<conversionOrExercisePrice value="17.34">
+</conversionOrExercisePrice>
+<exerciseDate>
+<footnoteId id="F3" /> 
+</exerciseDate>
+<expirationDate> value="2019-03-05" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="common stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="18689">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="18689" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="option" 
+</securityTitle>
+<conversionOrExercisePrice value="28.82">
+</conversionOrExercisePrice>
+<exerciseDate>
+<footnoteId id="F3" /> 
+</exerciseDate>
+<expirationDate> value="2010-02-22" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="common stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="8000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="26689" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeTransaction>
+<securityTitle> value="option" 
+</securityTitle>
+<conversionOrExercisePrice value="32.19">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-08">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="4850" 
+</transactionShares>
+<transactionPricePerShare value="32.19">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate><footnoteId id="F3" /> 
+</exerciseDate>
+<expirationDate> value="2018-02-28" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="common stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="4850">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="31539" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="The shares vest at the end of three years." /> 
+ <footnote id="F2" text="The shares vest at the end of four years." /> 
+ <footnote id="F3" text="The options become exercisable in four equal installments of 1/4 each year, beginning on the first anniversary of the grant date." /> 
+ <footnote id="F4" text="Allocation of shares under the Franklin Electric Co., Inc. Employee Stock Ownership Plan Trust.  The information reported herein was provided by the trustee for holdings as of December 31, 2009." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="DeLancey W. Davis">
+</ownerSignature>
+</ownershipDocument></Source>

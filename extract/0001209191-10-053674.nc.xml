@@ -1,0 +1,80 @@
+<Source file="./0001209191-10-053674.nc">
+<SUBMISSION ACCESSION-NUMBER="0001209191-10-053674" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001450331" CONFORMED-NAME="O&apos;Hara J. Brooks" /><FILING-VALUES ACT="34" FILE-NUMBER="001-13461" FILM-NUMBER="101172338" FORM-TYPE="4" /><MAIL-ADDRESS CITY="HOUSTON" STATE="TX" STREET1="800 GESSNER" STREET2="SUITE 500" ZIP="77024" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="5500" CIK="0001031203" CONFORMED-NAME="GROUP 1 AUTOMOTIVE INC" FISCAL-YEAR-END="1231" IRS-NUMBER="760506313" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="HOUSTON" PHONE="713-647-5700" STATE="TX" STREET1="800 GESSNER" STREET2="SUITE 500" ZIP="77024" /><MAIL-ADDRESS CITY="HOUSTON" STATE="TX" STREET1="800 GESSNER" STREET2="SUITE 500" ZIP="77024" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0001031203" 
+ issuerName="GROUP 1 AUTOMOTIVE INC" 
+ issuerTradingSymbol="GPI" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001450331" 
+ rptOwnerName="O'Hara J. Brooks" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="HOUSTON" rptOwnerState="TX" rptOwnerStreet1="800 GESSNER" rptOwnerStreet2="SUITE 500" rptOwnerZipCode="77024">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="1" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+ officerTitle="VP, Human Resources" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="F" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="2645" 
+</transactionShares>
+<transactionPricePerShare value="37.01">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="48026.49" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="F" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="529" 
+</transactionShares>
+<transactionPricePerShare value="37.74">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="47497.49" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<remarks />
+<ownerSignature> signatureName="/s/ J. Brooks O'Hara" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

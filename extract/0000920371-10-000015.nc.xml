@@ -1,0 +1,247 @@
+<Source file="./0000920371-10-000015.nc">
+<SUBMISSION ACCESSION-NUMBER="0000920371-10-000015" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001115077" CONFORMED-NAME="HERBERT MICHAEL J" /><FILING-VALUES ACT="34" FILE-NUMBER="001-13429" FILM-NUMBER="101172895" FORM-TYPE="4" /><MAIL-ADDRESS CITY="PLEASANTON" STATE="CA" STREET1="5956 W. LAS POSITAS BLVD." ZIP="94588" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="3420" CIK="0000920371" CONFORMED-NAME="SIMPSON MANUFACTURING CO INC /CA/" FISCAL-YEAR-END="1231" IRS-NUMBER="943196943" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="PLEASANTON" PHONE="9255609000" STATE="CA" STREET1="5956 W LAS POSITAS BLVD" ZIP="94588" /><MAIL-ADDRESS CITY="PLEASANTON" STATE="CA" STREET1="5956 W LAS POSITAS BLVD" ZIP="94588" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0000920371" 
+ issuerName="SIMPSON MANUFACTURING CO INC /CA/" 
+ issuerTradingSymbol="NYSE:SSD" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001115077" 
+ rptOwnerName="HERBERT MICHAEL J" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="PLEASANTON" rptOwnerState="CA" rptOwnerStreet1="5956 W. LAS POSITAS BLVD." rptOwnerStreet2="" rptOwnerZipCode="94588" />
+
+
+<reportingOwnerRelationship isDirector="0" isOfficer="1" isOther="0" isTenPercentOwner="0" officerTitle="Vice President">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="X" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="30000" 
+</transactionShares>
+<transactionPricePerShare value="25.43">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="30000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="X" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="30000" 
+</transactionShares>
+<transactionPricePerShare value="27.42">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="0" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="X" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="16000" 
+</transactionShares>
+<transactionPricePerShare value="25.43">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="16000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="X" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="16000" 
+</transactionShares>
+<transactionPricePerShare value="27.89">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="0" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<derivativeTable>
+<derivativeTransaction><securityTitle> value="Options on Common Stock" 
+</securityTitle>
+<conversionOrExercisePrice value="25.43">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="X" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="30000" 
+</transactionShares>
+<transactionPricePerShare value="25.43">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate> value="2005-01-01" 
+<footnoteId id="F1" /> 
+</exerciseDate>
+<expirationDate> value="2010-12-31" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="30000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="80000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</derivativeTransaction>
+<derivativeTransaction><securityTitle> value="Options on Common Stock" 
+</securityTitle>
+<conversionOrExercisePrice value="25.43">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="X" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="16000" 
+</transactionShares>
+<transactionPricePerShare value="25.43">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate> value="2005-01-01" 
+<footnoteId id="F1" /> 
+</exerciseDate>
+<expirationDate> value="2010-12-31" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="16000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="64000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</derivativeTransaction>
+<derivativeHolding><securityTitle> value="Options on Common Stock" 
+</securityTitle>
+<conversionOrExercisePrice value="34.90">
+</conversionOrExercisePrice>
+<exerciseDate value="2006-01-01">
+<footnoteId id="F1" /> 
+</exerciseDate>
+<expirationDate> value="2011-12-31" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="4000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="4000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding><securityTitle> value="Options on Common Stock" 
+</securityTitle>
+<conversionOrExercisePrice value="40.72">
+</conversionOrExercisePrice>
+<exerciseDate value="2007-01-27">
+<footnoteId id="F1" /> 
+</exerciseDate>
+<expirationDate> value="2013-01-26" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="4000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="4000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</derivativeHolding>
+</derivativeTable>
+<footnotes>
+<footnote id="F1" text="This date represents the date of the first annual vesting period. This option vests equally over four years beginning with the date of grant." /> 
+</footnotes>
+<remarks />
+<ownerSignature> signatureName="MICHAEL J. HERBERT" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

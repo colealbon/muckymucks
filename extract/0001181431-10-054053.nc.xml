@@ -1,0 +1,114 @@
+<Source file="./0001181431-10-054053.nc">
+<SUBMISSION ACCESSION-NUMBER="0001181431-10-054053" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101108" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001231152" CONFORMED-NAME="WOOD RICHARD F" /><FILING-VALUES ACT="34" FILE-NUMBER="000-50128" FILM-NUMBER="101173002" FORM-TYPE="4" /><MAIL-ADDRESS CITY="ALBERMARLE" STATE="NC" STREET1="PO BOX 489" ZIP="28001" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="6021" CIK="0001210227" CONFORMED-NAME="BNC BANCORP" FISCAL-YEAR-END="1231" IRS-NUMBER="470898685" STATE-OF-INCORPORATION="NC" /><BUSINESS-ADDRESS CITY="HIGH POINT" PHONE="3364769200" STATE="NC" STREET1="1226 EASTCHESTER DRIVE" ZIP="27265" /><MAIL-ADDRESS CITY="HIGH POINT" STATE="NC" STREET1="1226 EASTCHESTER DRIVE" ZIP="27265" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-08" schemaVersion="X0303">
+<issuer> issuerCik="0001210227" 
+ issuerName="BNC BANCORP" 
+ issuerTradingSymbol="BNCN" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001231152" 
+ rptOwnerName="WOOD RICHARD F" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="HIGH POINT" rptOwnerState="NC" rptOwnerStreet1="701 FLORHAM DRIVE" rptOwnerStreet2="" rptOwnerZipCode="27262" />
+
+
+<reportingOwnerRelationship isDirector="1" isOfficer="0" isOther="0" isTenPercentOwner="0">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-08">
+</transactionDate>
+<deemedExecutionDate value="2010-11-08">
+</deemedExecutionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="55" 
+</transactionShares>
+<transactionPricePerShare value="8.91">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="18217" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-08">
+</transactionDate>
+<deemedExecutionDate value="2010-11-08">
+</deemedExecutionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="200" 
+</transactionShares>
+<transactionPricePerShare value="8.90">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="18017" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-08">
+</transactionDate>
+<deemedExecutionDate value="2010-11-08">
+</deemedExecutionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="2400" 
+</transactionShares>
+<transactionPricePerShare value="8.87">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="15617" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<derivativeTable><derivativeHolding><securityTitle> value="Options to purchase" 
+</securityTitle>
+<conversionOrExercisePrice value="5.95">
+</conversionOrExercisePrice>
+<exerciseDate value="2002-08-01">
+</exerciseDate>
+<expirationDate value="2012-08-01">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="common stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="3025">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="3025" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+</derivativeTable>
+<ownerSignature> signatureName="Drema A. Michael, Attorney in Fact" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

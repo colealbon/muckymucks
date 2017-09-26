@@ -1,0 +1,321 @@
+<Source file="./0001127602-10-027219.nc">
+<SUBMISSION ACCESSION-NUMBER="0001127602-10-027219" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001065880" CONFORMED-NAME="FRASER H RUSSELL" /><FILING-VALUES ACT="34" FILE-NUMBER="000-06814" FILM-NUMBER="101171606" FORM-TYPE="4" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="1311" CIK="0000101594" CONFORMED-NAME="US ENERGY CORP" FISCAL-YEAR-END="1231" IRS-NUMBER="830205516" STATE-OF-INCORPORATION="WY" /><BUSINESS-ADDRESS CITY="RIVERTON" PHONE="3078569271" STATE="WY" STREET1="877 NORTH 8TH WEST" STREET2="GLEN L LARSEN BLDG" ZIP="82501" /><MAIL-ADDRESS CITY="RIVERTON" STATE="WY" STREET1="877 NORTH 8TH WEST" ZIP="82501" /><FORMER-COMPANY DATE-CHANGED="19851229" FORMER-CONFORMED-NAME="WESTERN STATES MINING INC" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0000101594" 
+ issuerName="US ENERGY CORP" 
+ issuerTradingSymbol="USEG" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001065880" 
+ rptOwnerName="FRASER H RUSSELL" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="RIVERTON" rptOwnerState="WY" rptOwnerStreet1="877 N 8TH ST W" rptOwnerStreet2="" rptOwnerZipCode="82501" />
+
+
+<reportingOwnerRelationship isDirector="1">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness />
+<transactionAmounts><transactionShares> value="5000" 
+</transactionShares>
+<transactionPricePerShare value="2.40">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="26363" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+<footnoteId id="F1" /> 
+<footnoteId id="F2" />
+<footnoteId id="F3" /> 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="D" transactionFormType="4">
+<footnoteId id="F4" /> 
+</transactionCoding>
+<transactionTimeliness /> 
+<transactionAmounts>
+<transactionShares> value="5000" 
+</transactionShares>
+<transactionPricePerShare value="5.50">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="21363" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+<footnoteId id="F1" /> 
+<footnoteId id="F2" />
+<footnoteId id="F3" /> 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness />
+<transactionAmounts><transactionShares> value="3200" 
+</transactionShares>
+<transactionPricePerShare value="2.40">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="24563" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+<footnoteId id="F1" /> 
+<footnoteId id="F2" />
+<footnoteId id="F3" /> 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="D" transactionFormType="4">
+<footnoteId id="F4" /> 
+</transactionCoding>
+<transactionTimeliness /> 
+<transactionAmounts>
+<transactionShares> value="3200" 
+</transactionShares>
+<transactionPricePerShare value="5.75">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="21363" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+<footnoteId id="F1" /> 
+<footnoteId id="F2" />
+<footnoteId id="F3" /> 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeHolding><securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="1300" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+<footnoteId id="F5" /> 
+</directOrIndirectOwnership>
+<natureOfOwnership> value="By Spouse" 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+</nonDerivativeTable>
+<derivativeTable><derivativeTransaction><securityTitle> value="Stock Options (Right to Buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="2.40">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness />
+<transactionAmounts><transactionShares> value="5000" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate> value="2001-01-01" 
+</exerciseDate>
+<expirationDate value="2011-01-09">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="5000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="5000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+<footnoteId id="F6" /> 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+<derivativeTransaction><securityTitle> value="Stock Options (Right to Buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="2.40">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness />
+<transactionAmounts><transactionShares> value="3200" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate> value="2001-01-01" 
+</exerciseDate>
+<expirationDate value="2011-01-09">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="3200">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="1800" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+<footnoteId id="F6" /> 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+<derivativeHolding><securityTitle> value="Stock Options (Right to Buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="2.25">
+</conversionOrExercisePrice>
+<exerciseDate value="2002-08-08">
+</exerciseDate>
+<expirationDate value="2011-12-06">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="10000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="10000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+<footnoteId id="F6" /> 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding><securityTitle> value="Stock Options (Right to Buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="3.90">
+</conversionOrExercisePrice>
+<exerciseDate value="2001-12-07">
+</exerciseDate>
+<expirationDate value="2011-12-07">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="20000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="20000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+<footnoteId id="F6" /> 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding><securityTitle> value="Stock Options (Right to Buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="2.46">
+</conversionOrExercisePrice>
+<exerciseDate value="2005-07-01">
+</exerciseDate>
+<expirationDate value="2014-06-30">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="50000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="50000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+<footnoteId id="F6" /> 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding><securityTitle> value="Stock Options (Right to Buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="3.86">
+</conversionOrExercisePrice>
+<exerciseDate value="2005-10-14">
+</exerciseDate>
+<expirationDate value="2015-10-13">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="25000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="25000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+<footnoteId id="F6" /> 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding><securityTitle> value="Director/ Option(rtb)" 
+</securityTitle>
+<conversionOrExercisePrice value="2.52">
+</conversionOrExercisePrice>
+<exerciseDate value="2009-09-22">
+</exerciseDate>
+<expirationDate value="2018-09-21">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="U.S. Energy Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="30000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="30000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+<footnoteId id="F7" /> 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+</derivativeTable>
+<footnotes>
+<footnote id="F1" text="Includes shares held directly by the Reporting Person." /> 
+ <footnote id="F2" text="Includes 1,000 shares held in joint tenancy with the Reporting Person&apos;s wife." /> 
+ <footnote id="F3" text="Includes 4,000 shares held in an Individual Retirement Account (IRA) for the benefit of the Reporting Person." /> 
+ <footnote id="F4" text="Options purchased and sold under the Reporting Person&apos;s 10(b) 5-1 Plan dated August 16, 2010." /> 
+ <footnote id="F5" text="Includes 1,300 shares held in an IRA established for the benefit of the Reporting Person&apos;s wife. The Reporting Person disclaims any beneficial interest in these shares." /> 
+ <footnote id="F6" text="Options issued to Reporting Person as a member of the  Issuer&apos;s Board of Directors." /> 
+ <footnote id="F7" text="Stock Options granted under the Issuer&apos;s 2008 SOP for the Independent Directors and Advisory Board Members which vest in three (3) equal annual installments beginning September 22, 2009." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-05" signatureName="/s/ Robert Scott Lorimer, attorney-in-fact">
+</ownerSignature>
+</ownershipDocument></Source>

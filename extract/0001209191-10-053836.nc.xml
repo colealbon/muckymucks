@@ -1,0 +1,132 @@
+<Source file="./0001209191-10-053836.nc">
+<SUBMISSION ACCESSION-NUMBER="0001209191-10-053836" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001230767" CONFORMED-NAME="CHWANG RONALD" /><FILING-VALUES ACT="34" FILE-NUMBER="000-51598" FILM-NUMBER="101174170" FORM-TYPE="4" /><MAIL-ADDRESS CITY="SUNNYVALE" STATE="CA" STREET1="C/O SILICON STORAGE TECHNOLOGY INC" STREET2="1171 SONORA COURT" ZIP="94086" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="3630" CIK="0001159167" CONFORMED-NAME="IROBOT CORP" FISCAL-YEAR-END="1231" IRS-NUMBER="770259335" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="BEDFORD" PHONE="781-430-3000" STATE="MA" STREET1="8 CROSBY DRIVE" ZIP="01730" /><MAIL-ADDRESS CITY="BEDFORD" STATE="MA" STREET1="8 CROSBY DRIVE" ZIP="01730" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0001159167" 
+ issuerName="IROBOT CORP" 
+ issuerTradingSymbol="IRBT" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001230767" 
+ rptOwnerName="CHWANG RONALD" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="SANTA CLARA" rptOwnerState="CA" rptOwnerStreet1="C/O ID VENTURES AMERICA, LLC" rptOwnerStreet2="5201 GREAT AMERICA PARKWAY, SUITE 270" rptOwnerZipCode="95054">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="1" 
+ isOfficer="0" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeHolding><securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="426970" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="See Footnote">
+<footnoteId id="F1" /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="S" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="25000" 
+</transactionShares>
+<transactionPricePerShare value="20.17">
+<footnoteId id="F2" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="D" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="168710" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="By Chwang-Seto Family Trust">
+<footnoteId id="F3" /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="S" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="100" 
+</transactionShares>
+<transactionPricePerShare value="20.18">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="168610" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="By Chwang-Seto Family Trust">
+<footnoteId id="F3" /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-08">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="S" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="19900" 
+</transactionShares>
+<transactionPricePerShare value="20.15">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="148710" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="By Chwang-Seto Family Trust">
+<footnoteId id="F3" /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<footnotes>
+<footnote id="F1" text="Consists of shares held indirectly by iD America 1, LLC as sole general partner for iD5 Fund, L.P. The reporting person is a principal of iD America 1, LLC. The reporting person disclaims beneficial ownership of such shares except to the extent of his pecuniary interest, if any, and this report shall not be deemed an admission that the reporting person is the beneficial owner of all of the reported shares for purposes of Section 16 or any other purpose." /> 
+ <footnote id="F2" text="The range of prices for the transaction reported on this line was $20.05 to $20.36. The average weighted price was $20.17.  The reporting person will provide, upon request by the SEC, the issuer or a security holder of the issuer, full information regarding the number of shares sold at each separate price." /> 
+ <footnote id="F3" text="The reporting person disclaims beneficial ownership of such shares except to the extent of his pecuniary interest, if any, and this report shall not be deemed an admission that the reporting person is the beneficial owner of all of the reported shares for purposes of Section 16 or any other purpose." /> 
+</footnotes>
+<remarks />
+<ownerSignature> signatureName="/s/ Glen D. Weinstein, Attorney-in-Fact" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

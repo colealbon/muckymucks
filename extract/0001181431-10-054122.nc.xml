@@ -1,0 +1,103 @@
+<Source file="./0001181431-10-054122.nc">
+<SUBMISSION ACCESSION-NUMBER="0001181431-10-054122" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001443144" CONFORMED-NAME="Federico Francesco" /><FILING-VALUES ACT="34" FILE-NUMBER="001-33930" FILM-NUMBER="101173835" FORM-TYPE="4" /><MAIL-ADDRESS CITY="NORTH HOLLYWOOD" STATE="CA" STREET1="C/O IPC THE HOSPITALIST COMPANY, INC." STREET2="4605 LANKERSHIM BLVD., STE 617" ZIP="90012" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="8090" CIK="0001410471" CONFORMED-NAME="IPC The Hospitalist Company, Inc." FISCAL-YEAR-END="1231" IRS-NUMBER="954562058" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="NORTH HOLLYWOOD" PHONE="818-766-3502" STATE="CA" STREET1="4605 LANKERSHIM BLVD., SUITE 617" ZIP="91602" /><MAIL-ADDRESS CITY="NORTH HOLLYWOOD" STATE="CA" STREET1="4605 LANKERSHIM BLVD., SUITE 617" ZIP="91602" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0001410471" 
+ issuerName="IPC The Hospitalist Company, Inc." 
+ issuerTradingSymbol="IPCM" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001443144" 
+ rptOwnerName="Federico Francesco" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="NORTH HOLLYWOOD" rptOwnerState="CA" rptOwnerStreet1="C/O IPC THE HOSPITALIST COMPANY, INC." rptOwnerStreet2="4605 LANKERSHIM BLVD., STE 617" rptOwnerZipCode="91602">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="1" 
+ isOfficer="0" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="5000" 
+</transactionShares>
+<transactionPricePerShare value="16.29">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="5000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="5000" 
+</transactionShares>
+<transactionPricePerShare value="32.00">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="0" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<derivativeTable><derivativeTransaction><securityTitle> value="Stock Option (Right-to-Buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="16.29">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="5000" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate><footnoteId id="F1" /> 
+</exerciseDate>
+<expirationDate> value="2019-01-02" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="5000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="0" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="Options were granted on January 2, 2009. All options vests ratably over the subsequent 12 months." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="/s/ Fernando Sarria, Attorney-in-Fact">
+</ownerSignature>
+</ownershipDocument></Source>

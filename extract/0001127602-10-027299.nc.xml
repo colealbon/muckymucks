@@ -1,0 +1,214 @@
+<Source file="./0001127602-10-027299.nc">
+<SUBMISSION ACCESSION-NUMBER="0001127602-10-027299" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101105" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001186248" CONFORMED-NAME="SHARP WILLIAM JOHN" STATE-OF-INCORPORATION="OH" /><FILING-VALUES ACT="34" FILE-NUMBER="001-00584" FILM-NUMBER="101172410" FORM-TYPE="4" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="2851" CIK="0000035214" CONFORMED-NAME="FERRO CORP" FISCAL-YEAR-END="1231" IRS-NUMBER="340217820" STATE-OF-INCORPORATION="OH" /><BUSINESS-ADDRESS CITY="CLEVELAND" PHONE="2166418580" STATE="OH" STREET1="1000 LAKESIDE AVE" ZIP="44114-1183" /><MAIL-ADDRESS CITY="CLEVELAND" STATE="OH" STREET1="1000 LAKESIDE AVE" ZIP="44144-1147" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" periodOfReport="2010-11-05" schemaVersion="X0303">
+<issuer> issuerCik="0000035214" 
+ issuerName="FERRO CORP" 
+ issuerTradingSymbol="FOE" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001186248" 
+ rptOwnerName="SHARP WILLIAM JOHN" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="CLEVELAND" rptOwnerState="OH" rptOwnerStreet1="C/O FERRO CORPORATION" rptOwnerStreet2="1000 LAKESIDE AVENUE" rptOwnerZipCode="44114">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="1" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="D" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness />
+<transactionAmounts><transactionShares> value="4252" 
+</transactionShares>
+<transactionPricePerShare value="15.1482">
+<footnoteId id="F1" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="D" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="7573" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeHolding>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="22225.472" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="Director Deferred Comp Plan">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+</nonDerivativeTable>
+<derivativeTable><derivativeHolding><securityTitle> value="Deferred Stock Units" 
+</securityTitle>
+<conversionOrExercisePrice>
+<footnoteId id="F2" /> 
+</conversionOrExercisePrice>
+<exerciseDate> value="2011-02-26" 
+</exerciseDate>
+<expirationDate value="2011-02-26">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="8000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="8000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Stock Options (Right to Buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="20.70">
+</conversionOrExercisePrice>
+<exerciseDate value="2002-04-27">
+</exerciseDate>
+<expirationDate value="2011-04-27">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="2500">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="2500" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Stock Options (Right to Buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="25.50">
+</conversionOrExercisePrice>
+<exerciseDate value="2003-02-11">
+</exerciseDate>
+<expirationDate value="2012-02-11">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="2500">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="2500" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Stock Options (Right to Buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="21.26">
+</conversionOrExercisePrice>
+<exerciseDate value="2004-02-29">
+</exerciseDate>
+<expirationDate value="2013-02-28">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="7000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="7000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Stock Options (Right to Buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="26.26">
+</conversionOrExercisePrice>
+<exerciseDate value="2005-02-09">
+</exerciseDate>
+<expirationDate value="2014-02-09">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="7000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="7000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Stock Options (Right to Buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="19.39">
+</conversionOrExercisePrice>
+<exerciseDate value="2006-02-07">
+</exerciseDate>
+<expirationDate value="2015-02-07">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="7000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="7000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Stock Options (Right to Buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="20.69">
+</conversionOrExercisePrice>
+<exerciseDate value="2007-02-16">
+</exerciseDate>
+<expirationDate value="2016-02-16">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="7000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="7000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="Price reported constitutes the average weighted price of shares sold.  Shares were sold at varying prices in the range of $15.14-$15.16. The reporting person hereby undertakes, upon request of the Commission, the issuer or a security holder of the issuer, to provide full information regarding the number of shares sold at each separate price." /> 
+ <footnote id="F2" text="Award granted to Non-Employee Directors.  At the end of the deferral period of one year, the units are redeemable for an equal number of shares of Ferro Common Stock.  The units do not have the right to vote or receive dividends and are subject to forfeiture if the recipient is no longer serving as a Director at the end of the deferral period except in the case of retirement, disability or death." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="/s/ John T. Bingle, Treasurer, by Power of Attorney">
+</ownerSignature>
+</ownershipDocument></Source>

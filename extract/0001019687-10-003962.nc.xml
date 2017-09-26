@@ -1,0 +1,434 @@
+<Source file="./0001019687-10-003962.nc">
+<SUBMISSION ACCESSION-NUMBER="0001019687-10-003962" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001321936" CONFORMED-NAME="Jones William L" /><FILING-VALUES ACT="34" FILE-NUMBER="000-21467" FILM-NUMBER="101172530" FORM-TYPE="4" /><MAIL-ADDRESS CITY="FRESNO" STATE="CA" STREET1="5711 N. WEST AVENUE" ZIP="93711" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="2860" CIK="0000778164" CONFORMED-NAME="Pacific Ethanol, Inc." FISCAL-YEAR-END="1231" IRS-NUMBER="412170618" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="SACRAMENTO" PHONE="916-403-2123" STATE="CA" STREET1="400 CAPITOL MALL, SUITE 2060" ZIP="95814" /><MAIL-ADDRESS CITY="SACRAMENTO" STATE="CA" STREET1="400 CAPITOL MALL, SUITE 2060" ZIP="95814" /><FORMER-COMPANY DATE-CHANGED="20030627" FORMER-CONFORMED-NAME="ACCESSITY CORP" /><FORMER-COMPANY DATE-CHANGED="20001115" FORMER-CONFORMED-NAME="DRIVERSSHIELD COM CORP" /><FORMER-COMPANY DATE-CHANGED="19920703" FORMER-CONFORMED-NAME="FIRST PRIORITY GROUP INC" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0000778164" 
+ issuerName="Pacific Ethanol, Inc." 
+ issuerTradingSymbol="PEIX" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001321936" 
+ rptOwnerName="Jones William L" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="SACRAMENTO," rptOwnerState="CA" rptOwnerStreet1="400 CAPITOL MALL, #2060" rptOwnerStreet2="" rptOwnerZipCode="95814" />
+
+
+<reportingOwnerRelationship isDirector="1" isOfficer="0" isOther="0" isTenPercentOwner="0">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="2300" 
+</transactionShares>
+<transactionPricePerShare value=".8149">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="616105" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="700" 
+</transactionShares>
+<transactionPricePerShare value=".815">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="615405" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="7800" 
+</transactionShares>
+<transactionPricePerShare value=".8151">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="607605" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="550" 
+</transactionShares>
+<transactionPricePerShare value=".8152">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="607055" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="1500" 
+</transactionShares>
+<transactionPricePerShare value=".8155">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="605555" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="100" 
+</transactionShares>
+<transactionPricePerShare value=".8175">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="605455" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="200" 
+</transactionShares>
+<transactionPricePerShare value=".8183">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="605255" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="1700" 
+</transactionShares>
+<transactionPricePerShare value=".8185">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="603555" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="200" 
+</transactionShares>
+<transactionPricePerShare value=".8188">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="603355" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="400" 
+</transactionShares>
+<transactionPricePerShare value=".8193">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="602955" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="300" 
+</transactionShares>
+<transactionPricePerShare value=".8194">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="605655" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="200" 
+</transactionShares>
+<transactionPricePerShare value=".8196">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="602455" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="1300" 
+</transactionShares>
+<transactionPricePerShare value=".8199">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="601155" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="1156" 
+</transactionShares>
+<transactionPricePerShare value=".82">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="599999" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="1000" 
+</transactionShares>
+<transactionPricePerShare value=".83">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="598999" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="200" 
+</transactionShares>
+<transactionPricePerShare value=".8337">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="598799" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="100" 
+</transactionShares>
+<transactionPricePerShare value=".84">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="598699" 
+<footnoteId id="F1" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<footnotes>
+<footnote id="F1" text="Mr. Jones holds 598,699 shares of common stock directly, 50,000 shares of common stock underlying options, 19,230 shares of common stock underlying a warrant and 75,253 shares of common stock underlying Series B Preferred Stock." /> 
+</footnotes>
+ remarks="This is Part 3 of 3. There were more than 30 transactions to report." 
+<ownerSignature signatureDate="2010-11-05" signatureName="/s/ William L. Jones">
+</ownerSignature>
+</ownershipDocument></Source>

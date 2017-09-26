@@ -1,0 +1,50 @@
+<Source file="./0001225208-10-024452.nc">
+<SUBMISSION ACCESSION-NUMBER="0001225208-10-024452" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0000902012" CONFORMED-NAME="GATES WILLIAM H III" /><FILING-VALUES ACT="34" FILE-NUMBER="000-14278" FILM-NUMBER="101172685" FORM-TYPE="4" /><MAIL-ADDRESS CITY="REDMOND" STATE="WA" STREET1="ONE MICROSOFT WAY" ZIP="98052" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="7372" CIK="0000789019" CONFORMED-NAME="MICROSOFT CORP" FISCAL-YEAR-END="0630" IRS-NUMBER="911144442" STATE-OF-INCORPORATION="WA" /><BUSINESS-ADDRESS CITY="REDMOND" PHONE="425-882-8080" STATE="WA" STREET1="ONE MICROSOFT WAY" ZIP="98052-6399" /><MAIL-ADDRESS CITY="REDMOND" STATE="WA" STREET1="ONE MICROSOFT WAY" ZIP="98052-6399" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0000789019" 
+ issuerName="MICROSOFT CORP" 
+ issuerTradingSymbol="MSFT" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0000902012" 
+ rptOwnerName="GATES WILLIAM H III" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="REDMOND" rptOwnerState="WA" rptOwnerStreet1="ONE MICROSOFT WAY" rptOwnerStreet2="" rptOwnerZipCode="98052" />
+
+
+<reportingOwnerRelationship isDirector="1">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+<footnoteId id="F1" /> 
+</transactionCoding>
+<transactionAmounts><transactionShares> value="1000000.0000" 
+</transactionShares>
+<transactionPricePerShare value="27.1685">
+<footnoteId id="F2" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="D" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="616973551.0000" 
+<footnoteId id="F3" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<derivativeTable /> 
+<footnotes>
+<footnote id="F1" text="The sales reported in this filing were made pursuant to the 10b5-1 sales plan of the reporting person." /> 
+ <footnote id="F2" text="This transaction was executed in multiple trades at prices ranging from $27.015 to $27.41.  The price reported above reflects the weighted-average price.  The reporting person hereby undertakes to provide upon request to the SEC staff, the issuer or a security holder of the issuer full information regarding the number of shares and prices at which the transactions were effected." /> 
+ <footnote id="F3" text="In addition, there are 424,816 shares owned by the spouse of the reporting person.  The reporting person disclaims beneficial ownership of these securities, and this report shall not be deemed an admission that the reporting person is the beneficial owner of the securities for purposes of Section 16 or for any other purposes." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="/s/ Alan Heuberger, Attorney-in-fact for William H. Gates III">
+</ownerSignature>
+</ownershipDocument></Source>

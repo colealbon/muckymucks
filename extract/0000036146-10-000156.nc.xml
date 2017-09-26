@@ -1,0 +1,51 @@
+<Source file="./0000036146-10-000156.nc">
+<SUBMISSION ACCESSION-NUMBER="0000036146-10-000156" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101108" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001351516" CONFORMED-NAME="Woods Charles Scott" /><FILING-VALUES ACT="34" FILE-NUMBER="000-03683" FILM-NUMBER="101172398" FORM-TYPE="4" /><MAIL-ADDRESS CITY="JACKSON" STATE="MS" STREET1="P. O. BOX 291" ZIP="39205" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="6021" CIK="0000036146" CONFORMED-NAME="TRUSTMARK CORP" FISCAL-YEAR-END="1231" IRS-NUMBER="640471500" STATE-OF-INCORPORATION="MS" /><BUSINESS-ADDRESS CITY="JACKSON" PHONE="6013545111" STATE="MS" STREET1="248 E CAPITOL ST" STREET2="P O BOX 291" ZIP="39201" /><MAIL-ADDRESS CITY="JACKSON" STATE="MS" STREET1="248 EAST CAPITOL STREET" ZIP="39201" /><FORMER-COMPANY DATE-CHANGED="19900513" FORMER-CONFORMED-NAME="FIRST CAPITAL CORP" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" periodOfReport="2010-11-08" schemaVersion="X0303">
+<issuer> issuerCik="0000036146" 
+ issuerName="TRUSTMARK CORP" 
+ issuerTradingSymbol="TRMK" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001351516" 
+ rptOwnerName="Woods Charles Scott" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="JACKSON" rptOwnerState="MS" rptOwnerStreet1="P. O. BOX 291" rptOwnerStreet2="" rptOwnerZipCode="39205" />
+
+
+<reportingOwnerRelationship isDirector="0" isOfficer="0" isOther="1" isTenPercentOwner="0" otherText="Wholly Owned Subsidiary">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="common" 
+</securityTitle>
+<transactionDate value="2010-11-08">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="700" 
+</transactionShares>
+<transactionPricePerShare value="23.25">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="23443" 
+<footnoteId id="F1" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<footnotes>
+<footnote id="F1" text="900 shares owned indirectly by children" /> 
+</footnotes>
+<remarks />
+<ownerSignature> signatureName="Charles Scott Woods by: T. Harris Collier, III, POA" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

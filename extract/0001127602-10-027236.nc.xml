@@ -1,0 +1,325 @@
+<Source file="./0001127602-10-027236.nc">
+<SUBMISSION ACCESSION-NUMBER="0001127602-10-027236" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101105" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001232707" CONFORMED-NAME="BARBER TIMOTHY C" /><FILING-VALUES ACT="34" FILE-NUMBER="000-13468" FILM-NUMBER="101171951" FORM-TYPE="4" /><MAIL-ADDRESS CITY="SEATTLE" STATE="WA" STREET1="1015 THIRD AVENUE 12TH FLOOR" ZIP="98104" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="4731" CIK="0000746515" CONFORMED-NAME="EXPEDITORS INTERNATIONAL OF WASHINGTON INC" FISCAL-YEAR-END="1231" IRS-NUMBER="911069248" STATE-OF-INCORPORATION="WA" /><BUSINESS-ADDRESS CITY="SEATTLE" PHONE="2066743400" STATE="WA" STREET1="1015 THIRD AVENUE 12TH FLOOR" ZIP="98104" /><MAIL-ADDRESS CITY="SEATTLE" STATE="WA" STREET1="1015 THIRD AVENUE 12TH FLOOR" ZIP="98104" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" periodOfReport="2010-11-05" schemaVersion="X0303">
+<issuer> issuerCik="0000746515" 
+ issuerName="EXPEDITORS INTERNATIONAL OF WASHINGTON INC" 
+ issuerTradingSymbol="EXPD" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001232707" 
+ rptOwnerName="BARBER TIMOTHY C" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="SEATTLE" rptOwnerState="WA" rptOwnerStreet1="1015 THIRD AVENUE, 12TH FLOOR" rptOwnerStreet2="" rptOwnerZipCode="98104" />
+
+
+<reportingOwnerRelationship isOfficer="1" officerTitle="President,  Sales &amp; Marketing">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness />
+<transactionAmounts><transactionShares> value="60000" 
+</transactionShares>
+<transactionPricePerShare value="12.43">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="342816.3196" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+<footnoteId id="F1" /> 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness />
+<transactionAmounts><transactionShares> value="80000" 
+</transactionShares>
+<transactionPricePerShare value="14.29">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="422816.3196" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness />
+<transactionAmounts><transactionShares> value="50000" 
+</transactionShares>
+<transactionPricePerShare value="18.30">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="472816.3196" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness />
+<transactionAmounts><transactionShares> value="20000" 
+</transactionShares>
+<transactionPricePerShare value="24.45">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="492816.3196" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness />
+<transactionAmounts><transactionShares> value="2500" 
+</transactionShares>
+<transactionPricePerShare value="42.90">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="495316.3196" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness />
+<transactionAmounts><transactionShares> value="212500" 
+</transactionShares>
+<transactionPricePerShare value="51.9442">
+<footnoteId id="F2" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="D" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="282816.3196" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<derivativeTable><derivativeTransaction><securityTitle> value="Stock Options (Right to Buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="12.43">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness />
+<transactionAmounts><transactionShares> value="60000" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate> value="2004-05-09" 
+</exerciseDate>
+<expirationDate value="2011-05-09">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="60000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="0" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+<derivativeTransaction>
+<securityTitle> value="Stock Options (Right to Buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="14.29">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness />
+<transactionAmounts><transactionShares> value="80000" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate> value="2005-05-08" 
+</exerciseDate>
+<expirationDate value="2012-05-08">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="80000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="0" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+<derivativeTransaction>
+<securityTitle> value="Stock Options (Right to Buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="18.30">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness />
+<transactionAmounts><transactionShares> value="50000" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate> value="2006-05-07" 
+</exerciseDate>
+<expirationDate value="2013-05-07">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="50000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="0" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+<derivativeTransaction>
+<securityTitle> value="Stock Options (Right to Buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="24.45">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness />
+<transactionAmounts><transactionShares> value="20000" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate> value="2008-05-04" 
+</exerciseDate>
+<expirationDate value="2015-05-04">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="20000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="0" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+<derivativeTransaction>
+<securityTitle> value="Stock Options (Right to Buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="42.90">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness />
+<transactionAmounts><transactionShares> value="2500" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate> value="2010-05-02" 
+</exerciseDate>
+<expirationDate value="2017-05-02">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="2500">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="2500" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="Balance of Common Stock beneficially owned includes 717.978173 shares purchased on July 30, 2010 under Expeditors International of Washington, Inc.&apos;s 2002 Employee Stock Purchase Plan and 14.90 shares acquired on June 15, 2010 pursuant to the reinvestment of a dividend under Expeditors International of Washington, Inc.&apos;s 2002 Employee Stock Purchase Plan." /> 
+ <footnote id="F2" text="The price reported is a weighted average price.  These shares were sold in multiple transactions at prices ranging from $51.622 to $52.28, inclusive.  The reporting person undertakes to provide to any security holder of Expeditors or to the SEC, upon request, full information regarding the number of shares sold at each separate price within the range stated." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="/s/ Timothy C. Barber">
+</ownerSignature>
+</ownershipDocument></Source>

@@ -1,0 +1,85 @@
+<Source file="./0001181431-10-054109.nc">
+<SUBMISSION ACCESSION-NUMBER="0001181431-10-054109" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101105" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001211436" CONFORMED-NAME="LISTWIN DONALD J" /><FILING-VALUES ACT="34" FILE-NUMBER="001-34674" FILM-NUMBER="101173773" FORM-TYPE="4" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="4899" CIK="0001406666" CONFORMED-NAME="CALIX, INC" FISCAL-YEAR-END="1231" IRS-NUMBER="000000000" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="PETALUMA" PHONE="707-766-3000" STATE="CA" STREET1="1035 N MCDOWELL BLVD" ZIP="95954" /><MAIL-ADDRESS CITY="PETALUMA" STATE="CA" STREET1="1035 N MCDOWELL BLVD" ZIP="95954" /><FORMER-COMPANY DATE-CHANGED="20070713" FORMER-CONFORMED-NAME="CALIX NETWORKS INC" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-05" schemaVersion="X0303">
+<issuer> issuerCik="0001406666" 
+ issuerName="CALIX, INC" 
+ issuerTradingSymbol="CALX" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001211436" 
+ rptOwnerName="LISTWIN DONALD J" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="PETALUMA" rptOwnerState="CA" rptOwnerStreet1="C/O CALIX, INC." rptOwnerStreet2="1035 N. MCDOWELL BLVD." rptOwnerZipCode="94954">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="1" 
+ isOfficer="0" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="3750" 
+</transactionShares>
+<transactionPricePerShare value="9.54">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="451214" 
+<footnoteId id="F1" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<derivativeTable><derivativeTransaction><securityTitle> value="Stock Option (right to buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="9.54">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="3750" 
+</transactionShares>
+<transactionPricePerShare value="0.00">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate><footnoteId id="F2" /> 
+</exerciseDate>
+<expirationDate> value="2020-01-26" 
+<footnoteId id="F3" /> 
+</expirationDate>
+<underlyingSecurity><underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="3750">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="1250" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="Consists of 13,932 restricted stock units." /> 
+ <footnote id="F2" text="The shares subject to the option vest in twelve (12) successive and equal monthly installments measured from January 26, 2010, such that 100% of the shares subject to the option will be fully vested and exercisable on January 26, 2011." /> 
+ <footnote id="F3" text="Reflects update of expiration date due to correction of typographical error in prior Form 4 filing." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="/s/ Kelyn Brannon, as Attorney-in-Fact for Donald J. Listwin">
+</ownerSignature>
+</ownershipDocument></Source>

@@ -1,0 +1,120 @@
+<Source file="./0001127602-10-027318.nc">
+<SUBMISSION ACCESSION-NUMBER="0001127602-10-027318" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101108" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><ISSUER><COMPANY-DATA ASSIGNED-SIC="7372" CIK="0001108524" CONFORMED-NAME="SALESFORCE COM INC" FISCAL-YEAR-END="0131" IRS-NUMBER="943320693" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="SAN FRANCISCO" STATE="CA" STREET1="THE LANDMARK" STREET2="ONE MARKET STREET STE.300" ZIP="94105" /><MAIL-ADDRESS CITY="SAN FRANCISCO" STATE="CA" STREET1="THE LANDMARK" STREET2="ONE MARKET STREET STE. 300" ZIP="94105" /></ISSUER><REPORTING-OWNER><OWNER-DATA CIK="0001294774" CONFORMED-NAME="Harris Parker" /><FILING-VALUES ACT="34" FILE-NUMBER="001-32224" FILM-NUMBER="101172926" FORM-TYPE="4" /><MAIL-ADDRESS CITY="SAN FRANCISCO" STATE="CA" STREET1="THE LANDMARK @ ONE MARKET" STREET2="SUITE 300" ZIP="94105" /></REPORTING-OWNER></SUBMISSION><ownershipDocument documentType="4" periodOfReport="2010-11-08" schemaVersion="X0303">
+<issuer> issuerCik="0001108524" 
+ issuerName="SALESFORCE COM INC" 
+ issuerTradingSymbol="CRM" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001294774" 
+ rptOwnerName="Harris Parker" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="SAN FRANCISCO" rptOwnerState="CA" rptOwnerStreet1="THE LANDMARK @ ONE MARKET STREET" rptOwnerStreet2="SUITE 300" rptOwnerZipCode="94105">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isOfficer="1" 
+ officerTitle="EVP, Technology" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-08">
+<footnoteId id="F1" /> 
+</transactionDate>
+<transactionCoding> transactionFormType="4" 
+ transactionCode="S" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionTimeliness />
+<transactionAmounts><transactionShares> value="467" 
+</transactionShares>
+<transactionPricePerShare value="112.76">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="244878" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="By HJ Family Trust">
+<footnoteId id="F2" /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeHolding><securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="1575" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="77118" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="By GP Family Trust">
+<footnoteId id="F3" /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding><securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="77118" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="By Holly Familytrust">
+<footnoteId id="F4" /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding><securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="43440" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="GPH Exempt GST">
+<footnoteId id="F5" /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding><securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="43440" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="HJ Exempt GST">
+<footnoteId id="F6" /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+</nonDerivativeTable>
+<footnotes>
+<footnote id="F1" text="Acquisition/Disposition of Derivative and/or Non-Derivative securities is pursuant to a 10b5-1 Plan." /> 
+ <footnote id="F2" text="Shares held in The G. Parker Harris III &amp; Holly L. Johnson Family Trust." /> 
+ <footnote id="F3" text="Shares held in The G. Parker Harris III Family Trust under the G. Parker Harris, III Grantor Retained Annuity Trust, dated December 19, 2003." /> 
+ <footnote id="F4" text="Shares held in The Holly L. Johnson Family Trust under the Holly L. Johnson Grantor Retained Annuity Trust, dated December 19, 2003." /> 
+ <footnote id="F5" text="Shares held in The G. Parker Harris III Exempt GST Family Trust." /> 
+ <footnote id="F6" text="Shares held in The Holly L. Johnson Exempt GST Family Trust." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="/s/ David Schellhase, Attorney-in-fact for: G. Parker Harris">
+</ownerSignature>
+</ownershipDocument></Source>

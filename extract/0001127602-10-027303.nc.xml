@@ -1,0 +1,138 @@
+<Source file="./0001127602-10-027303.nc">
+<SUBMISSION ACCESSION-NUMBER="0001127602-10-027303" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><ISSUER><COMPANY-DATA ASSIGNED-SIC="6798" CIK="0000906107" CONFORMED-NAME="EQUITY RESIDENTIAL" FISCAL-YEAR-END="1231" IRS-NUMBER="363877868" STATE-OF-INCORPORATION="MD" /><BUSINESS-ADDRESS CITY="CHICAGO" PHONE="3129281178" STATE="IL" STREET1="EQUITY RESIDENTIAL" STREET2="TWO NORTH RIVERSIDE PLAZA, SUITE 400" ZIP="60606" /><MAIL-ADDRESS CITY="CHICAGO" STATE="IL" STREET1="TWO NORTH RIVERSIDE PLAZA" STREET2="SUITE 400" ZIP="60606" /><FORMER-COMPANY DATE-CHANGED="19930524" FORMER-CONFORMED-NAME="EQUITY RESIDENTIAL PROPERTIES TRUST" /></ISSUER><REPORTING-OWNER><OWNER-DATA CIK="0001221308" CONFORMED-NAME="TUOMI FREDERICK C" /><FILING-VALUES ACT="34" FILE-NUMBER="001-12252" FILM-NUMBER="101172587" FORM-TYPE="4" /><MAIL-ADDRESS CITY="CHICAGO" STATE="IL" STREET1="C/O EQUITY RESIDENTIAL" STREET2="TWO NORTH RIVERSIDE PLAZA, SUITE 400" ZIP="60606" /></REPORTING-OWNER></SUBMISSION><ownershipDocument documentType="4" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0000906107" 
+ issuerName="EQUITY RESIDENTIAL" 
+ issuerTradingSymbol="EQR" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001221308" 
+ rptOwnerName="TUOMI FREDERICK C" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="CHICAGO" rptOwnerState="IL" rptOwnerStreet1="TWO NORTH RIVERSIDE PLAZA, SUITE 400" rptOwnerStreet2="" rptOwnerZipCode="60606" />
+
+
+<reportingOwnerRelationship isOfficer="1" officerTitle="Executive Vice President">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Shares Of Beneficial Interest" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness />
+<transactionAmounts><transactionShares> value="45000" 
+</transactionShares>
+<transactionPricePerShare value="29.25">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="156709" 
+<footnoteId id="F1" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Shares Of Beneficial Interest" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness />
+<transactionAmounts><transactionShares> value="45000" 
+</transactionShares>
+<transactionPricePerShare value="49.9004">
+<footnoteId id="F2" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="D" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="111709" 
+<footnoteId id="F1" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeHolding>
+<securityTitle> value="Common Shares Of Beneficial Interest" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="2249.5703" 
+<footnoteId id="F3" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="401(k) Plan">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding>
+<securityTitle> value="Common Shares Of Beneficial Interest" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="31593.105" 
+<footnoteId id="F4" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="SERP Account">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+</nonDerivativeTable>
+<derivativeTable><derivativeTransaction><securityTitle> value="Non-qualified Stock Option (Right to Buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="29.25">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness />
+<transactionAmounts><transactionShares> value="45000" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate><footnoteId id="F5" /> 
+</exerciseDate>
+<expirationDate> value="2014-01-27" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Shares Of Beneficial Interest" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="45000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="20268" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="Direct total includes restricted shares of the Company scheduled to vest in the future." /> 
+ <footnote id="F2" text="The price represents the weighted average price of the shares sold.  The shares were sold within a range of $49.90 to $49.9113.  The reporting person will provide, upon request by the SEC staff, the issuer, or any security holder of the issuer, full information regarding the number of shares sold at each separate price." /> 
+ <footnote id="F3" text="Represents shares acquired through profit sharing contributions and dividend reinvestment activity in the reporting person&apos;s account with the Equity Residential Advantage 401(k) Retirement Savings Plan, a plan qualified under Section 401(k) of the Internal Revenue Code of 1986, as amended.  Such shares represent acquisitions through October 8, 2010." /> 
+ <footnote id="F4" text="Represents shares owned by Principal Trust Company, as Trustee of the Equity Residential Supplemental Executive Retirement Plan, for the benefit of the reporting person." /> 
+ <footnote id="F5" text="Represents share options scheduled to vest in three equal installments on January 27, 2005, January 27, 2006 and January 27, 2007." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="s/ By: Yasmina Duwe, Attorney-in-fact">
+</ownerSignature>
+</ownershipDocument></Source>

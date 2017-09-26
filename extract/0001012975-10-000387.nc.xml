@@ -1,0 +1,69 @@
+<Source file="./0001012975-10-000387.nc">
+<SUBMISSION ACCESSION-NUMBER="0001012975-10-000387" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101105" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001168628" CONFORMED-NAME="WARD JONATHAN W" /><FILING-VALUES ACT="34" FILE-NUMBER="000-33169" FILM-NUMBER="101170938" FORM-TYPE="4" /><MAIL-ADDRESS CITY="DELRAY BEACH" STATE="CA" STREET1="948 EVERGREEN DRIVE" ZIP="33483" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="7363" CIK="0001141103" CONFORMED-NAME="CROSS COUNTRY HEALTHCARE INC" FISCAL-YEAR-END="1231" IRS-NUMBER="134066229" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="BOCA RATON" PHONE="8003472264" STATE="FL" STREET1="6551 PARK OF COMMERCE BLVD" STREET2="SUITE 200" ZIP="33487" /><MAIL-ADDRESS CITY="BOCA RATON" STATE="FL" STREET1="6551 PARK COMMERCE BLVD" STREET2="SUITE 200" ZIP="33487" /><FORMER-COMPANY DATE-CHANGED="20010521" FORMER-CONFORMED-NAME="CROSS COUNTRY INC" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" periodOfReport="2010-11-05" schemaVersion="X0303">
+<issuer> issuerCik="0001141103" 
+ issuerName="CROSS COUNTRY HEALTHCARE INC" 
+ issuerTradingSymbol="CCRN" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001168628" 
+ rptOwnerName="WARD JONATHAN W" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="BOCA RATON" rptOwnerState="FL" rptOwnerStreet1="6551 PARK OF COMMERCE BLVD., N.W." rptOwnerStreet2="" rptOwnerZipCode="33487" />
+
+
+<reportingOwnerRelationship isDirector="0" isOfficer="1" isOther="0" isTenPercentOwner="0" officerTitle="Pres., Cross Country Staffing">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="600" 
+</transactionShares>
+<transactionPricePerShare value="7.38">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="60056" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="400" 
+</transactionShares>
+<transactionPricePerShare value="7.379">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="59656" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<remarks /> 
+<ownerSignature signatureDate="2010-11-05" signatureName="/s/ Jonathan W. Ward">
+</ownerSignature>
+</ownershipDocument></Source>

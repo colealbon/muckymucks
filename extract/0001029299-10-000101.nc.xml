@@ -1,0 +1,79 @@
+<Source file="./0001029299-10-000101.nc">
+<SUBMISSION ACCESSION-NUMBER="0001029299-10-000101" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001471567" CONFORMED-NAME="Dellamore James" /><FILING-VALUES ACT="34" FILE-NUMBER="001-33772" FILM-NUMBER="101172516" FORM-TYPE="4" /><MAIL-ADDRESS CITY="HERNDON" STATE="VA" STREET1="13880 DULLES CORNER LANE" ZIP="20171" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="7371" CIK="0001029299" CONFORMED-NAME="DELTEK, INC" FISCAL-YEAR-END="1231" IRS-NUMBER="541252625" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="HERNDON" PHONE="7037348606" STATE="VA" STREET1="13880 DULLES CORNER LANE" ZIP="20171" /><MAIL-ADDRESS CITY="HERNDON" STATE="VA" STREET1="13880 DULLES CORNER LANE" ZIP="20171" /><FORMER-COMPANY DATE-CHANGED="19970430" FORMER-CONFORMED-NAME="DELTEK SYSTEMS INC" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0001029299" 
+ issuerName="DELTEK, INC" 
+ issuerTradingSymbol="PROJ" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001471567" 
+ rptOwnerName="Dellamore James" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="HERNDON" rptOwnerState="VA" rptOwnerStreet1="DELTEK, INC." rptOwnerStreet2="13880 DULLES CORNER LANE" rptOwnerZipCode="20171">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="1" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+ officerTitle="EVP, Global Services" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="836" 
+</transactionShares>
+<transactionPricePerShare value="7.75">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="77834" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="7834" 
+</transactionShares>
+<transactionPricePerShare value="7.46">
+<footnoteId id="F1" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="D" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="70000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<footnotes>
+<footnote id="F1" text="The price reported is a weighted average price.  These shares were sold in multiple transactions at prices ranging from $7.45 to $7.49, inclusive.  The reporting person undertakes to provide Deltek, Inc., any security holder of Deltek, Inc., or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range set forth in this footnote (1)." /> 
+</footnotes>
+<remarks />
+<ownerSignature> signatureName="Salman Ahmad, Attorney-in-Fact for James Dellamore" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

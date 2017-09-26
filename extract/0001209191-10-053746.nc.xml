@@ -1,0 +1,62 @@
+<Source file="./0001209191-10-053746.nc">
+<SUBMISSION ACCESSION-NUMBER="0001209191-10-053746" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001228022" CONFORMED-NAME="CHADWICK ARTHUR D" /><FILING-VALUES ACT="34" FILE-NUMBER="001-33435" FILM-NUMBER="101173664" FORM-TYPE="4" /><MAIL-ADDRESS CITY="MOUNTAIN VIEW" STATE="CA" STREET1="280 N BERNARDO AVE" ZIP="94043" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="3674" CIK="0001175609" CONFORMED-NAME="CAVIUM NETWORKS, INC." IRS-NUMBER="770558625" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="MOUNTAIN VIEW" PHONE="650-623-7000" STATE="CA" STREET1="805 EAST MIDDLEFIELD ROAD" ZIP="94043" /><MAIL-ADDRESS CITY="MOUNTAIN VIEW" STATE="CA" STREET1="805 EAST MIDDLEFIELD ROAD" ZIP="94043" /><FORMER-COMPANY DATE-CHANGED="20020614" FORMER-CONFORMED-NAME="CAVIUM NETWORKS" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0001175609" 
+ issuerName="CAVIUM NETWORKS, INC." 
+ issuerTradingSymbol="CAVM" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001228022" 
+ rptOwnerName="CHADWICK ARTHUR D" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="MOUNTAIN VIEW" rptOwnerState="CA" rptOwnerStreet1="C/O CAVIUM NETWORKS, INC." rptOwnerStreet2="805 E. MIDDLEFIELD ROAD" rptOwnerZipCode="94043">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="1" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+ officerTitle="VP Finance &amp; Admin CFO" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="S" 
+ equitySwapInvolved="0" 
+<footnoteId id="F1" /> 
+</transactionCoding>
+<transactionTimeliness><value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="25000" 
+</transactionShares>
+<transactionPricePerShare value="35.00">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="117500" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+<footnoteId id="F2" /> 
+</directOrIndirectOwnership>
+<natureOfOwnership> value="See footnote" 
+<footnoteId id="F3" /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<footnotes>
+<footnote id="F1" text="The sale was made under a 10b5-1 trading plan adopted by the reporting person on September 8, 2009" /> 
+ <footnote id="F2" text="Both direct and indirect holding. See footnote 3." /> 
+ <footnote id="F3" text="Of the 117,500 shares beneficially owned by Mr. Chadwick, 23,126 shares were owned directly by Mr. Chadwick, and 94,347 shares are owned indirectly by Mr. Chadwick through multiple family trusts." /> 
+</footnotes>
+<remarks />
+<ownerSignature> signatureName="/s/ Arthur D. Chadwick" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

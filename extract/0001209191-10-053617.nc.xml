@@ -1,0 +1,57 @@
+<Source file="./0001209191-10-053617.nc">
+<SUBMISSION ACCESSION-NUMBER="0001209191-10-053617" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101105" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001475059" CONFORMED-NAME="Simon Michael" /><FILING-VALUES ACT="34" FILE-NUMBER="000-19253" FILM-NUMBER="101171561" FORM-TYPE="4" /><MAIL-ADDRESS CITY="RICHMOND HEIGHTS" STATE="MO" STREET1="C/O PANERA BREAD COMPANY" STREET2="6710 CLAYTON ROAD" ZIP="63117" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="5812" CIK="0000724606" CONFORMED-NAME="PANERA BREAD CO" FISCAL-YEAR-END="1228" IRS-NUMBER="042723701" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="SAINT  LOUIS" PHONE="314-984-1000" STATE="MO" STREET1="3630 SOUTH GEYER ROAD" STREET2="SUITE 100" ZIP="63127" /><MAIL-ADDRESS CITY="SAINT  LOUIS" STATE="MO" STREET1="3630 SOUTH GEYER ROAD" STREET2="SUITE 100" ZIP="63127" /><FORMER-COMPANY DATE-CHANGED="19940201" FORMER-CONFORMED-NAME="AU BON PAIN CO INC" /><FORMER-COMPANY DATE-CHANGED="19920501" FORMER-CONFORMED-NAME="AU BON PAIN COMPANY INC" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-05" schemaVersion="X0303">
+<issuer> issuerCik="0000724606" 
+ issuerName="PANERA BREAD CO" 
+ issuerTradingSymbol="PNRA" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001475059" 
+ rptOwnerName="Simon Michael" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="NEEDHAM" rptOwnerState="MA" rptOwnerStreet1="THREE CHARLES RIVER PLACE" rptOwnerStreet2="63 KENDRICK STREET" rptOwnerZipCode="02494">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="1" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+ officerTitle="SVP, Chief Marketing Officer" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Class A Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="F" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="173" 
+</transactionShares>
+<transactionPricePerShare value="93.38">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="6288" 
+<footnoteId id="F1" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<footnotes> <footnote id="F1" text="Includes 261 shares acquired under the Panera Bread Company Employee Stock Purchase Plan." /> 
+</footnotes>
+<remarks />
+<ownerSignature> signatureName="/s/ Louis DiPietro, Attorney in Fact for Michael Simon" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

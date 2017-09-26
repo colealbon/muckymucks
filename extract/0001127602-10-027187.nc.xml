@@ -1,0 +1,86 @@
+<Source file="./0001127602-10-027187.nc">
+<SUBMISSION ACCESSION-NUMBER="0001127602-10-027187" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101105" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001232712" CONFORMED-NAME="VILLANUEVA ROBERT L" /><FILING-VALUES ACT="34" FILE-NUMBER="000-13468" FILM-NUMBER="101171077" FORM-TYPE="4" /><MAIL-ADDRESS CITY="SEATTLE" STATE="WA" STREET1="1015 THIRD AVENUE 12TH FLOOR" ZIP="98104" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="4731" CIK="0000746515" CONFORMED-NAME="EXPEDITORS INTERNATIONAL OF WASHINGTON INC" FISCAL-YEAR-END="1231" IRS-NUMBER="911069248" STATE-OF-INCORPORATION="WA" /><BUSINESS-ADDRESS CITY="SEATTLE" PHONE="2066743400" STATE="WA" STREET1="1015 THIRD AVENUE 12TH FLOOR" ZIP="98104" /><MAIL-ADDRESS CITY="SEATTLE" STATE="WA" STREET1="1015 THIRD AVENUE 12TH FLOOR" ZIP="98104" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" periodOfReport="2010-11-05" schemaVersion="X0303">
+<issuer> issuerCik="0000746515" 
+ issuerName="EXPEDITORS INTERNATIONAL OF WASHINGTON INC" 
+ issuerTradingSymbol="EXPD" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001232712" 
+ rptOwnerName="VILLANUEVA ROBERT L" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="SEATTLE" rptOwnerState="WA" rptOwnerStreet1="1015 THIRD AVENUE, 12TH FLOOR" rptOwnerStreet2="" rptOwnerZipCode="98104" />
+
+
+<reportingOwnerRelationship isOfficer="1" officerTitle="President-The Americas">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness />
+<transactionAmounts><transactionShares> value="25000" 
+</transactionShares>
+<transactionPricePerShare value="52.00">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="149719" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="By Trust">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeHolding>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="300" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="By Minor Son">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="520" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+<footnoteId id="F2" /> 
+</directOrIndirectOwnership>
+<natureOfOwnership> value="By Adult Son" 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="2665.5478" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+<footnoteId id="F1" /> 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+</nonDerivativeTable>
+<footnotes>
+<footnote id="F1" text="Balance of Common Stock beneficially owned includes 740.5213 shares purchased on July 31, 2009 and 717.9782 shares purchased on July 30, 2010 under Expeditors International of Washington, Inc.&apos;s 2002 Employee Stock Purchase Plan and 6.7545 shares acquired on June 15, 2009, 10.8938 shares acquired on December 15, 2009 and 10.0365 shares acquired on June 15, 2010 pursuant to the reinvestment of a dividend under Expeditors International of Washington, Inc.&apos;s 2002 Employee Stock Purchase Plan." /> 
+ <footnote id="F2" text="Reporting person&apos;s adult son purchased and owns 520 shares.  He is currently living in reporting person&apos;s household temporarily." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-05" signatureName="/s/ Robert L. Villanueva">
+</ownerSignature>
+</ownershipDocument></Source>

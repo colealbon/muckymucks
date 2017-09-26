@@ -1,0 +1,55 @@
+<Source file="./0001164775-10-000008.nc">
+<SUBMISSION ACCESSION-NUMBER="0001164775-10-000008" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001164775" CONFORMED-NAME="SCHAFER GLENN S" /><FILING-VALUES ACT="34" FILE-NUMBER="001-33459" FILM-NUMBER="101171591" FORM-TYPE="4" /><MAIL-ADDRESS CITY="BREA" STATE="CA" STREET1="250 S. KRAEMER BLVD" ZIP="92821" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="8051" CIK="0001351051" CONFORMED-NAME="Skilled Healthcare Group, Inc." FISCAL-YEAR-END="1231" IRS-NUMBER="000000000" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="FOOTHILL RANCH" PHONE="949-282-5200" STATE="CA" STREET1="27442 PORTOLA SUITE 200" ZIP="92610" /><MAIL-ADDRESS CITY="FOOTHILL RANCH" STATE="CA" STREET1="27442 PORTOLA SUITE 200" ZIP="92610" /><FORMER-COMPANY DATE-CHANGED="20060126" FORMER-CONFORMED-NAME="SHG Holding Solutions Inc" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0001351051" 
+ issuerName="Skilled Healthcare Group, Inc." 
+ issuerTradingSymbol="SKH" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001164775" 
+ rptOwnerName="SCHAFER GLENN S" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="FOOTHILL RANCH" rptOwnerState="CA" rptOwnerStreet1="27442 PORTOLA PKWY SUITE 200" rptOwnerStreet2="" rptOwnerZipCode="92610" />
+
+
+<reportingOwnerRelationship isDirector="1" isOfficer="0" isOther="0" isTenPercentOwner="0">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Class A Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="A" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="25000" 
+</transactionShares>
+<transactionPricePerShare value="5.1049">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="25000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="by Trust">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeHolding>
+<securityTitle> value="Class A Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="10586" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+</nonDerivativeTable>
+<ownerSignature> signatureName="By: Alanna Darling, Attorney-in-Fact  For: Glenn Schafer" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

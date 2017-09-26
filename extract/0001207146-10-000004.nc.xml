@@ -1,0 +1,104 @@
+<Source file="./0001207146-10-000004.nc">
+<SUBMISSION ACCESSION-NUMBER="0001207146-10-000004" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101102" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001405590" CONFORMED-NAME="Nadeau Gerard F" /><FILING-VALUES ACT="34" FILE-NUMBER="001-09047" FILM-NUMBER="101170932" FORM-TYPE="4" /><MAIL-ADDRESS CITY="ROCKLAND" STATE="MA" STREET1="C/O INDEPENDENT BANK CORP." STREET2="288 UNION STREET" ZIP="02370" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="6022" CIK="0000776901" CONFORMED-NAME="INDEPENDENT BANK CORP" FISCAL-YEAR-END="1231" IRS-NUMBER="042870273" STATE-OF-INCORPORATION="MA" /><BUSINESS-ADDRESS CITY="ROCKLAND" PHONE="7818786100" STATE="MA" STREET1="288 UNION STREET" ZIP="02370" /><MAIL-ADDRESS CITY="ROCKLAND" STATE="MA" STREET1="288 UNION STREET" ZIP="02370" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-02" schemaVersion="X0303">
+<issuer> issuerCik="0000776901" 
+ issuerName="INDEPENDENT BANK CORP" 
+ issuerTradingSymbol="INDB" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001405590" 
+ rptOwnerName="Nadeau Gerard F" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="ROCKLAND" rptOwnerState="MA" rptOwnerStreet1="C/O INDEPENDENT BANK CORP." rptOwnerStreet2="288 UNION STREET" rptOwnerZipCode="02370">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="1" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+ officerTitle="Executive Vice President" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-02">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="1000" 
+</transactionShares>
+<transactionPricePerShare value="23.75">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="800" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="broker name jt. w/spouse">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeHolding>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="20500" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="997.936" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="broker name f/b/o Filer">
+<footnoteId id="F1" /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding><securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="175.175" 
+<footnoteId id="F2" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="176.72" 
+<footnoteId id="F3" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+</nonDerivativeTable>
+<footnotes> <footnote id="F1" text="Holdings include 22.070 shares received pursuant to the Company&apos;s Dividend Reinvestment Plan since the last Form 4 filing (2/10).  Such transactions are exempt from the reporting requirements of Section 16 of the Securities and Exchange Act." /> 
+ <footnote id="F2" text="Shares held in Filer&apos;s name f/b/o daughter.  Holdings include 4.050195 shares received pursuant to the Company&apos;s Dividend Reinvestment Plan since the last Form 4 filing (2/10).  Such transactions are exempt from the reporting requirements of Section 16 of the Securities and Exchange Act.  The filing of this statement should not be construed as an admission that the undersigned is, for purposes of Section 16 of the Securities and Exchange Act, the beneficial owner of such securities." /> 
+ <footnote id="F3" text="Shares held in Filer&apos;s name f/b/o son.  Holdings include 4.085505 shares received pursuant to the Company&apos;s Dividend Reinvestment Plan since the last Form 4 filing (2/10).  Such transactions are exempt from the reporting requirements of Section 16 of the Securities and Exchange Act of 1934, as amended.  The filing of this statement should not be construed as an admission that the undersigned is, for purposes of Section 16 of the Securities and Exchange Act, the beneficial owner of such securities." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="Linda M. Campion, Power of Attorney for Gerard F. Nadeau">
+</ownerSignature>
+</ownershipDocument></Source>

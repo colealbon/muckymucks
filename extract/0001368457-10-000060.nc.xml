@@ -1,0 +1,211 @@
+<Source file="./0001368457-10-000060.nc">
+<SUBMISSION ACCESSION-NUMBER="0001368457-10-000060" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001378480" CONFORMED-NAME="Hynes Richard J" /><FILING-VALUES ACT="34" FILE-NUMBER="001-32970" FILM-NUMBER="101171678" FORM-TYPE="4" /><MAIL-ADDRESS CITY="MELROSE PARK" STATE="IL" STREET1="ALBERTO-CULVER COMPANY" STREET2="2525 ARMITAGE AVENUE" ZIP="60160" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="2844" CIK="0001368457" CONFORMED-NAME="Alberto-Culver CO" FISCAL-YEAR-END="0930" IRS-NUMBER="000000000" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="MELROSE PARK" PHONE="(708) 450-3000" STATE="IL" STREET1="2525 ARMITAGE AVENUE" ZIP="60160" /><MAIL-ADDRESS CITY="MELROSE PARK" STATE="IL" STREET1="2525 ARMITAGE AVENUE" ZIP="60160" /><FORMER-COMPANY DATE-CHANGED="20060707" FORMER-CONFORMED-NAME="New Aristotle Holdings, Inc." /></ISSUER></SUBMISSION><ownershipDocument documentType="4" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0001368457" 
+ issuerName="Alberto-Culver CO" 
+ issuerTradingSymbol="ACV" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001378480" 
+ rptOwnerName="Hynes Richard J" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="DOWNERS GROVE" rptOwnerState="IL" rptOwnerStreet1="930 CURTISS STREET #201" rptOwnerStreet2="" rptOwnerZipCode="60515" />
+
+
+<reportingOwnerRelationship isDirector="0" isOfficer="1" isOther="0" isTenPercentOwner="0" officerTitle="President, International">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeHolding><securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="419" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="FN">
+<footnoteId id="F1" /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="29783" 
+</transactionShares>
+<transactionPricePerShare value="20.305">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="77480" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="29783" 
+</transactionShares>
+<transactionPricePerShare value="37.35">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="47697" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="3061" 
+</transactionShares>
+<transactionPricePerShare value="20.305">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="50758" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="3061" 
+</transactionShares>
+<transactionPricePerShare value="37.32">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="47697" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<derivativeTable>
+<derivativeTransaction><securityTitle> value="Employee Stock Option (Right to Buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="20.305">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="29783" 
+</transactionShares>
+<transactionPricePerShare>
+<footnoteId id="F2" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="D" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate><footnoteId id="F2" /> 
+</exerciseDate>
+<expirationDate> value="2016-09-30" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="29783">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="20417" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</derivativeTransaction>
+<derivativeTransaction><securityTitle> value="Employee Stock Option (Right to Buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="20.305">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="3061" 
+</transactionShares>
+<transactionPricePerShare>
+<footnoteId id="F2" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="D" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate><footnoteId id="F2" /> 
+</exerciseDate>
+<expirationDate> value="2016-09-30" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="3061">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="17356" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<footnotes>
+<footnote id="F1" text="Held in the 401(k) and Profit Sharing Plan.  Represents Equivalent Shares calculated by taking the account balance divided by the closing stock price as of November 3, 2010 of $37.30." /> 
+ <footnote id="F2" text="This option is fully vested." /> 
+</footnotes>
+<remarks />
+<ownerSignature> signatureName="/s/James M. Spira as attorney-in-fact for Richard J. Hynes" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

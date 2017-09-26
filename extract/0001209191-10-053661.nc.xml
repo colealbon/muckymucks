@@ -1,0 +1,53 @@
+<Source file="./0001209191-10-053661.nc">
+<SUBMISSION ACCESSION-NUMBER="0001209191-10-053661" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101106" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001456268" CONFORMED-NAME="Gauthier John J" /><FILING-VALUES ACT="34" FILE-NUMBER="001-32938" FILM-NUMBER="101172112" FORM-TYPE="4" /><MAIL-ADDRESS CITY="PEMBROKE" STATE="D0" STREET1="27 RICHMOND ROAD" ZIP="HM08" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="6331" CIK="0001163348" CONFORMED-NAME="ALLIED WORLD ASSURANCE CO HOLDINGS LTD" IRS-NUMBER="000000000" /><BUSINESS-ADDRESS CITY="PEMBROKE" PHONE="441-278-5400" STATE="D0" STREET1="27 RICHMOND ROAD" ZIP="HM 08" /><MAIL-ADDRESS CITY="PEMBROKE" STATE="D0" STREET1="27 RICHMOND ROAD" ZIP="HM 08" /><FORMER-COMPANY DATE-CHANGED="20011207" FORMER-CONFORMED-NAME="ALLIED WORLD ASSURANCE HOLDINGS LTD" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-06" schemaVersion="X0303">
+<issuer> issuerCik="0001163348" 
+ issuerName="ALLIED WORLD ASSURANCE CO HOLDINGS LTD" 
+ issuerTradingSymbol="AWH" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001456268" 
+ rptOwnerName="Gauthier John J" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="PEMBROKE" rptOwnerState="D0" rptOwnerStateDescription="BERMUDA" rptOwnerStreet1="ALLIED WORLD ASSURANCE CO HOLDINGS, LTD" rptOwnerStreet2="27 RICHMOND ROAD" rptOwnerZipCode="HM 08">
+</reportingOwnerAddress>
+<reportingOwnerRelationship isDirector="0" isOfficer="1" isOther="0" isTenPercentOwner="0" officerTitle="EVP &amp; C.I.O., Newmarket Admin">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Shares" 
+</securityTitle>
+<transactionDate value="2010-11-06">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="F" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="296" 
+<footnoteId id="F1" /> 
+</transactionShares>
+<transactionPricePerShare> value="58.77" 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="5218" 
+<footnoteId id="F2" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<footnotes> <footnote id="F1" text="Exclusively represents shares withheld by the Company with respect to the payment of withholding tax liability incurred upon the vesting of Restricted Stock Units." /> 
+ <footnote id="F2" text="Includes 259 Common Shares acquired on June 30, 2010 pursuant to the Company&apos;s 2008 Employee Share Purchase Plan." /> 
+</footnotes>
+<remarks />
+<ownerSignature> signatureName="/s/ Wesley D. Dupont, by Power of Attorney" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

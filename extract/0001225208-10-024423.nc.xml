@@ -1,0 +1,85 @@
+<Source file="./0001225208-10-024423.nc">
+<SUBMISSION ACCESSION-NUMBER="0001225208-10-024423" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101105" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001185947" CONFORMED-NAME="MACKAY A D DAVID" /><FILING-VALUES ACT="34" FILE-NUMBER="001-04171" FILM-NUMBER="101171364" FORM-TYPE="4" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="2040" CIK="0000055067" CONFORMED-NAME="KELLOGG CO" FISCAL-YEAR-END="0103" IRS-NUMBER="380710690" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="BATTLE CREEK" PHONE="2699612000" STATE="MI" STREET1="ONE KELLOGG SQ" STREET2="P O BOX 3599" ZIP="49016-3599" /><MAIL-ADDRESS CITY="BATTLE CREEK" STATE="MI" STREET1="ONE KELLOGG SQUARE" STREET2="P O BOX 3599" ZIP="49016-3599" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" periodOfReport="2010-11-05" schemaVersion="X0303">
+<issuer> issuerCik="0000055067" 
+ issuerName="KELLOGG CO" 
+ issuerTradingSymbol="K" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001185947" 
+ rptOwnerName="MACKAY A D DAVID" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="BATTLE CREEK" rptOwnerState="MI" rptOwnerStreet1="ONE KELLOGG SQUARE" rptOwnerStreet2="P O BOX 3599" rptOwnerZipCode="49016-3599">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="1" 
+ isOfficer="1" 
+ officerTitle="President and CEO" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeHolding><securityTitle> value="Common" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="285629.0000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding>
+<securityTitle> value="Common" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="4488.4889" 
+<footnoteId id="F1" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="By 401(k) Profit Sharing Plan">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+</nonDerivativeTable>
+<derivativeTable><derivativeTransaction><securityTitle> value="Deferred Executive Compensation Units" 
+</securityTitle>
+<conversionOrExercisePrice>
+<footnoteId id="F2" /> 
+</conversionOrExercisePrice>
+<transactionDate> value="2010-11-05" 
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="A" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="56.7700" 
+</transactionShares>
+<transactionPricePerShare value="49.3200">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate><footnoteId id="F2" /> 
+</exerciseDate>
+<expirationDate><footnoteId id="F2" /> 
+</expirationDate>
+<underlyingSecurity><underlyingSecurityTitle> value="Common" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="56.7700">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="3687.3100" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="Excludes dividends reinvested after 01/02/2010." /> 
+ <footnote id="F2" text="According to the terms of the Executive Compensation Deferral Plan, each share of phantom stock units is the economic equivalent of one share of Kellogg common stock and may be paid only in cash as of the last day of the reporting person&apos;s employment." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="Gary H. Pilnick, Attorney-in-Fact">
+</ownerSignature>
+</ownershipDocument></Source>

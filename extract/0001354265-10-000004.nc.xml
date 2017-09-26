@@ -1,0 +1,57 @@
+<Source file="./0001354265-10-000004.nc">
+<SUBMISSION ACCESSION-NUMBER="0001354265-10-000004" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001354265" CONFORMED-NAME="Howarth Scott Daniel" /><FILING-VALUES ACT="34" FILE-NUMBER="000-23084" FILM-NUMBER="101172211" FORM-TYPE="4" /><MAIL-ADDRESS CITY="SAN JOSE" STATE="CA" STREET1="1940 ZANKER ROAD" ZIP="95112" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="3674" CIK="0000854701" CONFORMED-NAME="INTEGRATED SILICON SOLUTION INC" FISCAL-YEAR-END="0930" IRS-NUMBER="770199971" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="SANTA CLARA" PHONE="4085880800" STATE="CA" STREET1="2231 LAWSON LANE" ZIP="95054-3311" /><MAIL-ADDRESS CITY="SUNNYVALE" STATE="CA" STREET1="680 ALMANOR AVE" ZIP="94086" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0000854701" 
+ issuerName="INTEGRATED SILICON SOLUTION INC" 
+ issuerTradingSymbol="ISSI" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001354265" 
+ rptOwnerName="Howarth Scott Daniel" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="SAN JOSE" rptOwnerState="CA" rptOwnerStreet1="1940 ZANKER RD." rptOwnerStreet2="" rptOwnerZipCode="95112" />
+
+
+<reportingOwnerRelationship isDirector="0" isOfficer="1" isOther="0" isTenPercentOwner="0" officerTitle="CEO">
+</reportingOwnerRelationship>
+</reportingOwner>
+<derivativeTable><derivativeTransaction><securityTitle> value="RSU Award" 
+</securityTitle>
+<conversionOrExercisePrice>
+<footnoteId id="F1" /> 
+</conversionOrExercisePrice>
+<transactionDate> value="2010-11-04" 
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="A" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="75628" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate><footnoteId id="F2" /> 
+</exerciseDate>
+<expirationDate> value="2017-11-04" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="75628">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="75628" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="Each restricted stock unit represents a contingent right to receive on share of ISSI common stock." /> 
+ <footnote id="F2" text="50% of the total number of RSUs vest on the 1 year anniversary of the date of grant and an additional 50% of the total number of RSUs vest on the 2 year anniversary of the date of grant hereof." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="Thanh Ha for Scott Daniel Howarth">
+</ownerSignature>
+</ownershipDocument></Source>

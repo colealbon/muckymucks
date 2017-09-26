@@ -1,0 +1,51 @@
+<Source file="./0001181431-10-054058.nc">
+<SUBMISSION ACCESSION-NUMBER="0001181431-10-054058" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101105" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001482893" CONFORMED-NAME="Connolly John M" /><FILING-VALUES ACT="34" FILE-NUMBER="001-32194" FILM-NUMBER="101173057" FORM-TYPE="4" /><MAIL-ADDRESS CITY="BOSTON" STATE="MA" STREET1="BAIN CAPITAL VENTURE PARTNERS, LLC" STREET2="111 HUNTINGTON AVENUE" ZIP="02199" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="7389" CIK="0001080224" CONFORMED-NAME="EDGAR ONLINE INC" FISCAL-YEAR-END="1231" IRS-NUMBER="061447017" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="NORWALK" PHONE="2038525666" STATE="CT" STREET1="50 WASHINGTON ST" ZIP="06854" /><MAIL-ADDRESS CITY="NORWALK" STATE="CT" STREET1="50 WASHINGTON ST" ZIP="06854" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-05" schemaVersion="X0303">
+<issuer> issuerCik="0001080224" 
+ issuerName="EDGAR ONLINE INC" 
+ issuerTradingSymbol="EDGR" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001482893" 
+ rptOwnerName="Connolly John M" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="BOSTON" rptOwnerState="MA" rptOwnerStreet1="BAIN CAPITAL VENTURE PARTNERS, LLC" rptOwnerStreet2="111 HUNTINGTON AVENUE" rptOwnerZipCode="02199">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="1" 
+ isOfficer="1" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+ officerTitle="Interim CEO" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+<footnoteId id="F1" /> 
+</securityTitle>
+<transactionDate> value="2010-11-05" 
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="A" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="558541" 
+<footnoteId id="F2" /> 
+</transactionShares>
+<transactionPricePerShare> value="0.00" 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="558541" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<footnotes> <footnote id="F1" text="Restricted stock subject to a vesting schedule." /> 
+ <footnote id="F2" text="Issued pursuant to a Board of Directors approved Stock Option Plan for service as the Issuer&apos;s Interim Chief Executive Officer." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="/s/ John Connolly">
+</ownerSignature>
+</ownershipDocument></Source>

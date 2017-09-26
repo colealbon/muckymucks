@@ -1,0 +1,49 @@
+<Source file="./0001179110-10-015704.nc">
+<SUBMISSION ACCESSION-NUMBER="0001179110-10-015704" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><ISSUER><COMPANY-DATA ASSIGNED-SIC="5200" CIK="0000815556" CONFORMED-NAME="FASTENAL CO" FISCAL-YEAR-END="1231" IRS-NUMBER="410948415" STATE-OF-INCORPORATION="MN" /><BUSINESS-ADDRESS CITY="WINONA" PHONE="5074545374" STATE="MN" STREET1="2001 THEURER BLVD" ZIP="55987" /></ISSUER><REPORTING-OWNER><OWNER-DATA CIK="0000901066" CONFORMED-NAME="KIERLIN ROBERT A" /><FILING-VALUES ACT="34" FILE-NUMBER="000-16125" FILM-NUMBER="101171179" FORM-TYPE="4" /><MAIL-ADDRESS CITY="WINONA" STATE="MN" STREET1="FASTENAL CO 2001 THEURER BOULEVARD" STREET2="P O BOX 978" ZIP="55987" /></REPORTING-OWNER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0000815556" 
+ issuerName="FASTENAL CO" 
+ issuerTradingSymbol="FAST" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0000901066" 
+ rptOwnerName="KIERLIN ROBERT A" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="WINONA" rptOwnerState="MN" rptOwnerStreet1="2001 THEURER BLVD." rptOwnerStreet2="" rptOwnerZipCode="55987" />
+
+
+<reportingOwnerRelationship isDirector="1" isOfficer="0" isOther="0" isTenPercentOwner="0">
+<officerTitle /> 
+<otherText />
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="100000" 
+</transactionShares>
+<transactionPricePerShare value="53.509">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="7270000" 
+<footnoteId id="F1" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<derivativeTable /> 
+<footnotes>
+<footnote id="F1" text="The reporting person&apos;s spouse owns an additional 400 shares of issuer&apos;s common stock for which the reporting person disclaims beneficial ownership." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="/s/ John Milek, Attorney-in-Fact">
+</ownerSignature>
+</ownershipDocument></Source>

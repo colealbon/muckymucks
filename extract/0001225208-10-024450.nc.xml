@@ -1,0 +1,309 @@
+<Source file="./0001225208-10-024450.nc">
+<SUBMISSION ACCESSION-NUMBER="0001225208-10-024450" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101105" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001412221" CONFORMED-NAME="Moriarty Thomas M" /><FILING-VALUES ACT="34" FILE-NUMBER="001-31312" FILM-NUMBER="101172561" FORM-TYPE="4" /><MAIL-ADDRESS CITY="FRANKLIN LAKES" STATE="NJ" STREET1="100 PARSONS POND DRIVE" ZIP="07417" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="5912" CIK="0001170650" CONFORMED-NAME="MEDCO HEALTH SOLUTIONS INC" FISCAL-YEAR-END="1226" IRS-NUMBER="223461740" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="FRANKLIN LAKES" PHONE="2012693400" STATE="NJ" STREET1="100 PARSONS POND DR" ZIP="07417" /><MAIL-ADDRESS CITY="FRANKLIN LAKES" STATE="NJ" STREET1="100 PARSONS POND DR" ZIP="07417" /><FORMER-COMPANY DATE-CHANGED="20020528" FORMER-CONFORMED-NAME="MEDCOHEALTH SOLUTIONS INC" /><FORMER-COMPANY DATE-CHANGED="20020404" FORMER-CONFORMED-NAME="MERCK MEDCO MANAGED CARE LLC" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" periodOfReport="2010-11-05" schemaVersion="X0303">
+<issuer> issuerCik="0001170650" 
+ issuerName="MEDCO HEALTH SOLUTIONS INC" 
+ issuerTradingSymbol="MHS" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001412221" 
+ rptOwnerName="Moriarty Thomas M" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="FRANKLIN LAKES" rptOwnerState="NJ" rptOwnerStreet1="100 PARSONS POND DRIVE" rptOwnerStreet2="" rptOwnerZipCode="07417" />
+
+
+<reportingOwnerRelationship isOfficer="1" officerTitle="Gen&apos;l Counsel &amp; Secretary, SVP">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="21390.0000" 
+</transactionShares>
+<transactionPricePerShare value="33.6950">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="106443.0000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="14400.0000" 
+</transactionShares>
+<transactionPricePerShare value="28.1700">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="120843.0000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="6628.0000" 
+</transactionShares>
+<transactionPricePerShare value="22.0950">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="127471.0000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="4758.0000" 
+<footnoteId id="F1" /> 
+</transactionShares>
+<transactionPricePerShare> value="59.1400" 
+<footnoteId id="F2" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="D" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="122713.0000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="6628.0000" 
+<footnoteId id="F1" /> 
+</transactionShares>
+<transactionPricePerShare> value="59.2400" 
+<footnoteId id="F3" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="D" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="116085.0000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="14400.0000" 
+<footnoteId id="F1" /> 
+</transactionShares>
+<transactionPricePerShare> value="59.0400" 
+<footnoteId id="F4" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="D" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="101685.0000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="21390.0000" 
+<footnoteId id="F1" /> 
+</transactionShares>
+<transactionPricePerShare> value="59.4200" 
+<footnoteId id="F5" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="D" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="80295.0000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeHolding>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="4498.0000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="By 401(k)">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+</nonDerivativeTable>
+<derivativeTable><derivativeTransaction><securityTitle> value="Stock Option" 
+</securityTitle>
+<conversionOrExercisePrice value="33.6950">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="21390.0000" 
+<footnoteId id="F6" /> 
+</transactionShares>
+<transactionPricePerShare> value="0.0000" 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate><footnoteId id="F7" /> 
+</exerciseDate>
+<expirationDate> value="2017-02-22" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="21390.0000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="0.0000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+<derivativeTransaction>
+<securityTitle> value="Stock Option" 
+</securityTitle>
+<conversionOrExercisePrice value="28.1700">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="14400.0000" 
+<footnoteId id="F6" /> 
+</transactionShares>
+<transactionPricePerShare> value="0.0000" 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate><footnoteId id="F8" /> 
+</exerciseDate>
+<expirationDate> value="2016-02-23" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="14400.0000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="0.0000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+<derivativeTransaction>
+<securityTitle> value="Stock Option" 
+</securityTitle>
+<conversionOrExercisePrice value="22.0950">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="6628.0000" 
+<footnoteId id="F6" /> 
+</transactionShares>
+<transactionPricePerShare> value="0.0000" 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate><footnoteId id="F9" /> 
+</exerciseDate>
+<expirationDate> value="2015-02-24" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="6628.0000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="0.0000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="Sale pursuant to 10b5-1 Trading Plan." /> 
+ <footnote id="F2" text="Represents the weighted average price.  Sales were executed at prices that ranged from $59.04 to $59.35." /> 
+ <footnote id="F3" text="Represents the weighted average price.  Sales were executed at prices that ranged from $59.01 to $59.40." /> 
+ <footnote id="F4" text="Represents the weighted average price.  Sales were executed at prices that ranged from $58.91 to $59.19." /> 
+ <footnote id="F5" text="Represents the weighted average price.  Sales were executed at prices that ranged from $59.02 to $59.64." /> 
+ <footnote id="F6" text="Exercise pursuant to 10b5-1 Trading Plan." /> 
+ <footnote id="F7" text="This option vests and becomes exercisable, in three annual installments, beginning February 22, 2008, subject to continued employment." /> 
+ <footnote id="F8" text="This option vests and becomes exercisable, in three annual installments, beginning February 23, 2007, subject to continued employment." /> 
+ <footnote id="F9" text="This option vests and becomes exercisable, in three annual installmennts, beginning February 24, 2006, subject to continued employment." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="Colleen M. McIntosh, Attorney in Fact">
+</ownerSignature>
+</ownershipDocument></Source>

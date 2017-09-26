@@ -1,0 +1,53 @@
+<Source file="./0001127602-10-027341.nc">
+<SUBMISSION ACCESSION-NUMBER="0001127602-10-027341" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101108" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><ISSUER><COMPANY-DATA ASSIGNED-SIC="7372" CIK="0001108524" CONFORMED-NAME="SALESFORCE COM INC" FISCAL-YEAR-END="0131" IRS-NUMBER="943320693" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="SAN FRANCISCO" STATE="CA" STREET1="THE LANDMARK" STREET2="ONE MARKET STREET STE.300" ZIP="94105" /><MAIL-ADDRESS CITY="SAN FRANCISCO" STATE="CA" STREET1="THE LANDMARK" STREET2="ONE MARKET STREET STE. 300" ZIP="94105" /></ISSUER><REPORTING-OWNER><OWNER-DATA CIK="0001294693" CONFORMED-NAME="Benioff Marc" /><FILING-VALUES ACT="34" FILE-NUMBER="001-32224" FILM-NUMBER="101173111" FORM-TYPE="4" /><MAIL-ADDRESS CITY="SAN FRANCISCO" STATE="CA" STREET1="THE LANDMARK @ ONE MARKET" STREET2="SUITE 300" ZIP="94105" /></REPORTING-OWNER></SUBMISSION><ownershipDocument documentType="4" periodOfReport="2010-11-08" schemaVersion="X0303">
+<issuer> issuerCik="0001108524" 
+ issuerName="SALESFORCE COM INC" 
+ issuerTradingSymbol="CRM" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001294693" 
+ rptOwnerName="Benioff Marc" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="SAN FRANCISCO" rptOwnerState="CA" rptOwnerStreet1="THE LANDMARK @ ONE MARKET STREET" rptOwnerStreet2="SUITE 300" rptOwnerZipCode="94105">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="1" 
+ isOfficer="1" 
+ isTenPercentOwner="1" 
+ officerTitle="Chairman of the Board &amp; CEO" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-08">
+<footnoteId id="F1" /> 
+</transactionDate>
+<transactionCoding> transactionFormType="4" 
+ transactionCode="S" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionTimeliness />
+<transactionAmounts><transactionShares> value="10000" 
+</transactionShares>
+<transactionPricePerShare value="114.4105">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="10741006" 
+<footnoteId id="F2" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<footnotes> <footnote id="F1" text="Acquisition/Disposition of Derivative and/or Non-Derivative securities is pursuant to a 10b5-1 Plan." /> 
+ <footnote id="F2" text="Shares held in The Marc R. Benioff Revocable Trust." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="/s/ David Schellhase, Attorney-in-Fact for Marc Benioff">
+</ownerSignature>
+</ownershipDocument></Source>

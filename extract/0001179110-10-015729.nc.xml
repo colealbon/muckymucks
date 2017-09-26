@@ -1,0 +1,117 @@
+<Source file="./0001179110-10-015729.nc">
+<SUBMISSION ACCESSION-NUMBER="0001179110-10-015729" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001255903" CONFORMED-NAME="KEIGHLEY DAVID B" /><FILING-VALUES ACT="34" FILE-NUMBER="000-24216" FILM-NUMBER="101173626" FORM-TYPE="4" /><MAIL-ADDRESS CITY="SANTA MONICA" STATE="CA" STREET1="3003 EXPOSITION BLVD" STREET2="C/O DKP 70 MM" ZIP="90404" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="3861" CIK="0000921582" CONFORMED-NAME="IMAX CORP" FISCAL-YEAR-END="1231" IRS-NUMBER="980140269" STATE-OF-INCORPORATION="A6" /><BUSINESS-ADDRESS CITY="ONTARIO CANADA" PHONE="9054036500" STATE="A6" STREET1="2525 SPEAKMAN DRIVE" STREET2="MISSISSAUGA" ZIP="L5K 1B1" /><MAIL-ADDRESS CITY="ONTARIO CANADA" STATE="A6" STREET1="2525 SPEAKMAN DRIVE" STREET2="MISSISSAUGA" ZIP="L5K 1B1" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0000921582" 
+ issuerName="IMAX CORP" 
+ issuerTradingSymbol="IMAX" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001255903" 
+ rptOwnerName="KEIGHLEY DAVID B" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="SANTA MONICA" rptOwnerState="CA" rptOwnerStreet1="3003 EXPOSITION BLVD" rptOwnerStreet2="C/O DKP 70MM" rptOwnerZipCode="90404">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="1" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+ officerTitle="Exec Vice President" 
+<otherText /> 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable>
+<nonDerivativeTransaction><securityTitle> value="common shares" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="C" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="12000" 
+</transactionShares>
+<transactionPricePerShare value="9.02">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="12200" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="common shares" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="12000" 
+</transactionShares>
+<transactionPricePerShare value="22.52">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="200" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeHolding>
+<securityTitle> value="common shares" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="200" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="by spouse">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+</nonDerivativeTable>
+<derivativeTable><derivativeTransaction><securityTitle> value="stock options (to buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="9.02">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="C" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="12000" 
+</transactionShares>
+<transactionPricePerShare value="9.02">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate> value="2010-09-23" 
+</exerciseDate>
+<expirationDate value="2016-09-23">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="common shares" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="12000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="28000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<ownerSignature signatureDate="2010-11-04" signatureName="David B Keighley">
+</ownerSignature>
+</ownershipDocument></Source>

@@ -1,0 +1,82 @@
+<Source file="./0001140361-10-044108.nc">
+<SUBMISSION ACCESSION-NUMBER="0001140361-10-044108" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101102" PUBLIC-DOCUMENT-COUNT="2" TYPE="3"><REPORTING-OWNER><OWNER-DATA CIK="0001505129" CONFORMED-NAME="Middleton Bart T" /><FILING-VALUES ACT="34" FILE-NUMBER="001-34533" FILM-NUMBER="101171400" FORM-TYPE="3" /><MAIL-ADDRESS CITY="INDIANAPOLIS" STATE="IN" STREET1="ONE CELADON DRIVE" STREET2="9503 E. 33RD STREET" ZIP="46235-4207" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="4213" CIK="0000865941" CONFORMED-NAME="CELADON GROUP INC" FISCAL-YEAR-END="0630" IRS-NUMBER="133361050" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="INDIANAPOLIS" PHONE="(317) 972-7000" STATE="IN" STREET1="ONE CELADON DRIVE" STREET2="9503 E 33RD STREET" ZIP="46235-4207" /><MAIL-ADDRESS CITY="INDIANAPOLIS" STATE="IN" STREET1="ONE CELADON DRIVE" STREET2="9503 E 33RD STREET" ZIP="46235-4207" /></ISSUER></SUBMISSION><ownershipDocument documentType="3" noSecuritiesOwned="0" periodOfReport="2010-11-02" schemaVersion="X0203">
+<issuer> issuerCik="0000865941" 
+ issuerName="CELADON GROUP INC" 
+ issuerTradingSymbol="CGI" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001505129" 
+ rptOwnerName="Middleton Bart T" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="INDIANAPOLIS" rptOwnerState="IN" rptOwnerStreet1="ONE CELADON DRIVE" rptOwnerStreet2="9503 E 33RD ST" rptOwnerZipCode="46235-4207">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="1" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+ officerTitle="VP &amp; Prin. Accounting Officer" 
+<otherText /> 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable>
+<nonDerivativeHolding><securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="14083" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+</nonDerivativeTable>
+<derivativeTable><derivativeHolding><securityTitle> value="Employee Stock Option (Right-to-Buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="12.81">
+</conversionOrExercisePrice>
+<exerciseDate>
+<footnoteId id="F1" /> 
+</exerciseDate>
+<expirationDate> value="2016-01-12" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="18900">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Employee Stock Option (Right-to-Buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="8.79">
+</conversionOrExercisePrice>
+<exerciseDate>
+<footnoteId id="F2" /> 
+</exerciseDate>
+<expirationDate> value="2018-01-23" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="5000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="The options vested in four equal annual installments beginning on January 12, 2007." /> 
+ <footnote id="F2" text="The options became exercisable as to 1,250 shares on January 23, 2009 and January 23, 2010, and 1,250 shares become exercisable on January 23, 2011 and January 23, 2012." /> 
+</footnotes>
+<remarks />
+<ownerSignature> signatureName="/s/ Bart T. Middleton, by Heidi Hornung-Scherr, attorney-in-fact, pursuant to a Power of Attorney filed herewith" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

@@ -1,0 +1,21 @@
+<Source file="./0001209191-10-053804.nc">
+<SUBMISSION ACCESSION-NUMBER="0001209191-10-053804" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101101" PUBLIC-DOCUMENT-COUNT="2" TYPE="3"><REPORTING-OWNER><OWNER-DATA CIK="0001505216" CONFORMED-NAME="Guggemos Michael" /><FILING-VALUES ACT="34" FILE-NUMBER="000-25092" FILM-NUMBER="101174011" FORM-TYPE="3" /><MAIL-ADDRESS CITY="TEMPE" STATE="AZ" STREET1="6820 S. HARL AVENUE" ZIP="85283" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="5961" CIK="0000932696" CONFORMED-NAME="INSIGHT ENTERPRISES INC" FISCAL-YEAR-END="1231" IRS-NUMBER="860766246" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="TEMPE" PHONE="480-902-1001" STATE="AZ" STREET1="1305 WEST AUTO DRIVE" ZIP="85284" /><MAIL-ADDRESS CITY="TEMPE" STATE="AZ" STREET1="1305 WEST AUTO DRIVE" ZIP="85284" /></ISSUER></SUBMISSION><ownershipDocument documentType="3" noSecuritiesOwned="1" periodOfReport="2010-11-01" schemaVersion="X0203">
+<issuer> issuerCik="0000932696" 
+ issuerName="INSIGHT ENTERPRISES INC" 
+ issuerTradingSymbol="NSIT" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001505216" 
+ rptOwnerName="Guggemos Michael" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="TEMPE" rptOwnerState="AZ" rptOwnerStreet1="6820 SOUTH HARL AVENUE" rptOwnerStreet2="" rptOwnerZipCode="85283" />
+
+
+<reportingOwnerRelationship isDirector="0" isOfficer="1" isOther="0" isTenPercentOwner="0" officerTitle="Chief Information Officer">
+</reportingOwnerRelationship>
+</reportingOwner>
+<remarks />
+<ownerSignature> signatureName="Mark N. Rogers, by Power of Attorney, for Michael Guggemos" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

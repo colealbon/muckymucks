@@ -1,0 +1,78 @@
+<Source file="./0001181431-10-054023.nc">
+<SUBMISSION ACCESSION-NUMBER="0001181431-10-054023" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20100825" PUBLIC-DOCUMENT-COUNT="1" TYPE="4/A"><ISSUER><COMPANY-DATA ASSIGNED-SIC="6798" CIK="0001273685" CONFORMED-NAME="NEW YORK MORTGAGE TRUST INC" FISCAL-YEAR-END="1231" IRS-NUMBER="470934168" STATE-OF-INCORPORATION="MD" /><BUSINESS-ADDRESS CITY="NEW YORK" PHONE="(212) 792-0107" STATE="NY" STREET1="52 VANDERBILT AVENUE" STREET2="SUITE 403" ZIP="10017" /><MAIL-ADDRESS CITY="NEW YORK" STATE="NY" STREET1="52 VANDERBILT AVENUE" STREET2="SUITE 403" ZIP="10017" /></ISSUER><REPORTING-OWNER><OWNER-DATA CIK="0001226355" CONFORMED-NAME="Harvest Capital Strategies LLC" FISCAL-YEAR-END="1231" STATE-OF-INCORPORATION="DE" /><FILING-VALUES ACT="34" FILE-NUMBER="001-32216" FILM-NUMBER="101172550" FORM-TYPE="4/A" /><BUSINESS-ADDRESS CITY="SAN FRANCISCO" PHONE="(415) 835-3900" STATE="CA" STREET1="600 MONTGOMERY STREET" STREET2="SUITE 2000" ZIP="94111" /><MAIL-ADDRESS CITY="SAN FRANCISCO" STATE="CA" STREET1="600 MONTGOMERY STREET" STREET2="SUITE 2000" ZIP="94111" /><FORMER-NAME DATE-CHANGED="20030408" FORMER-CONFORMED-NAME="JMP ASSET MANAGEMENT LLC" /></REPORTING-OWNER></SUBMISSION><ownershipDocument dateOfOriginalSubmission="2010-08-25" documentType="4/A" notSubjectToSection16="0" periodOfReport="2010-08-25" schemaVersion="X0303">
+<issuer> issuerCik="0001273685" 
+ issuerName="NEW YORK MORTGAGE TRUST INC" 
+ issuerTradingSymbol="NYMT" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001226355" 
+ rptOwnerName="Harvest Capital Strategies LLC" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="SAN FRANCISCO" rptOwnerState="CA" rptOwnerStreet1="600 MONTGOMERY STREET" rptOwnerStreet2="SUITE 2000" rptOwnerZipCode="94111">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="0" 
+ isTenPercentOwner="1" 
+ isOther="0" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-08-25">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="P" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="10952" 
+</transactionShares>
+<transactionPricePerShare value="6.34">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="65636" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="See Footnote 1">
+<footnoteId id="F1" /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-08-25">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="10952" 
+<footnoteId id="F3" /> 
+</transactionShares>
+<transactionPricePerShare> value="6.43" 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="0" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="By Harvest Mortgage Opportunity Partners, L.P.">
+<footnoteId id="F2" /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<footnotes>
+<footnote id="F1" text="The Reporting Person has investment control over these securities pursuant to an Investment Management Agreement with JMP Securities LLC, the beneficial owner of such securities. This report shall not be an admission that the reporting person is the beneficial owner of such securities for purposes of Section 16 or any other purposes." /> 
+ <footnote id="F2" text="The Reporting Person has investment control over these securities as investment advisor to this entity, but disclaims beneficial ownership of these securities and this report shall not be an admission that the reporting person is the beneficial owner of such securities for purposes of Section 16 or any other purposes." /> 
+ <footnote id="F3" text="Harvest Mortgage Opportunity Partners, L.P. acquired 21,903 shares of common stock in the open market and subsequently, on May 27, 2008 the Issuer effected a one-for-two reverse stock split of its common stock." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="Janet L. Tarkoff, Chief Legal Officer">
+</ownerSignature>
+</ownershipDocument></Source>

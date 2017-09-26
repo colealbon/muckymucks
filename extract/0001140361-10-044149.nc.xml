@@ -1,0 +1,48 @@
+<Source file="./0001140361-10-044149.nc">
+<SUBMISSION ACCESSION-NUMBER="0001140361-10-044149" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101105" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><ISSUER><COMPANY-DATA ASSIGNED-SIC="6022" CIK="0000700565" CONFORMED-NAME="FIRST MID ILLINOIS BANCSHARES INC" FISCAL-YEAR-END="0211" IRS-NUMBER="371103704" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="MATTOON" PHONE="2172347454" STATE="IL" STREET1="1515 CHARLESTON AVE" STREET2="PO BOX 499" ZIP="61938" /><MAIL-ADDRESS CITY="MATTOON" STATE="IL" STREET1="1515 CHARLESTON AVENUE" STREET2="PO BOX 499" ZIP="61938" /><FORMER-COMPANY DATE-CHANGED="19920703" FORMER-CONFORMED-NAME="FIRST-MID ILLINOIS BANCSHARES INC" /></ISSUER><REPORTING-OWNER><OWNER-DATA CIK="0001012163" CONFORMED-NAME="SPARKS RAY A" /><FILING-VALUES ACT="34" FILE-NUMBER="000-13368" FILM-NUMBER="101171943" FORM-TYPE="4" /><MAIL-ADDRESS CITY="MATTOON" STATE="IL" STREET1="30 S COUNTRY CLUB RD" ZIP="61938" /></REPORTING-OWNER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-05" schemaVersion="X0303">
+<issuer> issuerCik="0000700565" 
+ issuerName="FIRST MID ILLINOIS BANCSHARES INC" 
+ issuerTradingSymbol="FMBH" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001012163" 
+ rptOwnerName="SPARKS RAY A" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="MATTOON" rptOwnerState="IL" rptOwnerStreet1="30 S COUNTRY CLUB ROAD" rptOwnerStreet2="" rptOwnerZipCode="61938" />
+
+
+<reportingOwnerRelationship isDirector="1" isOfficer="0" isOther="0" isTenPercentOwner="0">
+<officerTitle /> 
+<otherText />
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="5" 
+ transactionCode="G" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="21500" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="123732.00" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<derivativeTable /> 
+<remarks /> 
+<ownerSignature signatureDate="2010-11-08" signatureName="Michael L. Taylor, pursuant to a power of attorney filed 09/06/02.">
+</ownerSignature>
+</ownershipDocument></Source>

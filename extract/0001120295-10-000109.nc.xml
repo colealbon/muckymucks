@@ -1,0 +1,199 @@
+<Source file="./0001120295-10-000109.nc">
+<SUBMISSION ACCESSION-NUMBER="0001120295-10-000109" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001366295" CONFORMED-NAME="Colston Walker H II" /><FILING-VALUES ACT="34" FILE-NUMBER="000-31523" FILM-NUMBER="101173695" FORM-TYPE="4" /><MAIL-ADDRESS CITY="CALABASAS" STATE="CA" STREET1="C/O IXIA" STREET2="26601 WEST AGOURA ROAD" ZIP="91302" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="3825" CIK="0001120295" CONFORMED-NAME="IXIA" FISCAL-YEAR-END="1231" IRS-NUMBER="954635982" STATE-OF-INCORPORATION="CA" /><BUSINESS-ADDRESS CITY="CALABASAS" PHONE="8188711800" STATE="CA" STREET1="26601 W AGOURA RD" ZIP="91302" /><MAIL-ADDRESS CITY="CALABASAS" STATE="CA" STREET1="26601 W. AGOURA RD" ZIP="91302" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0001120295" 
+ issuerName="IXIA" 
+ issuerTradingSymbol="XXIA" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001366295" 
+ rptOwnerName="Colston Walker H II" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="CALABASAS" rptOwnerState="CA" rptOwnerStreet1="C/O IXIA" rptOwnerStreet2="26601 WEST AGOURA ROAD" rptOwnerZipCode="91302">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="1" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+ officerTitle="V.P.,  Engineering Operations" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="2813" 
+</transactionShares>
+<transactionPricePerShare value="11.94">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="32446" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="1500" 
+</transactionShares>
+<transactionPricePerShare value="13.98">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="33946" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="613" 
+</transactionShares>
+<transactionPricePerShare value="16.19">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="33333" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="3700" 
+</transactionShares>
+<transactionPricePerShare value="16.2023">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="29633" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<derivativeTable>
+<derivativeTransaction><securityTitle> value="Employee Stock Option (Right to Buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="11.94">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="2813" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate><footnoteId id="F1" /> 
+</exerciseDate>
+<expirationDate><footnoteId id="F1" /> 
+</expirationDate>
+<underlyingSecurity><underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="2813">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="2812" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</derivativeTransaction>
+<derivativeTransaction><securityTitle> value="Employee Stock Option (right to buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="13.98">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="1500" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate><footnoteId id="F2" /> 
+</exerciseDate>
+<expirationDate><footnoteId id="F2" /> 
+</expirationDate>
+<underlyingSecurity><underlyingSecurityTitle> value="Common stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="1500">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="7500" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<footnotes>
+<footnote id="F1" text="Option to purchase 15,000 shares vested and became exercisable in 16  equal quarterly installments commencing 6/30/04.  Option is exercisable as to each installment of vested shares for a period of four years following the vesting date." /> 
+ <footnote id="F2" text="Option to purchase 12,000 shares vested and became exercisable in 16  equal quarterly installments commencing 12/31/05.  Option is exercisable as to each installment of vested shares for a period of four years following the vesting date." /> 
+</footnotes>
+<remarks />
+<ownerSignature> signatureName="Walker H. Colston II" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

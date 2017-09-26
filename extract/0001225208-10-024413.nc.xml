@@ -1,0 +1,129 @@
+<Source file="./0001225208-10-024413.nc">
+<SUBMISSION ACCESSION-NUMBER="0001225208-10-024413" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101105" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001388276" CONFORMED-NAME="Mondics Benjamin J" /><FILING-VALUES ACT="34" FILE-NUMBER="001-02299" FILM-NUMBER="101170854" FORM-TYPE="4" /><MAIL-ADDRESS CITY="CLEVELAND" STATE="OH" STREET1="ONE APPLIED PLAZA" ZIP="44115" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="5080" CIK="0000109563" CONFORMED-NAME="APPLIED INDUSTRIAL TECHNOLOGIES INC" FISCAL-YEAR-END="0630" IRS-NUMBER="340117420" STATE-OF-INCORPORATION="OH" /><BUSINESS-ADDRESS CITY="CLEVELAND" PHONE="216-426-4753" STATE="OH" STREET1="ONE APPLIED PLAZA" ZIP="44115-5056" /><MAIL-ADDRESS CITY="CLEVELAND" STATE="OH" STREET1="ONE APPLIED PLAZA" ZIP="44115-5056" /><FORMER-COMPANY DATE-CHANGED="19920703" FORMER-CONFORMED-NAME="BEARINGS INC /OH/" /><FORMER-COMPANY DATE-CHANGED="19600201" FORMER-CONFORMED-NAME="BROWN JIM STORES INC" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" periodOfReport="2010-11-05" schemaVersion="X0303">
+<issuer> issuerCik="0000109563" 
+ issuerName="APPLIED INDUSTRIAL TECHNOLOGIES INC" 
+ issuerTradingSymbol="AIT" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001388276" 
+ rptOwnerName="Mondics Benjamin J" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="CLEVELAND" rptOwnerState="OH" rptOwnerStreet1="ONE APPLIED PLAZA" rptOwnerStreet2="" rptOwnerZipCode="44115" />
+
+
+<reportingOwnerRelationship isOfficer="1" officerTitle="President &amp; COO">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<deemedExecutionDate value="2010-11-05">
+</deemedExecutionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="6750.0000" 
+</transactionShares>
+<transactionPricePerShare value="7.9220">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="72311.0000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<deemedExecutionDate value="2010-11-05">
+</deemedExecutionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="F" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="3814.0000" 
+</transactionShares>
+<transactionPricePerShare value="31.6000">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="68497.0000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeHolding>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="10376.1300" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="Retirement Savings Plan">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="8.6200" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="Supplemental Defined Contribution Plan">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+</nonDerivativeTable>
+<derivativeTable><derivativeTransaction><securityTitle> value="Stock Option (Right to Buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="7.9220">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<deemedExecutionDate value="2010-11-05">
+</deemedExecutionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="6750.0000" 
+</transactionShares>
+<transactionPricePerShare value="0.0000">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate> value="2002-08-09" 
+</exerciseDate>
+<expirationDate value="2011-08-09">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="6750.0000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="0.0000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<ownerSignature signatureDate="2010-11-08" signatureName="Dianne Misenko/POA for Benjamin J. Mondics">
+</ownerSignature>
+</ownershipDocument></Source>

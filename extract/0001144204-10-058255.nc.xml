@@ -1,0 +1,234 @@
+<Source file="./0001144204-10-058255.nc">
+<SUBMISSION ACCESSION-NUMBER="0001144204-10-058255" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001256535" CONFORMED-NAME="HARTNETT MICHAEL J" /><FILING-VALUES ACT="34" FILE-NUMBER="000-51486" FILM-NUMBER="101172699" FORM-TYPE="4" /><MAIL-ADDRESS CITY="FAIRFIELD" STATE="CT" STREET1="ROLLER BEARING CO OF AMERICA" STREET2="60 ROUND HILL ROAD" ZIP="06430" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="3562" CIK="0001324948" CONFORMED-NAME="RBC Bearings INC" FISCAL-YEAR-END="0331" IRS-NUMBER="954372080" /><BUSINESS-ADDRESS CITY="OXFORD" PHONE="(203) 267 7001" STATE="CT" STREET1="ONE TRIBOLOGY CENTER" ZIP="06478" /><MAIL-ADDRESS CITY="OXFORD" STATE="CT" STREET1="ONE TRIBOLOGY CENTER" ZIP="06478" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0001324948" 
+ issuerName="RBC Bearings INC" 
+ issuerTradingSymbol="ROLL" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001256535" 
+ rptOwnerName="HARTNETT MICHAEL J" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="OXFORD" rptOwnerState="CT" rptOwnerStreet1="102 WILLENBROCK ROAD" rptOwnerStreet2="ONE TRIBOLOGY CENTER" rptOwnerZipCode="US 06478">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="1" 
+ isOfficer="1" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+ officerTitle="President and CEO" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="S" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="15915" 
+</transactionShares>
+<transactionPricePerShare value="35.4834">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="367310" 
+<footnoteId id="F3" /> 
+<footnoteId id="F5" />
+<footnoteId id="F7" /> 
+<footnoteId id="F8" />
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="S" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="15672" 
+</transactionShares>
+<transactionPricePerShare value="35.82">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="351638" 
+<footnoteId id="F3" /> 
+<footnoteId id="F5" />
+<footnoteId id="F7" /> 
+<footnoteId id="F8" />
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-06">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="S" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="11781" 
+</transactionShares>
+<transactionPricePerShare value="35.8177">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="339857" 
+<footnoteId id="F3" /> 
+<footnoteId id="F5" />
+<footnoteId id="F7" /> 
+<footnoteId id="F8" />
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<derivativeTable><derivativeHolding><securityTitle> value="Stock Option for Common Stock" 
+</securityTitle>
+<conversionOrExercisePrice value="14.5">
+</conversionOrExercisePrice>
+<exerciseDate value="2006-03-29">
+</exerciseDate>
+<expirationDate value="2015-08-10">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="533502">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="533502" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Stock Option for Common Stock" 
+</securityTitle>
+<conversionOrExercisePrice value="22.66">
+</conversionOrExercisePrice>
+<exerciseDate value="2007-07-12">
+<footnoteId id="F1" /> 
+</exerciseDate>
+<expirationDate> value="2013-07-12" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="40000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="40000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Stock Option for Common Stock" 
+</securityTitle>
+<conversionOrExercisePrice value="31.91">
+</conversionOrExercisePrice>
+<exerciseDate value="2009-02-12">
+<footnoteId id="F2" /> 
+</exerciseDate>
+<expirationDate> value="2015-02-12" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="100000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="100000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Stock Option for purchase of Common Stock" 
+</securityTitle>
+<conversionOrExercisePrice value="20.37">
+</conversionOrExercisePrice>
+<exerciseDate value="2009-11-11">
+<footnoteId id="F4" /> 
+</exerciseDate>
+<expirationDate> value="2015-11-11" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="100000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="100000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Stock Option for purchase of Common Stock" 
+</securityTitle>
+<conversionOrExercisePrice value="22.73">
+</conversionOrExercisePrice>
+<exerciseDate value="2010-11-16">
+<footnoteId id="F6" /> 
+</exerciseDate>
+<expirationDate> value="2016-11-16" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="100000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="100000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="Options to purchase shares of Common Stock are subject to the following vesting schedule: 1/3 vested on 7/12/07, 1/3 vest on 7/12/08 and 1/3 vest on 7/12/09." /> 
+ <footnote id="F2" text="Options to purchase shares of common stock are subject to the following vesting schedule: 1/5 vest on 2/12/09, 1/5 vest on 2/12/10, 1/5 vest on 2/12/11, 1/5 vest on 2/12/12 and 1/5 vest on 2/12/13." /> 
+ <footnote id="F3" text="15,000 shares of the reported Common Stock are Restricted Shares. The Restrictions lapse in accordance with the following schedule:  1/3 lapse on 2/12/11, 1/3 lapse on 2/12/12 and 1/3 lapse on 2/12/13. Unvested shares of Restricted Stock (i) may be immediately forfeited to the Company at the time the grantee ceases to be an officer or employee of, or otherwise perform services for, the Company or its subsidiaries under certain circumstances or (ii) may lapse upon the happening of certain events." /> 
+ <footnote id="F4" text="Options to purchase shares of common stock are subject to the following vesting schedule: 1/3 vested on 11/11/09, 1/3 vest on 11/11/10 and 1/3 vest on 11/11/11." /> 
+ <footnote id="F5" text="16.667 shares of the reported Common Stock are Restricted Shares. The Restrictions lapse in accordance with the following schedule: 1/2 lapse on 11/11/10 and 1/2 lapse on 11/11/11. Unvested shares of Restricted Stock (i) may be immediately forfeited to the Company at the time the grantee ceases to be an officer or employee of, or otherwise perform services for, the Company or its subsidiaries under certain circumstances or (ii) may lapse upon the happening of certain events." /> 
+ <footnote id="F6" text="Options to purchase shares of Common Stock are subject to the following vesting schedule: 1/5 vest on 11/16/2010, 1/5 vest on 11/16/2011, 1/5 vest on 11/16/2012, 1/5 vest on 11/16/2013 and 1/5 vest on 11/16/2014" /> 
+ <footnote id="F7" text="25,000 shares of the reported Common Stock are Restricted Shares. The Restrictions lapse in accordance with the following schedule: 1/3 lapse on 11/16/2010, 1/3 lapse on 11/16/2011 and 1/3 lapse on 11/16/2012. Unvested shares of Restricted Stock (i) may be immediately forfeited to the Company at the time the grantee ceases to be an officer or employee of, or otherwise perform services for, the Company or its subsidiaries under certain circumstances or (ii) may lapse upon the happening of certain events" /> 
+ <footnote id="F8" text="25,000 shares of the reported Common Stock are Restricted Shares. The Restrictions lapse in accordance with the following schedule: 1/3 lapse on 4/4/2011, 1/3 lapse on 4/4/2012 and 1/3 lapse on 4/4/2013. Unvested shares of Restricted Stock (i) may be immediately forfeited to the Company at the time the grantee ceases to be an officer or employee of, or otherwise perform services for, the Company or its subsidiaries under certain circumstances or (ii) may lapse upon the happening of certain events" /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="Thomas J. Williams /attorney in fact/">
+</ownerSignature>
+</ownershipDocument></Source>

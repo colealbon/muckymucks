@@ -1,0 +1,145 @@
+<Source file="./0001212131-10-000106.nc">
+<SUBMISSION ACCESSION-NUMBER="0001212131-10-000106" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101108" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001185104" CONFORMED-NAME="COLEMAN GARY L" /><FILING-VALUES ACT="34" FILE-NUMBER="001-08052" FILM-NUMBER="101173168" FORM-TYPE="4" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="6311" CIK="0000320335" CONFORMED-NAME="TORCHMARK CORP" FISCAL-YEAR-END="1231" IRS-NUMBER="630780404" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="MCKINNEY" PHONE="972-569-4000" STATE="TX" STREET1="3700 SOUTH STONEBRIDGE DRIVE" ZIP="75070" /><MAIL-ADDRESS CITY="MCKINNEY" STATE="TX" STREET1="3700 SOUTH  STONEBRIDGE DRIVE" ZIP="75070" /><FORMER-COMPANY DATE-CHANGED="19820825" FORMER-CONFORMED-NAME="TORCHMARK CORP SAVINGS &amp; INVESTMENT PLAN" /><FORMER-COMPANY DATE-CHANGED="19820701" FORMER-CONFORMED-NAME="LIBERTY NATIONAL INSURANCE HOLDING CO" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" periodOfReport="2010-11-08" schemaVersion="X0303">
+<issuer> issuerCik="0000320335" 
+ issuerName="TORCHMARK CORP" 
+ issuerTradingSymbol="TMK" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001185104" 
+ rptOwnerName="COLEMAN GARY L" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="MCKINNEY" rptOwnerState="TX" rptOwnerStreet1="UNITED AMERICAN INSURANCE COMPANY" rptOwnerStreet2="3700 SOUTH STONEBRIDGE DRIVE" rptOwnerZipCode="75070">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="1" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+ officerTitle="EVP &amp; Chief Financial Officer" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-08">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="3233" 
+</transactionShares>
+<transactionPricePerShare value="27.8125">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="160732" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-08">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="2160" 
+</transactionShares>
+<transactionPricePerShare value="58.34">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="158572" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeHolding><securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="19707" 
+<footnoteId id="F1" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="Thrift Plan Trust">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding>
+<securityTitle> value="Torchmark Capital Trust Preferred Securities III" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="4000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+</nonDerivativeTable>
+<derivativeTable>
+<derivativeTransaction><securityTitle> value="Employee Stock Option (RIght to Buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="27.8125">
+</conversionOrExercisePrice>
+<transactionDate value="1999-12-21">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="A" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="3233" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate><footnoteId id="F2" /> 
+</exerciseDate>
+<expirationDate> value="2011-08-11" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="3233">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="0" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<footnotes>
+<footnote id="F1" text="Shares in unitized fund in employee benefit plan - estimated conversion of $ balance to shares using $59.25 per share." /> 
+ <footnote id="F2" text="First exercisable as to 50% of shares on and after 8-9-2003 and as to remaining 50% of shares on and after 8-9-2004." /> 
+</footnotes>
+<remarks />
+<ownerSignature> signatureName="Gary L. Coleman, By:/s/Carol A. McCoy, Attorney-in-fact" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

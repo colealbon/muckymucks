@@ -1,0 +1,252 @@
+<Source file="./0001209191-10-053588.nc">
+<SUBMISSION ACCESSION-NUMBER="0001209191-10-053588" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101105" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><ISSUER><COMPANY-DATA ASSIGNED-SIC="2631" CIK="0000731939" CONFORMED-NAME="TEMPLE INLAND INC" FISCAL-YEAR-END="1231" IRS-NUMBER="751903917" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="AUSTIN" PHONE="5124345800" STATE="TX" STREET1="1300 MOPAC EXPRESSWAY SOUTH" STREET2="3RD FLOOR" ZIP="78746" /><MAIL-ADDRESS CITY="AUSTIN" STATE="TX" STREET1="1300 MOPAC EXPRESSWAY SOUTH" STREET2="3RD FLOOR" ZIP="78746" /></ISSUER><REPORTING-OWNER><OWNER-DATA CIK="0001157456" CONFORMED-NAME="TEMPLE ARTHUR III" FISCAL-YEAR-END="1231" STATE-OF-INCORPORATION="TX" /><FILING-VALUES ACT="34" FILE-NUMBER="001-08634" FILM-NUMBER="101171316" FORM-TYPE="4" /><MAIL-ADDRESS CITY="LUKIN" STATE="TX" STREET1="109 TEMPLE BLVD" STREET2="SUITE 300" ZIP="75901-7321" /></REPORTING-OWNER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-05" schemaVersion="X0303">
+<issuer> issuerCik="0000731939" 
+ issuerName="TEMPLE INLAND INC" 
+ issuerTradingSymbol="TIN" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001157456" 
+ rptOwnerName="TEMPLE ARTHUR III" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="AUSTIN" rptOwnerState="TX" rptOwnerStreet1="1300 S. MOPAC" rptOwnerStreet2="THIRD FLOOR" rptOwnerZipCode="78746">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="1" 
+ isOfficer="0" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeHolding><securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="466442" 
+<footnoteId id="F1" /> 
+<footnoteId id="F2" />
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="2000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="By Wife">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="134460" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="Trustee">
+<footnoteId id="F3" /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding><securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="157380" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="Trust">
+<footnoteId id="F4" /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding><securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="5304" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="Trustee">
+<footnoteId id="F5" /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding><securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="5304" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="Trustee">
+<footnoteId id="F6" /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding><securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="4254" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="Trustee">
+<footnoteId id="F7" /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding><securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="5304" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="Trustee">
+<footnoteId id="F8" /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+</nonDerivativeTable>
+<derivativeTable>
+<derivativeHolding><securityTitle> value="Option (right to buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="4.55">
+<footnoteId id="F9" /> 
+</conversionOrExercisePrice>
+<exerciseDate> value="1999-01-02" 
+</exerciseDate>
+<expirationDate value="2013-01-02">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="4000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="4000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Option (right to buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="6.85">
+<footnoteId id="F9" /> 
+</conversionOrExercisePrice>
+<exerciseDate> value="2000-01-04" 
+</exerciseDate>
+<expirationDate value="2014-01-04">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="4000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="4000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Option (right to buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="8.22">
+<footnoteId id="F9" /> 
+</conversionOrExercisePrice>
+<exerciseDate> value="2001-01-03" 
+</exerciseDate>
+<expirationDate value="2015-01-03">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="4000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="4000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeTransaction>
+<securityTitle> value="Restricted Stock Units (Deferred)" 
+</securityTitle>
+<conversionOrExercisePrice>
+<footnoteId id="F10" /> 
+</conversionOrExercisePrice>
+<transactionDate> value="2010-11-05" 
+</transactionDate>
+<deemedExecutionDate value="2010-11-05">
+</deemedExecutionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="A" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="1043" 
+</transactionShares>
+<transactionPricePerShare value="0.00">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate> value="2014-05-02" 
+</exerciseDate>
+<expirationDate value="2029-05-02">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="1043">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="95328" 
+<footnoteId id="F10" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="Temple Interests, L.P., a limited partnership of which Reporting Person was a general partner, dissolved and common stock transferred to Reporting Person with no change in pecuninary interest." /> 
+ <footnote id="F2" text="Reporting person acquired additional shares through a dividend reinvestment program." /> 
+ <footnote id="F3" text="By self as Trustee for Arthur Temple and Mary Temple Denman Trust Part II:  Mary Temple Denman." /> 
+ <footnote id="F4" text="By Arthur Temple III Testamentary Trust (Katherine Sage Temple)." /> 
+ <footnote id="F5" text="By self as Trustee for Arthur Temple III, Trustee of the Arthur Temple III Childrens&apos; 1982 Trust, UTA Dated 12/06/1982 FBO-John Clark Hurst, Jr." /> 
+ <footnote id="F6" text="By self as Trustee for Arthur Temple III, Trustee of the Arthur Temple III Childrens&apos; 1982 Trust, UTA Dated 12/06/1982 FBO - Whitney Sage Temple." /> 
+ <footnote id="F7" text="By self as Trustee for Arthur Temple III, Trustee of the Arthur Temple III Childrens&apos; 1982 Trust, UTA Dated 12/06/1982 FBO - Susan Helen Temple." /> 
+ <footnote id="F8" text="By self as Trustee for Arthur Temple III, Trustee of the Arthur Temple III Childrens&apos; 1982 Trust, UTA Dated 12/06/1982 FBO - Hannah Lea Temple." /> 
+ <footnote id="F9" text="The exercise price of these outstanding options were amended from that previously reported in connection with the spin-off announced by the Company effective 12/28/2007, and pursuant to anti-dilution provisions set forth in the option plan and is intended to give the option the same economic value it had before the spin-off." /> 
+ <footnote id="F10" text="Restricted stock units deferred under a Company plan, to be settled upon the reporting person&apos;s retirement. RSUs earned before 2006 are payable in stock. RSUs earned in 2006 or later are payable in cash." /> 
+</footnotes>
+<remarks />
+<ownerSignature> signatureName="Leslie K. O'Neal signed on behalf of Arthur Temple III" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

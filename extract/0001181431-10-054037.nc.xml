@@ -1,0 +1,170 @@
+<Source file="./0001181431-10-054037.nc">
+<SUBMISSION ACCESSION-NUMBER="0001181431-10-054037" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20100818" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001418413" CONFORMED-NAME="Vasaly L William III" /><FILING-VALUES ACT="34" FILE-NUMBER="000-52640" FILM-NUMBER="101172715" FORM-TYPE="4" /><MAIL-ADDRESS CITY="OAK RIDGE" STATE="NC" STREET1="2211 OAK RIDGE ROAD" ZIP="27310" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="6021" CIK="0001398006" CONFORMED-NAME="Oak Ridge Financial Services, Inc." FISCAL-YEAR-END="1231" IRS-NUMBER="208550086" STATE-OF-INCORPORATION="NC" /><BUSINESS-ADDRESS CITY="OAK RIDGE" PHONE="336 664 9944" STATE="NC" STREET1="2211 OAK RIDGE ROAD PO BOX 2" ZIP="27310" /><MAIL-ADDRESS CITY="OAK RIDGE" STATE="NC" STREET1="2211 OAK RIDGE ROAD PO BOX 2" ZIP="27310" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-08-18" schemaVersion="X0303">
+<issuer> issuerCik="0001398006" 
+ issuerName="Oak Ridge Financial Services, Inc." 
+ issuerTradingSymbol="BKOR" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001418413" 
+ rptOwnerName="Vasaly L William III" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="OAK RIDGE" rptOwnerState="NC" rptOwnerStreet1="PO BOX 2" rptOwnerStreet2="" rptOwnerZipCode="27310" />
+
+
+<reportingOwnerRelationship isDirector="0" isOfficer="1" isOther="0" isTenPercentOwner="0" officerTitle="Sr. VP and Chief Credit Office">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeHolding><securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="625" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+</nonDerivativeTable>
+<derivativeTable><derivativeHolding><securityTitle> value="Stock Option" 
+</securityTitle>
+<conversionOrExercisePrice value="8.80">
+<footnoteId id="F1" /> 
+</conversionOrExercisePrice>
+<exerciseDate> value="2005-12-20" 
+</exerciseDate>
+<expirationDate value="2011-04-29">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="15000">
+<footnoteId id="F1" /> 
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="15000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Stock Option" 
+</securityTitle>
+<conversionOrExercisePrice value="10.40">
+<footnoteId id="F1" /> 
+</conversionOrExercisePrice>
+<exerciseDate> value="2005-12-20" 
+</exerciseDate>
+<expirationDate value="2013-08-18">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="4813">
+<footnoteId id="F1" /> 
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="19813" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Stock Option" 
+</securityTitle>
+<conversionOrExercisePrice value="10.00">
+<footnoteId id="F1" /> 
+</conversionOrExercisePrice>
+<exerciseDate> value="2005-12-20" 
+</exerciseDate>
+<expirationDate value="2014-08-17">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="10000">
+<footnoteId id="F1" /> 
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="29813" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Stock Option" 
+</securityTitle>
+<conversionOrExercisePrice value="11.20">
+<footnoteId id="F1" /> 
+</conversionOrExercisePrice>
+<exerciseDate> value="2005-12-20" 
+</exerciseDate>
+<expirationDate value="2005-12-20">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="4000">
+<footnoteId id="F1" /> 
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="33813" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeTransaction>
+<securityTitle> value="Stock Option" 
+</securityTitle>
+<conversionOrExercisePrice value="4.82">
+</conversionOrExercisePrice>
+<transactionDate value="2010-08-18">
+</transactionDate>
+<deemedExecutionDate value="2010-08-18">
+</deemedExecutionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="A" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="4000" 
+</transactionShares>
+<transactionPricePerShare value="4.82">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate> value="2011-08-19" 
+<footnoteId id="F2" /> 
+</exerciseDate>
+<expirationDate> value="2020-08-18" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="4000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="37813" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="As adjusted for stock dividend" /> 
+ <footnote id="F2" text="These stock options were awarded on August 18, 2010, with the first 20% vesting on August 19, 2011 and the remaining 80% vested over the next four years with the final 20% vesting on August 19, 2015." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="William Vasaly III">
+</ownerSignature>
+</ownershipDocument></Source>

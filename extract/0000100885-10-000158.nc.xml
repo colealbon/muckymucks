@@ -1,0 +1,147 @@
+<Source file="./0000100885-10-000158.nc">
+<SUBMISSION ACCESSION-NUMBER="0000100885-10-000158" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101105" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001499784" CONFORMED-NAME="FRITZ LANCE M" /><FILING-VALUES ACT="34" FILE-NUMBER="001-06075" FILM-NUMBER="101172304" FORM-TYPE="4" /><MAIL-ADDRESS CITY="OMAHA" STATE="NE" STREET1="1400 DOUGLAS STREET" STREET2="STOP 1180" ZIP="68179" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="4011" CIK="0000100885" CONFORMED-NAME="UNION PACIFIC CORP" FISCAL-YEAR-END="1231" IRS-NUMBER="132626465" STATE-OF-INCORPORATION="UT" /><BUSINESS-ADDRESS CITY="OMAHA" PHONE="402 544 5214" STATE="NE" STREET1="1400 DOUGLAS STREET" STREET2="STOP 0310" ZIP="68179" /><MAIL-ADDRESS CITY="OMAHA" STATE="NE" STREET1="1400 DOUGLAS STREET" STREET2="STOP 0310" ZIP="68179" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-05" schemaVersion="X0303">
+<issuer> issuerCik="0000100885" 
+ issuerName="UNION PACIFIC CORP" 
+ issuerTradingSymbol="UNP" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001499784" 
+ rptOwnerName="FRITZ LANCE M" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="OMAHA" rptOwnerState="NE" rptOwnerStreet1="1400 DOUGLAS STREET" rptOwnerStreet2="" rptOwnerZipCode="68179" />
+
+
+<reportingOwnerRelationship isDirector="0" isOfficer="1" isOther="0" isTenPercentOwner="0" officerTitle="EVP OPS">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="25800" 
+</transactionShares>
+<transactionPricePerShare value="43.03">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="99980.916" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="F" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="12103" 
+</transactionShares>
+<transactionPricePerShare value="91.72">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="87877.916" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="F" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="5517" 
+</transactionShares>
+<transactionPricePerShare value="91.72">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="82360.916" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+<footnoteId id="F1" /> 
+</securityTitle>
+<transactionDate> value="2010-11-05" 
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="F" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="427" 
+</transactionShares>
+<transactionPricePerShare value="91.72">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="81933.916" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<derivativeTable><derivativeTransaction><securityTitle> value="Non-Qualified Stock Option (right to buy)" 
+<footnoteId id="F2" /> 
+</securityTitle>
+<conversionOrExercisePrice> value="43.03" 
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="25800" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate> value="2007-01-26" 
+<footnoteId id="F2" /> 
+</exerciseDate>
+<expirationDate> value="2016-01-26" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="25800">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="0" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="Transfer of shares for additional tax withholding purposes." /> 
+ <footnote id="F2" text="This option became exercisable in three equal installments starting one year from the grant date." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="By: Trevor L. Kingston, Attorney-in-Fact  For: Lance M. Fritz">
+</ownerSignature>
+</ownershipDocument></Source>

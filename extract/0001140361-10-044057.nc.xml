@@ -1,0 +1,109 @@
+<Source file="./0001140361-10-044057.nc">
+<SUBMISSION ACCESSION-NUMBER="0001140361-10-044057" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001220257" CONFORMED-NAME="MOORE DAN R" /><FILING-VALUES ACT="34" FILE-NUMBER="001-07775" FILM-NUMBER="101170640" FORM-TYPE="4" /><MAIL-ADDRESS CITY="WILLIAMSON" STATE="WV" STREET1="1523 WEST THIRD AVENUE" ZIP="25621" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="1221" CIK="0000037748" CONFORMED-NAME="MASSEY ENERGY CO" FISCAL-YEAR-END="1231" IRS-NUMBER="950740960" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="RICHMOND" PHONE="9493492000" STATE="VA" STREET1="4 NORTH 4TH STREET" ZIP="23219" /><MAIL-ADDRESS CITY="RICHMOND" STATE="VA" STREET1="4 NORTH 4TH STREET" ZIP="23219" /><FORMER-COMPANY DATE-CHANGED="19920703" FORMER-CONFORMED-NAME="FLUOR CORP/DE/" /><FORMER-COMPANY DATE-CHANGED="19710624" FORMER-CONFORMED-NAME="FLUOR CORP LTD" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0000037748" 
+ issuerName="MASSEY ENERGY CO" 
+ issuerTradingSymbol="MEE" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001220257" 
+ rptOwnerName="MOORE DAN R" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="RICHMOND" rptOwnerState="VA" rptOwnerStreet1="C/O MASSEY ENERGY COMPANY" rptOwnerStreet2="4 NORTH 4TH STREET" rptOwnerZipCode="23219">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="1" 
+ isOfficer="0" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+<officerTitle /> 
+<otherText />
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable /> 
+<derivativeTable>
+<derivativeTransaction><securityTitle> value="Phantom Stock Units (Common Stock)" 
+</securityTitle>
+<conversionOrExercisePrice>
+<footnoteId id="F1" /> 
+</conversionOrExercisePrice>
+<transactionDate> value="2010-11-04" 
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="A" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="56.858" 
+<footnoteId id="F2" /> 
+</transactionShares>
+<transactionPricePerShare> value="42.21" 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate><footnoteId id="F3" /> 
+</exerciseDate>
+<expirationDate><footnoteId id="F3" /> 
+</expirationDate>
+<underlyingSecurity><underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="56.858">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="19654.3678" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+<derivativeTransaction>
+<securityTitle> value="Phantom Stock Units (Common Stock)" 
+</securityTitle>
+<conversionOrExercisePrice>
+<footnoteId id="F1" /> 
+</conversionOrExercisePrice>
+<transactionDate> value="2010-11-05" 
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="A" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="38.347" 
+<footnoteId id="F2" /> 
+</transactionShares>
+<transactionPricePerShare> value="46.94" 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate><footnoteId id="F3" /> 
+</exerciseDate>
+<expirationDate><footnoteId id="F3" /> 
+</expirationDate>
+<underlyingSecurity><underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="38.347">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="19692.715" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="The conversion price of each phantom stock unit is the cash value on each transaction date of one share of Massey common stock." /> 
+ <footnote id="F2" text="These phantom stock units represent the value of meeting fees earned and deferred by the reporting person pursuant to the Massey Energy Company Deferred Directors&apos; Fee Program." /> 
+ <footnote id="F3" text="Each phantom stock unit is to be settled at the election of the reporting person, in cash or in Massey common stock, upon the reporting person&apos;s termination of service as a director, in a single sum or in installments." /> 
+</footnotes>
+<remarks />
+<ownerSignature> signatureName="Richard R. Grinnan, attorney-in-fact" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

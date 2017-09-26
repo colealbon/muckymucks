@@ -1,0 +1,156 @@
+<Source file="./0001209191-10-053721.nc">
+<SUBMISSION ACCESSION-NUMBER="0001209191-10-053721" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="2" TYPE="4"><ISSUER><COMPANY-DATA ASSIGNED-SIC="5812" CIK="0000103884" CONFORMED-NAME="ALEXANDERS J CORP" FISCAL-YEAR-END="1231" IRS-NUMBER="620854056" STATE-OF-INCORPORATION="TN" /><BUSINESS-ADDRESS CITY="NASHVILLE" PHONE="6152691900" STATE="TN" STREET1="3401 WEST END AVE" STREET2="P O BOX 24300" ZIP="37203" /><MAIL-ADDRESS CITY="NASHVILLE" STATE="TN" STREET1="3401 WEST END AVE" STREET2="SUITE 260" ZIP="37203" /><FORMER-COMPANY DATE-CHANGED="19920703" FORMER-CONFORMED-NAME="VOLUNTEER CAPITAL CORP / TN /" /><FORMER-COMPANY DATE-CHANGED="19890910" FORMER-CONFORMED-NAME="WINNERS CORP" /><FORMER-COMPANY DATE-CHANGED="19820520" FORMER-CONFORMED-NAME="VOLUNTEER CAPITAL CORP" /></ISSUER><REPORTING-OWNER><OWNER-DATA CIK="0000900371" CONFORMED-NAME="DUNCAN E TOWNES" /><FILING-VALUES ACT="34" FILE-NUMBER="001-08766" FILM-NUMBER="101172904" FORM-TYPE="4" /><MAIL-ADDRESS CITY="NASHVILLE" STATE="TN" STREET1="30 BURTON HILLS BLVD" STREET2="SUITE 100" ZIP="37215" /></REPORTING-OWNER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0000103884" 
+ issuerName="ALEXANDERS J CORP" 
+ issuerTradingSymbol="JAX" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0000900371" 
+ rptOwnerName="DUNCAN E TOWNES" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="NASHVILLE" rptOwnerState="TN" rptOwnerStreet1="C/O SOLIDUS COMPANY, L.P." rptOwnerStreet2="4015 HILLSBORO PIKE, SUITE 214" rptOwnerZipCode="37215">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="1" 
+ isOfficer="0" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="S" 
+ equitySwapInvolved="0" 
+<footnoteId id="F1" /> 
+</transactionCoding>
+<transactionTimeliness><value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="1000" 
+</transactionShares>
+<transactionPricePerShare value="4.40">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="413246" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="See footnote">
+<footnoteId id="F2" /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="S" 
+ equitySwapInvolved="0" 
+<footnoteId id="F1" /> 
+</transactionCoding>
+<transactionTimeliness><value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="2000" 
+</transactionShares>
+<transactionPricePerShare value="4.5484">
+<footnoteId id="F3" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="D" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="411246" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="See footnote">
+<footnoteId id="F2" /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-08">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="S" 
+ equitySwapInvolved="0" 
+<footnoteId id="F1" /> 
+</transactionCoding>
+<transactionTimeliness><value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="1000" 
+</transactionShares>
+<transactionPricePerShare value="4.443">
+<footnoteId id="F4" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="D" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="410246" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="See footnote">
+<footnoteId id="F2" /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeHolding><securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="5208" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="4800" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="By Spouse">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="2160" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="By Parent">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+</nonDerivativeTable>
+<footnotes> <footnote id="F1" text="The sales reported were effected pursuant to a Rule 10b5-1 trading plan adopted by Solidus Partners, L.P. on September 2, 2010." /> 
+ <footnote id="F2" text="Represents the shares held directly by Solidus Company, L.P. (Solidus), a Tennessee limited partnership. Mr. Duncan is the Chief Executive Officer of Solidus General Partner, LLC, which is the general partner of Solidus. Mr. Duncan disclaims beneficial ownership of any such shares that do not reflect his proportionate interest in Solidus." /> 
+ <footnote id="F3" text="This price represents the weighted average sale price of multiple transactions on the reported date at prices that ranged between $4.41 and $4.75.  Detailed information regarding the number of shares sold at each separate price will be provided upon request by the Commission staff, the issuer, or a security holder of the issuer." /> 
+ <footnote id="F4" text="This price represents the weighted average sale price of multiple transactions on the reported date at prices that ranged between $4.43 and $4.45.  Detailed information regarding the number of shares sold at each separate price will be provided upon request by the Commission staff, the issuer, or a security holder of the issuer." /> 
+</footnotes>
+<remarks />
+<ownerSignature><signatureName>/s/ Jonathan D. Stanley, Attorney-in-Factfor E. Townes Duncan</signatureName>
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

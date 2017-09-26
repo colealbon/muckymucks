@@ -1,0 +1,158 @@
+<Source file="./0000918581-10-000056.nc">
+<SUBMISSION ACCESSION-NUMBER="0000918581-10-000056" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101105" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001422767" CONFORMED-NAME="Hadziathanassiou Antonios" /><FILING-VALUES ACT="34" FILE-NUMBER="001-13103" FILM-NUMBER="101173175" FORM-TYPE="4" /><MAIL-ADDRESS CITY="GREENWOOD VILLAGE" STATE="CO" STREET1="5251 DTC PARKWAY" STREET2="SUITE 1400" ZIP="80111" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="7371" CIK="0000918581" CONFORMED-NAME="CIBER INC" FISCAL-YEAR-END="1231" IRS-NUMBER="382046833" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="GREENWOOD VILLAGE" PHONE="3032200100" STATE="CO" STREET1="6363 SOUTH FIDDLER&apos;S GREEN CIRCLE" STREET2="STE 1400" ZIP="80111" /><MAIL-ADDRESS CITY="GREENWOOD VILLAGE" STATE="CO" STREET1="6363 SOUTH FIDDLER&apos;S GREEN CIRCLE" STREET2="STE 1400" ZIP="80111" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-05" schemaVersion="X0303">
+<issuer> issuerCik="0000918581" 
+ issuerName="CIBER INC" 
+ issuerTradingSymbol="CBR" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001422767" 
+ rptOwnerName="Hadziathanassiou Antonios" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="GREENWOOD VILLAGE" rptOwnerState="CO" rptOwnerStreet1="6363 SOUTH FIDDLER&apos;S GREEN CIRCLE" rptOwnerStreet2="SUITE 1400" rptOwnerZipCode="80111">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="1" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+ officerTitle="EVP &amp; Pres CIBER North America" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock, $.01 par value" 
+</securityTitle>
+<transactionDate value="2010-11-06">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+<footnoteId id="F1" /> 
+</transactionCoding>
+<transactionAmounts><transactionShares> value="6000" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="37361" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock, $.01 par value" 
+</securityTitle>
+<transactionDate value="2010-11-06">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="F" transactionFormType="4">
+<footnoteId id="F2" /> 
+</transactionCoding>
+<transactionAmounts><transactionShares> value="1865" 
+</transactionShares>
+<transactionPricePerShare value="3.5">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="35496" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeHolding>
+<securityTitle> value="Common Stock, $.01 par value" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="1032" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="By 401K">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+</nonDerivativeTable>
+<derivativeTable><derivativeTransaction><securityTitle> value="Restricted Stock Unit" 
+</securityTitle>
+<conversionOrExercisePrice>
+<footnoteId id="F3" /> 
+</conversionOrExercisePrice>
+<transactionDate> value="2010-11-05" 
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="A" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="150000" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate> value="2012-11-05" 
+<footnoteId id="F4" /> 
+</exerciseDate>
+<expirationDate><footnoteId id="F5" /> 
+</expirationDate>
+<underlyingSecurity><underlyingSecurityTitle> value="Common Stock, $.01 par value" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="150000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="178291" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+<derivativeTransaction>
+<securityTitle> value="Restricted Stock Unit" 
+</securityTitle>
+<conversionOrExercisePrice>
+<footnoteId id="F3" /> 
+</conversionOrExercisePrice>
+<transactionDate> value="2010-11-06" 
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="6000" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate> value="2010-11-06" 
+<footnoteId id="F6" /> 
+</exerciseDate>
+<expirationDate><footnoteId id="F5" /> 
+</expirationDate>
+<underlyingSecurity><underlyingSecurityTitle> value="Common Stock, $.01 par value" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="6000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="172291" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="Represents shares acquired upon release of restricted stock units." /> 
+ <footnote id="F2" text="Represents shares withheld from the released restricted stock units for the payment of applicable income and payroll withholding taxes due on release." /> 
+ <footnote id="F3" text="Each Restricted Stock Unit represents a contingent right to receive one share of CIBER, Inc. common stock." /> 
+ <footnote id="F4" text="The Restricted Stock Units vest over three years with 50% vesting at the end of the second year and 50% vesting at the end of the third year from the date of grant." /> 
+ <footnote id="F5" text="RSU converts to common stock over 3 year life (per vesting schedule)" /> 
+ <footnote id="F6" text="The Restricted Stock Units vest in three equal annual installments beginning one year from the date of grant." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="Antonios Hadziathanassiou">
+</ownerSignature>
+</ownershipDocument></Source>

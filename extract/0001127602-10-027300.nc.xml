@@ -1,0 +1,142 @@
+<Source file="./0001127602-10-027300.nc">
+<SUBMISSION ACCESSION-NUMBER="0001127602-10-027300" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101108" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><ISSUER><COMPANY-DATA ASSIGNED-SIC="7372" CIK="0001108524" CONFORMED-NAME="SALESFORCE COM INC" FISCAL-YEAR-END="0131" IRS-NUMBER="943320693" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="SAN FRANCISCO" STATE="CA" STREET1="THE LANDMARK" STREET2="ONE MARKET STREET STE.300" ZIP="94105" /><MAIL-ADDRESS CITY="SAN FRANCISCO" STATE="CA" STREET1="THE LANDMARK" STREET2="ONE MARKET STREET STE. 300" ZIP="94105" /></ISSUER><REPORTING-OWNER><OWNER-DATA CIK="0001386395" CONFORMED-NAME="van Veenendaal Frank" /><FILING-VALUES ACT="34" FILE-NUMBER="001-32224" FILM-NUMBER="101172483" FORM-TYPE="4" /><MAIL-ADDRESS CITY="SAN FRANCISCO" STATE="CA" STREET1="C/O SALESFORCE.COM" STREET2="1 MARKET STREET, SUITE 300" ZIP="94105" /></REPORTING-OWNER></SUBMISSION><ownershipDocument documentType="4" periodOfReport="2010-11-08" schemaVersion="X0303">
+<issuer> issuerCik="0001108524" 
+ issuerName="SALESFORCE COM INC" 
+ issuerTradingSymbol="CRM" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001386395" 
+ rptOwnerName="van Veenendaal Frank" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="SAN FRANCISCO" rptOwnerState="CA" rptOwnerStreet1="THE LANDMARK @ ONE MARKET STREET" rptOwnerStreet2="SUITE 300" rptOwnerZipCode="94105">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isOfficer="1" 
+ officerTitle="President, Global Corp. Sales" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-08">
+<footnoteId id="F1" /> 
+</transactionDate>
+<transactionCoding> transactionFormType="4" 
+ transactionCode="M" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionTimeliness />
+<transactionAmounts><transactionShares> value="1500" 
+</transactionShares>
+<transactionPricePerShare value="29.35">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="5387" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-08">
+<footnoteId id="F1" /> 
+</transactionDate>
+<transactionCoding> transactionFormType="4" 
+ transactionCode="S" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionTimeliness />
+<transactionAmounts><transactionShares> value="1500" 
+</transactionShares>
+<transactionPricePerShare value="112.76">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="3887" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeHolding>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="1500" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="By Trust 1">
+<footnoteId id="F2" /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding><securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="1500" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="By Trust 2">
+<footnoteId id="F3" /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+</nonDerivativeTable>
+<derivativeTable>
+<derivativeTransaction><securityTitle> value="Non-qualified Stock Option (Right to Buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="29.35">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-08">
+<footnoteId id="F1" /> 
+</transactionDate>
+<transactionCoding> transactionFormType="4" 
+ transactionCode="M" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionTimeliness />
+<transactionAmounts><transactionShares> value="1500" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate> value="2007-05-23" 
+<footnoteId id="F4" /> 
+</exerciseDate>
+<expirationDate> value="2011-05-23" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="1500">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="17500" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="Acquisition/Disposition of Derivative and/or Non-Derivative securities is pursuant to a 10b5-1 Plan." /> 
+ <footnote id="F2" text="Represents shares held in the Frank van Veenendaal Grantor Retained Annuity Trust." /> 
+ <footnote id="F3" text="Represents shares held in the Leslie van Veenendaal Grantor Retained Annuity Trust." /> 
+ <footnote id="F4" text="Option is exercisable and vests over four years at the rate of 25% of the total shares granted on the first anniversary of the holder&apos;s date of grant, as listed in the table, with the balance vesting in equal monthly installments over the remaining 36 months." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="/s/ David Schellhase, Attorney-in-Fact for Frank Van Veenendaal">
+</ownerSignature>
+</ownershipDocument></Source>

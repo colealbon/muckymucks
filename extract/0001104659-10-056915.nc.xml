@@ -1,0 +1,62 @@
+<Source file="./0001104659-10-056915.nc">
+<SUBMISSION ACCESSION-NUMBER="0001104659-10-056915" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001183491" CONFORMED-NAME="MESSMER HAROLD M JR" /><FILING-VALUES ACT="34" FILE-NUMBER="001-10427" FILM-NUMBER="101172730" FORM-TYPE="4" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="7363" CIK="0000315213" CONFORMED-NAME="HALF ROBERT INTERNATIONAL INC /DE/" FISCAL-YEAR-END="1231" IRS-NUMBER="941648752" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="MENLO PARK" PHONE="6502346000" STATE="CA" STREET1="2884 SAND HILL RD" STREET2="STE 200" ZIP="94025" /><MAIL-ADDRESS CITY="MENLO PARK" STATE="CA" STREET1="2884 SAND HILL ROAD" STREET2="STE 200" ZIP="94025" /><FORMER-COMPANY DATE-CHANGED="19870721" FORMER-CONFORMED-NAME="BOOTHE FINANCIAL CORP /DE/" /><FORMER-COMPANY DATE-CHANGED="19600201" FORMER-CONFORMED-NAME="BOOTHE INTERIM CORP" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0000315213" 
+ issuerName="HALF ROBERT INTERNATIONAL INC /DE/" 
+ issuerTradingSymbol="RHI" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001183491" 
+ rptOwnerName="MESSMER HAROLD M JR" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="MENLO PARK" rptOwnerState="CA" rptOwnerStreet1="2884 SAND HILL ROAD" rptOwnerStreet2="" rptOwnerZipCode="94025" />
+
+
+<reportingOwnerRelationship isDirector="1" isOfficer="1" isOther="0" isTenPercentOwner="0" officerTitle="Chairman &amp; CEO">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeHolding><securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="2187810" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="209052" 
+</transactionShares>
+<transactionPricePerShare value="28.2001">
+<footnoteId id="F1" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="D" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="194130" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="By GRATs">
+<footnoteId id="F2" /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<footnotes>
+<footnote id="F1" text="The range of prices for the transactions reported on this line is between $28.16 and $28.2625 per share. $28.2001 represents the weighted average sale price per share. Reporting person will provide upon request by the commission staff, the issuer, or a security holder of the issuer full information regarding the number of shares sold at each separate price." /> 
+ <footnote id="F2" text="These shares are held by various GRATs. All of such GRATs are for the benefit of relatives of Reporting Person and have Reporting Person as a Trustee." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="/s/ Harold M. Messmer, Jr.">
+</ownerSignature>
+</ownershipDocument></Source>

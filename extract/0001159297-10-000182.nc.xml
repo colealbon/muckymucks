@@ -1,0 +1,45 @@
+<Source file="./0001159297-10-000182.nc">
+<SUBMISSION ACCESSION-NUMBER="0001159297-10-000182" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101105" PUBLIC-DOCUMENT-COUNT="2" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001180948" CONFORMED-NAME="THOMAS BRUCE V" /><FILING-VALUES ACT="34" FILE-NUMBER="001-31215" FILM-NUMBER="101171568" FORM-TYPE="4" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="2621" CIK="0001159297" CONFORMED-NAME="MEADWESTVACO Corp" FISCAL-YEAR-END="1231" IRS-NUMBER="311797999" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="RICHMOND" PHONE="804-327-5200" STATE="VA" STREET1="501 SOUTH 5TH STREET" STREET2="MWV WORLD HEADQUARTERS" ZIP="23219-0501" /><MAIL-ADDRESS CITY="RICHMOND" STATE="VA" STREET1="501 SOUTH 5TH STREET" STREET2="MWV WORLD HEADQUARTERS" ZIP="23219-0501" /><FORMER-COMPANY DATE-CHANGED="20020129" FORMER-CONFORMED-NAME="MEADWESTVACO CORP" /><FORMER-COMPANY DATE-CHANGED="20010918" FORMER-CONFORMED-NAME="MW HOLDING CORP" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" periodOfReport="2010-11-05" schemaVersion="X0303">
+<issuer> issuerCik="0001159297" 
+ issuerName="MEADWESTVACO Corp" 
+ issuerTradingSymbol="MWV" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001180948" 
+ rptOwnerName="THOMAS BRUCE V" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="RICHMND" rptOwnerState="VA" rptOwnerStreet1="501 SOUTH 5TH STREET" rptOwnerStreet2="" rptOwnerZipCode="23219" />
+
+
+<reportingOwnerRelationship isDirector="0" isOfficer="1" isOther="0" isTenPercentOwner="0" officerTitle="Senior Vice President">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="150" 
+</transactionShares>
+<transactionPricePerShare value="26.4695">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="7827" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<remarks /> 
+<ownerSignature signatureDate="2010-11-08" signatureName="by:/s/ John J. Carrara  POA/dated May 14, 2007">
+</ownerSignature>
+</ownershipDocument></Source>

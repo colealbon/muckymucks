@@ -1,0 +1,229 @@
+<Source file="./0000907242-10-000009.nc">
+<SUBMISSION ACCESSION-NUMBER="0000907242-10-000009" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0000937326" CONFORMED-NAME="FARAHI BOB" /><FILING-VALUES ACT="34" FILE-NUMBER="000-22088" FILM-NUMBER="101174101" FORM-TYPE="4" /><MAIL-ADDRESS CITY="RENO" STATE="NV" STREET1="MONARCH CASINO &amp; RESORT INC" STREET2="3800 S. VIRGINIA STREET" ZIP="89502" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="7990" CIK="0000907242" CONFORMED-NAME="MONARCH CASINO &amp; RESORT INC" FISCAL-YEAR-END="1231" IRS-NUMBER="880300760" STATE-OF-INCORPORATION="NV" /><BUSINESS-ADDRESS CITY="RENO" PHONE="775-335-4600" STATE="NV" STREET1="3800 S VIRGINIA STREET" STREET2="EXECUTIVE OFFICES" ZIP="89502" /><MAIL-ADDRESS CITY="RENO" STATE="NV" STREET1="3800 S VIRGINIA STREET" STREET2="EXECUTIVE OFFICES" ZIP="89502" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0000907242" 
+ issuerName="MONARCH CASINO &amp; RESORT INC" 
+ issuerTradingSymbol="MCRI" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0000937326" 
+ rptOwnerName="FARAHI BOB" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="RENO" rptOwnerState="NV" rptOwnerStreet1="MONARCH CASINO &amp; RESORT INC" rptOwnerStreet2="3800 S. VIRGINIA STREET" rptOwnerZipCode="89502">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="1" 
+ isOfficer="1" 
+ isTenPercentOwner="1" 
+ isOther="0" 
+ officerTitle="President" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-10-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="8112" 
+</transactionShares>
+<transactionPricePerShare value="12.5">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="1788351" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="100" 
+</transactionShares>
+<transactionPricePerShare value="12.5">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="1788351" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<derivativeTable><derivativeHolding><securityTitle> value="Option/right to buy" 
+</securityTitle>
+<conversionOrExercisePrice value="11.48">
+</conversionOrExercisePrice>
+<exerciseDate value="2013-10-12">
+</exerciseDate>
+<expirationDate value="2020-10-21">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="33334">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="176668" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Option/right to buy" 
+</securityTitle>
+<conversionOrExercisePrice value="10.43">
+</conversionOrExercisePrice>
+<exerciseDate value="2012-10-21">
+</exerciseDate>
+<expirationDate value="2019-10-21">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="33334">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="176668" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Option/right to buy" 
+</securityTitle>
+<conversionOrExercisePrice value="6.8">
+</conversionOrExercisePrice>
+<exerciseDate value="2011-10-21">
+</exerciseDate>
+<expirationDate value="2018-10-21">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="33334">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="176668" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Option/right to buy" 
+</securityTitle>
+<conversionOrExercisePrice value="29">
+</conversionOrExercisePrice>
+<exerciseDate value="2010-10-21">
+</exerciseDate>
+<expirationDate value="2017-10-21">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="33334">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="176668" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Option/right to buy" 
+</securityTitle>
+<conversionOrExercisePrice value="21.82">
+</conversionOrExercisePrice>
+<exerciseDate value="2009-10-21">
+</exerciseDate>
+<expirationDate value="2016-10-21">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="33334">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="176668" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Option/right to buy" 
+</securityTitle>
+<conversionOrExercisePrice value="18.06">
+</conversionOrExercisePrice>
+<exerciseDate value="2008-10-21">
+</exerciseDate>
+<expirationDate value="2015-10-21">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="10000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="176668" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Option/right to buy" 
+</securityTitle>
+<conversionOrExercisePrice value="11.685">
+</conversionOrExercisePrice>
+<exerciseDate>
+<footnoteId id="F1" /> 
+</exerciseDate>
+<expirationDate> value="2014-10-21" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="100000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="176668" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="On October 21, 2004, Mr. Farahi was granted an option pursuant to the Company&apos;s 1993 Executive Long-Term Incentive Plan, as amended, to purchase 100,000 shares of the Company&apos;s common stock at $11.685 per share.  The shares&apos; vesting schedule is as follows:  33,332 vested on October 21, 2005; 33,334 vested on October 21, 2006 and 33,334 vested on october 21, 2007." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="Bob Farahi">
+</ownerSignature>
+</ownershipDocument></Source>

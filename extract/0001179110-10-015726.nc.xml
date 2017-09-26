@@ -1,0 +1,80 @@
+<Source file="./0001179110-10-015726.nc">
+<SUBMISSION ACCESSION-NUMBER="0001179110-10-015726" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101105" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001255219" CONFORMED-NAME="SALINAS LEONARDO" /><FILING-VALUES ACT="34" FILE-NUMBER="000-09439" FILM-NUMBER="101173552" FORM-TYPE="4" /><MAIL-ADDRESS CITY="LAREDO" STATE="TX" STREET1="PO BOX 1359" ZIP="78040" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="6022" CIK="0000315709" CONFORMED-NAME="INTERNATIONAL BANCSHARES CORP" FISCAL-YEAR-END="1231" IRS-NUMBER="742157138" STATE-OF-INCORPORATION="TX" /><BUSINESS-ADDRESS CITY="LAREDO" PHONE="9567227611" STATE="TX" STREET1="12OO SAN BERNARDO AVE" STREET2="PO BOX 1359" ZIP="78040-1359" /><MAIL-ADDRESS CITY="LAREDO" STATE="TX" STREET1="P O BOX 1359" STREET2="1200 SAN BERNARDO" ZIP="78040" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-05" schemaVersion="X0303">
+<issuer> issuerCik="0000315709" 
+ issuerName="INTERNATIONAL BANCSHARES CORP" 
+ issuerTradingSymbol="IBOC" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001255219" 
+ rptOwnerName="SALINAS LEONARDO" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="LAREDO" rptOwnerState="TX" rptOwnerStreet1="P.O. BOX 1359" rptOwnerStreet2="" rptOwnerZipCode="78040" />
+
+
+<reportingOwnerRelationship isDirector="1" isOfficer="0" isOther="0" isTenPercentOwner="0">
+<officerTitle /> 
+<otherText />
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="COMMON STOCK" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="17042" 
+</transactionShares>
+<transactionPricePerShare value="19.39">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="42810" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="COMMON STOCK" 
+</securityTitle>
+<transactionDate value="2010-11-08">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="3775" 
+</transactionShares>
+<transactionPricePerShare value="19.00">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="39035" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeHolding>
+<securityTitle> value="COMMON STOCK" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="51562" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="HELD IN PARTNERSHIP">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+</nonDerivativeTable>
+<derivativeTable /> 
+<ownerSignature> signatureName="/S/LEONARDO SALINAS" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

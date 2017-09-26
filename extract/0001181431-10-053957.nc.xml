@@ -1,0 +1,61 @@
+<Source file="./0001181431-10-053957.nc">
+<SUBMISSION ACCESSION-NUMBER="0001181431-10-053957" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101022" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001203607" CONFORMED-NAME="DREYER DAVID C" /><FILING-VALUES ACT="34" FILE-NUMBER="001-09727" FILM-NUMBER="101171851" FORM-TYPE="4" /><MAIL-ADDRESS CITY="IRVINE" STATE="CA" STREET1="C/O SICOR INC" STREET2="19 HUGHES" ZIP="92618-1902" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="3842" CIK="0000812301" CONFORMED-NAME="Patient Safety Technologies, Inc" FISCAL-YEAR-END="1231" IRS-NUMBER="133419202" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="IRVINE," PHONE="949-387-2277" STATE="CA" STREET1="TWO VENTURE PLAZA" STREET2="TWO VENTURE, SUITE 350" ZIP="92618" /><MAIL-ADDRESS CITY="IRVINE," STATE="CA" STREET1="TWO VENTURE PLAZA" STREET2="TWO VENTURE, SUITE 350" ZIP="92618" /><FORMER-COMPANY DATE-CHANGED="20050406" FORMER-CONFORMED-NAME="Patient Safety Technologies" /><FORMER-COMPANY DATE-CHANGED="20050406" FORMER-CONFORMED-NAME="Patient Safety Technologies, Inc" /><FORMER-COMPANY DATE-CHANGED="19990505" FORMER-CONFORMED-NAME="FRANKLIN CAPITAL CORP" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-10-22" schemaVersion="X0303">
+<issuer> issuerCik="0000812301" 
+ issuerName="Patient Safety Technologies, Inc" 
+ issuerTradingSymbol="PSTX.OB" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001203607" 
+ rptOwnerName="DREYER DAVID C" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="IRVINE" rptOwnerState="CA" rptOwnerStreet1="TWO VENTURE PLAZA" rptOwnerStreet2="SUITE 350" rptOwnerZipCode="92618">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="1" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+ officerTitle="CFO, Vice President" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<derivativeTable><derivativeTransaction><securityTitle> value="Employee Stock Options (right to buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="0.75">
+</conversionOrExercisePrice>
+<transactionDate value="2010-10-22">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="A" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="450000" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate> value="2011-04-22" 
+<footnoteId id="F1" /> 
+</exerciseDate>
+<expirationDate> value="2020-10-22" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="450000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="450000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="Upon the six-month anniversary of the Effective Date, 100,000 shares vest and become exercisable.  The remaining shares vest over a 42-month period at a rate of 1/48th of the total shares per month.  The options will be 100% vested and exercisable on the fourth anniversary of the Effective Date." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-05" signatureName="/s/ David C. Dreyer">
+</ownerSignature>
+</ownershipDocument></Source>

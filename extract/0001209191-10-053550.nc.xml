@@ -1,0 +1,58 @@
+<Source file="./0001209191-10-053550.nc">
+<SUBMISSION ACCESSION-NUMBER="0001209191-10-053550" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101105" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001464304" CONFORMED-NAME="Morris George C III" /><FILING-VALUES ACT="34" FILE-NUMBER="000-51734" FILM-NUMBER="101171087" FORM-TYPE="4" /><MAIL-ADDRESS CITY="INDIANAPOLIS" STATE="IN" STREET1="2780 WATERFRONT PKWY E. DRIVE, SUITE 200" ZIP="46214" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="2911" CIK="0001340122" CONFORMED-NAME="Calumet Specialty Products Partners, L.P." FISCAL-YEAR-END="1231" IRS-NUMBER="371516132" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="INDIANAPOLIS" PHONE="317-328-5660" STATE="IN" STREET1="2780 WATERFRONT" STREET2="PARKWAY E. DRIVE, SUITE 200" ZIP="46214" /><MAIL-ADDRESS CITY="INDIANAPOLIS" STATE="IN" STREET1="2780 WATERFRONT" STREET2="PARKWAY E. DRIVE, SUITE 200" ZIP="46214" /><FORMER-COMPANY DATE-CHANGED="20050928" FORMER-CONFORMED-NAME="Calumet Lubricants Partners, L.P." /></ISSUER></SUBMISSION><ownershipDocument documentType="4" periodOfReport="2010-11-05" schemaVersion="X0303">
+<issuer> issuerCik="0001340122" 
+ issuerName="Calumet Specialty Products Partners, L.P." 
+ issuerTradingSymbol="CLMT" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001464304" 
+ rptOwnerName="Morris George C III" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="INDIANAPOLIS" rptOwnerState="IN" rptOwnerStreet1="2780 WATERFRONT PKWY E. DRIVE SUITE 200" rptOwnerStreet2="" rptOwnerZipCode="46214" />
+
+
+<reportingOwnerRelationship isDirector="1" isOfficer="0" isOther="0" isTenPercentOwner="0">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable /> 
+<derivativeTable>
+<derivativeTransaction><securityTitle> value="Phantom Units" 
+</securityTitle>
+<conversionOrExercisePrice>
+<footnoteId id="F1" /> 
+</conversionOrExercisePrice>
+<transactionDate> value="2010-11-05" 
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="A" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="1896" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate><footnoteId id="F2" /> 
+</exerciseDate>
+<expirationDate><footnoteId id="F2" /> 
+</expirationDate>
+<underlyingSecurity><underlyingSecurityTitle> value="Common Units" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="1896">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="3675" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="Each Phantom Unit is the economic equivalent of a Calumet Specialty Products Partners, L.P. Common Unit" /> 
+ <footnote id="F2" text="25% of the Phantom Units vest on December 31 of each year beginning on December 31, 2010" /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="/s/ R. Patrick Murray, II, as attorney-in-fact">
+</ownerSignature>
+</ownershipDocument></Source>

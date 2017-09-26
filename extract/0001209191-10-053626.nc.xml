@@ -1,0 +1,55 @@
+<Source file="./0001209191-10-053626.nc">
+<SUBMISSION ACCESSION-NUMBER="0001209191-10-053626" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101108" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001418205" CONFORMED-NAME="Manning Anne" /><FILING-VALUES ACT="34" FILE-NUMBER="001-13146" FILM-NUMBER="101171735" FORM-TYPE="4" /><MAIL-ADDRESS CITY="LAKE OSWEGO" STATE="OR" STREET1="ONE CENTERPOINTE DRIVE" STREET2="SUITE 200" ZIP="97035" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="3743" CIK="0000923120" CONFORMED-NAME="GREENBRIER COMPANIES INC" FISCAL-YEAR-END="0831" IRS-NUMBER="930816972" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="LAKE OSWEGO" PHONE="5036847000" STATE="OR" STREET1="ONE CENTERPOINTE DR" STREET2="STE 200" ZIP="97035" /><MAIL-ADDRESS CITY="LAKE OSWEGO" STATE="OR" STREET1="ONE CENTERPOINTE DR" STREET2="STE 200" ZIP="97035" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-08" schemaVersion="X0303">
+<issuer> issuerCik="0000923120" 
+ issuerName="GREENBRIER COMPANIES INC" 
+ issuerTradingSymbol="GBX" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001418205" 
+ rptOwnerName="Manning Anne" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="LAKE OSWEGO" rptOwnerState="OR" rptOwnerStreet1="ONE CENTERPOINTE DRIVE" rptOwnerStreet2="SUITE 200" rptOwnerZipCode="97035-8612">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="1" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+ officerTitle="VP Corporate Controller" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common stock - GBX" 
+</securityTitle>
+<transactionDate value="2010-11-08">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="S" 
+ equitySwapInvolved="0" 
+<footnoteId id="F1" /> 
+</transactionCoding>
+<transactionTimeliness><value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="500" 
+</transactionShares>
+<transactionPricePerShare value="19.51">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="23900" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<footnotes> <footnote id="F1" text="Sale of shares was executed pursuant to a sales plan adopted November 15, 2007 and intended to comply with the requirements of Rule 10b5-1(c)(1) under the Securities Exchange Act of 1934, as amended." /> 
+</footnotes>
+<remarks />
+<ownerSignature><signatureName>/s/ Anne T. ManningBy Robert W. ShankAttorney-in-fact</signatureName>
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

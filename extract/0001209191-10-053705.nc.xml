@@ -1,0 +1,67 @@
+<Source file="./0001209191-10-053705.nc">
+<SUBMISSION ACCESSION-NUMBER="0001209191-10-053705" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001143608" CONFORMED-NAME="BANKER DOUG" /><FILING-VALUES ACT="34" FILE-NUMBER="000-24452" FILM-NUMBER="101172815" FORM-TYPE="4" /><MAIL-ADDRESS CITY="YPSICANTI" STATE="MI" STREET1="6508 CRANE ROAD" ZIP="48197" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="7900" CIK="0000796764" CONFORMED-NAME="PREMIER EXHIBITIONS, INC." FISCAL-YEAR-END="0228" IRS-NUMBER="201424922" STATE-OF-INCORPORATION="FL" /><BUSINESS-ADDRESS CITY="ATLANTA" PHONE="404-842-2600" STATE="GA" STREET1="3340 PEACHTREE ROAD NE" STREET2="SUITE 900" ZIP="30326" /><MAIL-ADDRESS CITY="ATLANTA" STATE="GA" STREET1="3340 PEACHTREE ROAD NE" STREET2="SUITE 900" ZIP="30326" /><FORMER-COMPANY DATE-CHANGED="20010404" FORMER-CONFORMED-NAME="RMS TITANIC INC" /><FORMER-COMPANY DATE-CHANGED="20010404" FORMER-CONFORMED-NAME="FIRST RESPONSE MEDICAL INC /FL/" /><FORMER-COMPANY DATE-CHANGED="19930302" FORMER-CONFORMED-NAME="CIP HOLDINGS INC" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0000796764" 
+ issuerName="PREMIER EXHIBITIONS, INC." 
+ issuerTradingSymbol="PRXI" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001143608" 
+ rptOwnerName="BANKER DOUG" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="ATLANTA" rptOwnerState="GA" rptOwnerStreet1="3340 PEACHTREE ROAD NE, SUITE 900" rptOwnerStreet2="" rptOwnerZipCode="30326" />
+
+
+<reportingOwnerRelationship isDirector="1" isOfficer="0" isOther="0" isTenPercentOwner="0">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock, $0.0001 par value" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+<footnoteId id="F1" /> 
+</transactionCoding>
+<transactionAmounts><transactionShares> value="53100" 
+</transactionShares>
+<transactionPricePerShare value="1.9876">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="140292" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock, $0.0001 par value" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+<footnoteId id="F1" /> 
+</transactionCoding>
+<transactionAmounts><transactionShares> value="11699" 
+</transactionShares>
+<transactionPricePerShare value="1.9903">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="128593" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<derivativeTable /> 
+<footnotes>
+<footnote id="F1" text="The transactions reported on this Form 4 were effected pursuant to a Rule 10b5-1 trading plan adopted by the reporting person on August 6, 2010." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="/s/ Tina Bingham via P.O.A. for Douglas Banker">
+</ownerSignature>
+</ownershipDocument></Source>

@@ -1,0 +1,104 @@
+<Source file="./0001209191-10-053780.nc">
+<SUBMISSION ACCESSION-NUMBER="0001209191-10-053780" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101028" PUBLIC-DOCUMENT-COUNT="2" TYPE="3"><REPORTING-OWNER><OWNER-DATA CIK="0000939979" CONFORMED-NAME="SARTINI BLAKE L" FISCAL-YEAR-END="1231" STATE-OF-INCORPORATION="NV" /><FILING-VALUES ACT="34" FILE-NUMBER="001-33803" FILM-NUMBER="101173921" FORM-TYPE="3" /><MAIL-ADDRESS CITY="LAS VEGAS" STATE="NV" STREET1="2411 WEST SAHARA AVENUE" ZIP="89102" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="6021" CIK="0001406251" CONFORMED-NAME="WESTERN LIBERTY BANCORP" FISCAL-YEAR-END="1231" IRS-NUMBER="260469120" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="NEW YORK" PHONE="212.445.7800" STATE="NY" STREET1="1370 AVENUE OF THE AMERICAS, 28TH FLOOR" ZIP="10019" /><MAIL-ADDRESS CITY="NEW YORK" STATE="NY" STREET1="1370 AVENUE OF THE AMERICAS, 28TH FLOOR" ZIP="10019" /><FORMER-COMPANY DATE-CHANGED="20070710" FORMER-CONFORMED-NAME="Global Consumer Acquisition Corp." /></ISSUER></SUBMISSION><ownershipDocument documentType="3" noSecuritiesOwned="0" periodOfReport="2010-10-28" schemaVersion="X0203">
+<issuer> issuerCik="0001406251" 
+ issuerName="WESTERN LIBERTY BANCORP" 
+ issuerTradingSymbol="WLBC" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0000939979" 
+ rptOwnerName="SARTINI BLAKE L" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="LAS VEGAS" rptOwnerState="NV" rptOwnerStreet1="8363 W. SUNSET ROAD" rptOwnerStreet2="SUITE 350" rptOwnerZipCode="89113">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="1" 
+ isOfficer="0" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeHolding><securityTitle> value="Common Stock, par value $0.0001 per share" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="227230" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+</nonDerivativeTable>
+<derivativeTable><derivativeHolding><securityTitle> value="Warrants" 
+<footnoteId id="F1" /> 
+</securityTitle>
+<conversionOrExercisePrice> value="21.01" 
+</conversionOrExercisePrice>
+<exerciseDate>
+<footnoteId id="F3" /> 
+</exerciseDate>
+<expirationDate> value="2012-01-17" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock, par value $0.0001 per share" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="3046">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Options" 
+<footnoteId id="F2" /> 
+</securityTitle>
+<conversionOrExercisePrice> value="21.01" 
+</conversionOrExercisePrice>
+<exerciseDate>
+<footnoteId id="F4" /> 
+</exerciseDate>
+<expirationDate> value="2013-04-17" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock, par value $0.0001 per share" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="2046">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Options" 
+<footnoteId id="F2" /> 
+</securityTitle>
+<conversionOrExercisePrice> value="21.01" 
+</conversionOrExercisePrice>
+<exerciseDate>
+<footnoteId id="F5" /> 
+</exerciseDate>
+<expirationDate> value="2013-08-11" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock, par value $0.0001 per share" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="1427">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="Warrants previously issued to Reporting Person in connection with his service as a director of Service1st Bank of Nevada (Service1st) prior to Western Liberty Bancorp&apos;s (WLBC) acquisition of Service1st (the Acquisition) and were converted upon consummation of the Acquisition into warrants of similar tenor to purchase shares of WLBC common stock." /> 
+ <footnote id="F2" text="Options previously issued to Reporting Person in connection with his service as a director of Service1st prior to WLBC&apos;s Acquisition of Service1st and were converted upon consummation of the Acquisition into options of similar tenor to purchase shares of WLBC common stock." /> 
+ <footnote id="F3" text="Represents fully vested and exercisable warrants." /> 
+ <footnote id="F4" text="Represents 1,364 fully vested and exercisable options and 682 options that will vest on April 17, 2011." /> 
+ <footnote id="F5" text="Represents 952 fully vested and exercisable options and 475 options that will vest on August 11, 2011." /> 
+</footnotes>
+ remarks="Exhibit - Exhibit 24 - Power of Attorney" 
+<ownerSignature signatureDate="2010-11-08" signatureName="/s/ George A. Rosenbaum, Jr., Attorney-in-fact">
+</ownerSignature>
+</ownershipDocument></Source>

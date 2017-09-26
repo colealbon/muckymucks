@@ -1,0 +1,95 @@
+<Source file="./0001065407-10-000477.nc">
+<SUBMISSION ACCESSION-NUMBER="0001065407-10-000477" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101105" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001422338" CONFORMED-NAME="CALLANTINE DOUGLAS S" /><FILING-VALUES ACT="34" FILE-NUMBER="000-52705" FILM-NUMBER="101172768" FORM-TYPE="4" /><MAIL-ADDRESS CITY="JENKINTOWN" STATE="PA" STREET1="ABINGTON BANCORP, INC./PA" STREET2="180 OLD YORK ROAD" ZIP="19046" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="6036" CIK="0001397533" CONFORMED-NAME="ABINGTON BANCORP, INC./PA" FISCAL-YEAR-END="1231" IRS-NUMBER="208613037" /><BUSINESS-ADDRESS CITY="JENKINTOWN" PHONE="(215) 886-8280" STATE="PA" STREET1="180 OLD YORK ROAD" ZIP="19046" /><MAIL-ADDRESS CITY="JENKINTOWN" STATE="PA" STREET1="180 OLD YORK ROAD" ZIP="19046" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" periodOfReport="2010-11-05" schemaVersion="X0303">
+<issuer> issuerCik="0001397533" 
+ issuerName="ABINGTON BANCORP, INC./PA" 
+ issuerTradingSymbol="ABBC" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001422338" 
+ rptOwnerName="CALLANTINE DOUGLAS S" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="JENKINTOWN" rptOwnerState="PA" rptOwnerStreet1="C/O ABINGTON BANCORP, INC./PA" rptOwnerStreet2="180 OLD YORK ROAD" rptOwnerZipCode="19046">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="1" 
+ isOfficer="0" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="A" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="100" 
+</transactionShares>
+<transactionPricePerShare value="11.83">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="9126.211" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="By Deferred Compensation Plan">
+<footnoteId id="F1" /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeHolding><securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="27820" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+<footnoteId id="F2" /> 
+</directOrIndirectOwnership>
+<natureOfOwnership><value /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+</nonDerivativeTable>
+<derivativeTable>
+<derivativeHolding><securityTitle> value="Stock Option (Right to Buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="9.11">
+</conversionOrExercisePrice>
+<exerciseDate>
+<footnoteId id="F3" /> 
+</exerciseDate>
+<expirationDate> value="2018-01-30" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="60000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="60000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</derivativeHolding>
+</derivativeTable>
+<footnotes>
+<footnote id="F1" text="The reporting person disclaims beneficial ownership of these securities; and this report shall not be deemed an admission that the reporting person is the beneficial owner of these securities for purposes of Section 16 or for any other purpose." /> 
+ <footnote id="F2" text="Includes 15,000 shares held in the 2007 Recognition and Retention Plan Trust which reflect the unvested portion of a grant amount of 25,000 shares that commenced vesting at a rate of 20% per year on January 30, 2009, and 2,820 shares held jointly with the reporting person&apos;s spouse." /> 
+ <footnote id="F3" text="The options are vesting at a rate of 20% per year commencing on January 30, 2009." /> 
+</footnotes>
+<remarks />
+<ownerSignature> signatureName="/s/ Frank Kovalcheck, P.O.A. for Douglas S. Callantine" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

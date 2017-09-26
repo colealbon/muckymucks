@@ -1,0 +1,106 @@
+<Source file="./0001181431-10-053951.nc">
+<SUBMISSION ACCESSION-NUMBER="0001181431-10-053951" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101105" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001428952" CONFORMED-NAME="HIBBERD DOUGLAS G" /><FILING-VALUES ACT="34" FILE-NUMBER="001-34358" FILM-NUMBER="101171814" FORM-TYPE="4" /><MAIL-ADDRESS CITY="AUSTIN" STATE="TX" STREET1="3711 SOUTH MOPAC EXPRESSWAY" STREET2="BUILDING TWO" ZIP="78746" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="7372" CIK="0001428669" CONFORMED-NAME="SolarWinds, Inc." FISCAL-YEAR-END="1231" IRS-NUMBER="731559348" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="AUSTIN" PHONE="512-682-9500" STATE="TX" STREET1="3711 SOUTH MOPAC EXPRESSWAY" STREET2="BUILDING TWO" ZIP="78746" /><MAIL-ADDRESS CITY="AUSTIN" STATE="TX" STREET1="3711 SOUTH MOPAC EXPRESSWAY" STREET2="BUILDING TWO" ZIP="78746" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-05" schemaVersion="X0303">
+<issuer> issuerCik="0001428669" 
+ issuerName="SolarWinds, Inc." 
+ issuerTradingSymbol="SWI" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001428952" 
+ rptOwnerName="HIBBERD DOUGLAS G" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="AUSTIN" rptOwnerState="TX" rptOwnerStreet1="C/O SOLARWINDS, INC." rptOwnerStreet2="3711 S. MOPAC EXPY., BLDG. TWO" rptOwnerZipCode="78746">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="1" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+ officerTitle="Senior VP, Engineering" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="40566" 
+</transactionShares>
+<transactionPricePerShare value="10.00">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="40566" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="40566" 
+</transactionShares>
+<transactionPricePerShare value="18.7043">
+<footnoteId id="F1" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="D" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="0" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<derivativeTable><derivativeTransaction><securityTitle> value="Employee Stock Option (right to buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="10.00">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="40566" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate><footnoteId id="F2" /> 
+</exerciseDate>
+<expirationDate> value="2019-04-23" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="40566">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="67613" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="This transaction was executed in multiple trades at prices ranging from $18.68 to $18.71, inclusive.  The price reported above reflects the weighted average sale price. The reporting person hereby undertakes to provide upon request to the SEC staff, the issuer or a security holder of the issuer full information regarding the number of shares sold and each separate price within the range set forth in this footnote." /> 
+ <footnote id="F2" text="1/4th of the shares vested on April 23, 2010 and the remainder of the shares vest in equal monthly increments through April 23, 2013." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="/s/ Bryan A. Sims, Attorney-in-Fact for Douglas G. Hibberd">
+</ownerSignature>
+</ownershipDocument></Source>

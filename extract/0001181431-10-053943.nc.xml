@@ -1,0 +1,98 @@
+<Source file="./0001181431-10-053943.nc">
+<SUBMISSION ACCESSION-NUMBER="0001181431-10-053943" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101105" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001230416" CONFORMED-NAME="MACDONALD ANGUS L" /><FILING-VALUES ACT="34" FILE-NUMBER="000-21918" FILM-NUMBER="101171778" FORM-TYPE="4" /><MAIL-ADDRESS CITY="WILSONVILLE" STATE="OR" STREET1="27700 SW PARKWAY AVENUE" ZIP="97070" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="3812" CIK="0000354908" CONFORMED-NAME="FLIR SYSTEMS INC" FISCAL-YEAR-END="1231" IRS-NUMBER="930708501" STATE-OF-INCORPORATION="OR" /><BUSINESS-ADDRESS CITY="WILSONVILLE" PHONE="5034983547" STATE="OR" STREET1="27700 SW PARKWAY AVENUE" ZIP="97070" /><MAIL-ADDRESS CITY="WILSONVILLE" STATE="OR" STREET1="27700 SW PARKWAY AVENUE" ZIP="97070" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-05" schemaVersion="X0303">
+<issuer> issuerCik="0000354908" 
+ issuerName="FLIR SYSTEMS INC" 
+ issuerTradingSymbol="FLIR" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001230416" 
+ rptOwnerName="MACDONALD ANGUS L" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="WILSONVILLE" rptOwnerState="OR" rptOwnerStreet1="27700 SW PARKWAY AVENUE" rptOwnerStreet2="" rptOwnerZipCode="97070" />
+
+
+<reportingOwnerRelationship isDirector="1" isOfficer="0" isOther="0" isTenPercentOwner="0">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="20000" 
+</transactionShares>
+<transactionPricePerShare value="12.91">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="56893" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="20000" 
+</transactionShares>
+<transactionPricePerShare value="28.50">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="36893" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<derivativeTable><derivativeTransaction><securityTitle> value="Non-Qualified Stock Option (right to buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="12.91">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="20000" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate> value="2006-04-26" 
+</exerciseDate>
+<expirationDate value="2016-04-26">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="20000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="0" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<ownerSignature> signatureName="David A. Muessle,  Attorney-in-fact for Angus L. Macdonald" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

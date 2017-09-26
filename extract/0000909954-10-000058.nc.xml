@@ -1,0 +1,105 @@
+<Source file="./0000909954-10-000058.nc">
+<SUBMISSION ACCESSION-NUMBER="0000909954-10-000058" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101105" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001448355" CONFORMED-NAME="Stacy Michelle" /><FILING-VALUES ACT="34" FILE-NUMBER="001-12340" FILM-NUMBER="101171519" FORM-TYPE="4" /><MAIL-ADDRESS CITY="WATERBURY" STATE="VT" STREET1="33 COFFEE LANE" ZIP="05676" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="2090" CIK="0000909954" CONFORMED-NAME="GREEN MOUNTAIN COFFEE ROASTERS INC" FISCAL-YEAR-END="0929" IRS-NUMBER="030339228" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="WATERBURY" PHONE="8022445621" STATE="VT" STREET1="33 COFFEE LANE" ZIP="05676" /><MAIL-ADDRESS CITY="WATERBURY" STATE="VT" STREET1="33 COFFEE LANE" ZIP="05676" /><FORMER-COMPANY DATE-CHANGED="19930729" FORMER-CONFORMED-NAME="GREEN MOUNTAIN COFFEE INC" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-05" schemaVersion="X0303">
+<issuer> issuerCik="0000909954" 
+ issuerName="GREEN MOUNTAIN COFFEE ROASTERS INC" 
+ issuerTradingSymbol="GMCR" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001448355" 
+ rptOwnerName="Stacy Michelle" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="WATERBURY" rptOwnerState="VT" rptOwnerStreet1="33 COFFEE LANE" rptOwnerStreet2="" rptOwnerZipCode="05676" />
+
+
+<reportingOwnerRelationship isDirector="0" isOfficer="1" isOther="0" isTenPercentOwner="0" officerTitle="President, Keurig">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="GMCR Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="10000" 
+</transactionShares>
+<transactionPricePerShare value="6.2">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="11994" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="GMCR Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+<footnoteId id="F1" /> 
+</transactionCoding>
+<transactionTimeliness><value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="10000" 
+</transactionShares>
+<transactionPricePerShare value="35">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="1994" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<derivativeTable><derivativeTransaction><securityTitle> value="GMCR Common Stock Option" 
+</securityTitle>
+<conversionOrExercisePrice value="6.2">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="10000" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate> value="2009-11-03" 
+</exerciseDate>
+<expirationDate value="2018-11-03">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="GMCR Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="10000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="108125" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="This sale was affected pursuant to a Rule 10b5-1 trading plan adopted by Ms. Stacy on 08/13/2010." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="/s/ Valerie Jennings pursuant to a Power of Attorney">
+</ownerSignature>
+</ownershipDocument></Source>

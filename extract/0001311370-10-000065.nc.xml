@@ -1,0 +1,119 @@
+<Source file="./0001311370-10-000065.nc">
+<SUBMISSION ACCESSION-NUMBER="0001311370-10-000065" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001450474" CONFORMED-NAME="Stern Alexander F." /><FILING-VALUES ACT="34" FILE-NUMBER="001-32492" FILM-NUMBER="101172589" FORM-TYPE="4" /><MAIL-ADDRESS CITY="NEW YORK" STATE="NY" STREET1="C/O LAZARD LTD" STREET2="30 ROCKEFELLER PLAZA" ZIP="10020" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="6282" CIK="0001311370" CONFORMED-NAME="Lazard Ltd" FISCAL-YEAR-END="1231" IRS-NUMBER="980437848" STATE-OF-INCORPORATION="D0" /><BUSINESS-ADDRESS CITY="HAMILTON" PHONE="(441) 295-1422" STATE="D0" STREET1="CLARENDON HOUSE" STREET2="2 CHURCH STREET" ZIP="HM II" /><MAIL-ADDRESS CITY="HAMILTON" STATE="D0" STREET1="CLARENDON HOUSE" STREET2="2 CHURCH STREET" ZIP="HM II" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0001311370" 
+ issuerName="Lazard Ltd" 
+ issuerTradingSymbol="LAZ" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001450474" 
+ rptOwnerName="Stern Alexander F." 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="NEW YORK" rptOwnerState="NY" rptOwnerStreet1="C/O LAZARD LTD" rptOwnerStreet2="30 ROCKEFELLER PLAZA" rptOwnerZipCode="10020">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="1" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+ officerTitle="Chief Operating Officer" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Class A common stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="C" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="94174" 
+<footnoteId id="F1" /> 
+</transactionShares>
+<transactionPricePerShare> value="0" 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="112009" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction><securityTitle> value="Class A common stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="94174" 
+</transactionShares>
+<transactionPricePerShare value="35.77">
+<footnoteId id="F2" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="D" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="17835" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<derivativeTable>
+<derivativeTransaction><securityTitle> value="Class II Interests of LAZ-MD Holdings LLC" 
+</securityTitle>
+<conversionOrExercisePrice>
+<footnoteId id="F3" /> 
+</conversionOrExercisePrice>
+<transactionDate> value="2010-11-04" 
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="C" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="94174" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate><footnoteId id="F3" /> 
+</exerciseDate>
+<expirationDate><footnoteId id="F3" /> 
+</expirationDate>
+<underlyingSecurity><underlyingSecurityTitle> value="Class A common stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="94174">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="0" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<footnotes>
+<footnote id="F1" text="The shares of Class A common stock were acquired upon the exchange of Class II interests of LAZ-MD Holdings LLC.  See footnote 3 below." /> 
+ <footnote id="F2" text="Public offering price." /> 
+ <footnote id="F3" text="The Class II Interests of LAZ-MD Holdings are exchangeable on a one for one basis for Class A comon stock of Lazard Ltd." /> 
+</footnotes>
+ remarks="The reporting person also currently holds restricted stock units (RSUs) in Lazard Ltd (the Company) granted pursuant to either the Company's 2005 Equity Incentive Plan or the 2008 Incentive Compensation Plan.  The RSUs were previously reported on a separate Form 4 at the time of the grant." 
+<ownerSignature signatureDate="2010-11-08" signatureName="/s/  Alexander F. Stern by Scott D. Hoffman under PofA">
+</ownerSignature>
+</ownershipDocument></Source>

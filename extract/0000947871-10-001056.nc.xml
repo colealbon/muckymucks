@@ -1,0 +1,53 @@
+<Source file="./0000947871-10-001056.nc">
+<SUBMISSION ACCESSION-NUMBER="0000947871-10-001056" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101105" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001479204" CONFORMED-NAME="Batista Jose JR" /><FILING-VALUES ACT="34" FILE-NUMBER="001-09273" FILM-NUMBER="101174020" FORM-TYPE="4" /><MAIL-ADDRESS CITY="GREELEY" STATE="CO" STREET1="1770 PROMONTORY CIRCLE" ZIP="806349039" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="2015" CIK="0000802481" CONFORMED-NAME="PILGRIMS PRIDE CORP" FISCAL-YEAR-END="1226" IRS-NUMBER="751285071" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="PITTSBURG" PHONE="9034341402" STATE="TX" STREET1="4845 US HWY. 271 N." ZIP="75686" /><MAIL-ADDRESS CITY="PITTSBURG" STATE="TX" STREET1="4845 US HWY. 271 N." ZIP="75686" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-05" schemaVersion="X0303">
+<issuer> issuerCik="0000802481" 
+ issuerName="PILGRIMS PRIDE CORP" 
+ issuerTradingSymbol="PPC" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001479204" 
+ rptOwnerName="Batista Jose JR" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="SAO PAULO" rptOwnerState="D5" rptOwnerStateDescription="BRAZIL" rptOwnerStreet1="AV. BRIGADEIRO FERIA LIMA, 2391" rptOwnerStreet2="2 ANDAR CONJUNTO 22, SALA 2" rptOwnerZipCode="04152-000">
+</reportingOwnerAddress>
+<reportingOwnerRelationship isDirector="1" isOfficer="0" isOther="0" isTenPercentOwner="1">
+<officerTitle /> 
+<otherText />
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="P" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionTimeliness />
+<transactionAmounts><transactionShares> value="7000000" 
+</transactionShares>
+<transactionPricePerShare value="5.96">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="144140425" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+<footnoteId id="F1" /> 
+</directOrIndirectOwnership>
+<natureOfOwnership> value="By JBS USA Holdings, Inc." 
+<footnoteId id="F2" /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<footnotes>
+<footnote id="F1" text="As more particularly described in the Schedule 13D filed by JBS USA Holdings, Inc. (JBS USA) and the other reporting persons identified therein (including the Reporting Owner listed above) (the 13D Reporting Persons) with the United States Securities and Exchange Commission on January 7, 2010, as amended November 8, 2010, the Reporting Owner listed above, together with the other 13D Reporting Persons, share beneficial ownership of the 144,140,425 shares of common stock of Pilgrim&apos;s Pride Corporation directly owned by JBS USA. The ownership of the Reporting Owner listed above is indirect." /> 
+ <footnote id="F2" text="As more particularly described in the Schedule 13D, Jose Batista, Jr., together with the other members of the Batista Family (as defined in the Schedule 13D), indirectly control JBS USA." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="/s/ Christopher Gaddis, by power of attorney">
+</ownerSignature>
+</ownershipDocument></Source>

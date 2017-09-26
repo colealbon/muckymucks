@@ -1,0 +1,202 @@
+<Source file="./0001179110-10-015711.nc">
+<SUBMISSION ACCESSION-NUMBER="0001179110-10-015711" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001402560" CONFORMED-NAME="STOKES THOMAS ANDREW" /><FILING-VALUES ACT="34" FILE-NUMBER="001-11314" FILM-NUMBER="101171780" FORM-TYPE="4" /><MAIL-ADDRESS CITY="WESTLAKE VILLAGE" STATE="CA" STREET1="31365 OAK CREST DRIVE" STREET2="SUITE 200" ZIP="91361" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="6798" CIK="0000887905" CONFORMED-NAME="LTC PROPERTIES INC" FISCAL-YEAR-END="1231" IRS-NUMBER="710720518" STATE-OF-INCORPORATION="MD" /><BUSINESS-ADDRESS CITY="WESTLAKE VILLIAGE" PHONE="805-981-8655" STATE="CA" STREET1="31365 OAK CREST DRIVE" STREET2="SUITE 200" ZIP="91361" /><MAIL-ADDRESS CITY="WESTLAKE VILLIAGE" STATE="CA" STREET1="31365 OAK CREST DRIVE" STREET2="SUITE 200" ZIP="91361" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0000887905" 
+ issuerName="LTC PROPERTIES INC" 
+ issuerTradingSymbol="LTC" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001402560" 
+ rptOwnerName="STOKES THOMAS ANDREW" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="WESTLAKE VILLAGE" rptOwnerState="CA" rptOwnerStreet1="31365 OAK CREST DRIVE" rptOwnerStreet2="SUITE 200" rptOwnerZipCode="91361">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="1" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+ officerTitle="VP, Marketing/Strat. Planning" 
+<otherText /> 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable>
+<nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="600" 
+</transactionShares>
+<transactionPricePerShare value="28.52">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="13422" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="300" 
+</transactionShares>
+<transactionPricePerShare value="28.55">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="13122" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="200" 
+</transactionShares>
+<transactionPricePerShare value="28.38">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="12922" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="400" 
+</transactionShares>
+<transactionPricePerShare value="28.41">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="12522" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-08">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="400" 
+</transactionShares>
+<transactionPricePerShare value="28.36">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="12122" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<derivativeTable><derivativeHolding><securityTitle> value="Stock Options" 
+</securityTitle>
+<conversionOrExercisePrice value="23.47">
+</conversionOrExercisePrice>
+<exerciseDate value="2008-06-08">
+</exerciseDate>
+<expirationDate value="2015-06-08">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="10000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="10000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Stock Options" 
+</securityTitle>
+<conversionOrExercisePrice value="23.47">
+</conversionOrExercisePrice>
+<exerciseDate value="2009-06-08">
+</exerciseDate>
+<expirationDate value="2016-06-08">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="10000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="20000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Stock Options" 
+</securityTitle>
+<conversionOrExercisePrice value="23.47">
+</conversionOrExercisePrice>
+<exerciseDate value="2010-06-08">
+</exerciseDate>
+<expirationDate value="2017-06-08">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="10000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="30000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+</derivativeTable>
+<ownerSignature signatureDate="2010-11-08" signatureName="/s/ T. Andrew Stokes">
+</ownerSignature>
+</ownershipDocument></Source>

@@ -1,0 +1,77 @@
+<Source file="./0001003344-10-000035.nc">
+<SUBMISSION ACCESSION-NUMBER="0001003344-10-000035" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101106" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><ISSUER><COMPANY-DATA ASSIGNED-SIC="3272" CIK="0001003344" CONFORMED-NAME="HEADWATERS INC" FISCAL-YEAR-END="0930" IRS-NUMBER="870547337" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="SOUTH JORDAN" PHONE="8019849400" STATE="UT" STREET1="10653 SOUTH RIVERFRONT PARKWAY" STREET2="SUITE 300" ZIP="84095" /><MAIL-ADDRESS CITY="SOUTH JORDAN" STATE="UT" STREET1="10653 SOUTH RIVERFRONT PARKWAY" STREET2="SUITE 300" ZIP="84095" /><FORMER-COMPANY DATE-CHANGED="19951113" FORMER-CONFORMED-NAME="COVOL TECHNOLOGIES INC" /></ISSUER><REPORTING-OWNER><OWNER-DATA CIK="0001249884" CONFORMED-NAME="HATFIELD HARLAN M" /><FILING-VALUES ACT="34" FILE-NUMBER="001-32459" FILM-NUMBER="101173919" FORM-TYPE="4" /><MAIL-ADDRESS CITY="SOUTH JORDAN" STATE="UT" STREET1="10653 SOUTH RIVER FRONT PARKWAY" STREET2="SUITE 300" ZIP="84095" /></REPORTING-OWNER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-06" schemaVersion="X0303">
+<issuer> issuerCik="0001003344" 
+ issuerName="HEADWATERS INC" 
+ issuerTradingSymbol="HW" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001249884" 
+ rptOwnerName="HATFIELD HARLAN M" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="SOUTH JORDAN" rptOwnerState="UT" rptOwnerStreet1="10653 S. RIVERFRONT PARKWAY, SUITE 300" rptOwnerStreet2="" rptOwnerZipCode="84095" />
+
+
+<reportingOwnerRelationship isDirector="0" isOfficer="1" isOther="0" isTenPercentOwner="0" officerTitle="General Counsel">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Restricted Stock" 
+</securityTitle>
+<transactionDate value="2010-11-06">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="A" transactionFormType="4">
+<footnoteId id="F1" /> 
+</transactionCoding>
+<transactionAmounts><transactionShares> value="13464" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="30448" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<derivativeTable><derivativeTransaction><securityTitle> value="Stock Appreciation Rights" 
+</securityTitle>
+<conversionOrExercisePrice value="3.81">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-06">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="A" transactionFormType="4">
+<footnoteId id="F1" /> 
+</transactionCoding>
+<transactionAmounts><transactionShares> value="22073" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate> value="2011-09-30" 
+</exerciseDate>
+<expirationDate value="2020-09-30">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="22073">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="22073" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="Vesting pro rata yearly for a period of 3 years on September 30th" /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="Harlan M. Hatfield">
+</ownerSignature>
+</ownershipDocument></Source>

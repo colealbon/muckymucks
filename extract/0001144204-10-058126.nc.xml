@@ -1,0 +1,68 @@
+<Source file="./0001144204-10-058126.nc">
+<SUBMISSION ACCESSION-NUMBER="0001144204-10-058126" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001313516" CONFORMED-NAME="JORDEN DAVID EMERSON" /><FILING-VALUES ACT="34" FILE-NUMBER="001-32518" FILM-NUMBER="101171228" FORM-TYPE="4" /><MAIL-ADDRESS CITY="THE WOODLANDS" STATE="TX" STREET1="2635 TECHNOLOGY FOREST BLVD." ZIP="77381" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="3841" CIK="0001091596" CONFORMED-NAME="CYTOMEDIX INC" FISCAL-YEAR-END="1231" IRS-NUMBER="232958959" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="GAITHERSBURG," PHONE="240-499-2680" STATE="MD" STREET1="209 PERRY PARKWAY," STREET2="SUITE 7" ZIP="20877" /><MAIL-ADDRESS CITY="GAITHERSBURG," STATE="MD" STREET1="209 PERRY PARKWAY," STREET2="SUITE 7" ZIP="20877" /><FORMER-COMPANY DATE-CHANGED="20000407" FORMER-CONFORMED-NAME="AUTOLOGOUS WOUND THERAPY INC" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0001091596" 
+ issuerName="CYTOMEDIX INC" 
+ issuerTradingSymbol="GTF" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001313516" 
+ rptOwnerName="JORDEN DAVID EMERSON" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="GAITHERSBURG" rptOwnerState="MD" rptOwnerStreet1="209 PERRY PARKWAY" rptOwnerStreet2="SUITE 7" rptOwnerZipCode="20877">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="1" 
+ isOfficer="0" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="P" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="18400" 
+</transactionShares>
+<transactionPricePerShare value="0.49">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="4713400" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="P" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="21600" 
+</transactionShares>
+<transactionPricePerShare value="0.50">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="4735000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<ownerSignature> signatureName="/s/ David E. Jorden" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

@@ -1,0 +1,107 @@
+<Source file="./0001231488-10-000019.nc">
+<SUBMISSION ACCESSION-NUMBER="0001231488-10-000019" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001231470" CONFORMED-NAME="BEAUCHESNE WILLIAM K" /><FILING-VALUES ACT="34" FILE-NUMBER="000-28635" FILM-NUMBER="101171065" FORM-TYPE="4" /><MAIL-ADDRESS CITY="GAINESVILLE" STATE="VA" STREET1="8200 ARROWLEAF TURN" ZIP="20155" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="6022" CIK="0001099305" CONFORMED-NAME="VIRGINIA COMMERCE BANCORP INC" FISCAL-YEAR-END="1231" IRS-NUMBER="541964895" /><BUSINESS-ADDRESS CITY="ARLINGTON" PHONE="7035340700" STATE="VA" STREET1="5350 LEE HIGHWAY" ZIP="22207" /><MAIL-ADDRESS CITY="ARLINGTON" STATE="VA" STREET1="5350 LEE HIGHWAY" ZIP="22207" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0001099305" 
+ issuerName="VIRGINIA COMMERCE BANCORP INC" 
+ issuerTradingSymbol="vcbi" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001231470" 
+ rptOwnerName="BEAUCHESNE WILLIAM K" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="GAINESVILLE" rptOwnerState="VA" rptOwnerStreet1="8200 ARROWLEAF TURN" rptOwnerStreet2="" rptOwnerZipCode="20155" />
+
+
+<reportingOwnerRelationship isDirector="0" isOfficer="1" isOther="0" isTenPercentOwner="0" officerTitle="Executive Vice President">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="25500" 
+</transactionShares>
+<transactionPricePerShare value="1.5379">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="38937" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="9000" 
+</transactionShares>
+<transactionPricePerShare value="5.638">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="29937" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<derivativeTable><derivativeTransaction><securityTitle> value="Common Stock Options" 
+</securityTitle>
+<conversionOrExercisePrice value="1.5379">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="25500" 
+</transactionShares>
+<transactionPricePerShare value="1.5379">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate> value="2002-01-10" 
+</exerciseDate>
+<expirationDate value="2011-01-10">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock Options" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="25500">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="0" 
+<footnoteId id="F1" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="Mr. Beauchesne also has options to purchase an additional 109,306 shares of common stock at various prices which expire at various times." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="William K. Beauchesne">
+</ownerSignature>
+</ownershipDocument></Source>

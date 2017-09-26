@@ -1,0 +1,107 @@
+<Source file="./0001111928-10-000169.nc">
+<SUBMISSION ACCESSION-NUMBER="0001111928-10-000169" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><ISSUER><COMPANY-DATA ASSIGNED-SIC="3674" CIK="0001111928" CONFORMED-NAME="IPG PHOTONICS CORP" IRS-NUMBER="043444218" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="OXFORD" PHONE="5083731100" STATE="MA" STREET1="50 OLD WEBSTER ROAD" ZIP="01540" /><MAIL-ADDRESS CITY="OXFORD" STATE="MA" STREET1="50 OLD WEBSTER ROAD" ZIP="01540" /></ISSUER><REPORTING-OWNER><OWNER-DATA CIK="0001130423" CONFORMED-NAME="IP FIBRE DEVICES LTD" FISCAL-YEAR-END="1231" /><FILING-VALUES ACT="34" FILE-NUMBER="001-33155" FILM-NUMBER="101173045" FORM-TYPE="4" /><BUSINESS-ADDRESS CITY="STURBRIDGE" PHONE="5083476800" STATE="MA" STREET1="C/O IPG PHOTONICS CORP" STREET2="660 MAIN STREET" ZIP="01566" /><MAIL-ADDRESS CITY="STURBRIDGE" STATE="MA" STREET1="660 MAIN STREET" ZIP="01566" /></REPORTING-OWNER></SUBMISSION><ownershipDocument documentType="4" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0001111928" 
+ issuerName="IPG PHOTONICS CORP" 
+ issuerTradingSymbol="IPGP" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001130423" 
+ rptOwnerName="IP FIBRE DEVICES LTD" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="OXFORD" rptOwnerState="MA" rptOwnerStreet1="C/O IPG PHOTONICS CORPORATION" rptOwnerStreet2="50 OLD WEBSTER ROAD" rptOwnerZipCode="01540">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="0" 
+ isTenPercentOwner="1" 
+ isOther="0" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+<footnoteId id="F1" /> 
+</transactionCoding>
+<transactionAmounts><transactionShares> value="27000" 
+</transactionShares>
+<transactionPricePerShare value="25.12">
+<footnoteId id="F2" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="D" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="7577002" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+<footnoteId id="F1" /> 
+</transactionCoding>
+<transactionAmounts><transactionShares> value="16400" 
+</transactionShares>
+<transactionPricePerShare value="25.12">
+<footnoteId id="F3" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="D" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="7560602" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-08">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+<footnoteId id="F1" /> 
+</transactionCoding>
+<transactionAmounts><transactionShares> value="56600" 
+</transactionShares>
+<transactionPricePerShare value="25.60">
+<footnoteId id="F4" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="D" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="7504002" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<footnotes>
+<footnote id="F1" text="The sales reported in this Form 4 were effected pursuant to a Rule 10b5-1 trading plan adopted by the reporting person on September 13, 2010." /> 
+ <footnote id="F2" text="The reported transaction involved sales transactions from $25.00 to $25.30 per share.  The Reporting Person undertakes to provide upon request by the SEC staff, the Issuer or a security holder of the Issuer information regarding the number of shares sold at each separate price." /> 
+ <footnote id="F3" text="The reported transaction involved sales transactions from $25.00 to $25.26 per share.  The Reporting Person undertakes to provide upon request by the SEC staff, the Issuer or a security holder of the Issuer information regarding the number of shares sold at each separate price." /> 
+ <footnote id="F4" text="The reported transaction involved sales transactions from $25.14 to $25.94 per share.  The Reporting Person undertakes to provide upon request by the SEC staff, the Issuer or a security holder of the Issuer information regarding the number of shares sold at each separate price." /> 
+</footnotes>
+<remarks />
+<ownerSignature> signatureName="Angelo P. Lopresti, Attorney-in-fact" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

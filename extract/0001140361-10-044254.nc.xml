@@ -1,0 +1,53 @@
+<Source file="./0001140361-10-044254.nc">
+<SUBMISSION ACCESSION-NUMBER="0001140361-10-044254" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001380491" CONFORMED-NAME="Kleinman Mitchell B" /><FILING-VALUES ACT="34" FILE-NUMBER="001-33138" FILM-NUMBER="101173357" FORM-TYPE="4" /><MAIL-ADDRESS CITY="NEW YORK" STATE="NY" STREET1="C/O KBW, INC." STREET2="787 SEVENTH AVENUE" ZIP="10019" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="6211" CIK="0001063494" CONFORMED-NAME="KBW, INC." FISCAL-YEAR-END="1017" IRS-NUMBER="134055775" /><BUSINESS-ADDRESS CITY="NEW YORK" PHONE="212887-7777" STATE="NY" STREET1="787 SEVENTH AVENUE" ZIP="10019" /><MAIL-ADDRESS CITY="NEW YORK" STATE="NY" STREET1="787 SEVENTH AVENUE" ZIP="10019" /><FORMER-COMPANY DATE-CHANGED="19980605" FORMER-CONFORMED-NAME="KBW INC" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0001063494" 
+ issuerName="KBW, INC." 
+ issuerTradingSymbol="KBW" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001380491" 
+ rptOwnerName="Kleinman Mitchell B" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="NEW YORK" rptOwnerState="NY" rptOwnerStreet1="C/O KBW, INC." rptOwnerStreet2="787 SEVENTH AVENUE" rptOwnerZipCode="10019">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="1" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+ officerTitle="General Counsel" 
+<otherText /> 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable>
+<nonDerivativeTransaction><securityTitle> value="Common Stock, par value $0.01 per share" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="S" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="5000" 
+</transactionShares>
+<transactionPricePerShare value="25.15">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="258751" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<derivativeTable /> 
+<remarks /> 
+<ownerSignature signatureDate="2010-11-08" signatureName="/s/ Mitchell B. Kleinman">
+</ownerSignature>
+</ownershipDocument></Source>

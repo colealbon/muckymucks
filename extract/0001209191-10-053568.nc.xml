@@ -1,0 +1,128 @@
+<Source file="./0001209191-10-053568.nc">
+<SUBMISSION ACCESSION-NUMBER="0001209191-10-053568" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101105" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001251199" CONFORMED-NAME="MCALEA KEVIN" /><FILING-VALUES ACT="34" FILE-NUMBER="001-34220" FILM-NUMBER="101171201" FORM-TYPE="4" /><MAIL-ADDRESS CITY="ROCK HILL" STATE="SC" STREET1="3D SYSTEMS CORPORATION" STREET2="333 THREE D SYSTEMS CIRCLE" ZIP="29730" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="7372" CIK="0000910638" CONFORMED-NAME="3D SYSTEMS CORP" FISCAL-YEAR-END="1231" IRS-NUMBER="954431352" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="ROCK HILL" PHONE="8033263900" STATE="SC" STREET1="333 THREE D SYSTEMS CIRCLE" ZIP="29730" /><MAIL-ADDRESS CITY="ROCK HILL" STATE="SC" STREET1="333 THREE D SYSTEMS CIRCLE" ZIP="29730" /><FORMER-COMPANY DATE-CHANGED="19930816" FORMER-CONFORMED-NAME="3 D SYSTEMS CORP" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-05" schemaVersion="X0303">
+<issuer> issuerCik="0000910638" 
+ issuerName="3D SYSTEMS CORP" 
+ issuerTradingSymbol="TDSC" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001251199" 
+ rptOwnerName="MCALEA KEVIN" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="ROCK HILL" rptOwnerState="SC" rptOwnerStreet1="333 THREE D SYSTEMS CIRCLE" rptOwnerStreet2="" rptOwnerZipCode="29730" />
+
+
+<reportingOwnerRelationship isDirector="0" isOfficer="1" isOther="0" isTenPercentOwner="0" officerTitle="Vice President">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="S" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="105" 
+</transactionShares>
+<transactionPricePerShare value="27.98">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="31516" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="S" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="188" 
+</transactionShares>
+<transactionPricePerShare value="27.985">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="31328" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="S" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="100" 
+</transactionShares>
+<transactionPricePerShare value="27.99">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="31228" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="S" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="500" 
+</transactionShares>
+<transactionPricePerShare value="27.9925">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="30728" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+ remarks="Due to SEC limitations only 30 transactions can be submitted at one time; therefore, this is Form 2 of 2." 
+<ownerSignature signatureDate="2010-11-08" signatureName="/s/Robert M. Grace, Jr., Attorney-in-Fact">
+</ownerSignature>
+</ownershipDocument></Source>

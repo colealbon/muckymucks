@@ -1,0 +1,67 @@
+<Source file="./0001140361-10-044203.nc">
+<SUBMISSION ACCESSION-NUMBER="0001140361-10-044203" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001398355" CONFORMED-NAME="MILLS JOSEPH A" /><FILING-VALUES ACT="34" FILE-NUMBER="001-33016" FILM-NUMBER="101172985" FORM-TYPE="4" /><MAIL-ADDRESS CITY="HOUSTON" STATE="TX" STREET1="EAGLE ROCK ENERGY PARTNERS, L.P." STREET2="P.O. BOX 2968" ZIP="77252-2968" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="1311" CIK="0001364541" CONFORMED-NAME="EAGLE ROCK ENERGY PARTNERS L P" FISCAL-YEAR-END="1231" IRS-NUMBER="680629883" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="HOUSTON" PHONE="281-408-1200" STATE="TX" STREET1="THE WEDGE TOWER" STREET2="1415 LOUISIANA STREET, SUITE 2700" ZIP="77002" /><MAIL-ADDRESS CITY="HOUSTON" STATE="TX" STREET1="P.O. BOX 2968" ZIP="77252" /><FORMER-COMPANY DATE-CHANGED="20060531" FORMER-CONFORMED-NAME="Eagle Rock Energy Partners, L.P." /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0001364541" 
+ issuerName="EAGLE ROCK ENERGY PARTNERS L P" 
+ issuerTradingSymbol="EROC" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001398355" 
+ rptOwnerName="MILLS JOSEPH A" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="HOUSTON" rptOwnerState="TX" rptOwnerStreet1="EAGLE ROCK ENERGY PARTNERS, L.P." rptOwnerStreet2="P.O. BOX 2968" rptOwnerZipCode="77252">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="1" 
+ isOfficer="1" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+ officerTitle="CEO and Chairman" 
+<otherText /> 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable />
+<derivativeTable><derivativeTransaction><securityTitle> value="Warrants" 
+<footnoteId id="F1" /> 
+</securityTitle>
+<conversionOrExercisePrice> value="6.00" 
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="S" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="16000" 
+</transactionShares>
+<transactionPricePerShare value="1.75">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate> value="2010-08-15" 
+</exerciseDate>
+<expirationDate value="2012-05-15">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Units" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="16000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="28000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="Sale of warrants pursuant to a Rule 10b5-1 trading plan." /> 
+</footnotes>
+ remarks="The reporting person is Chief Executive Officer and Chairman of Eagle Rock Energy G&amp;P, LLC, the general partner of Eagle Rock Energy GP, L.P., the general partner of registrant." 
+<ownerSignature signatureDate="2010-11-08" signatureName="/s/ Charles C. Boettcher, Attorney-In-Fact">
+</ownerSignature>
+</ownershipDocument></Source>

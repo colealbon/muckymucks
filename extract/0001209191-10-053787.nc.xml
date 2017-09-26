@@ -1,0 +1,53 @@
+<Source file="./0001209191-10-053787.nc">
+<SUBMISSION ACCESSION-NUMBER="0001209191-10-053787" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101108" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001188248" CONFORMED-NAME="JONES ROBERTSON C" /><FILING-VALUES ACT="34" FILE-NUMBER="000-25092" FILM-NUMBER="101173947" FORM-TYPE="4" /><MAIL-ADDRESS CITY="TEMPE" STATE="AZ" STREET1="INSIGHT ENTERPRISES INC" STREET2="1305 WEST AUTO DRIVE" ZIP="85284" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="5961" CIK="0000932696" CONFORMED-NAME="INSIGHT ENTERPRISES INC" FISCAL-YEAR-END="1231" IRS-NUMBER="860766246" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="TEMPE" PHONE="480-902-1001" STATE="AZ" STREET1="1305 WEST AUTO DRIVE" ZIP="85284" /><MAIL-ADDRESS CITY="TEMPE" STATE="AZ" STREET1="1305 WEST AUTO DRIVE" ZIP="85284" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-08" schemaVersion="X0303">
+<issuer> issuerCik="0000932696" 
+ issuerName="INSIGHT ENTERPRISES INC" 
+ issuerTradingSymbol="NSIT" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001188248" 
+ rptOwnerName="JONES ROBERTSON C" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="TEMPE" rptOwnerState="AZ" rptOwnerStreet1="6820 SOUTH HARL AVENUE" rptOwnerStreet2="" rptOwnerZipCode="85283" />
+
+
+<reportingOwnerRelationship isDirector="1" isOfficer="0" isOther="0" isTenPercentOwner="0">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stcok" 
+</securityTitle>
+<transactionDate value="2010-11-08">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="S" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="5000" 
+</transactionShares>
+<transactionPricePerShare value="13.42">
+<footnoteId id="F1" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="D" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="14614" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="By Trust">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<footnotes> <footnote id="F1" text="The price reported in column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging $13.40 to $13.45, inclusive. The reporting person undertakes to provide to the issuer, any security holder of the issuer, or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range set forth in this footnote." /> 
+</footnotes>
+<remarks />
+<ownerSignature> signatureName="Mark N. Rogers, by Power of Attorney, for Robertson C. Jones" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

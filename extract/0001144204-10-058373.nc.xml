@@ -1,0 +1,210 @@
+<Source file="./0001144204-10-058373.nc">
+<SUBMISSION ACCESSION-NUMBER="0001144204-10-058373" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001332727" CONFORMED-NAME="MCDOUGAL ROBERT D" /><FILING-VALUES ACT="34" FILE-NUMBER="000-30995" FILM-NUMBER="101174082" FORM-TYPE="4" /><MAIL-ADDRESS CITY="RENO" STATE="NV" STREET1="3500 LAKESIDE COURT" STREET2="SUITE 206" ZIP="89509" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="1000" CIK="0001084226" CONFORMED-NAME="Searchlight Minerals Corp." FISCAL-YEAR-END="1231" IRS-NUMBER="980232244" STATE-OF-INCORPORATION="NV" /><BUSINESS-ADDRESS CITY="HENDERSON" PHONE="(702) 939-5247" STATE="NV" STREET1="#120 - 2441 WEST HORIZON RIDGE PARKWAY" ZIP="89052" /><MAIL-ADDRESS CITY="HENDERSON" STATE="NV" STREET1="#120 - 2441 WEST HORIZON RIDGE PARKWAY" ZIP="89052" /><FORMER-COMPANY DATE-CHANGED="20050516" FORMER-CONFORMED-NAME="PHAGE GENOMICS, INC" /><FORMER-COMPANY DATE-CHANGED="20031231" FORMER-CONFORMED-NAME="PHAGE GENOMICS INC" /><FORMER-COMPANY DATE-CHANGED="20020221" FORMER-CONFORMED-NAME="REGMA BIO TECHNOLOGIES LTD" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0001084226" 
+ issuerName="Searchlight Minerals Corp." 
+ issuerTradingSymbol="SRCH" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001332727" 
+ rptOwnerName="MCDOUGAL ROBERT D" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="RENO" rptOwnerState="NV" rptOwnerStreet1="3500 LAKESIDE COURT" rptOwnerStreet2="SUITE 206" rptOwnerZipCode="89509">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="1" 
+ isOfficer="0" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="SHARES OF COMMON STOCK" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="124100" 
+</transactionShares>
+<transactionPricePerShare value="0.44">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="238155" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeHolding>
+<securityTitle> value="SHARES OF COMMON STOCK" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="51041" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="Robert D. McDougal and Edna D. McDougal Family Trust dated December 13, 2007">
+<footnoteId id="F1" /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+</nonDerivativeTable>
+<derivativeTable>
+<derivativeHolding><securityTitle> value="Options" 
+</securityTitle>
+<conversionOrExercisePrice value="0.975">
+</conversionOrExercisePrice>
+<exerciseDate value="2010-09-30">
+</exerciseDate>
+<expirationDate value="2015-09-30">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="18462">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="18462" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Options" 
+</securityTitle>
+<conversionOrExercisePrice value="2.40">
+</conversionOrExercisePrice>
+<exerciseDate value="2006-06-06">
+</exerciseDate>
+<expirationDate value="2011-06-06">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="50000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="50000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeTransaction>
+<securityTitle> value="Options" 
+</securityTitle>
+<conversionOrExercisePrice value="0.44">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="D" transactionFormType="4">
+<footnoteId id="F2" /> 
+</transactionCoding>
+<transactionAmounts><transactionShares> value="300000" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate> value="2005-11-21" 
+</exerciseDate>
+<expirationDate value="2010-11-21">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="300000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="125734" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+<derivativeTransaction>
+<securityTitle> value="Options" 
+</securityTitle>
+<conversionOrExercisePrice value="0.44">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="124100" 
+</transactionShares>
+<transactionPricePerShare value="0.44">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate> value="2005-11-21" 
+</exerciseDate>
+<expirationDate value="2010-11-21">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="124100">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="1634" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+<derivativeTransaction>
+<securityTitle> value="Options" 
+</securityTitle>
+<conversionOrExercisePrice value="0.61">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="A" transactionFormType="4">
+<footnoteId id="F2" /> 
+</transactionCoding>
+<transactionAmounts><transactionShares> value="200000" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate> value="2010-11-04" 
+</exerciseDate>
+<expirationDate value="2011-11-21">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="200000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="200000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<footnotes><footnote id="F1" text="The 51,041 shares of common stock of Searchlight Minerals Corp. are held by Mr. McDougal as a trustee for the Robert D.McDougal and Edna D. McDougal Family Trust Dated December 13, 2007. Mr. McDougal has voting and investment power over theshares." />
+<footnote id="F2" text="On November 4, 2010, the reporting person cancelled 300,000 options with an exercise price of $0.44 and an expiration date ofNovember 21, 2010.  In addition, the reporting person was granted 200,000 new options under the issuer&apos;s 2003 NonqualifiedStock Option Plan. The new options have an exercise price of $0.61 and an expiration date of November 21, 2011." />
+</footnotes>
+<ownerSignature> signatureName="/s/ Carl S. Ager as Attorney in Fact for Robert D. McDougal" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

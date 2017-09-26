@@ -1,0 +1,275 @@
+<Source file="./0001144204-10-058353.nc">
+<SUBMISSION ACCESSION-NUMBER="0001144204-10-058353" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20100625" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001298869" CONFORMED-NAME="Park Helen R" /><FILING-VALUES ACT="34" FILE-NUMBER="000-24921" FILM-NUMBER="101173642" FORM-TYPE="4" /><MAIL-ADDRESS CITY="HUNTSVILLE" STATE="TX" STREET1="123 SUNSET LAKE" ZIP="77340" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="8731" CIK="0001063530" CONFORMED-NAME="POWER 3 MEDICAL PRODUCTS INC" FISCAL-YEAR-END="1231" IRS-NUMBER="650565144" STATE-OF-INCORPORATION="NY" /><BUSINESS-ADDRESS CITY="THE WOODLANDS" PHONE="281-466-1600" STATE="TX" STREET1="3400 RESEARCH FOREST DR" STREET2="SUITE B2-3" ZIP="77381" /><MAIL-ADDRESS CITY="THE WOODLANDS" STATE="TX" STREET1="3400 RESEARCH FOREST DR" STREET2="SUITE B2-3" ZIP="77381" /><FORMER-COMPANY DATE-CHANGED="19980924" FORMER-CONFORMED-NAME="SURGICAL SAFETY PRODUCTS INC" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-06-25" schemaVersion="X0303">
+<issuer> issuerCik="0001063530" 
+ issuerName="POWER 3 MEDICAL PRODUCTS INC" 
+ issuerTradingSymbol="PWRM" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001298869" 
+ rptOwnerName="Park Helen R" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="THE WOODLANDS" rptOwnerState="TX" rptOwnerStreet1="26022 BUDDE ROAD" rptOwnerStreet2="" rptOwnerZipCode="77380" />
+
+
+<reportingOwnerRelationship isDirector="1" isOfficer="1" isOther="0" isTenPercentOwner="0" officerTitle="Interim CEO and Interim CFO">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common stock, $0.001 par value" 
+</securityTitle>
+<transactionDate value="2010-06-25">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="5">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="202562" 
+<footnoteId id="F1" /> 
+</transactionShares>
+<transactionPricePerShare> value="7495" 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="25329775" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="See Footnote">
+<footnoteId id="F2" /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction><securityTitle> value="Common stock, $0.001 par value" 
+</securityTitle>
+<transactionDate value="2010-06-28">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="5">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="178625" 
+<footnoteId id="F1" /> 
+</transactionShares>
+<transactionPricePerShare> value="6610" 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="25151150" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="See Footnote">
+<footnoteId id="F2" /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction><securityTitle> value="Common stock, $0.001 par value" 
+</securityTitle>
+<transactionDate value="2010-06-30">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="5">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="118813" 
+<footnoteId id="F1" /> 
+</transactionShares>
+<transactionPricePerShare> value="4397" 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="25032337" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="See Footnote">
+<footnoteId id="F2" /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction><securityTitle> value="Common stock, $0.001 par value" 
+</securityTitle>
+<transactionDate value="2010-07-06">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="5">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="156990" 
+<footnoteId id="F1" /> 
+</transactionShares>
+<transactionPricePerShare> value="6123" 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="24875347" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="See Footnote">
+<footnoteId id="F2" /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction><securityTitle> value="Common stock, $0.001 par value" 
+</securityTitle>
+<transactionDate value="2010-07-07">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="5">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="198800" 
+<footnoteId id="F1" /> 
+</transactionShares>
+<transactionPricePerShare> value="7754" 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="24676547" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="See Footnote">
+<footnoteId id="F2" /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction><securityTitle> value="Common stock, $0.001 par value" 
+</securityTitle>
+<transactionDate value="2010-07-08">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="5">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="23500" 
+<footnoteId id="F1" /> 
+</transactionShares>
+<transactionPricePerShare> value="917" 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="24653047" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="See Footnote">
+<footnoteId id="F2" /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction><securityTitle> value="Common stock, $0.001 par value" 
+</securityTitle>
+<transactionDate value="2010-07-20">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="5">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="5000" 
+<footnoteId id="F1" /> 
+</transactionShares>
+<transactionPricePerShare> value="195" 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="24648047" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="See Footnote">
+<footnoteId id="F2" /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction><securityTitle> value="Common stock, $0.001 par value" 
+</securityTitle>
+<transactionDate value="2010-09-01">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="5">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="500000" 
+<footnoteId id="F1" /> 
+</transactionShares>
+<transactionPricePerShare> value="11500" 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="24148047" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="See Footnote">
+<footnoteId id="F2" /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction><securityTitle> value="Common stock, $0.001 par value" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="5">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="400000" 
+<footnoteId id="F1" /> 
+</transactionShares>
+<transactionPricePerShare> value="7476" 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="23748047" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="See Footnote">
+<footnoteId id="F2" /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction><securityTitle> value="Common stock, $0.001 par value" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="5">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="215710" 
+<footnoteId id="F1" /> 
+</transactionShares>
+<transactionPricePerShare> value="3991" 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="23532337" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="See Footnote">
+<footnoteId id="F2" /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<footnotes>
+<footnote id="F1" text="These shares were sold by the reporting person so that the net proceeds could be used by the reporting person primarily topay certain debt obligations that Power3 Medical Products, Inc. owed to third parties." />
+<footnote id="F2" text="These shares were issued to Bronco Technology, Inc., a company of which the reporting person owns all of the issued andoutstanding capital stock." />
+</footnotes>
+<ownerSignature> signatureName="/s/ Helen R. Park" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

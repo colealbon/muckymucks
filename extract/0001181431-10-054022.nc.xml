@@ -1,0 +1,49 @@
+<Source file="./0001181431-10-054022.nc">
+<SUBMISSION ACCESSION-NUMBER="0001181431-10-054022" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA ASSIGNED-SIC="6021" CIK="0000072971" CONFORMED-NAME="WELLS FARGO &amp; CO/MN" FISCAL-YEAR-END="1231" STATE-OF-INCORPORATION="DE" /><FILING-VALUES ACT="34" FILE-NUMBER="001-34143" FILM-NUMBER="101172520" FORM-TYPE="4" /><BUSINESS-ADDRESS CITY="SAN FRANCISCO" PHONE="6126671234" STATE="CA" STREET1="420 MONTGOMERY STREET" ZIP="94163" /><MAIL-ADDRESS CITY="SAN FRANCISCO" STATE="CA" STREET1="WELLS FARGO &amp; COMPANY" STREET2="420 MONTGOMERY STREET" ZIP="94163" /><FORMER-NAME DATE-CHANGED="19920703" FORMER-CONFORMED-NAME="NORWEST CORP" /><FORMER-NAME DATE-CHANGED="19830516" FORMER-CONFORMED-NAME="NORTHWEST BANCORPORATION" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="7370" CIK="0001107694" CONFORMED-NAME="RACKSPACE HOSTING, INC." FISCAL-YEAR-END="1231" IRS-NUMBER="743016523" /><BUSINESS-ADDRESS CITY="SAN ANTONIO" PHONE="2103124000" STATE="TX" STREET1="5000 WALZEM RD." ZIP="78218" /><MAIL-ADDRESS CITY="SAN ANTONIO" STATE="TX" STREET1="5000 WALZEM RD." ZIP="78218" /><FORMER-COMPANY DATE-CHANGED="20080403" FORMER-CONFORMED-NAME="RACKSPACE INC" /><FORMER-COMPANY DATE-CHANGED="20000725" FORMER-CONFORMED-NAME="RACKSPACE MANAGED HOSTING INC" /><FORMER-COMPANY DATE-CHANGED="20000224" FORMER-CONFORMED-NAME="RACKSPACE COM INC" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0001107694" 
+ issuerName="RACKSPACE HOSTING, INC." 
+ issuerTradingSymbol="RAX" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0000072971" 
+ rptOwnerName="WELLS FARGO &amp; CO/MN" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="SAN FRANCISCO" rptOwnerState="CA" rptOwnerStreet1="420 MONTGOMERY STREET" rptOwnerStreet2="" rptOwnerZipCode="94104" />
+
+
+<reportingOwnerRelationship isDirector="0" isOfficer="0" isOther="0" isTenPercentOwner="1">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="125000" 
+</transactionShares>
+<transactionPricePerShare value="26.43">
+<footnoteId id="F1" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="D" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="16501097" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="By Subsidiary">
+<footnoteId id="F2" /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<footnotes>
+<footnote id="F1" text="The prices for the sales of these shares ranged from $26.00 to $26.99.   The reporting person hereby undertakes to provide, upon written request, to the SEC Staff, the issuer or a security holder of the issuer full information regarding the number of shares and prices at which the transaction is effected." /> 
+ <footnote id="F2" text="Shares held of record by Norwest Limited LP, LLLP, an indirectly wholly-owned subsidiary of Wells Fargo &amp; Company (Wells Fargo).  Wells Fargo disclaims beneficial interest in such securities, except to the extent of its pecuniary interest therein." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="/s/ Laurel A. Holschuh, Senior Vice President and Secretary">
+</ownerSignature>
+</ownershipDocument></Source>

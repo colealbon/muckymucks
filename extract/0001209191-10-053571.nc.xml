@@ -1,0 +1,123 @@
+<Source file="./0001209191-10-053571.nc">
+<SUBMISSION ACCESSION-NUMBER="0001209191-10-053571" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101105" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><ISSUER><COMPANY-DATA ASSIGNED-SIC="5110" CIK="0000355999" CONFORMED-NAME="UNITED STATIONERS INC" FISCAL-YEAR-END="1231" IRS-NUMBER="363141189" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="DEERFIELD" PHONE="847-627-7000" STATE="IL" STREET1="ONE PARKWAY NORTH BOULEVARD" ZIP="60015-2559" /><MAIL-ADDRESS CITY="DEERFIELD" STATE="IL" STREET1="ONE PARKWAY NORTH BOULEVARD" ZIP="60015-2559" /></ISSUER><REPORTING-OWNER><OWNER-DATA CIK="0001258393" CONFORMED-NAME="PHIPPS PAUL CODY" /><FILING-VALUES ACT="34" FILE-NUMBER="000-10653" FILM-NUMBER="101171230" FORM-TYPE="4" /><MAIL-ADDRESS CITY="DEERFIELD" STATE="IL" STREET1="ONE PARKWAY NORTH BOULEVARD" ZIP="60015-2559" /></REPORTING-OWNER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-05" schemaVersion="X0303">
+<issuer> issuerCik="0000355999" 
+ issuerName="UNITED STATIONERS INC" 
+ issuerTradingSymbol="USTR" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001258393" 
+ rptOwnerName="PHIPPS PAUL CODY" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="DEERFIELD" rptOwnerState="IL" rptOwnerStreet1="C/O UNITED STATIONERS" rptOwnerStreet2="ONE PARKWAY NORTH BLVD." rptOwnerZipCode="60015">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="1" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+ officerTitle="Pres, United Stationers Supply" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="M" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="1000" 
+</transactionShares>
+<transactionPricePerShare value="40.00">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="29146" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="S" 
+ equitySwapInvolved="0" 
+<footnoteId id="F1" /> 
+</transactionCoding>
+<transactionTimeliness><value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="1000" 
+</transactionShares>
+<transactionPricePerShare value="60.00">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="28146" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<derivativeTable><derivativeTransaction><securityTitle> value="Employee Stock Options (right to buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="40.00">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="M" 
+ equitySwapInvolved="0" 
+<footnoteId id="F2" /> 
+</transactionCoding>
+<transactionTimeliness><value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="1000" 
+</transactionShares>
+<transactionPricePerShare value="0.00">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate><footnoteId id="F3" /> 
+</exerciseDate>
+<expirationDate> value="2013-08-18" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="1000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="66000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="The sales reported in this Form 4 were effected pursuant to a Rule 10b5-1 plan adopted by the reporting person on March 9, 2007 and amended on March 10, 2010." /> 
+ <footnote id="F2" text="The exercise of options reported in this Form 4 were effected pursuant to a Rule 10b5-1 plan adopted by the reporting person on March 9, 2007 and amended on March 10, 2010." /> 
+ <footnote id="F3" text="Stock Options exercisable in three substantially equal annual installments beginning on August 18, 2004." /> 
+</footnotes>
+<remarks />
+<ownerSignature><signatureName>/s/Cheryl M. CromerAttorney-in-fact for Paul Cody Phipps</signatureName>
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

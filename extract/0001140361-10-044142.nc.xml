@@ -1,0 +1,88 @@
+<Source file="./0001140361-10-044142.nc">
+<SUBMISSION ACCESSION-NUMBER="0001140361-10-044142" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001344517" CONFORMED-NAME="Kautz Robert F" /><FILING-VALUES ACT="34" FILE-NUMBER="001-11735" FILM-NUMBER="101171836" FORM-TYPE="4" /><MAIL-ADDRESS CITY="COMMERCE" STATE="CA" STREET1="4000 UNION PACIFIC AVENUE" ZIP="90023" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="5331" CIK="0001011290" CONFORMED-NAME="99 CENTS ONLY STORES" FISCAL-YEAR-END="0329" IRS-NUMBER="952411605" STATE-OF-INCORPORATION="CA" /><BUSINESS-ADDRESS CITY="CITY OF COMMERCE" PHONE="3239808145" STATE="CA" STREET1="4000 EAST UNION PACIFIC AVENUE" ZIP="90023" /><MAIL-ADDRESS CITY="CITY OF COMMERCE" STATE="CA" STREET1="4000 EAST UNION PACIFIC AVENUE" ZIP="90023" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0001011290" 
+ issuerName="99 CENTS ONLY STORES" 
+ issuerTradingSymbol="NYSE:NDN" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001344517" 
+ rptOwnerName="Kautz Robert F" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="CITY OF COMMERCE" rptOwnerState="CA" rptOwnerStreet1="C/O 99 CENTS ONLY STORES" rptOwnerStreet2="4000 UNION PACIFIC AVENUE" rptOwnerZipCode="90023">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="1" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+ officerTitle="Executive Vice President &amp; CFO" 
+<otherText /> 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable>
+<nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="A" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="28000" 
+<footnoteId id="F1" /> 
+</transactionShares>
+<transactionPricePerShare> value="0" 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="44645" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="F" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="12054" 
+<footnoteId id="F2" /> 
+</transactionShares>
+<transactionPricePerShare> value="0" 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="32591" 
+<footnoteId id="F3" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<derivativeTable /> 
+<footnotes>
+<footnote id="F1" text="The shares of common stock were acquired pursuant to the vesting of such shares under a performance stock unit award granted to Mr. Kautz on January 11, 2008." /> 
+ <footnote id="F2" text="12,054 shares were withheld by the Company for tax withholding pursuant to the terms of the performance stock unit award." /> 
+ <footnote id="F3" text="This Form 4 does not include derivative securities previously granted to Mr. Kautz." /> 
+</footnotes>
+<remarks />
+<ownerSignature> signatureName="/s/ Robert Kautz" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

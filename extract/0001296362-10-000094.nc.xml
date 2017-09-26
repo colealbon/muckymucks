@@ -1,0 +1,126 @@
+<Source file="./0001296362-10-000094.nc">
+<SUBMISSION ACCESSION-NUMBER="0001296362-10-000094" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101105" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001373979" CONFORMED-NAME="Pawl David L" /><FILING-VALUES ACT="34" FILE-NUMBER="001-31330" FILM-NUMBER="101172948" FORM-TYPE="4" /><MAIL-ADDRESS CITY="HOUSTON" STATE="TX" STREET1="600 TRAVIS, SUITE 5800" ZIP="77002" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="3640" CIK="0001141982" CONFORMED-NAME="Cooper Industries plc" FISCAL-YEAR-END="1231" IRS-NUMBER="980632292" /><BUSINESS-ADDRESS CITY="DUBLIN 2" PHONE="7132098400" STATE="L2" STREET1="5 FITZWILLIAM SQUARE" ZIP="00000" /><MAIL-ADDRESS CITY="DUBLIN 2" STATE="L2" STREET1="5 FITZWILLIAM SQUARE" ZIP="00000" /><FORMER-COMPANY DATE-CHANGED="20010604" FORMER-CONFORMED-NAME="COOPER INDUSTRIES LTD" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" periodOfReport="2010-11-05" schemaVersion="X0303">
+<issuer> issuerCik="0001141982" 
+ issuerName="Cooper Industries plc" 
+ issuerTradingSymbol="CBE" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001373979" 
+ rptOwnerName="Pawl David L" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="PEACHTREE CITY" rptOwnerState="GA" rptOwnerStreet1="203 COOPER CIRCLE" rptOwnerStreet2="" rptOwnerZipCode="30269" />
+
+
+<reportingOwnerRelationship isDirector="0" isOfficer="1" isOther="0" isTenPercentOwner="0" officerTitle="Pres. Cooper Wiring Devices">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeHolding><securityTitle> value="Ordinary Shares" 
+<footnoteId id="F1" /> 
+</securityTitle>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="1523" 
+<footnoteId id="F1" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="401 K Plan Trustee">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeTransaction>
+<securityTitle> value="Ordinary Shares" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="15000" 
+</transactionShares>
+<transactionPricePerShare value="41.19">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="43834" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction><securityTitle> value="Ordinary Shares" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="15000" 
+</transactionShares>
+<transactionPricePerShare value="54.00">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="28834" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<derivativeTable>
+<derivativeTransaction><securityTitle> value="Employee Stock Option" 
+</securityTitle>
+<conversionOrExercisePrice value="41.19">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="15000" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate> value="2009-02-13" 
+</exerciseDate>
+<expirationDate value="2013-02-13">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Ordinary Shares" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="15000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="0" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<footnotes>
+<footnote id="F1" text="Includes 198 shares acquired from February 13, 2010 to November 5, 2010 under the Company&apos;s Savings and Stock Ownership Plan." /> 
+</footnotes>
+<remarks />
+<ownerSignature> signatureName="Attorney-in-Fact" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

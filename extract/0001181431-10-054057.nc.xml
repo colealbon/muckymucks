@@ -1,0 +1,324 @@
+<Source file="./0001181431-10-054057.nc">
+<SUBMISSION ACCESSION-NUMBER="0001181431-10-054057" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><ISSUER><COMPANY-DATA ASSIGNED-SIC="4812" CIK="0001283699" CONFORMED-NAME="METROPCS COMMUNICATIONS INC" FISCAL-YEAR-END="1231" IRS-NUMBER="200836269" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="RICHARDSON" PHONE="214-265-2550" STATE="TX" STREET1="2250 LAKESIDE BLVD" ZIP="75082" /><MAIL-ADDRESS CITY="RICHARDSON" STATE="TX" STREET1="2250 LAKESIDE BLVD" ZIP="75082" /></ISSUER><REPORTING-OWNER><OWNER-DATA CIK="0001034569" CONFORMED-NAME="TA ASSOCIATES INC" /><FILING-VALUES ACT="34" FILE-NUMBER="001-33409" FILM-NUMBER="101173053" FORM-TYPE="4" /><BUSINESS-ADDRESS CITY="BOSTON" PHONE="6175746781" STATE="MA" STREET1="125 HIGH STREET" STREET2="SUITE 2500" ZIP="02110" /><MAIL-ADDRESS CITY="BOSTON" STATE="MA" STREET1="125 HIGH STREET" STREET2="SUITE 2500" ZIP="02110" /></REPORTING-OWNER><REPORTING-OWNER><OWNER-DATA CIK="0001235803" CONFORMED-NAME="TA ASSOCIATES SPF LP" FISCAL-YEAR-END="1231" STATE-OF-INCORPORATION="DE" /><FILING-VALUES ACT="34" FILE-NUMBER="001-33409" FILM-NUMBER="101173050" FORM-TYPE="4" /><BUSINESS-ADDRESS CITY="BOSTON" PHONE="6175746781" STATE="MA" STREET1="125 HIGH STREET" STREET2="SUITE 2500" ZIP="02110" /><MAIL-ADDRESS CITY="BOSTON" STATE="MA" STREET1="125 HIGH STREET" STREET2="SUITE 2500" ZIP="02110" /></REPORTING-OWNER><REPORTING-OWNER><OWNER-DATA CIK="0001235805" CONFORMED-NAME="TA ASSOCIATES STRATEGIC PARTNERS FUND B LP" FISCAL-YEAR-END="1231" STATE-OF-INCORPORATION="DE" /><FILING-VALUES ACT="34" FILE-NUMBER="001-33409" FILM-NUMBER="101173051" FORM-TYPE="4" /><BUSINESS-ADDRESS CITY="BOSTON" PHONE="6175746781" STATE="MA" STREET1="125 HIGH STREET" STREET2="SUITE 2500" ZIP="02110" /><MAIL-ADDRESS CITY="BOSTON" STATE="MA" STREET1="125 HIGH STREET" STREET2="SUITE 2500" ZIP="02110" /></REPORTING-OWNER><REPORTING-OWNER><OWNER-DATA CIK="0001235818" CONFORMED-NAME="TA ASSOCIATES STRATEGIC PARTNERS FUND A LP" FISCAL-YEAR-END="1231" STATE-OF-INCORPORATION="DE" /><FILING-VALUES ACT="34" FILE-NUMBER="001-33409" FILM-NUMBER="101173052" FORM-TYPE="4" /><BUSINESS-ADDRESS CITY="BOSTON" PHONE="6175746781" STATE="MA" STREET1="125 HIGH STREET" STREET2="SUITE 2500" ZIP="02110" /><MAIL-ADDRESS CITY="BOSTON" STATE="MA" STREET1="125 HIGH STREET" STREET2="SUITE 2500" ZIP="02110" /></REPORTING-OWNER><REPORTING-OWNER><OWNER-DATA CIK="0001355450" CONFORMED-NAME="TA Investors II L.P." FISCAL-YEAR-END="1231" /><FILING-VALUES ACT="34" FILE-NUMBER="001-33409" FILM-NUMBER="101173049" FORM-TYPE="4" /><BUSINESS-ADDRESS CITY="BOSTON" PHONE="617-574-6700" STATE="MA" STREET1="125 HIGH STREET" STREET2="SUITE 2500" ZIP="02110" /><MAIL-ADDRESS CITY="BOSTON" STATE="MA" STREET1="125 HIGH STREET" STREET2="SUITE 2500" ZIP="02110" /></REPORTING-OWNER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0001283699" 
+ issuerName="METROPCS COMMUNICATIONS INC" 
+ issuerTradingSymbol="PCS" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001034569" 
+ rptOwnerName="TA ASSOCIATES INC" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="BOSTON" rptOwnerState="MA" rptOwnerStreet1="JOHN HANCOCK TOWER" rptOwnerStreet2="200 CLARENDON ST, 56TH FLOOR" rptOwnerZipCode="02116">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="1" 
+ isOfficer="0" 
+ isTenPercentOwner="0" 
+ isOther="1" 
+ otherText="See General Remarks" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<reportingOwner><reportingOwnerId> rptOwnerCik="0001235818" 
+ rptOwnerName="TA ASSOCIATES STRATEGIC PARTNERS FUND A LP" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="BOSTON" rptOwnerState="MA" rptOwnerStreet1="JOHN HANCOCK TOWER" rptOwnerStreet2="200 CLARENDON ST 56TH FLOOR" rptOwnerZipCode="02116">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="0" 
+ isTenPercentOwner="0" 
+ isOther="1" 
+ otherText="See General Remarks" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<reportingOwner><reportingOwnerId> rptOwnerCik="0001235805" 
+ rptOwnerName="TA ASSOCIATES STRATEGIC PARTNERS FUND B LP" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="BOSTON" rptOwnerState="MA" rptOwnerStreet1="JOHN HANCOCK TOWER" rptOwnerStreet2="200 CLARENDON ST 56TH FLOOR" rptOwnerZipCode="02116">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="0" 
+ isTenPercentOwner="0" 
+ isOther="1" 
+ otherText="See General Remarks" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<reportingOwner><reportingOwnerId> rptOwnerCik="0001235803" 
+ rptOwnerName="TA ASSOCIATES SPF LP" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="BOSTON" rptOwnerState="MA" rptOwnerStreet1="JOHN HANCOCK TOWER" rptOwnerStreet2="200 CLARENDON ST. 56TH FLOOR" rptOwnerZipCode="02116">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="0" 
+ isTenPercentOwner="0" 
+ isOther="1" 
+ otherText="See General Remarks" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<reportingOwner><reportingOwnerId> rptOwnerCik="0001355450" 
+ rptOwnerName="TA Investors II L.P." 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="BOSTON" rptOwnerState="MA" rptOwnerStreet1="JOHN HANCOCK TOWER" rptOwnerStreet2="200 CLARENDON ST. 56TH FLOOR" rptOwnerZipCode="02116">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="0" 
+ isTenPercentOwner="0" 
+ isOther="1" 
+ otherText="See General Remarks" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+<footnoteId id="F7" /> 
+</transactionCoding>
+<transactionAmounts><transactionShares> value="640" 
+<footnoteId id="F1" /> 
+</transactionShares>
+<transactionPricePerShare> value="11.2278" 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="303204" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="See Footnote 4">
+<footnoteId id="F4" /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+<footnoteId id="F7" /> 
+</transactionCoding>
+<transactionAmounts><transactionShares> value="115" 
+<footnoteId id="F2" /> 
+</transactionShares>
+<transactionPricePerShare> value="11.2278" 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="54417" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="See Footnote 5">
+<footnoteId id="F5" /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+<footnoteId id="F7" /> 
+</transactionCoding>
+<transactionAmounts><transactionShares> value="625" 
+<footnoteId id="F3" /> 
+</transactionShares>
+<transactionPricePerShare> value="11.2278" 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="296215" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="See Footnote 6">
+<footnoteId id="F6" /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+<footnoteId id="F7" /> 
+</transactionCoding>
+<transactionAmounts><transactionShares> value="1920" 
+<footnoteId id="F1" /> 
+</transactionShares>
+<transactionPricePerShare> value="11.7391" 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="301284" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="See Footnote 4">
+<footnoteId id="F4" /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+<footnoteId id="F7" /> 
+</transactionCoding>
+<transactionAmounts><transactionShares> value="345" 
+<footnoteId id="F2" /> 
+</transactionShares>
+<transactionPricePerShare> value="11.7391" 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="54072" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="See Footnote 5">
+<footnoteId id="F5" /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+<footnoteId id="F7" /> 
+</transactionCoding>
+<transactionAmounts><transactionShares> value="1875" 
+<footnoteId id="F3" /> 
+</transactionShares>
+<transactionPricePerShare> value="11.7391" 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="294340" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="See Footnote 6">
+<footnoteId id="F6" /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-08">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+<footnoteId id="F7" /> 
+</transactionCoding>
+<transactionAmounts><transactionShares> value="1280" 
+<footnoteId id="F1" /> 
+</transactionShares>
+<transactionPricePerShare> value="12.0297" 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="300004" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="See Footnote 4">
+<footnoteId id="F4" /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-08">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+<footnoteId id="F7" /> 
+</transactionCoding>
+<transactionAmounts><transactionShares> value="230" 
+<footnoteId id="F2" /> 
+</transactionShares>
+<transactionPricePerShare> value="12.0297" 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="53842" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="See Footnote 5">
+<footnoteId id="F5" /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-08">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+<footnoteId id="F7" /> 
+</transactionCoding>
+<transactionAmounts><transactionShares> value="1250" 
+<footnoteId id="F3" /> 
+</transactionShares>
+<transactionPricePerShare> value="12.0297" 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="293090" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="See Footnote 6">
+<footnoteId id="F6" /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<footnotes>
+<footnote id="F1" text="These securities were sold solely by TA Strategic Partners Fund A L.P." /> 
+ <footnote id="F2" text="These securities were sold solely by TA Strategic Partners Fund B L.P." /> 
+ <footnote id="F3" text="These securities were sold solely by TA Investors II L.P." /> 
+ <footnote id="F4" text="These securities are owned solely by TA Strategic Partners Fund A L.P. TA Associates, Inc. is the General Partner of TA Associates SPF L.P., which is the General Partner of TA Strategic Partners Fund A L.P. Each of TA Associates, Inc. and TA Associates SPF L.P. may be deemed to have a beneficial interest in shares held by TA Strategic Partners Fund A L.P. and each disclaims beneficial ownership of such shares, except to the extent of its pecuniary interest in such shares which is subject to indeterminable future events." /> 
+ <footnote id="F5" text="These securities are owned solely by TA Strategic Partners Fund B L.P. TA Associates, Inc. is the General Partner of TA Associates SPF L.P., which is the General Partner of TA Strategic Partners Fund B L.P. Each of TA Associates, Inc. and TA Associates SPF L.P. may be deemed to have a beneficial interest in shares held by TA Strategic Partners Fund B L.P. and each disclaims beneficial ownership of such shares, except to the extent of its pecuniary interest in such shares which is subject to indeterminable future events." /> 
+ <footnote id="F6" text="These securities are owned solely by TA Investors II L.P., TA Associates, Inc. is the General Partner of TA Investors II L.P. TA Associates, Inc. may be deemed to have a beneficial interest in shares held by TA Investors II L.P. and disclaims beneficial ownership of such shares." /> 
+ <footnote id="F7" text="The sales reported in this Form 4 were effected pursuant to a Rule 10b5-1 trading plan adopted by TA Associates, Inc. on August 23, 2010." /> 
+</footnotes>
+ remarks="The Reporting Persons are members of a 13(d) group.  The Reporting Persons have a representative on the Issuer's board of directors. C. Kevin Landry currently serves as the Reporting Person's representative on the board of directors and, as such, the Reporting Persons are deemed directors of the Issuer. Due to the limit of joint filers that can be included on one form, TA Associates, Inc., TA IX L.P., TA Associates IX LLC, TA Atlantic and Pacific V L.P., TA Associates AP V L.P., TA/Atlantic and Pacific IV L.P., TA Associates AP IV L.P., TA Strategic Partners Fund A L.P., TA Strategic Partners Fund B L.P., TA Associates SPF L.P., and TA Investors II L.P. have filed two separate forms simultaneously, which relate to the same securities of the Issuer held by such Reporting Persons." 
+<ownerSignature signatureDate="2010-11-08" signatureName="TA Associates, Inc., By Thomas P. Alber, Chief Financial Officer">
+</ownerSignature>
+<ownerSignature signatureDate="2010-11-08" signatureName="TA Strategic Partners Fund A L.P., By TA Associates SPF L.P., Its General Partner, By TA Associates, Inc., Its General Partner, By Thomas P. Alber, Chief Financial Officer">
+</ownerSignature>
+<ownerSignature signatureDate="2010-11-08" signatureName="TA Strategic Partners Fund B L.P., By TA Associates SPF L.P., Its General Partner, By TA Associates, Inc., Its General Partner, By Thomas P. Alber, Chief Financial Officer">
+</ownerSignature>
+<ownerSignature signatureDate="2010-11-08" signatureName="TA Associates SPF L.P., By TA Associates, Inc., Its General Partner, By Thomas P. Alber, Chief Financial Officer">
+</ownerSignature>
+<ownerSignature signatureDate="2010-11-08" signatureName="TA Investors II L.P., By TA Associates, Inc., Its General Partner, By Thomas P. Alber, Chief Financial Officer">
+</ownerSignature>
+</ownershipDocument></Source>

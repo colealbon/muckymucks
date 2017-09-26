@@ -1,0 +1,102 @@
+<Source file="./0001127602-10-027188.nc">
+<SUBMISSION ACCESSION-NUMBER="0001127602-10-027188" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001463592" CONFORMED-NAME="PATTERSON SUZANNE D" /><FILING-VALUES ACT="34" FILE-NUMBER="001-34874" FILM-NUMBER="101171128" FORM-TYPE="4" /><MAIL-ADDRESS CITY="ATLANTA" STATE="GA" STREET1="2500 WINDY RIDGE PARKWAY" ZIP="31139" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="2086" CIK="0001491675" CONFORMED-NAME="COCA-COLA ENTERPRISES, INC." FISCAL-YEAR-END="1231" IRS-NUMBER="272197395" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="ATLANTA" PHONE="678-260-3000" STATE="GA" STREET1="2500 WINDY RIDGE PARKWAY, NW" STREET2="14TH FLOOR" ZIP="30339" /><MAIL-ADDRESS CITY="ATLANTA" STATE="GA" STREET1="2500 WINDY RIDGE PARKWAY, NW" STREET2="14TH FLOOR" ZIP="30339" /><FORMER-COMPANY DATE-CHANGED="20100511" FORMER-CONFORMED-NAME="International CCE Inc." /></ISSUER></SUBMISSION><ownershipDocument documentType="4" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0001491675" 
+ issuerName="COCA-COLA ENTERPRISES, INC." 
+ issuerTradingSymbol="CCE" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001463592" 
+ rptOwnerName="PATTERSON SUZANNE D" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="ATLANTA" rptOwnerState="GA" rptOwnerStreet1="2500 WINDY RIDGE PARKWAY" rptOwnerStreet2="14TH FLOOR" rptOwnerZipCode="30339">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isOfficer="1" 
+ officerTitle="VP, Controller &amp; CAO" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness />
+<transactionAmounts><transactionShares> value="13858" 
+</transactionShares>
+<transactionPricePerShare value="13.11">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="23858" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness />
+<transactionAmounts><transactionShares> value="13858" 
+<footnoteId id="F1" /> 
+</transactionShares>
+<transactionPricePerShare> value="23.92" 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="10000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<derivativeTable><derivativeTransaction><securityTitle> value="2009 Stock Option Awards" 
+</securityTitle>
+<conversionOrExercisePrice value="13.11">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness />
+<transactionAmounts><transactionShares> value="13858" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate> value="2010-11-04" 
+</exerciseDate>
+<expirationDate value="2019-11-04">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="13858">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="27715" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="These shares were sold pursuant to a 10b5-1 trading plan." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="Suzanne N. Forlidas, attorney-in-fact">
+</ownerSignature>
+</ownershipDocument></Source>

@@ -1,0 +1,25 @@
+<Source file="./0001179124-10-000089.nc">
+<SUBMISSION ACCESSION-NUMBER="0001179124-10-000089" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101108" PUBLIC-DOCUMENT-COUNT="1" TYPE="3"><REPORTING-OWNER><OWNER-DATA CIK="0001372043" CONFORMED-NAME="Russell Gary A" /><FILING-VALUES ACT="34" FILE-NUMBER="811-21949" FILM-NUMBER="101170976" FORM-TYPE="3" /><MAIL-ADDRESS CITY="NEW YORK" STATE="NY" STREET1="C/O ANJIE LAROCCA, DEUTSCHE ASSET MGMT" STREET2="280 PARK AVENUE" ZIP="10017" /><FORMER-NAME DATE-CHANGED="20060808" FORMER-CONFORMED-NAME="Sullivan Gary A" /></REPORTING-OWNER><ISSUER><COMPANY-DATA CIK="0001375387" CONFORMED-NAME="DWS Dreman Value Income Edge Fund, Inc." FISCAL-YEAR-END="0930" IRS-NUMBER="000000000" STATE-OF-INCORPORATION="MD" /><BUSINESS-ADDRESS CITY="NEW YORK" PHONE="212-454-6778" STATE="NY" STREET1="345 PARK AVENUE" ZIP="10154-0004" /><MAIL-ADDRESS CITY="NEW YORK" STATE="NY" STREET1="345 PARK AVENUE" ZIP="10154-0004" /><FORMER-COMPANY DATE-CHANGED="20060913" FORMER-CONFORMED-NAME="DWS Dreman Value IncomEdge Fund, Inc." /></ISSUER></SUBMISSION><ownershipDocument documentType="3" noSecuritiesOwned="1" periodOfReport="2010-11-08" schemaVersion="X0203">
+<issuer> issuerCik="0001375387" 
+ issuerName="DWS Dreman Value Income Edge Fund, Inc." 
+ issuerTradingSymbol="DHG" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001372043" 
+ rptOwnerName="Russell Gary A" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="NEW YORK" rptOwnerState="NY" rptOwnerStreet1="C/O ANJIE LAROCCA, DEUTSCHE ASSET MGMT" rptOwnerStreet2="280 PARK AVENUE" rptOwnerZipCode="10017">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="1" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+ officerTitle="Portfolio Manager" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<ownerSignature> signatureName="Gary A. Russell" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

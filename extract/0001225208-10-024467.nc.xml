@@ -1,0 +1,112 @@
+<Source file="./0001225208-10-024467.nc">
+<SUBMISSION ACCESSION-NUMBER="0001225208-10-024467" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101105" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001337979" CONFORMED-NAME="Perlitz Thomas J" /><FILING-VALUES ACT="34" FILE-NUMBER="001-01657" FILM-NUMBER="101173707" FORM-TYPE="4" /><MAIL-ADDRESS CITY="STAMFORD" STATE="CT" STREET1="100 FIRST STAMFORD PLACE" ZIP="06902" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="3490" CIK="0000025445" CONFORMED-NAME="CRANE CO /DE/" FISCAL-YEAR-END="1231" IRS-NUMBER="131952290" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="STAMFORD" PHONE="203-363-7300" STATE="CT" STREET1="CRANE CO." STREET2="100 FIRST STAMFORD PLACE" ZIP="06902" /><MAIL-ADDRESS CITY="STAMFORD" STATE="CT" STREET1="CRANE CO." STREET2="100 FIRST STAMFORD PLACE" ZIP="06902" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" periodOfReport="2010-11-05" schemaVersion="X0303">
+<issuer> issuerCik="0000025445" 
+ issuerName="CRANE CO /DE/" 
+ issuerTradingSymbol="CR" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001337979" 
+ rptOwnerName="Perlitz Thomas J" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="STAMFORD" rptOwnerState="CT" rptOwnerStreet1="100 FIRST STAMFORD PLACE" rptOwnerStreet2="" rptOwnerZipCode="06902-6784" />
+
+
+<reportingOwnerRelationship isOfficer="1" officerTitle="VP Corp Strtgy Grp Pres Cntrls">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="CRANE CO. COMMON, PAR VALUE $1.00" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="7000.0000" 
+</transactionShares>
+<transactionPricePerShare value="29.0500">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="19955.0000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="CRANE CO. COMMON, PAR VALUE $1.00" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="7000.0000" 
+</transactionShares>
+<transactionPricePerShare value="40.0000">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="12955.0000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeHolding>
+<securityTitle> value="CRANE CO. COMMON, PAR VALUE $1.00" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="2439.0000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="401(K)">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+</nonDerivativeTable>
+<derivativeTable><derivativeTransaction><securityTitle> value="Employee Stock Option (Right to Buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="29.0500">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="7000.0000" 
+</transactionShares>
+<transactionPricePerShare value="0.0000">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate><footnoteId id="F1" /> 
+</exerciseDate>
+<expirationDate> value="2011-09-06" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="CRANE CO. COMMON, PAR VALUE $1.00" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="7000.0000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="13000.0000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="The options vested 50% on the first, 75% on the second and 100% on the third anniversary of the grant date (09/06/2005)." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="Attorney In Fact, Christopher Dee">
+</ownerSignature>
+</ownershipDocument></Source>

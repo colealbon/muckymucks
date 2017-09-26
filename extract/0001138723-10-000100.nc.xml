@@ -1,0 +1,101 @@
+<Source file="./0001138723-10-000100.nc">
+<SUBMISSION ACCESSION-NUMBER="0001138723-10-000100" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101105" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001387517" CONFORMED-NAME="Raanes Chris" /><FILING-VALUES ACT="34" FILE-NUMBER="001-33301" FILM-NUMBER="101173761" FORM-TYPE="4" /><MAIL-ADDRESS CITY="SUNNYVALE" STATE="CA" STREET1="1310 CHESAPEAKE TERRACE" ZIP="94089" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="3841" CIK="0001138723" CONFORMED-NAME="ACCURAY INC" FISCAL-YEAR-END="0630" IRS-NUMBER="770268932" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="SUNNYVALE" PHONE="4087164600" STATE="CA" STREET1="1310 CHESAPEAKE TERRACE" ZIP="94089" /><MAIL-ADDRESS CITY="SUNNYVALE" STATE="CA" STREET1="1310 CHESAPEAKE TERRACE" ZIP="94089" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-05" schemaVersion="X0303">
+<issuer> issuerCik="0001138723" 
+ issuerName="ACCURAY INC" 
+ issuerTradingSymbol="ARAY" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001387517" 
+ rptOwnerName="Raanes Chris" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="SUNNYVALE" rptOwnerState="CA" rptOwnerStreet1="1310 CHESAPEAKE TERRACE" rptOwnerStreet2="" rptOwnerZipCode="94089" />
+
+
+<reportingOwnerRelationship isDirector="0" isOfficer="1" isOther="0" isTenPercentOwner="0" officerTitle="SVP COO">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="1000" 
+</transactionShares>
+<transactionPricePerShare value="0.75">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="59572" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="1000" 
+</transactionShares>
+<transactionPricePerShare value="7">
+<footnoteId id="F1" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="D" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="58572" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<derivativeTable><derivativeTransaction><securityTitle> value="Incentive Stock Option (right to buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="0.75">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="1000" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate><footnoteId id="F2" /> 
+</exerciseDate>
+<expirationDate> value="2012-12-02" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="1000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="220000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="These shares were sold pursuant to a 10b5-1 plan." /> 
+ <footnote id="F2" text="The options are exercisable as they vest.  A total of 25% of the entire number of shares subject to this stock option becomes vested and fully exercisable on the first anniversary of the vesting commencement date and the remaining shares subject to this stock option vest and become exercisable in equal monthly installments, ratably over the following 36 months." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="By: Darren J. Milliken  For: Chris A. Raanes">
+</ownerSignature>
+</ownershipDocument></Source>

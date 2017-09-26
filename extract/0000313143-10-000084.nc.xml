@@ -1,0 +1,42 @@
+<Source file="./0000313143-10-000084.nc">
+<SUBMISSION ACCESSION-NUMBER="0000313143-10-000084" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101105" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001217544" CONFORMED-NAME="GRANADILLO PEDRO P" /><FILING-VALUES ACT="34" FILE-NUMBER="001-14041" FILM-NUMBER="101172656" FORM-TYPE="4" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="3841" CIK="0000313143" CONFORMED-NAME="HAEMONETICS CORP" FISCAL-YEAR-END="0331" IRS-NUMBER="042882273" STATE-OF-INCORPORATION="MA" /><BUSINESS-ADDRESS CITY="BRAINTREE" PHONE="7818487100" STATE="MA" STREET1="400 WOOD RD" ZIP="02184" /><MAIL-ADDRESS CITY="BRAINTREE" STATE="MA" STREET1="400 WOOD ROAD" ZIP="02184" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-05" schemaVersion="X0303">
+<issuer> issuerCik="0000313143" 
+ issuerName="HAEMONETICS CORP" 
+ issuerTradingSymbol="HAE" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001217544" 
+ rptOwnerName="GRANADILLO PEDRO P" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="BRAINTREE" rptOwnerState="MA" rptOwnerStreet1="400 WOOD ROAD" rptOwnerStreet2="" rptOwnerZipCode="02184" />
+
+
+<reportingOwnerRelationship isDirector="1" isOfficer="0" isOther="0" isTenPercentOwner="0">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="6000.0" 
+</transactionShares>
+<transactionPricePerShare value="57.7167">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="5501.0" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<ownerSignature> signatureName="By: Susan M. Hanlon For: Pedro P. Granadillo" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

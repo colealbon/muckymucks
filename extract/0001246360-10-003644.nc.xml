@@ -1,0 +1,107 @@
+<Source file="./0001246360-10-003644.nc">
+<SUBMISSION ACCESSION-NUMBER="0001246360-10-003644" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101105" PUBLIC-DOCUMENT-COUNT="2" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001200842" CONFORMED-NAME="MILLER KAREN J" /><FILING-VALUES ACT="34" FILE-NUMBER="000-08135" FILM-NUMBER="101173590" FORM-TYPE="4" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="5160" CIK="0000090185" CONFORMED-NAME="SIGMA ALDRICH CORP" FISCAL-YEAR-END="1231" IRS-NUMBER="431050617" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="ST LOUIS" PHONE="3147715765" STATE="MO" STREET1="3050 SPRUCE ST" ZIP="63103" /><MAIL-ADDRESS CITY="ST LOUIS" STATE="MO" STREET1="3050 SPRUCE STREET" ZIP="63103" /><FORMER-COMPANY DATE-CHANGED="19750925" FORMER-CONFORMED-NAME="SIGMA INTERNATIONAL LTD" /><FORMER-COMPANY DATE-CHANGED="19750908" FORMER-CONFORMED-NAME="ALDRICH CHEMICAL CO INC" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="false" periodOfReport="2010-11-05" schemaVersion="X0303">
+<issuer> issuerCik="0000090185" 
+ issuerName="SIGMA ALDRICH CORP" 
+ issuerTradingSymbol="SIAL" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001200842" 
+ rptOwnerName="MILLER KAREN J" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="ST. LOUIS" rptOwnerState="MO" rptOwnerStreet1="3050 SPRUCE STREET" rptOwnerStreet2="" rptOwnerZipCode="63103" />
+
+
+<reportingOwnerRelationship isDirector="false" isOfficer="true" isOther="false" isTenPercentOwner="false" officerTitle="VP, Strategy &amp; Corp Developmen">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="M" 
+ equitySwapInvolved="false" 
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="1038" 
+</transactionShares>
+<transactionPricePerShare value="28.66">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="13005" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="S" 
+ equitySwapInvolved="false" 
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="1038" 
+</transactionShares>
+<transactionPricePerShare value="66">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="11967" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<derivativeTable><derivativeTransaction><securityTitle> value="NQ Stock Option Right To Buy" 
+</securityTitle>
+<conversionOrExercisePrice value="28.66">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="M" 
+ equitySwapInvolved="false" 
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="1038" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate> value="2005-05-04" 
+</exerciseDate>
+<expirationDate value="2014-05-04">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="1038">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="6665" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<ownerSignature> signatureName="Carrie Fields, Attorney in Fact" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

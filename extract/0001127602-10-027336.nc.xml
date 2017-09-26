@@ -1,0 +1,45 @@
+<Source file="./0001127602-10-027336.nc">
+<SUBMISSION ACCESSION-NUMBER="0001127602-10-027336" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><ISSUER><COMPANY-DATA ASSIGNED-SIC="2611" CIK="0000899597" CONFORMED-NAME="BUCKEYE TECHNOLOGIES INC" FISCAL-YEAR-END="0630" IRS-NUMBER="621518973" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="MEMPHIS" PHONE="9013208174" STATE="TN" STREET1="PO BOX 80407" ZIP="38108-0407" /><MAIL-ADDRESS CITY="MEMPHIS" STATE="TN" STREET1="PO BOX 80407" ZIP="38108-0407" /><FORMER-COMPANY DATE-CHANGED="19930326" FORMER-CONFORMED-NAME="BUCKEYE CELLULOSE CORP" /></ISSUER><REPORTING-OWNER><OWNER-DATA CIK="0001361946" CONFORMED-NAME="Virginia Wetherell" /><FILING-VALUES ACT="34" FILE-NUMBER="001-14030" FILM-NUMBER="101173065" FORM-TYPE="4" /><BUSINESS-ADDRESS CITY="MEMPHIS" PHONE="(901) 320-8117" STATE="TN" STREET1="1001 TILLMAN STREET" ZIP="38112" /><MAIL-ADDRESS CITY="MEMPHIS" STATE="TN" STREET1="1001 TILLMAN STREET" ZIP="38112" /></REPORTING-OWNER></SUBMISSION><ownershipDocument documentType="4" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0000899597" 
+ issuerName="BUCKEYE TECHNOLOGIES INC" 
+ issuerTradingSymbol="BKI" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001361946" 
+ rptOwnerName="Virginia Wetherell" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="MEMPHIS" rptOwnerState="TN" rptOwnerStreet1="BUCKEYE TECHNOLOGIES INC." rptOwnerStreet2="1001 TILLMAN STREET" rptOwnerZipCode="38112">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="1" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="A" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness />
+<transactionAmounts><transactionShares> value="2592" 
+<footnoteId id="F1" /> 
+</transactionShares>
+<transactionPricePerShare> value="0" 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="13606" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<footnotes> <footnote id="F1" text="Shares issued pursuant to the 2007 Omnibus Incentive Compensation Plan approved at the annual shareholders meeting November 4, 2010." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="Virginia Wetherell">
+</ownerSignature>
+</ownershipDocument></Source>

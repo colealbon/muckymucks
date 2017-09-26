@@ -1,0 +1,36 @@
+<Source file="./0001209191-10-053622.nc">
+<SUBMISSION ACCESSION-NUMBER="0001209191-10-053622" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101101" PUBLIC-DOCUMENT-COUNT="2" TYPE="3"><REPORTING-OWNER><OWNER-DATA CIK="0001486343" CONFORMED-NAME="Anand Krishnan" /><FILING-VALUES ACT="34" FILE-NUMBER="000-32369" FILM-NUMBER="101171662" FORM-TYPE="3" /><MAIL-ADDRESS CITY="DENVER" STATE="CO" STREET1="C/O MOLSON COORS BREWING COMPANY" STREET2="1225 17TH STREET, SUITE 3200" ZIP="80202" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="5812" CIK="0001041379" CONFORMED-NAME="AFC ENTERPRISES INC" FISCAL-YEAR-END="1230" IRS-NUMBER="582016606" STATE-OF-INCORPORATION="MN" /><BUSINESS-ADDRESS CITY="ATLANTA" PHONE="4044594450" STATE="GA" STREET1="5555 GLENRIDGE CONNECTOR, NE, SUITE 300" ZIP="30342" /><MAIL-ADDRESS CITY="ATLANTA" STATE="GA" STREET1="5555 GLENRIDGE CONNECTOR, NE, SUITE 300" ZIP="30342" /></ISSUER></SUBMISSION><ownershipDocument documentType="3" noSecuritiesOwned="0" periodOfReport="2010-11-01" schemaVersion="X0203">
+<issuer> issuerCik="0001041379" 
+ issuerName="AFC ENTERPRISES INC" 
+ issuerTradingSymbol="AFCE" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001486343" 
+ rptOwnerName="Anand Krishnan" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="ATLANTA" rptOwnerState="GA" rptOwnerStreet1="5555 GLENRIDGE CONNECTOR NE" rptOwnerStreet2="SUITE 300" rptOwnerZipCode="30342">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="1" 
+ isOfficer="0" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeHolding><securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="0" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+</nonDerivativeTable>
+<remarks />
+<ownerSignature> signatureName="Harold M. Cohen, as Attorney-in-Fact" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

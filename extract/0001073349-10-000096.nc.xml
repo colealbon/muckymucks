@@ -1,0 +1,195 @@
+<Source file="./0001073349-10-000096.nc">
+<SUBMISSION ACCESSION-NUMBER="0001073349-10-000096" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001225496" CONFORMED-NAME="MULLEN JOSEPH L" /><FILING-VALUES ACT="34" FILE-NUMBER="000-25259" FILM-NUMBER="101174083" FORM-TYPE="4" /><MAIL-ADDRESS CITY="PORTSMOUTH" STATE="NH" STREET1="C/O BOTTOMLINE TECHNOLOGIES INC" STREET2="325 CORPORATE DRIVE" ZIP="03801" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="7372" CIK="0001073349" CONFORMED-NAME="BOTTOMLINE TECHNOLOGIES INC /DE/" FISCAL-YEAR-END="0630" IRS-NUMBER="020433924" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="PORTSMOUTH" PHONE="6034360700" STATE="NH" STREET1="325 CORPORATE DRIVE" ZIP="03801" /><MAIL-ADDRESS CITY="PORTSMOUTH" STATE="NH" STREET1="325 CORPORATE DRIVE" ZIP="03801" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0001073349" 
+ issuerName="BOTTOMLINE TECHNOLOGIES INC /DE/" 
+ issuerTradingSymbol="EPAY" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001225496" 
+ rptOwnerName="MULLEN JOSEPH L" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="PORTSMOUTH" rptOwnerState="NH" rptOwnerStreet1="C/O BOTTOMLINE TECHNOLOGIES INC" rptOwnerStreet2="325 CORPORATE DRIVE" rptOwnerZipCode="03801">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="1" 
+ isOfficer="0" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="4283" 
+</transactionShares>
+<transactionPricePerShare value="13">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="180310" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="4283" 
+</transactionShares>
+<transactionPricePerShare value="18.07">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="176027" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common stock" 
+</securityTitle>
+<transactionDate value="2010-11-08">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="70717" 
+</transactionShares>
+<transactionPricePerShare value="13">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="246744" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common stock" 
+</securityTitle>
+<transactionDate value="2010-11-08">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="70717" 
+</transactionShares>
+<transactionPricePerShare value="18.8117">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="176027" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<derivativeTable><derivativeTransaction><securityTitle> value="Stock option - Right to buy" 
+</securityTitle>
+<conversionOrExercisePrice value="13">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="4283" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate> value="2002-02-20" 
+<footnoteId id="F1" /> 
+</exerciseDate>
+<expirationDate> value="2011-02-20" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="4283">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="70717" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+<derivativeTransaction>
+<securityTitle> value="Stock option - Right to buy" 
+</securityTitle>
+<conversionOrExercisePrice value="13">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-08">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="70717" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate> value="2002-02-20" 
+<footnoteId id="F1" /> 
+</exerciseDate>
+<expirationDate> value="2011-02-20" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="70717">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="0" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="This grant is exercisable in installments over a four year period commencing one year after the grant date, with 25% becoming vested one year after the date of grant and an additional 6.25% of the original number of shares at the end of each successive three-month period following the first anniversary of the grant date until the fourth anniversary of the grant date." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="Kevin Donovan as POA for Joseph L. Mullen">
+</ownerSignature>
+</ownershipDocument></Source>

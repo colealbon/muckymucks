@@ -1,0 +1,103 @@
+<Source file="./0001144204-10-058117.nc">
+<SUBMISSION ACCESSION-NUMBER="0001144204-10-058117" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="2" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001465050" CONFORMED-NAME="CONSTANTINO JORGE" /><FILING-VALUES ACT="34" FILE-NUMBER="000-21296" FILM-NUMBER="101171145" FORM-TYPE="4" /><MAIL-ADDRESS CITY="ATHENS" STATE="J3" STREET1="ZALOKOSTA 14" STREET2="PALEO PSIHIKO" ZIP="15452" /></REPORTING-OWNER><REPORTING-OWNER><OWNER-DATA CIK="0001465055" CONFORMED-NAME="CONSTANTINO PANAYOTIS" /><FILING-VALUES ACT="34" FILE-NUMBER="000-21296" FILM-NUMBER="101171146" FORM-TYPE="4" /><MAIL-ADDRESS CITY="ATHENS" STATE="J3" STREET1="ZALOKOSTA 14" STREET2="PALEO PSIHIKO" ZIP="15452" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="5600" CIK="0000874841" CONFORMED-NAME="PACIFIC SUNWEAR OF CALIFORNIA INC" FISCAL-YEAR-END="0131" IRS-NUMBER="953759463" STATE-OF-INCORPORATION="CA" /><BUSINESS-ADDRESS CITY="ANAHEIM" PHONE="714-414-4000" STATE="CA" STREET1="3450 EAST MIRALOMA AVENUE" ZIP="92806" /><MAIL-ADDRESS CITY="ANAHEIM" STATE="CA" STREET1="3450 EAST MIRALOMA AVENUE" ZIP="92806" /></ISSUER><REPORTING-OWNER><OWNER-DATA CIK="0001458763" CONFORMED-NAME="GREEK INVESTMENTS INC" FISCAL-YEAR-END="1130" STATE-OF-INCORPORATION="W7" /><FILING-VALUES ACT="34" FILE-NUMBER="000-21296" FILM-NUMBER="101171147" FORM-TYPE="4" /><BUSINESS-ADDRESS CITY="SAN JUAN" PHONE="305 672 5005" STATE="PR" STREET1="PO BOX 10908" STREET2="CAPARRA HTS STATION" ZIP="00922" /><MAIL-ADDRESS CITY="SAN JUAN" STATE="PR" STREET1="PO BOX 10908" STREET2="CAPARRA HTS STATION" ZIP="00922" /></REPORTING-OWNER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0000874841" 
+ issuerName="PACIFIC SUNWEAR OF CALIFORNIA INC" 
+ issuerTradingSymbol="PSUN" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001458763" 
+ rptOwnerName="GREEK INVESTMENTS INC" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="SAN JUAN" rptOwnerState="PR" rptOwnerStateDescription="PUERTO RICO" rptOwnerStreet1="PO BOX 10908" rptOwnerStreet2="CAPARRA HTS STATION" rptOwnerZipCode="00922">
+</reportingOwnerAddress>
+<reportingOwnerRelationship isDirector="0" isOfficer="0" isOther="0" isTenPercentOwner="1">
+</reportingOwnerRelationship>
+</reportingOwner>
+<reportingOwner><reportingOwnerId> rptOwnerCik="0001465055" 
+ rptOwnerName="CONSTANTINO PANAYOTIS" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="ATHENS" rptOwnerState="J3" rptOwnerStateDescription="GREECE" rptOwnerStreet1="ZALOKOSTA 14" rptOwnerStreet2="PALEO PSIHIKO" rptOwnerZipCode="15452">
+</reportingOwnerAddress>
+<reportingOwnerRelationship isDirector="1" isOfficer="0" isOther="0" isTenPercentOwner="1">
+</reportingOwnerRelationship>
+</reportingOwner>
+<reportingOwner><reportingOwnerId> rptOwnerCik="0001465050" 
+ rptOwnerName="CONSTANTINO JORGE" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="ATHENS" rptOwnerState="J3" rptOwnerStateDescription="GREECE" rptOwnerStreet1="ZALOKOSTA 14" rptOwnerStreet2="PALEO PSIHIKO" rptOwnerZipCode="15452">
+</reportingOwnerAddress>
+<reportingOwnerRelationship isDirector="1" isOfficer="0" isOther="0" isTenPercentOwner="1">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Pacific Sunwear of California Inc. (PSUN)" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="P" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="50000" 
+</transactionShares>
+<transactionPricePerShare value="5.9055">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="9012802" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Pacific Sunwear of California Inc. (PSUN)" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="P" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="2308" 
+</transactionShares>
+<transactionPricePerShare value="5.88">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="9015110" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Pacific Sunwear of California Inc. (PSUN)" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="P" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="47692" 
+</transactionShares>
+<transactionPricePerShare value="5.9054">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="9062802" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<ownerSignature> signatureName="/s/ Panayotis Constantino" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+<ownerSignature signatureDate="2010-11-08" signatureName="/s/ Jorge Constantino">
+</ownerSignature>
+</ownershipDocument></Source>

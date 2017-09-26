@@ -1,0 +1,109 @@
+<Source file="./0001144204-10-058342.nc">
+<SUBMISSION ACCESSION-NUMBER="0001144204-10-058342" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101105" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001293664" CONFORMED-NAME="TAUSSIG TIMOTHY T" /><FILING-VALUES ACT="34" FILE-NUMBER="001-09728" FILM-NUMBER="101173573" FORM-TYPE="4" /><MAIL-ADDRESS CITY="NEW YORK" STATE="NY" STREET1="EPOCH HOLDING CORPORATION" STREET2="640 FIFTH AVENUE" ZIP="10019" /><FORMER-NAME DATE-CHANGED="20040614" FORMER-CONFORMED-NAME="Taussig Timothy T" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="6282" CIK="0000351903" CONFORMED-NAME="EPOCH HOLDING CORP" FISCAL-YEAR-END="0630" IRS-NUMBER="201938886" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="NEW YORK" PHONE="212-303-7200" STATE="NY" STREET1="640 FIFTH AVENUE" ZIP="10019" /><MAIL-ADDRESS CITY="NEW YORK" STATE="NY" STREET1="640 FIFTH AVENUE" ZIP="10019" /><FORMER-COMPANY DATE-CHANGED="20010123" FORMER-CONFORMED-NAME="J NET ENTERPRISES INC" /><FORMER-COMPANY DATE-CHANGED="19920703" FORMER-CONFORMED-NAME="JACKPOT ENTERPRISES INC" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-05" schemaVersion="X0303">
+<issuer> issuerCik="0000351903" 
+ issuerName="EPOCH HOLDING CORP" 
+ issuerTradingSymbol="EPHC" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001293664" 
+ rptOwnerName="TAUSSIG TIMOTHY T" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="NEW YORK" rptOwnerState="NY" rptOwnerStreet1="EPOCH HOLDING CORPORATION" rptOwnerStreet2="640 FIFTH AVENUE" rptOwnerZipCode="10019">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="1" 
+ isOfficer="1" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+ officerTitle="Chief Operating Officer" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+<footnoteId id="F1" /> 
+</transactionCoding>
+<transactionAmounts><transactionShares> value="8700" 
+</transactionShares>
+<transactionPricePerShare value="13.90">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="654226" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-08">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+<footnoteId id="F1" /> 
+</transactionCoding>
+<transactionAmounts><transactionShares> value="51300" 
+</transactionShares>
+<transactionPricePerShare value="13.90">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="602926" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeHolding>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="420763" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="By GRAT 2009">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+</nonDerivativeTable>
+<derivativeTable><derivativeHolding><securityTitle> value="Employee Stock Options (Right to Buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="6.17">
+<footnoteId id="F3" /> 
+</conversionOrExercisePrice>
+<exerciseDate><footnoteId id="F2" /> 
+</exerciseDate>
+<expirationDate> value="2016-01-30" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="41238">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="41238" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="The sales reported in this filing were made pursuant to the reporting person&apos;s 10b5-1 sales plan." /> 
+<footnote id="F2" text="The reporting person was awarded a total grant of 41,238 options to acquire shares of the Company&apos;s Common Stock, pursuant tothe Company&apos;s 2004 Omnibus Long-Term Incentive Compensation Plan. The options will vest in three equal installments asfollows: 13,746 options on January 31, 2010; 13,746 options on January 31, 2011, and 13,746 options on January 31, 2012,subject to continued employment with the Company on the applicable vesting dates." />
+<footnote id="F3" text="Upon vesting, the options to acquire shares of the Company&apos;s Common Stock are exercisable only if the volume weighted averageprice of the Company&apos;s Common Stock shall equal or exceed $9.25 for a period of at least 20 trading days on the NasdaqGlobal Select Market (subject to customary adjustments in the event of any change in the outstanding common stock of theCompany by reason of any stock dividend, stock split or other corporate exchange or any extraordinary distribution toshareholders of the Company)." />
+</footnotes>
+<ownerSignature> signatureName="/s/ Timothy T. Taussig" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

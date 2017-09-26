@@ -1,0 +1,51 @@
+<Source file="./0001230295-10-000236.nc">
+<SUBMISSION ACCESSION-NUMBER="0001230295-10-000236" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001366266" CONFORMED-NAME="Nash Cathleen H" /><FILING-VALUES ACT="34" FILE-NUMBER="001-33063" FILM-NUMBER="101171759" FORM-TYPE="4" /><MAIL-ADDRESS CITY="FLINT" STATE="MI" STREET1="328 S SAGINAW STREET" ZIP="48502" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="6021" CIK="0000351077" CONFORMED-NAME="CITIZENS REPUBLIC BANCORP, INC." FISCAL-YEAR-END="1231" IRS-NUMBER="382378932" STATE-OF-INCORPORATION="MI" /><BUSINESS-ADDRESS CITY="FLINT" PHONE="810-766-7500" STATE="MI" STREET1="328 SOUTH SAGINAW STREET" ZIP="48502" /><MAIL-ADDRESS CITY="FLINT" STATE="MI" STREET1="328 SOUTH SAGINAW STREET" ZIP="48502" /><FORMER-COMPANY DATE-CHANGED="20070426" FORMER-CONFORMED-NAME="CITIZENS REPUBLIC BANCORP INC" /><FORMER-COMPANY DATE-CHANGED="20020515" FORMER-CONFORMED-NAME="CITIZENS BANKING CORP" /><FORMER-COMPANY DATE-CHANGED="20020502" FORMER-CONFORMED-NAME="CB WEALTH MANAGEMENT N A" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0000351077" 
+ issuerName="CITIZENS REPUBLIC BANCORP, INC." 
+ issuerTradingSymbol="CRBC" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001366266" 
+ rptOwnerName="Nash Cathleen H" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="FLINT" rptOwnerState="MI" rptOwnerStreet1="328 S. SAGINAW" rptOwnerStreet2="" rptOwnerZipCode="48502" />
+
+
+<reportingOwnerRelationship isDirector="0" isOfficer="1" isOther="0" isTenPercentOwner="0" officerTitle="President &amp; CEO">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Restricted Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="A" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="6899" 
+<footnoteId id="F1" /> 
+</transactionShares>
+<transactionPricePerShare> value="0" 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="498916.00" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<footnotes>
+<footnote id="F1" text="These restricted shares represent a portion of the reporting person&apos;s salary, net of withholdings and deductions and were issued under the company&apos;s Stock Compensation Plan.  The shares were fully vested at the date of the grant but are subject to transfer restrictions, which will lapse on May 4, 2012.  For more information, please see Current Report on Form 8-K/A1 filed on May 11, 2010." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="By: /s/ Cathleen H. Nash">
+</ownerSignature>
+</ownershipDocument></Source>

@@ -1,0 +1,245 @@
+<Source file="./0001209191-10-053643.nc">
+<SUBMISSION ACCESSION-NUMBER="0001209191-10-053643" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101105" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001086522" CONFORMED-NAME="CONTRERAS MARK G" FISCAL-YEAR-END="1231" STATE-OF-INCORPORATION="DE" /><FILING-VALUES ACT="34" FILE-NUMBER="000-16914" FILM-NUMBER="101171917" FORM-TYPE="4" /><MAIL-ADDRESS CITY="ST LOUIS" STATE="MO" STREET1="900 NORTH TUCKER BOULEVARD" ZIP="63101" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="2711" CIK="0000832428" CONFORMED-NAME="SCRIPPS E W CO /DE" FISCAL-YEAR-END="1231" IRS-NUMBER="311223339" STATE-OF-INCORPORATION="OH" /><BUSINESS-ADDRESS CITY="CININNATI" PHONE="5139773000" STATE="OH" STREET1="312 WALNUT STREET" ZIP="45202" /><MAIL-ADDRESS CITY="CINCINNATI" STATE="OH" STREET1="312 WALNUT STREET" ZIP="45202" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-05" schemaVersion="X0303">
+<issuer> issuerCik="0000832428" 
+ issuerName="SCRIPPS E W CO /DE" 
+ issuerTradingSymbol="SSP" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001086522" 
+ rptOwnerName="CONTRERAS MARK G" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="CINCINNATI" rptOwnerState="OH" rptOwnerStreet1="312 WALNUT STREET, 28TH FLOOR" rptOwnerStreet2="" rptOwnerZipCode="45202" />
+
+
+<reportingOwnerRelationship isDirector="0" isOfficer="1" isOther="0" isTenPercentOwner="0" officerTitle="SVP/Newspapers">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Class A Common Shares, $.01 par value per share" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="S" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="5900" 
+</transactionShares>
+<transactionPricePerShare value="9.2878">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="8527" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Class A Common Shares, $.01 par value per share" 
+</securityTitle>
+<transactionDate value="2010-11-08">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="S" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="7658" 
+</transactionShares>
+<transactionPricePerShare value="9.1264">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="869" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeHolding>
+<securityTitle> value="Common Voting Shares, $.01 par value per share" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="0" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+</nonDerivativeTable>
+<derivativeTable><derivativeHolding><securityTitle> value="Option" 
+</securityTitle>
+<conversionOrExercisePrice value="9.90">
+</conversionOrExercisePrice>
+<exerciseDate value="2006-02-10">
+</exerciseDate>
+<expirationDate value="2013-02-09">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Class A Common" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="14084">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="14084" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Option" 
+</securityTitle>
+<conversionOrExercisePrice value="10.44">
+</conversionOrExercisePrice>
+<exerciseDate value="2007-02-22">
+</exerciseDate>
+<expirationDate value="2014-02-21">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Class A Common" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="38338">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="38338" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Option" 
+</securityTitle>
+<conversionOrExercisePrice value="9.54">
+</conversionOrExercisePrice>
+<exerciseDate value="2007-03-29">
+</exerciseDate>
+<expirationDate value="2014-03-28">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Class A Common" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="32863">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="32863" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Option" 
+</securityTitle>
+<conversionOrExercisePrice value="10.41">
+</conversionOrExercisePrice>
+<exerciseDate value="2008-02-22">
+</exerciseDate>
+<expirationDate value="2015-02-21">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Class A Common" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="86069">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="86069" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Option" 
+</securityTitle>
+<conversionOrExercisePrice value="9.09">
+</conversionOrExercisePrice>
+<exerciseDate value="2009-02-21">
+</exerciseDate>
+<expirationDate value="2016-02-20">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Class A Common" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="117370">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="117370" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Restricted Stock Units" 
+</securityTitle>
+<conversionOrExercisePrice>
+<footnoteId id="F1" /> 
+</conversionOrExercisePrice>
+<exerciseDate> value="2011-03-05" 
+</exerciseDate>
+<expirationDate value="2013-03-05">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Restricted Stock Units" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="0">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="348837" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Restricted Stock Units" 
+</securityTitle>
+<conversionOrExercisePrice>
+<footnoteId id="F2" /> 
+</conversionOrExercisePrice>
+<exerciseDate> value="2011-03-09" 
+</exerciseDate>
+<expirationDate value="2014-03-09">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Restricted Stock Units" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="40000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="40000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="These restricted stock units vest in equal parts on March 5, 2011, 2012, and 2013.  Upon vesting, each restricted stock unit will convert into one Class A Common share of the Company." /> 
+ <footnote id="F2" text="A restricted stock unit award was granted on March 9, 2010.  The award is part time-vested and part performance-vested.   The time-vested portion of the award vests in four equal parts on March 9, 2011, 2012, 2013 and 2014.  If the performance objective is achieved, this portion of the award will vest over the same four-year period. Upon vesting, each restricted stock unit converts into one Class A Common share of the Company." /> 
+</footnotes>
+<remarks />
+<ownerSignature> signatureName="/s/ William Appleton, Attorney-in-fact for Mark G. Contreras" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

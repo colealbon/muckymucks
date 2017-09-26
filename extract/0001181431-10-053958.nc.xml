@@ -1,0 +1,79 @@
+<Source file="./0001181431-10-053958.nc">
+<SUBMISSION ACCESSION-NUMBER="0001181431-10-053958" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001259775" CONFORMED-NAME="QUIS FRANCIS R JR" /><FILING-VALUES ACT="34" FILE-NUMBER="000-32951" FILM-NUMBER="101171852" FORM-TYPE="4" /><MAIL-ADDRESS CITY="SOUTHERN PINE" STATE="NC" STREET1="240 N BETHESDA RD" ZIP="28387" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="6022" CIK="0001143921" CONFORMED-NAME="CRESCENT FINANCIAL CORP" FISCAL-YEAR-END="1231" IRS-NUMBER="562259050" STATE-OF-INCORPORATION="NC" /><BUSINESS-ADDRESS CITY="CARY" PHONE="9194607770" STATE="NC" STREET1="1005 HIGH HOUSE ROAD" ZIP="27513" /><MAIL-ADDRESS CITY="CARY" STATE="NC" STREET1="P O BOX 5809" ZIP="275125809" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0001143921" 
+ issuerName="CRESCENT FINANCIAL CORP" 
+ issuerTradingSymbol="CRFN" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001259775" 
+ rptOwnerName="QUIS FRANCIS R JR" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="SOUTHERN PINES" rptOwnerState="NC" rptOwnerStreet1="240 N. BETHESDA RD." rptOwnerStreet2="" rptOwnerZipCode="28387" />
+
+
+<reportingOwnerRelationship isDirector="1" isOfficer="0" isOther="0" isTenPercentOwner="0">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<deemedExecutionDate value="2010-11-04">
+</deemedExecutionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="P" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="1000" 
+</transactionShares>
+<transactionPricePerShare value="2.40">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="61311" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeHolding>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="1842" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="Held Individually by Spouse">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+</nonDerivativeTable>
+<derivativeTable><derivativeHolding><securityTitle> value="Stock Options" 
+</securityTitle>
+<conversionOrExercisePrice value="5.4076">
+</conversionOrExercisePrice>
+<exerciseDate value="2002-07-12">
+</exerciseDate>
+<expirationDate value="2012-07-12">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="13019">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="13019" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+</derivativeTable>
+<ownerSignature> signatureName="Francis R. Quis, Jr." 
+ signatureDate="2010-11-05" 
+</ownerSignature>
+</ownershipDocument></Source>

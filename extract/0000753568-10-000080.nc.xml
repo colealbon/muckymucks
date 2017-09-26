@@ -1,0 +1,350 @@
+<Source file="./0000753568-10-000080.nc">
+<SUBMISSION ACCESSION-NUMBER="0000753568-10-000080" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20061102" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001502860" CONFORMED-NAME="Belong Daniel S" /><FILING-VALUES ACT="34" FILE-NUMBER="000-14225" FILM-NUMBER="101172684" FORM-TYPE="4" /><MAIL-ADDRESS CITY="FREMONT" STATE="CA" STREET1="48720 KATO ROAD" ZIP="94538" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="3674" CIK="0000753568" CONFORMED-NAME="EXAR CORP" FISCAL-YEAR-END="0327" IRS-NUMBER="941741481" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="FREMONT" PHONE="5106687000" STATE="CA" STREET1="48720 KATO ROAD" STREET2="48720 KATO ROAD" ZIP="94538" /><MAIL-ADDRESS CITY="FREMONT" STATE="CA" STREET1="48720 KATO RD" ZIP="94538-1167" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2006-11-02" schemaVersion="X0303">
+<issuer> issuerCik="0000753568" 
+ issuerName="EXAR CORP" 
+ issuerTradingSymbol="EXAR" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001502860" 
+ rptOwnerName="Belong Daniel S" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="FREMONT" rptOwnerState="CA" rptOwnerStreet1="48720 KATO ROAD" rptOwnerStreet2="" rptOwnerZipCode="94538" />
+
+
+<reportingOwnerRelationship isDirector="0" isOfficer="0" isOther="1" isTenPercentOwner="0" otherText="CORP CONTROLLER">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2006-11-02">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="A" transactionFormType="4">
+<footnoteId id="F1" /> 
+</transactionCoding>
+<transactionAmounts><transactionShares> value="550" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="550" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2008-04-01">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="A" transactionFormType="4">
+<footnoteId id="F2" /> 
+</transactionCoding>
+<transactionAmounts><transactionShares> value="2000" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="2550" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2008-11-24">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="A" transactionFormType="4">
+<footnoteId id="F1" /> 
+</transactionCoding>
+<transactionAmounts><transactionShares> value="2713" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="5263" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2009-04-01">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="F" transactionFormType="4">
+<footnoteId id="F3" /> 
+</transactionCoding>
+<transactionAmounts><transactionShares> value="223" 
+</transactionShares>
+<transactionPricePerShare value="6.2796">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="5040" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2009-11-02">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="F" transactionFormType="4">
+<footnoteId id="F3" /> 
+</transactionCoding>
+<transactionAmounts><transactionShares> value="220" 
+</transactionShares>
+<transactionPricePerShare value="6.4195">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="4820" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2009-11-24">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="F" transactionFormType="4">
+<footnoteId id="F3" /> 
+</transactionCoding>
+<transactionAmounts><transactionShares> value="539" 
+</transactionShares>
+<transactionPricePerShare value="6.613">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="4281" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-04-01">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="F" transactionFormType="4">
+<footnoteId id="F3" /> 
+</transactionCoding>
+<transactionAmounts><transactionShares> value="224" 
+</transactionShares>
+<transactionPricePerShare value="6.9797">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="4057" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-07-01">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="F" transactionFormType="4">
+<footnoteId id="F4" /> 
+</transactionCoding>
+<transactionAmounts><transactionShares> value="1236" 
+</transactionShares>
+<transactionPricePerShare value="7">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="2821" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-07-01">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="A" transactionFormType="4">
+<footnoteId id="F5" /> 
+</transactionCoding>
+<transactionAmounts><transactionShares> value="2850" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="5671" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="3038" 
+</transactionShares>
+<transactionPricePerShare value="6.9">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="2633" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<derivativeTable><derivativeTransaction><securityTitle> value="Incentive Stock Option (right to buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="5.97">
+</conversionOrExercisePrice>
+<transactionDate value="2010-10-01">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="A" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="12000" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate><footnoteId id="F6" /> 
+</exerciseDate>
+<expirationDate> value="2017-10-01" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="12000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="12000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+<derivativeTransaction>
+<securityTitle> value="Incentive Stock Option (right to buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="7.44">
+</conversionOrExercisePrice>
+<transactionDate value="2009-07-01">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="A" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="5000" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate><footnoteId id="F7" /> 
+</exerciseDate>
+<expirationDate> value="2016-07-01" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="5000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="5000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+<derivativeTransaction>
+<securityTitle> value="Incentive Stock Option (right to buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="8.48">
+</conversionOrExercisePrice>
+<transactionDate value="2008-04-01">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="A" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="6000" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate><footnoteId id="F8" /> 
+</exerciseDate>
+<expirationDate> value="2015-04-01" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="6000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="6000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="Restricted Stock Units granted pursuant to the Exar Corporation 2006 Equity Plan. Units will become unrestricted and vest 100% on the 3-year anniversary of the date of the grant, November 2, 2006." /> 
+ <footnote id="F2" text="Restricted stock units granted pursuant to the Exar Corporation 2006 Equity Incentive Plan; units vest 25% per year on the anniversary date of the grant, 4/1/2008." /> 
+ <footnote id="F3" text="Transaction represents tax withholding in connection with the vesting of a portion of the restricted stock units awarded  and previously reported in Table I of a Form 4 filed in connection with the grant of the award. Pursuant to terms of award, upon vesting issuer automatically reduces the number of shares payable in connection with the vesting of the award by a number of shares having a value equal to the tax withholding obligations arising from the vesting of the award.  These tax withholding transactions are exempt under Rule 16b-3 of the Securities Exchange Act of 1934, as amended.  The reporting person is reporting (using Code F) the shares not issued by the issuer because of the applicable tax withholding." /> 
+ <footnote id="F4" text="Transaction represents tax withholding in connection with the vesting on 7/1/10 of restricted stock units awarded 7/1/10 and reported in Table 1 in connection with the grant of the award. Pursuant to terms of award, upon vesting issuer automatically reduces the number of shares payable in connection with the vesting of the award by a number of shares having a value equal to the tax withholding obligations arising from the vesting of the award.  These tax withholding transactions are exempt under Rule 16b-3 of the Securities Exchange Act of 1934, as amended.  The reporting person is reporting (using Code F) the shares not issued by the issuer because of the applicable tax withholding." /> 
+ <footnote id="F5" text="Restricted Stock award granted pursuant to the Exar Corporation 2006 Equity Incentive Plan; units vest 100% and become unrestricted on the date of the grant, 7/1/10." /> 
+ <footnote id="F6" text="Employee stock options granted pursuant to the Exar Corporation 2006 Equity Incentive Plan; the options vest 25% per year on the anniversary date of the grant, 10/1/10." /> 
+ <footnote id="F7" text="Options granted pursuant to the Exar Corporation 2006 Equity Incentive Plan; options vest 25% per year on the anniversary date of the grant, 4/1/2008." /> 
+ <footnote id="F8" text="Stock options granted pursuant to the Exar Corporation 2006 Equity Incentive Plan; the options vest 25% per year on the anniversary date of the grant." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="Daniel Belong">
+</ownerSignature>
+</ownershipDocument></Source>

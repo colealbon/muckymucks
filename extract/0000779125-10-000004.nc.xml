@@ -1,0 +1,44 @@
+<Source file="./0000779125-10-000004.nc">
+<SUBMISSION ACCESSION-NUMBER="0000779125-10-000004" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101105" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001266535" CONFORMED-NAME="DAMM DOUGLAS W" /><FILING-VALUES ACT="34" FILE-NUMBER="033-00737" FILM-NUMBER="101170871" FORM-TYPE="4" /><MAIL-ADDRESS CITY="CHEBOYGAN" STATE="MI" STREET1="8786 W. BLACK LANE" ZIP="49721" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="6021" CIK="0000779125" CONFORMED-NAME="CNB CORP /MI/" FISCAL-YEAR-END="1231" IRS-NUMBER="362662386" STATE-OF-INCORPORATION="MI" /><BUSINESS-ADDRESS CITY="CHEBOYGAN" PHONE="6166277111" STATE="MI" STREET1="PO BOX 10" ZIP="49721" /><MAIL-ADDRESS CITY="CHEBOYGAN" STATE="MI" STREET1="P O BOX 10" ZIP="49721" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-05" schemaVersion="X0303">
+<issuer> issuerCik="0000779125" 
+ issuerName="CNB CORP /MI/" 
+ issuerTradingSymbol="CNB CORP" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001266535" 
+ rptOwnerName="DAMM DOUGLAS W" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="CHEBOYGAN" rptOwnerState="MI" rptOwnerStreet1="8786 W. BLACK LANE" rptOwnerStreet2="" rptOwnerZipCode="49721" />
+
+
+<reportingOwnerRelationship isDirector="0" isOfficer="1" isOther="0" isTenPercentOwner="0" officerTitle="Executive Vice President">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="COMMON STOCK" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="P" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="100" 
+</transactionShares>
+<transactionPricePerShare value="10">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="8787" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<ownerSignature> signatureName="Douglas W. Damm" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

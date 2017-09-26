@@ -1,0 +1,158 @@
+<Source file="./0001181431-10-054086.nc">
+<SUBMISSION ACCESSION-NUMBER="0001181431-10-054086" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20091207" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001391729" CONFORMED-NAME="PIETRONTONE ANTHONY JR" /><FILING-VALUES ACT="34" FILE-NUMBER="001-15967" FILM-NUMBER="101173620" FORM-TYPE="4" /><MAIL-ADDRESS CITY="SHORT HILLS" STATE="NJ" STREET1="C/O THE DUN &amp; BRADSTREET CORPORATION" STREET2="103 JFK PARKWAY" ZIP="07078" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="7320" CIK="0001115222" CONFORMED-NAME="DUN &amp; BRADSTREET CORP/NW" FISCAL-YEAR-END="1231" IRS-NUMBER="223725387" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="SHORT HILLS" PHONE="9739215500" STATE="NJ" STREET1="103 JFK PARKWAY" STREET2="103 JFK PARKWAY" ZIP="07078" /><MAIL-ADDRESS CITY="SHORT HILLS" STATE="NJ" STREET1="103 JFK PARKWAY" STREET2="103 JFK PARKWAY" ZIP="07078" /><FORMER-COMPANY DATE-CHANGED="20000523" FORMER-CONFORMED-NAME="NEW D&amp;B CORP" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2009-12-07" schemaVersion="X0303">
+<issuer> issuerCik="0001115222" 
+ issuerName="DUN &amp; BRADSTREET CORP/NW" 
+ issuerTradingSymbol="DNB" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001391729" 
+ rptOwnerName="PIETRONTONE ANTHONY JR" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="SHORT HILLS" rptOwnerState="NJ" rptOwnerStreet1="103 JFK PARKWAY" rptOwnerStreet2="" rptOwnerZipCode="07078" />
+
+
+<reportingOwnerRelationship isDirector="0" isOfficer="1" isOther="0" isTenPercentOwner="0" officerTitle="PAO &amp; Corporate Controller">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2009-12-07">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="A" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="1400" 
+<footnoteId id="F1" /> 
+</transactionShares>
+<transactionPricePerShare> value="0" 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="4276.2659" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="2500" 
+</transactionShares>
+<transactionPricePerShare value="23.7188">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="6776.2659" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="2500" 
+</transactionShares>
+<transactionPricePerShare value="76.6">
+<footnoteId id="F2" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="D" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="4276.2659" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeHolding>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="1121.791" 
+<footnoteId id="F3" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="Held in 401(k)">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="0.58" 
+<footnoteId id="F4" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="Held in ESPP">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+</nonDerivativeTable>
+<derivativeTable><derivativeTransaction><securityTitle> value="Non-Qualified Stock Option - right to buy" 
+</securityTitle>
+<conversionOrExercisePrice value="23.7188">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="2500" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate> value="2003-12-04" 
+<footnoteId id="F5" /> 
+</exerciseDate>
+<expirationDate> value="2010-12-04" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="2500">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="0" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="Grant of restricted stock which vests in three installments -- 20% on 10/1/2010, 30% on 10/1/2011 and the remaining 50% on 10/1/2012." /> 
+ <footnote id="F2" text="Represents the weighted average sales price. Actual prices ranged from $76.55 to $76.65. Upon request from the SEC or a stockholder of the issuer, the reporting person will provide information on the number of shares sold at each separate price." /> 
+ <footnote id="F3" text="Held in the issuer&apos;s 401(k) plan as of 10/31/10." /> 
+ <footnote id="F4" text="Held in the issuer&apos;s employee stock purchase plan (ESPP) as of 10/29/10." /> 
+ <footnote id="F5" text="One-third of the option vested each year beginning on the date indicated." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="/s/ Christine Cappuccia for Anthony Pietrontone, Jr.">
+</ownerSignature>
+</ownershipDocument></Source>

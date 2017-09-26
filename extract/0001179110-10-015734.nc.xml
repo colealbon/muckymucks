@@ -1,0 +1,52 @@
+<Source file="./0001179110-10-015734.nc">
+<SUBMISSION ACCESSION-NUMBER="0001179110-10-015734" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001261141" CONFORMED-NAME="BURZIK CATHERINE M" /><FILING-VALUES ACT="34" FILE-NUMBER="001-09913" FILM-NUMBER="101173758" FORM-TYPE="4" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="2590" CIK="0000831967" CONFORMED-NAME="KINETIC CONCEPTS INC" FISCAL-YEAR-END="1231" IRS-NUMBER="741891727" STATE-OF-INCORPORATION="TX" /><BUSINESS-ADDRESS CITY="SAN ANTONIO" PHONE="210.524.9000" STATE="TX" STREET1="8023 VANTAGE DR" ZIP="78230" /><MAIL-ADDRESS CITY="SAN ANTONIO" STATE="TX" STREET1="P0 B0X 659508" ZIP="78265-9508" /><FORMER-COMPANY DATE-CHANGED="19920703" FORMER-CONFORMED-NAME="KINETIC CONCEPTS INC /TX/" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0000831967" 
+ issuerName="KINETIC CONCEPTS INC" 
+ issuerTradingSymbol="KCI" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001261141" 
+ rptOwnerName="BURZIK CATHERINE M" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="SAN ANTONIO" rptOwnerState="TX" rptOwnerStreet1="C/O KINETIC CONCEPTS, INC." rptOwnerStreet2="8023 VANTAGE DRIVE" rptOwnerZipCode="78230">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="1" 
+ isOfficer="1" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+ officerTitle="President and CEO" 
+<otherText /> 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable>
+<nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="F" transactionFormType="4">
+<footnoteId id="F1" /> 
+</transactionCoding>
+<transactionAmounts><transactionShares> value="2504" 
+</transactionShares>
+<transactionPricePerShare value="39.61">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="117339" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<derivativeTable /> 
+<footnotes>
+<footnote id="F1" text="In connection with the lapsing of restrictions on restricted shares, the Company withheld the shares for the payment of tax withholding obligations." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="/s/ John T. Bibb, Attorney-in-fact">
+</ownerSignature>
+</ownershipDocument></Source>

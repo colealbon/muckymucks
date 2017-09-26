@@ -1,0 +1,26 @@
+<Source file="./0000073887-10-000120.nc">
+<SUBMISSION ACCESSION-NUMBER="0000073887-10-000120" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="3"><REPORTING-OWNER><OWNER-DATA CIK="0001505027" CONFORMED-NAME="Miller L. Don" /><FILING-VALUES ACT="34" FILE-NUMBER="001-31617" FILM-NUMBER="101170895" FORM-TYPE="3" /><MAIL-ADDRESS CITY="HOUSTON" STATE="TX" STREET1="2000 WEST SAM HOUSTON PARKWAY S." STREET2="SUITE 1700" ZIP="77042" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="4522" CIK="0000073887" CONFORMED-NAME="Bristow Group Inc" FISCAL-YEAR-END="0426" IRS-NUMBER="720679819" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="HOUSTON" PHONE="7132677600" STATE="TX" STREET1="2000 W SAM HOUSTON PARKWAY SOUTH" STREET2="SUITE 1700" ZIP="77042" /><MAIL-ADDRESS CITY="HOUSTON" STATE="TX" STREET1="2000 W SAM HOUSTON PARKWAY SOUTH" STREET2="SUITE 1700" ZIP="77042" /><FORMER-COMPANY DATE-CHANGED="19920703" FORMER-CONFORMED-NAME="OFFSHORE LOGISTICS INC" /></ISSUER></SUBMISSION><ownershipDocument documentType="3" noSecuritiesOwned="1" periodOfReport="2010-11-04" schemaVersion="X0203">
+<issuer> issuerCik="0000073887" 
+ issuerName="Bristow Group Inc" 
+ issuerTradingSymbol="BRS" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001505027" 
+ rptOwnerName="Miller L. Don" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="HOUSTON" rptOwnerState="TX" rptOwnerStreet1="2000 W. SAM HOUSTON PARKWAY S." rptOwnerStreet2="SUITE 1700" rptOwnerZipCode="77042">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="1" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+ officerTitle="Vice President" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<remarks />
+<ownerSignature> signatureName="L. Do n Miller" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

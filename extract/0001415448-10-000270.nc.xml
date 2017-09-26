@@ -1,0 +1,55 @@
+<Source file="./0001415448-10-000270.nc">
+<SUBMISSION ACCESSION-NUMBER="0001415448-10-000270" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001232915" CONFORMED-NAME="FOSTER MARK" /><FILING-VALUES ACT="34" FILE-NUMBER="001-34448" FILM-NUMBER="101172847" FORM-TYPE="4" /><MAIL-ADDRESS CITY="CHICAGO" STATE="IL" STREET1="C/O ACCENTURE" STREET2="161 N CLARK STREET" ZIP="60601" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="7389" CIK="0001467373" CONFORMED-NAME="Accenture plc" FISCAL-YEAR-END="0831" IRS-NUMBER="980627530" STATE-OF-INCORPORATION="L2" /><BUSINESS-ADDRESS CITY="DUBLIN" PHONE="353-1-646-2000" STATE="L2" STREET1="1 GRAND CANAL SQUARE" STREET2="GRAND CANAL HARBOUR" ZIP="D2" /><MAIL-ADDRESS CITY="DUBLIN" STATE="L2" STREET1="1 GRAND CANAL SQUARE" STREET2="GRAND CANAL HARBOUR" ZIP="D2" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0001467373" 
+ issuerName="Accenture plc" 
+ issuerTradingSymbol="ACN" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001232915" 
+ rptOwnerName="FOSTER MARK" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="CHICAGO" rptOwnerState="IL" rptOwnerStreet1="C/O ACCENTURE" rptOwnerStreet2="161 N. CLARK STREET" rptOwnerZipCode="60601">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="1" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+ officerTitle="Grp Chief Exec-Mgmt Consulting" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Class A ordinary shares" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="20000" 
+</transactionShares>
+<transactionPricePerShare value="45.491">
+<footnoteId id="F1" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="D" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="295619" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<footnotes>
+<footnote id="F1" text="The transaction was executed in multiple trades at prices ranging from $45.49 to $45.495.  The price reported above reflects the weighted average sale price.  The reporting person hereby undertakes to provide upon request to the SEC staff, the issuer or a security holder of the issuer full information regarding the number of shares and prices at which the transaction was effected." /> 
+</footnotes>
+<remarks />
+<ownerSignature> signatureName="/s/ Kathryn Lloyd, Attorney-in-Fact for Mark Foster" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

@@ -1,0 +1,63 @@
+<Source file="./0001225208-10-024432.nc">
+<SUBMISSION ACCESSION-NUMBER="0001225208-10-024432" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001315387" CONFORMED-NAME="Aardsma David A" /><FILING-VALUES ACT="34" FILE-NUMBER="001-12154" FILM-NUMBER="101171737" FORM-TYPE="4" /><MAIL-ADDRESS CITY="HOUSTON" STATE="TX" STREET1="1001 FANNIN STREET, SUITE 4000" ZIP="77002" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="4953" CIK="0000823768" CONFORMED-NAME="WASTE MANAGEMENT INC" FISCAL-YEAR-END="1231" IRS-NUMBER="731309529" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="HOUSTON" PHONE="7135126200" STATE="TX" STREET1="1001 FANNIN STREET" STREET2="STE 4000" ZIP="77002" /><MAIL-ADDRESS CITY="HOUSTON" STATE="TX" STREET1="1001 FANNIN STREET" STREET2="SUITE 4000" ZIP="77002" /><FORMER-COMPANY DATE-CHANGED="19920703" FORMER-CONFORMED-NAME="USA WASTE SERVICES INC" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0000823768" 
+ issuerName="WASTE MANAGEMENT INC" 
+ issuerTradingSymbol="WM" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001315387" 
+ rptOwnerName="Aardsma David A" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="HOUSTON" rptOwnerState="TX" rptOwnerStreet1="1001 FANNIN STREET" rptOwnerStreet2="SUITE 4000" rptOwnerZipCode="77002">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isOfficer="1" 
+ officerTitle="Sr. VP, Sales and Marketing" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable /> 
+<derivativeTable>
+<derivativeTransaction><securityTitle> value="Phantom Stock Units" 
+<footnoteId id="F1" /> 
+</securityTitle>
+<conversionOrExercisePrice> value="0.0000" 
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="A" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="5.2422" 
+</transactionShares>
+<transactionPricePerShare value="0.0000">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate> value="1988-08-08" 
+</exerciseDate>
+<expirationDate value="1988-08-08">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="5.2422">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="2298.1561" 
+<footnoteId id="F2" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="Phantom stock units accrued under the Waste Management, Inc.  409A Deferral Savings Plan, a supplemental retirement savings plan.  A phantom stock unit is equivalent to one share of Common Stock." /> 
+ <footnote id="F2" text="Participant&apos;s Company stock fund account on any given date may not exactly equal the number of share equivalents represented by a prior balance plus additions due to variables affecting the determination of Company stock fund unit values under the Plan on any such date." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="John S Tsai, Attorney-in-fact">
+</ownerSignature>
+</ownershipDocument></Source>

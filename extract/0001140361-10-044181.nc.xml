@@ -1,0 +1,34 @@
+<Source file="./0001140361-10-044181.nc">
+<SUBMISSION ACCESSION-NUMBER="0001140361-10-044181" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101108" PUBLIC-DOCUMENT-COUNT="1" TYPE="3"><REPORTING-OWNER><OWNER-DATA CIK="0001505231" CONFORMED-NAME="Graham Edward E" /><FILING-VALUES ACT="34" FILE-NUMBER="001-15759" FILM-NUMBER="101172650" FORM-TYPE="3" /><MAIL-ADDRESS CITY="PINEVILLE" STATE="LA" STREET1="2030 DONAHUE FERRY ROAD" ZIP="71360" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="4911" CIK="0001089819" CONFORMED-NAME="CLECO CORP" FISCAL-YEAR-END="1231" IRS-NUMBER="721445282" STATE-OF-INCORPORATION="LA" /><BUSINESS-ADDRESS CITY="PINEVILLE" PHONE="3184847400" STATE="LA" STREET1="2030 DONAHUE FERRY ROAD" ZIP="71360-5226" /><MAIL-ADDRESS CITY="PINEVILLE" STATE="LA" STREET1="PO BOX 5000" ZIP="71361-5000" /><FORMER-COMPANY DATE-CHANGED="19990630" FORMER-CONFORMED-NAME="CLECO HOLDING CORP" /></ISSUER></SUBMISSION><ownershipDocument documentType="3" noSecuritiesOwned="0" periodOfReport="2010-11-08" schemaVersion="X0203">
+<issuer> issuerCik="0001089819" 
+ issuerName="CLECO CORP" 
+ issuerTradingSymbol="CNL" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001505231" 
+ rptOwnerName="Graham Edward E" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="PINEVILLE" rptOwnerState="LA" rptOwnerStreet1="P.O. BOX 5000" rptOwnerStreet2="" rptOwnerZipCode="71360" />
+
+
+<reportingOwnerRelationship isDirector="0" isOfficer="1" isOther="0" isTenPercentOwner="0" officerTitle="Sr Vice President">
+<otherText /> 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable>
+<nonDerivativeHolding><securityTitle> value="Common Stock, $1 par" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="0" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+</nonDerivativeTable>
+<derivativeTable /> 
+<remarks /> 
+<ownerSignature signatureDate="2010-11-08" signatureName="Edward E. Graham">
+</ownerSignature>
+</ownershipDocument></Source>

@@ -1,0 +1,140 @@
+<Source file="./0001181431-10-053956.nc">
+<SUBMISSION ACCESSION-NUMBER="0001181431-10-053956" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001227360" CONFORMED-NAME="HARRIS RUSSELL" /><FILING-VALUES ACT="34" FILE-NUMBER="000-29748" FILM-NUMBER="101171841" FORM-TYPE="4" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="3576" CIK="0000031347" CONFORMED-NAME="ECHELON CORP" FISCAL-YEAR-END="1231" IRS-NUMBER="770203595" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="SAN JOSE" PHONE="4089385200" STATE="CA" STREET1="550 MERIDIAN AVENUE" ZIP="95126" /><MAIL-ADDRESS CITY="SAN JOSE" STATE="CA" STREET1="550 MERIDIAN AVENUE" ZIP="95126" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0000031347" 
+ issuerName="ECHELON CORP" 
+ issuerTradingSymbol="ELON" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001227360" 
+ rptOwnerName="HARRIS RUSSELL" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="SAN JOSE" rptOwnerState="CA" rptOwnerStreet1="550 MERIDIAN AVE" rptOwnerStreet2="" rptOwnerZipCode="95126" />
+
+
+<reportingOwnerRelationship isDirector="0" isOfficer="1" isOther="0" isTenPercentOwner="0" officerTitle="Senior VP of Operations">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="20945" 
+</transactionShares>
+<transactionPricePerShare value="7.69">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="45316" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="D" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="19103" 
+</transactionShares>
+<transactionPricePerShare value="8.93">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="26213" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="1842" 
+<footnoteId id="F2" /> 
+</transactionShares>
+<transactionPricePerShare> value="8.9743" 
+<footnoteId id="F3" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="D" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="24371" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeHolding>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="10000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="See footnote">
+<footnoteId id="F1" /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+</nonDerivativeTable>
+<derivativeTable>
+<derivativeTransaction><securityTitle> value="Stock Appreciation Right" 
+</securityTitle>
+<conversionOrExercisePrice value="7.69">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="20945" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate> value="2009-12-17" 
+</exerciseDate>
+<expirationDate value="2010-12-17">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="20945">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="41891" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="These shares are held by The Russell R. Harris 2004 Children&apos;s Trust dated April 22, 2004, of which the Reporting Person is the Settlor and his spouse is Trustee." /> 
+ <footnote id="F2" text="This trade was executed pursuant to a Rule 10b5-1 plan that was adopted on September 14, 2010." /> 
+ <footnote id="F3" text="The 1,842 shares were sold through separate trades, with the sale prices ranging from $8.90 to $9.03 and at a weighted average sale price of $8.9743.  The Reporting Person undertakes to provide upon request by the staff of the Securities and Exchange Commission, the issuer, or a security holder of the issuer, full information regarding the number of shares sold at each separate sale price." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="/s/ Oliver R. Stanfield, attorney-in-fact for Russell Harris">
+</ownerSignature>
+</ownershipDocument></Source>

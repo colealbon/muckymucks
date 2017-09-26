@@ -1,0 +1,97 @@
+<Source file="./0001427152-10-000362.nc">
+<SUBMISSION ACCESSION-NUMBER="0001427152-10-000362" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101105" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001270321" CONFORMED-NAME="SLEDGE CHARLES M" /><FILING-VALUES ACT="34" FILE-NUMBER="001-13884" FILM-NUMBER="101172649" FORM-TYPE="4" /><MAIL-ADDRESS CITY="HOUSTON" STATE="TX" STREET1="1333 WEST LOOP SOUTH" STREET2="SUITE 1700" ZIP="77027" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="3533" CIK="0000941548" CONFORMED-NAME="CAMERON INTERNATIONAL CORP" FISCAL-YEAR-END="1231" IRS-NUMBER="760451843" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="HOUSTON" PHONE="7135133322" STATE="TX" STREET1="1333 WEST LOOP SOUTH" STREET2="STE 1700" ZIP="77027" /><MAIL-ADDRESS CITY="HOUSTON" STATE="TX" STREET1="1333 WEST LOOP SOUTH" STREET2="STE 1700" ZIP="77027" /><FORMER-COMPANY DATE-CHANGED="19950315" FORMER-CONFORMED-NAME="COOPER CAMERON CORP" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-05" schemaVersion="X0303">
+<issuer> issuerCik="0000941548" 
+ issuerName="CAMERON INTERNATIONAL CORP" 
+ issuerTradingSymbol="CAM" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001270321" 
+ rptOwnerName="SLEDGE CHARLES M" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="HOUSTON" rptOwnerState="TX" rptOwnerStreet1="1333 WEST LOOP SOUTH" rptOwnerStreet2="SUITE 1700" rptOwnerZipCode="77027">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="1" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+ officerTitle="Sr Vice Pres &amp; CFO" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-06">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="F" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="1069" 
+<footnoteId id="F1" /> 
+</transactionShares>
+<transactionPricePerShare> value="46.13" 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="75949" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeHolding>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="1502" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="by Trust">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+</nonDerivativeTable>
+<derivativeTable><derivativeTransaction><securityTitle> value="Phantom Stock" 
+</securityTitle>
+<conversionOrExercisePrice>
+<footnoteId id="F2" /> 
+</conversionOrExercisePrice>
+<transactionDate> value="2010-11-05" 
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="A" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="32.077" 
+</transactionShares>
+<transactionPricePerShare value="45.5692">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate><footnoteId id="F2" /> 
+</exerciseDate>
+<expirationDate><footnoteId id="F2" /> 
+</expirationDate>
+<underlyingSecurity><underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="32.077">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="5095.605" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="Payment of tax liability by withholding shares of stock upon the release of restricted stock units that were converted into Cameron common stock.  The grant and vest dates were previously reported on a Form 4 dated November 6, 2009." /> 
+ <footnote id="F2" text="Each share of phantom stock is the economic equivalent of one share of common stock.  The shares of phantom stock become payable in cash upon the reporting person&apos;s termination of service as an employee or retirement." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="By: Grace B. Holmes  For: Charles M. Sledge">
+</ownerSignature>
+</ownershipDocument></Source>

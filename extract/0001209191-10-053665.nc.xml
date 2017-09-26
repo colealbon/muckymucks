@@ -1,0 +1,50 @@
+<Source file="./0001209191-10-053665.nc">
+<SUBMISSION ACCESSION-NUMBER="0001209191-10-053665" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20100919" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001412895" CONFORMED-NAME="Phillips Bryan K" /><FILING-VALUES ACT="34" FILE-NUMBER="000-23837" FILM-NUMBER="101172126" FORM-TYPE="4" /><MAIL-ADDRESS CITY="EDEN PRAIRIE" STATE="MN" STREET1="9924 WEST 74TH STREET" ZIP="55344" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="2834" CIK="0000924717" CONFORMED-NAME="SURMODICS INC" FISCAL-YEAR-END="0930" IRS-NUMBER="411356149" STATE-OF-INCORPORATION="MN" /><BUSINESS-ADDRESS CITY="EDEN PRAIRIE" PHONE="6128292700" STATE="MN" STREET1="9924 W 74TH ST" ZIP="55344" /><MAIL-ADDRESS CITY="EDEN PRAIRIE" STATE="MN" STREET1="9924 WEST 74TH ST" ZIP="55344" /><FORMER-COMPANY DATE-CHANGED="19970506" FORMER-CONFORMED-NAME="BSI CORP" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-09-19" schemaVersion="X0303">
+<issuer> issuerCik="0000924717" 
+ issuerName="SURMODICS INC" 
+ issuerTradingSymbol="SRDX" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001412895" 
+ rptOwnerName="Phillips Bryan K" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="EDEN PRAIRIE" rptOwnerState="MN" rptOwnerStreet1="9924 WEST 74TH STREET" rptOwnerStreet2="" rptOwnerZipCode="55344" />
+
+
+<reportingOwnerRelationship isDirector="0" isOfficer="1" isOther="0" isTenPercentOwner="0" officerTitle="SVP, Gen Counsel &amp; Secretary">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-09-19">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="F" 
+ equitySwapInvolved="0" 
+<footnoteId id="F1" /> 
+</transactionCoding>
+<transactionTimeliness><value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="654" 
+</transactionShares>
+<transactionPricePerShare value="10.93">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="7326" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<footnotes> <footnote id="F1" text="The reporting person makes a payment of tax liability by withholding securities incident to the vesting of his restricted stock award issued in accordance with Rule 16b-3." /> 
+</footnotes>
+<remarks />
+<ownerSignature> signatureName="/s/ Bryan K. Phillips" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

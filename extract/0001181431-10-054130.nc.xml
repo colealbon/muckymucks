@@ -1,0 +1,42 @@
+<Source file="./0001181431-10-054130.nc">
+<SUBMISSION ACCESSION-NUMBER="0001181431-10-054130" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101027" PUBLIC-DOCUMENT-COUNT="1" TYPE="3"><REPORTING-OWNER><OWNER-DATA CIK="0001504816" CONFORMED-NAME="PYNNONEN BRETT D" /><FILING-VALUES ACT="34" FILE-NUMBER="001-34029" FILM-NUMBER="101173950" FORM-TYPE="3" /><MAIL-ADDRESS CITY="SOUTHFIELD" STATE="MI" STREET1="26555 NORTHWESTERN HIGHWAY" ZIP="48033" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="3714" CIK="0001419581" CONFORMED-NAME="FEDERAL MOGUL CORP" FISCAL-YEAR-END="1231" IRS-NUMBER="208350090" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="SOUTHFIELD" PHONE="248-354-7700" STATE="MI" STREET1="26555 NORTHWESTERN HGWY" ZIP="48034" /><MAIL-ADDRESS CITY="SOUTHFIELD" STATE="MI" STREET1="26555 NORTHWESTERN HGWY" ZIP="48034" /><FORMER-COMPANY DATE-CHANGED="20071228" FORMER-CONFORMED-NAME="FEDERAL-MOGUL CORP" /><FORMER-COMPANY DATE-CHANGED="20071128" FORMER-CONFORMED-NAME="NEW FEDERAL-MOGUL CORP" /></ISSUER></SUBMISSION><ownershipDocument documentType="3" noSecuritiesOwned="0" periodOfReport="2010-10-27" schemaVersion="X0203">
+<issuer> issuerCik="0001419581" 
+ issuerName="FEDERAL MOGUL CORP" 
+ issuerTradingSymbol="FDML" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001504816" 
+ rptOwnerName="PYNNONEN BRETT D" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="SOUTHFIELD" rptOwnerState="MI" rptOwnerStreet1="26555 NORTHWESTERN HIGHWAY" rptOwnerStreet2="" rptOwnerZipCode="48033" />
+
+
+<reportingOwnerRelationship isDirector="0" isOfficer="1" isOther="0" isTenPercentOwner="0" officerTitle="Sr VP, Genl Counsel &amp; Secy">
+</reportingOwnerRelationship>
+</reportingOwner>
+<derivativeTable><derivativeHolding><securityTitle> value="Stock Appreciation Right" 
+</securityTitle>
+<conversionOrExercisePrice value="17.16">
+<footnoteId id="F1" /> 
+</conversionOrExercisePrice>
+<exerciseDate><footnoteId id="F2" /> 
+</exerciseDate>
+<expirationDate> value="2015-02-21" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="634">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="The Stock Appreciation Rights granted to the Reporting Person on this Form 3 were granted by the Federal-Mogul Corporation (Company) Board of Directors on February 22, 2010, subject to approval at the Company&apos;s Annual Meeting of Stockholders which occurred on May 26, 2010.  The exercise price is the closing price of Company&apos;s common stock on February 19, 2010." /> 
+ <footnote id="F2" text="The Stock Appreciation Rights reported on this Form 3 vest in three equal installments on each of February 22, 2011, February 22, 2012 and February 22, 2013." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="/s/ Brett D. Pynnonen">
+</ownerSignature>
+</ownershipDocument></Source>

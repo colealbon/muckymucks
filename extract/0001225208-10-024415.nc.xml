@@ -1,0 +1,99 @@
+<Source file="./0001225208-10-024415.nc">
+<SUBMISSION ACCESSION-NUMBER="0001225208-10-024415" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101101" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001448864" CONFORMED-NAME="Walsh Patricia J" /><FILING-VALUES ACT="34" FILE-NUMBER="811-02183" FILM-NUMBER="101170906" FORM-TYPE="4" /><MAIL-ADDRESS CITY="SPRINGFIELD" STATE="MA" STREET1="BABSON CAPITAL MANAGEMENT LLC" STREET2="1500 MAIN STREET  PO BOX 15189" ZIP="01115" /></REPORTING-OWNER><ISSUER><COMPANY-DATA CIK="0000275694" CONFORMED-NAME="MASSMUTUAL CORPORATE INVESTORS" FISCAL-YEAR-END="1231" IRS-NUMBER="042483041" STATE-OF-INCORPORATION="MA" /><BUSINESS-ADDRESS CITY="SPRINGFIELD" PHONE="4132261000" STATE="MA" STREET1="1500 MAIN STREET" STREET2="SUITE 600" ZIP="01115" /><MAIL-ADDRESS CITY="SPRINGFIELD" STATE="MA" STREET1="1500 MAIN STREET" STREET2="SUITE 600" ZIP="01115" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" periodOfReport="2010-11-01" schemaVersion="X0303">
+<issuer> issuerCik="0000275694" 
+ issuerName="MASSMUTUAL CORPORATE INVESTORS" 
+ issuerTradingSymbol="MCI" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001448864" 
+ rptOwnerName="Walsh Patricia J" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="SPRINGFIELD" rptOwnerState="MA" rptOwnerStreet1="1500 MAIN STREET" rptOwnerStreet2="P. O. BOX 15189" rptOwnerZipCode="01115">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isOfficer="1" 
+ isOther="1" 
+ officerTitle="VP" 
+ otherText="Officer of Adviser" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable /> 
+<derivativeTable>
+<derivativeTransaction><securityTitle> value="MassMutual Non-Qualified Thrift Plan" 
+</securityTitle>
+<conversionOrExercisePrice>
+<footnoteId id="F1" /> 
+</conversionOrExercisePrice>
+<transactionDate> value="2010-11-01" 
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="J" transactionFormType="4">
+<footnoteId id="F2" /> 
+</transactionCoding>
+<transactionAmounts><transactionShares> value="7.7186" 
+</transactionShares>
+<transactionPricePerShare value="30.2400">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate><footnoteId id="F1" /> 
+</exerciseDate>
+<expirationDate><footnoteId id="F1" /> 
+</expirationDate>
+<underlyingSecurity><underlyingSecurityTitle> value="Common Shares (Shares of Beneficial Interest)" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="7.7186">
+<footnoteId id="F3" /> 
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="439.9603" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+<derivativeTransaction>
+<securityTitle> value="MassMutual Non-Qualified Thrift Plan" 
+</securityTitle>
+<conversionOrExercisePrice>
+<footnoteId id="F1" /> 
+</conversionOrExercisePrice>
+<transactionDate> value="2010-11-04" 
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="J" transactionFormType="4">
+<footnoteId id="F2" /> 
+</transactionCoding>
+<transactionAmounts><transactionShares> value="11.3460" 
+</transactionShares>
+<transactionPricePerShare value="30.0000">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate><footnoteId id="F1" /> 
+</exerciseDate>
+<expirationDate><footnoteId id="F1" /> 
+</expirationDate>
+<underlyingSecurity><underlyingSecurityTitle> value="Common Shares (Shares of Beneficial Interest)" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="11.3460">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="451.3063" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="Exercisable only upon termination, retirement, or other plan permitted event. Plan holdings may be liquidated and reallocated into other plan investment options by the plan participant. The derivative has no actual securities underlying the plan agreement, which is entirely notional." /> 
+ <footnote id="F2" text="Babson Capital and MassMutual each offer a non-qualified compensation deferral plan where certain officers are permitted to defer a portion of their compensation into the plans. Deferred compensation into a plan is allocated among one or more investment options at the election of the plan participant. Each plan has an investment option that derives its value from the market value of MassMutual Corporate Investors&apos; common shares (and includes the value of reinvested dividends). However, pursuant to the terms of the plans, neither the plans nor the participants have an actual ownership interest in the common shares. The shares beneficially owned include the number of shares of MassMutual Corporate Investors represented by the value of the MassMutual Corporate Investors investment option under the plan held by the plan participant." /> 
+ <footnote id="F3" text="Purchased pursuant to a dividend reinvestment plan." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="Ann Malloy as Attorney-in-fact">
+</ownerSignature>
+</ownershipDocument></Source>

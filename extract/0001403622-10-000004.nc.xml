@@ -1,0 +1,89 @@
+<Source file="./0001403622-10-000004.nc">
+<SUBMISSION ACCESSION-NUMBER="0001403622-10-000004" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001403622" CONFORMED-NAME="Cleveland Ralph" /><FILING-VALUES ACT="34" FILE-NUMBER="001-14174" FILM-NUMBER="101171069" FORM-TYPE="4" /><MAIL-ADDRESS CITY="ATLANTA" STATE="GA" STREET1="TEN PEACHTREE PLACE" ZIP="30309" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="4924" CIK="0001004155" CONFORMED-NAME="AGL RESOURCES INC" FISCAL-YEAR-END="1231" IRS-NUMBER="582210952" STATE-OF-INCORPORATION="GA" /><BUSINESS-ADDRESS CITY="ATLANTA" PHONE="4045844000" STATE="GA" STREET1="TEN PEACHTREE PLACE" ZIP="30309" /><MAIL-ADDRESS CITY="ATLANTA" STATE="GA" STREET1="TEN PEACHTREE PLACE" STREET2="DEPT. 1109" ZIP="30309" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0001004155" 
+ issuerName="AGL RESOURCES INC" 
+ issuerTradingSymbol="AGL" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001403622" 
+ rptOwnerName="Cleveland Ralph" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="ATLANTA" rptOwnerState="GA" rptOwnerStreet1="TEN PEACHTREE PLACE" rptOwnerStreet2="" rptOwnerZipCode="30309" />
+
+
+<reportingOwnerRelationship isDirector="0" isOfficer="1" isOther="0" isTenPercentOwner="0" officerTitle="EVP">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="151" 
+</transactionShares>
+<transactionPricePerShare value="39.0492">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="6580.141" 
+<footnoteId id="F1" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="640" 
+</transactionShares>
+<transactionPricePerShare value="39.0492">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="5940.141" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeHolding><securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="7906.6328" 
+<footnoteId id="F2" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="by 401(k) plan">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+</nonDerivativeTable>
+<footnotes> <footnote id="F1" text="Includes an aggregate of 28.804 shares allocated to the reporting person&apos;s account on June 1, 2010 and September 1, 2010 pursuant to a dividend reinvestment feature of the AGL Resources Inc. Direct Stock Purchase and Dividend Reinvestment Plan.  Also includes an aggregate of 41.228 shares allocated to the reporting person&apos;s account on June 1, 2010 and September 1, 2010, under the AGL Resources Inc. Employee Stock Purchase Plan." /> 
+ <footnote id="F2" text="Information as of statement dated September 30, 2010." /> 
+</footnotes>
+<remarks />
+<ownerSignature> signatureName="Barbara P. Christopher, by power of attorney" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

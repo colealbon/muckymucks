@@ -1,0 +1,249 @@
+<Source file="./0000921895-10-001645.nc">
+<SUBMISSION ACCESSION-NUMBER="0000921895-10-001645" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001042589" CONFORMED-NAME="COHEN PETER A" /><FILING-VALUES ACT="34" FILE-NUMBER="000-27969" FILM-NUMBER="101174161" FORM-TYPE="4" /><MAIL-ADDRESS CITY="NEW YORK" STATE="NY" STREET1="599 LEXINGTON AVENUE" STREET2="20TH FLOOR" ZIP="10022" /></REPORTING-OWNER><REPORTING-OWNER><OWNER-DATA CIK="0001043935" CONFORMED-NAME="STRAUSS THOMAS W" /><FILING-VALUES ACT="34" FILE-NUMBER="000-27969" FILM-NUMBER="101174159" FORM-TYPE="4" /><MAIL-ADDRESS CITY="NEW YORK" STATE="NY" STREET1="599 LEXINGTON AVENUE" STREET2="20TH FLOOR" ZIP="10022" /></REPORTING-OWNER><REPORTING-OWNER><OWNER-DATA CIK="0001275922" CONFORMED-NAME="SOLOMON JEFFREY M" /><FILING-VALUES ACT="34" FILE-NUMBER="000-27969" FILM-NUMBER="101174158" FORM-TYPE="4" /><MAIL-ADDRESS CITY="NEW YORK" STATE="NY" STREET1="599 LEXINGTON AVENUE 20TH FLOOR" ZIP="10022" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="3577" CIK="0001058811" CONFORMED-NAME="IMMERSION CORP" FISCAL-YEAR-END="1231" IRS-NUMBER="943180138" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="SAN JOSE" PHONE="408-467-1900" STATE="CA" STREET1="801 FOX LANE" ZIP="95131" /><MAIL-ADDRESS CITY="SAN JOSE" STATE="CA" STREET1="801 FOX LANE" ZIP="95131" /><FORMER-COMPANY DATE-CHANGED="19980602" FORMER-CONFORMED-NAME="IMMERSION HUMAN INTERFACE CORP" /></ISSUER><REPORTING-OWNER><OWNER-DATA CIK="0001050154" CONFORMED-NAME="RCG HOLDINGS LLC" FISCAL-YEAR-END="1231" STATE-OF-INCORPORATION="DE" /><FILING-VALUES ACT="34" FILE-NUMBER="000-27969" FILM-NUMBER="101174156" FORM-TYPE="4" /><BUSINESS-ADDRESS CITY="NEW YORK" PHONE="2122014823" STATE="NY" STREET1="599 LEXINGTON AVENUE" STREET2="20TH FLOOR" ZIP="10022" /><MAIL-ADDRESS CITY="NEW YORK" STATE="NY" STREET1="599 LEXINGTON AVENUE" STREET2="20TH FLOOR" ZIP="10022" /><FORMER-NAME DATE-CHANGED="20080617" FORMER-CONFORMED-NAME="RAMIUS LLC" /><FORMER-NAME DATE-CHANGED="20010212" FORMER-CONFORMED-NAME="RAMIUS CAPITAL GROUP LLC" /></REPORTING-OWNER><REPORTING-OWNER><OWNER-DATA CIK="0001267474" CONFORMED-NAME="C4S &amp; CO LLC" FISCAL-YEAR-END="1231" STATE-OF-INCORPORATION="DE" /><FILING-VALUES ACT="34" FILE-NUMBER="000-27969" FILM-NUMBER="101174162" FORM-TYPE="4" /><BUSINESS-ADDRESS CITY="NEW YORK" PHONE="2122014823" STATE="NY" STREET1="RAMIUS LLC" STREET2="599 LEXINGTON AVENUE" ZIP="10022" /><MAIL-ADDRESS CITY="NEW YORK" STATE="NY" STREET1="RAMIUS LLC" STREET2="599 LEXINGTON AVENUE" ZIP="10022" /></REPORTING-OWNER><REPORTING-OWNER><OWNER-DATA CIK="0001267535" CONFORMED-NAME="STARK MORGAN B" /><FILING-VALUES ACT="34" FILE-NUMBER="000-27969" FILM-NUMBER="101174160" FORM-TYPE="4" /><MAIL-ADDRESS CITY="NEW YORK" STATE="NY" STREET1="C/O RAMIUS LLC" STREET2="599 LEXINGTON AVENUE 20TH FLOOR" ZIP="10022" /></REPORTING-OWNER><REPORTING-OWNER><OWNER-DATA ASSIGNED-SIC="6211" CIK="0001466538" CONFORMED-NAME="COWEN GROUP, INC." FISCAL-YEAR-END="1231" /><FILING-VALUES ACT="34" FILE-NUMBER="000-27969" FILM-NUMBER="101174157" FORM-TYPE="4" /><BUSINESS-ADDRESS CITY="NEW YORK" PHONE="(646) 562-1000" STATE="NY" STREET1="1221 AVENUE OF THE AMERICAS" ZIP="10020" /><MAIL-ADDRESS CITY="NEW YORK" STATE="NY" STREET1="1221 AVENUE OF THE AMERICAS" ZIP="10020" /><FORMER-NAME DATE-CHANGED="20090617" FORMER-CONFORMED-NAME="LexingtonPark Parent Corp" /></REPORTING-OWNER><REPORTING-OWNER><OWNER-DATA CIK="0001475770" CONFORMED-NAME="Ramius LLC" FISCAL-YEAR-END="1231" STATE-OF-INCORPORATION="DE" /><FILING-VALUES ACT="34" FILE-NUMBER="000-27969" FILM-NUMBER="101174163" FORM-TYPE="4" /><BUSINESS-ADDRESS CITY="NEW YORK" PHONE="212 845 7900" STATE="NY" STREET1="599 LEXINGTON AVENUE" ZIP="10022" /><MAIL-ADDRESS CITY="NEW YORK" STATE="NY" STREET1="599 LEXINGTON AVENUE" ZIP="10022" /><FORMER-NAME DATE-CHANGED="20091030" FORMER-CONFORMED-NAME="Park Exchange LLC" /></REPORTING-OWNER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0001058811" 
+ issuerName="IMMERSION CORP" 
+ issuerTradingSymbol="IMMR" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001475770" 
+ rptOwnerName="Ramius LLC" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="NEW YORK" rptOwnerState="NY" rptOwnerStreet1="599 LEXINGTON AVENUE" rptOwnerStreet2="20TH FLOOR" rptOwnerZipCode="10022">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="0" 
+ isTenPercentOwner="1" 
+ isOther="0" 
+<officerTitle /> 
+<otherText />
+</reportingOwnerRelationship>
+</reportingOwner>
+<reportingOwner><reportingOwnerId> rptOwnerCik="0001267474" 
+ rptOwnerName="C4S &amp; CO LLC" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="NEW YORK" rptOwnerState="NY" rptOwnerStreet1="599 LEXINGTON AVENUE" rptOwnerStreet2="20TH FLOOR" rptOwnerZipCode="10022">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="0" 
+ isTenPercentOwner="1" 
+ isOther="0" 
+<officerTitle /> 
+<otherText />
+</reportingOwnerRelationship>
+</reportingOwner>
+<reportingOwner><reportingOwnerId> rptOwnerCik="0001042589" 
+ rptOwnerName="COHEN PETER A" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="NEW YORK" rptOwnerState="NY" rptOwnerStreet1="C/O RAMIUS LLC" rptOwnerStreet2="599 LEXINGTON AVE., 20TH FLOOR" rptOwnerZipCode="10022">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="0" 
+ isTenPercentOwner="1" 
+ isOther="1" 
+<officerTitle /> 
+ otherText="See Explanation of Responses" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001267535" 
+ rptOwnerName="STARK MORGAN B" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="NEW YORK" rptOwnerState="NY" rptOwnerStreet1="C/O RAMIUS LLC" rptOwnerStreet2="599 LEXINGTON AVE., 20TH FLOOR" rptOwnerZipCode="10022">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="0" 
+ isTenPercentOwner="1" 
+ isOther="1" 
+<officerTitle /> 
+ otherText="See Explanation of Responses" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001043935" 
+ rptOwnerName="STRAUSS THOMAS W" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="NEW YORK" rptOwnerState="NY" rptOwnerStreet1="C/O RAMIUS LLC" rptOwnerStreet2="599 LEXINGTON AVE., 20TH FLOOR" rptOwnerZipCode="10022">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="0" 
+ isTenPercentOwner="1" 
+ isOther="1" 
+<officerTitle /> 
+ otherText="See Explanation of Responses" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001275922" 
+ rptOwnerName="SOLOMON JEFFREY M" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="NEW YORK" rptOwnerState="NY" rptOwnerStreet1="C/O RAMIUS LLC" rptOwnerStreet2="599 LEXINGTON AVE., 20TH FLOOR" rptOwnerZipCode="10022">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="0" 
+ isTenPercentOwner="1" 
+ isOther="1" 
+<officerTitle /> 
+ otherText="See Explanation of Responses" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001466538" 
+ rptOwnerName="COWEN GROUP, INC." 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="NEW YORK" rptOwnerState="NY" rptOwnerStreet1="C/O RAMIUS LLC" rptOwnerStreet2="599 LEXINGTON AVENUE" rptOwnerZipCode="10022">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="0" 
+ isTenPercentOwner="1" 
+ isOther="0" 
+<officerTitle /> 
+<otherText />
+</reportingOwnerRelationship>
+</reportingOwner>
+<reportingOwner><reportingOwnerId> rptOwnerCik="0001050154" 
+ rptOwnerName="RCG HOLDINGS LLC" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="NEW YORK" rptOwnerState="NY" rptOwnerStreet1="C/O RAMIUS LLC" rptOwnerStreet2="599 LEXINGTON AVENUE" rptOwnerZipCode="10022">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="0" 
+ isTenPercentOwner="1" 
+ isOther="0" 
+<officerTitle /> 
+<otherText />
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock, $0.001 par value" 
+<footnoteId id="F1" /> 
+<footnoteId id="F2" />
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="S" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionTimeliness />
+<transactionAmounts><transactionShares> value="359" 
+</transactionShares>
+<transactionPricePerShare value="6.152">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="521512" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="By Ramius Navigation Master Fund Ltd">
+<footnoteId id="F3" /> 
+<footnoteId id="F4" />
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock, $0.001 par value" 
+<footnoteId id="F1" /> 
+<footnoteId id="F2" />
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="S" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionTimeliness />
+<transactionAmounts><transactionShares> value="1193" 
+</transactionShares>
+<transactionPricePerShare value="6.152">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="1733894" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="By Ramius Value &amp; Opportunity Master">
+<footnoteId id="F5" /> 
+<footnoteId id="F6" />
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock, $0.001 par value" 
+<footnoteId id="F1" /> 
+<footnoteId id="F2" />
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="S" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionTimeliness />
+<transactionAmounts><transactionShares> value="948" 
+</transactionShares>
+<transactionPricePerShare value="6.152">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="1378527" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="By RCG PB, Ltd">
+<footnoteId id="F7" /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<footnotes>
+<footnote id="F1" text="Each Reporting Person may be deemed to be a member of a Section 13(d) group that owns more than 10% of the Issuer&apos;s outstanding shares of Common Stock. To enable all of the Reporting Persons to gain access to the Securities and Exchange Commission&apos;s electronic filing system (which only accepts a maximum of 10 joint filers per report), this report is the second of two identical reports relating to the same transaction being filed with the Securities and Exchange Commission." /> 
+ <footnote id="F2" text="Each Reporting Person disclaims beneficial ownership of the shares of Common Stock reported herein except to the extent of his or its pecuniary interest therein, and this report shall not be deemed to be an admission that any Reporting Person is the beneficial owner of such shares of Common Stock for purposes of Section 16 or for any other purpose." /> 
+ <footnote id="F3" text="Shares of Common Stock beneficially owned by Navigation Master Fund. As the sole member of Ramius Advisors, LLC (Ramius Advisors), the investment advisor of Navigation Master Fund, Ramius LLC (Ramius) may be deemed to beneficially own the shares of Common Stock beneficially owned by Navigation Master Fund. As the sole member of Ramius, Cowen Group, Inc. (Cowen) may be deemed to beneficially own the shares of Common Stock beneficially owned by Navigation Master Fund. As a significant shareholder of Cowen, RCG Holdings LLC (RCG Holdings) may be deemed to beneficially own the shares of Common Stock beneficially owned by Navigation Master Fund. As the managing member of RCG Holdings, C4S &amp; Co., L.L.C. (C4S) may be deemed to beneficially own the shares of Common Stock beneficially owned by Navigation Master Fund." /> 
+ <footnote id="F4" text="(Continued from previous footnote). As the managing members of C4S each of Peter A. Cohen, Morgan B. Stark, Jeffrey M. Solomon and Thomas W. Strauss may be deemed to beneficially own the shares of Common Stock beneficially owned by Navigation Master Fund." /> 
+ <footnote id="F5" text="Shares of Common Stock beneficially owned by Ramius Value and Opportunity Master Fund Ltd (Value and Opportunity Master Fund). As the sole member of Ramius Value and Opportunity Advisors LLC (f/k/a RCG Starboard Advisors, LLC), the investment manager of Value and Opportunity Master Fund, Ramius may be deemed to beneficially own the shares of Common Stock beneficially owned by Value and Opportunity Master Fund. As the sole member of Ramius, Cowen may be deemed to beneficially own the shares of Common Stock beneficially owned by Value and Opportunity Master Fund. As a significant shareholder of Cowen, RCG Holdings may be deemed to beneficially own the shares of Common Stock beneficially owned by Value and Opportunity Master Fund." /> 
+ <footnote id="F6" text="(Continued from previous footnote). As the managing member of RCG Holdings, C4S may be deemed to beneficially own the shares of Common Stock beneficially owned by Value and Opportunity Master Fund. As the managing members of C4S, each of Messrs. Cohen, Stark, Solomon and Strauss may be deemed to beneficially own the shares of Common Stock beneficially owned by Value and Opportunity Master Fund." /> 
+ <footnote id="F7" text="Shares of Common Stock beneficially owned by RCG PB. As the sole member of Ramius Advisors, the investment advisor of RCG PB, Ramius may be deemed to beneficially own the shares of Common Stock beneficially owned by RCG PB. As the sole member of Ramius, Cowen may be deemed to beneficially own the shares of Common Stock beneficially owned by RCG PB. As the majority shareholder of Cowen, RCG Holdings may be deemed to beneficially own the shares of Common Stock beneficially owned by RCG PB. As the managing member of RCG Holdings, C4S may be deemed to beneficially own the shares of Common Stock beneficially owned by RCG PB. As the managing members of C4S, each of Messrs. Cohen, Stark, Solomon and Strauss may be deemed to beneficially own the shares of Common Stock beneficially owned by RCG PB." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="By: Ramius LLC; By: /s/ Owen S. Littman, Authorized Signatory">
+</ownerSignature>
+<ownerSignature signatureDate="2010-11-08" signatureName="By: C4S &amp; Co., L.L.C., By: /s/ Owen S. Littman, as Attorney in Fact for Jeffrey M. Solomon, as Managing Member">
+</ownerSignature>
+<ownerSignature signatureDate="2010-11-08" signatureName="By: /s/ Owen S. Littman, as Attorney in Fact for Peter A. Cohen">
+</ownerSignature>
+<ownerSignature signatureDate="2010-11-08" signatureName="By: /s/ Owen S. Littman, as Attorney in Fact for Morgan B. Stark">
+</ownerSignature>
+<ownerSignature signatureDate="2010-11-08" signatureName="By: /s/ Owen S. Littman, as Attorney in Fact for Thomas W. Strauss">
+</ownerSignature>
+<ownerSignature signatureDate="2010-11-08" signatureName="By: /s/ Owen S. Littman, as Attorney in Fact for Jeffrey M. Solomon">
+</ownerSignature>
+<ownerSignature signatureDate="2010-11-08" signatureName="By: Cowen Group, Inc.; By: /s/ Owen S. Littman, Authorized Signatory">
+</ownerSignature>
+<ownerSignature signatureDate="2010-11-08" signatureName="By: RCG Holdings LLC; By /s/ Owen S. Littman, Authorized Signatory">
+</ownerSignature>
+</ownershipDocument></Source>

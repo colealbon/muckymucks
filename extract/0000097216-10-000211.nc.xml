@@ -1,0 +1,77 @@
+<Source file="./0000097216-10-000211.nc">
+<SUBMISSION ACCESSION-NUMBER="0000097216-10-000211" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101105" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001167145" CONFORMED-NAME="FORD TIMOTHY A" /><FILING-VALUES ACT="34" FILE-NUMBER="001-10702" FILM-NUMBER="101171904" FORM-TYPE="4" /><MAIL-ADDRESS CITY="WESTPORT" STATE="CT" STREET1="C/O TEREX CORPORATION" STREET2="200 NYALA FARM ROAD" ZIP="06880" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="3537" CIK="0000097216" CONFORMED-NAME="TEREX CORP" FISCAL-YEAR-END="1231" IRS-NUMBER="341531521" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="WESTPORT" PHONE="2032227170" STATE="CT" STREET1="200 NYALA FARM ROAD" ZIP="06880" /><MAIL-ADDRESS CITY="WESTPORT" STATE="CT" STREET1="200 NYALA FARM ROAD" ZIP="06880" /><FORMER-COMPANY DATE-CHANGED="19671002" FORMER-CONFORMED-NAME="BLACK MAMMOTH CONSOLIDATED MINING CO" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" periodOfReport="2010-11-05" schemaVersion="X0303">
+<issuer> issuerCik="0000097216" 
+ issuerName="TEREX CORP" 
+ issuerTradingSymbol="TEX" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001167145" 
+ rptOwnerName="FORD TIMOTHY A" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="WESTPORT" rptOwnerState="CT" rptOwnerStreet1="TEREX CORPORATION" rptOwnerStreet2="200 NYALA FARM ROAD" rptOwnerZipCode="06880">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="1" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+ officerTitle="President Terex AWP" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock, par value $.01" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="400" 
+<footnoteId id="F1" /> 
+</transactionShares>
+<transactionPricePerShare> value="25.00" 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="136375" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction><securityTitle> value="Common Stock, par value $.01" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="I" transactionFormType="5">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="0" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="2390" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="401(k) plan">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<footnotes> <footnote id="F1" text="Transaction executed pursuant to a Rule 10b5-1 stok trading plan." /> 
+</footnotes>
+<remarks />
+<ownerSignature> signatureName="/s/  Scott J. Posner, by power of attorney" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

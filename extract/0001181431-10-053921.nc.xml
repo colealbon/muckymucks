@@ -1,0 +1,384 @@
+<Source file="./0001181431-10-053921.nc">
+<SUBMISSION ACCESSION-NUMBER="0001181431-10-053921" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101019" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><ISSUER><COMPANY-DATA ASSIGNED-SIC="1311" CIK="0001066551" CONFORMED-NAME="SUN RIVER ENERGY, INC" FISCAL-YEAR-END="0430" IRS-NUMBER="841491159" STATE-OF-INCORPORATION="CO" /><BUSINESS-ADDRESS CITY="DALLAS" PHONE="(214) 739-9191" STATE="TX" STREET1="5950 BERKSHIRE LANE" STREET2="SUITE 1650" ZIP="75225" /><MAIL-ADDRESS CITY="DALLAS" STATE="TX" STREET1="5950 BERKSHIRE LANE" STREET2="SUITE 1650" ZIP="75225" /><FORMER-COMPANY DATE-CHANGED="19990812" FORMER-CONFORMED-NAME="DYNADAPT SYSTEM INC" /></ISSUER><REPORTING-OWNER><OWNER-DATA CIK="0001498072" CONFORMED-NAME="Cicerone Corporate Development, LLC" FISCAL-YEAR-END="1231" STATE-OF-INCORPORATION="TX" /><FILING-VALUES ACT="34" FILE-NUMBER="000-27485" FILM-NUMBER="101171278" FORM-TYPE="4" /><BUSINESS-ADDRESS CITY="ROANKOKE" PHONE="682-237-7527" STATE="TX" STREET1="1224 N. HWY" STREET2="SUITE 303, PMB 56" ZIP="76262" /><MAIL-ADDRESS CITY="ROANKOKE" STATE="TX" STREET1="1224 N. HWY" STREET2="SUITE 303, PMB 56" ZIP="76262" /></REPORTING-OWNER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-10-19" schemaVersion="X0303">
+<issuer> issuerCik="0001066551" 
+ issuerName="SUN RIVER ENERGY, INC" 
+ issuerTradingSymbol="SNRV" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001498072" 
+ rptOwnerName="Cicerone Corporate Development, LLC" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="ROANOKE" rptOwnerState="TX" rptOwnerStreet1="1224 N. HWY 377" rptOwnerStreet2="SUITE 303, PMB 56" rptOwnerZipCode="76262">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="0" 
+ isTenPercentOwner="1" 
+ isOther="0" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-10-19">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="J" transactionFormType="4">
+<footnoteId id="F1" /> 
+</transactionCoding>
+<transactionAmounts><transactionShares> value="20000" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="1174729" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<derivativeTable><derivativeHolding><securityTitle> value="Stock Option (Right to Purchase)" 
+</securityTitle>
+<conversionOrExercisePrice value="1.50">
+</conversionOrExercisePrice>
+<exerciseDate value="2010-08-03">
+</exerciseDate>
+<expirationDate value="2012-08-03">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="3066961">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="3066961" 
+<footnoteId id="F2" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Stock Option (Right to Purchase)" 
+</securityTitle>
+<conversionOrExercisePrice value="1.00">
+<footnoteId id="F3" /> 
+</conversionOrExercisePrice>
+<exerciseDate> value="2010-09-21" 
+</exerciseDate>
+<expirationDate value="2012-09-21">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="2941666">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="2941666" 
+<footnoteId id="F3" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Warrant to Purchase Common Stock" 
+</securityTitle>
+<conversionOrExercisePrice value="1.56">
+</conversionOrExercisePrice>
+<exerciseDate value="2010-08-31">
+</exerciseDate>
+<expirationDate value="2012-08-31">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="20000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="20000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Warrant to Purchase Common Stock" 
+</securityTitle>
+<conversionOrExercisePrice value="1.51">
+</conversionOrExercisePrice>
+<exerciseDate value="2010-07-31">
+</exerciseDate>
+<expirationDate value="2012-07-31">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="20000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="20000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Warrant to Purchase Common Stock" 
+</securityTitle>
+<conversionOrExercisePrice value="1.65">
+</conversionOrExercisePrice>
+<exerciseDate value="2010-06-30">
+</exerciseDate>
+<expirationDate value="2012-06-30">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="20000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="20000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Warrant to Purchase Common Stock" 
+</securityTitle>
+<conversionOrExercisePrice value="1.45">
+</conversionOrExercisePrice>
+<exerciseDate value="2010-05-31">
+</exerciseDate>
+<expirationDate value="2012-05-31">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="20000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="20000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Warrant to Purchase Common Stock" 
+</securityTitle>
+<conversionOrExercisePrice value="1.65">
+</conversionOrExercisePrice>
+<exerciseDate value="2010-04-30">
+</exerciseDate>
+<expirationDate value="2012-04-30">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="20000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="20000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Warrant to Purchase Common Stock" 
+</securityTitle>
+<conversionOrExercisePrice value="2.05">
+</conversionOrExercisePrice>
+<exerciseDate value="2010-03-31">
+</exerciseDate>
+<expirationDate value="2012-03-31">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="20000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="20000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Warrant to Purchase Common Stock" 
+</securityTitle>
+<conversionOrExercisePrice value="1.54">
+</conversionOrExercisePrice>
+<exerciseDate value="2010-02-28">
+</exerciseDate>
+<expirationDate value="2012-02-28">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="20000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="20000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Warrant to Purchase Common Stock" 
+</securityTitle>
+<conversionOrExercisePrice value="1.60">
+</conversionOrExercisePrice>
+<exerciseDate value="2010-01-31">
+</exerciseDate>
+<expirationDate value="2012-01-31">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="20000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="20000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Warrant to Purchase Common Stock" 
+</securityTitle>
+<conversionOrExercisePrice value="1.70">
+</conversionOrExercisePrice>
+<exerciseDate value="2009-12-31">
+</exerciseDate>
+<expirationDate value="2011-12-31">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="20000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="20000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Warrant to Purchase Common Stock" 
+</securityTitle>
+<conversionOrExercisePrice value="1.70">
+</conversionOrExercisePrice>
+<exerciseDate value="2009-11-30">
+</exerciseDate>
+<expirationDate value="2011-11-30">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="20000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="20000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Warrant to Purchase Common Stock" 
+</securityTitle>
+<conversionOrExercisePrice value="1.95">
+</conversionOrExercisePrice>
+<exerciseDate value="2009-10-31">
+</exerciseDate>
+<expirationDate value="2011-10-31">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="20000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="20000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Warrant to Purchase Common Stock" 
+</securityTitle>
+<conversionOrExercisePrice value="2.73">
+</conversionOrExercisePrice>
+<exerciseDate value="2009-09-30">
+</exerciseDate>
+<expirationDate value="2011-09-30">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="20000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="20000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Warrant to Purchase Common Stock" 
+</securityTitle>
+<conversionOrExercisePrice value="2.06">
+</conversionOrExercisePrice>
+<exerciseDate value="2009-08-31">
+</exerciseDate>
+<expirationDate value="2011-08-31">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="20000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="20000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="Shares issued as compensation under a Consulting Agreement by and between the Issuer and the Reporting Person." /> 
+ <footnote id="F2" text="Represents shares purchasable upon exercise of an option dated August 3, 2010 granted to the Reporting Person by Robert Doak." /> 
+ <footnote id="F3" text="Represents shares purchasable upon exercise of an option dated as of September 21, 2010 granted to the Reporting Person by New Mexico Energy, LLC, pursuant to which the Reporting Person has the right to purchase (i) 1,000,000 shares of common stock at an exercise price of $1.00 per share; (ii) 1,000,000 shares of common stock at an exercise price of $2.00 per share; and (iii) 941,666 shares of common stock at an exercise price of $1.50 per share." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="/s/ Josh Pingel, Managing Member">
+</ownerSignature>
+</ownershipDocument></Source>

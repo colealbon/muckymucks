@@ -1,0 +1,153 @@
+<Source file="./0001127602-10-027242.nc">
+<SUBMISSION ACCESSION-NUMBER="0001127602-10-027242" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101105" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001452774" CONFORMED-NAME="Wilson James A" /><FILING-VALUES ACT="34" FILE-NUMBER="001-13695" FILM-NUMBER="101172047" FORM-TYPE="4" /><MAIL-ADDRESS CITY="SCRANTON" STATE="PA" STREET1="1626 MONSEY AVENUE" ZIP="18509" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="6021" CIK="0000723188" CONFORMED-NAME="COMMUNITY BANK SYSTEM INC" FISCAL-YEAR-END="1231" IRS-NUMBER="161213679" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="DEWITT" PHONE="8007242262" STATE="NY" STREET1="5790 WIDEWATERS PKWY" ZIP="13214" /><MAIL-ADDRESS CITY="DEWITT" STATE="NY" STREET1="5790 WIDEWATERS PARKWAY" ZIP="13214" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" periodOfReport="2010-11-05" schemaVersion="X0303">
+<issuer> issuerCik="0000723188" 
+ issuerName="COMMUNITY BANK SYSTEM INC" 
+ issuerTradingSymbol="CBU" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001452774" 
+ rptOwnerName="Wilson James A" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="SCRANTON" rptOwnerState="PA" rptOwnerStreet1="1626 MONSEY AVENUE" rptOwnerStreet2="" rptOwnerZipCode="18509" />
+
+
+<reportingOwnerRelationship isDirector="1">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness />
+<transactionAmounts><transactionShares> value="4822" 
+</transactionShares>
+<transactionPricePerShare value="18.08">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="8822" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness />
+<transactionAmounts><transactionShares> value="4471" 
+</transactionShares>
+<transactionPricePerShare value="19.48">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="13293" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="F" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness />
+<transactionAmounts><transactionShares> value="6974" 
+</transactionShares>
+<transactionPricePerShare value="24.99">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="6319" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<derivativeTable><derivativeTransaction><securityTitle> value="Stock Option" 
+</securityTitle>
+<conversionOrExercisePrice value="18.08">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness />
+<transactionAmounts><transactionShares> value="4822" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate> value="2009-01-29" 
+</exerciseDate>
+<expirationDate value="2019-01-29">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="4822">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="0" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+<derivativeTransaction>
+<securityTitle> value="Stock Option" 
+</securityTitle>
+<conversionOrExercisePrice value="19.48">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness />
+<transactionAmounts><transactionShares> value="4471" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate> value="2010-01-20" 
+</exerciseDate>
+<expirationDate value="2020-01-20">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="4471">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="0" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<ownerSignature signatureDate="2010-11-08" signatureName="/s/ Donna J. Drengel, as attorney-in-fact, pursuant to a power of attorney for James A. Wilson">
+</ownerSignature>
+</ownershipDocument></Source>

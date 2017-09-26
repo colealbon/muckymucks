@@ -1,0 +1,263 @@
+<Source file="./0000054480-10-000112.nc">
+<SUBMISSION ACCESSION-NUMBER="0000054480-10-000112" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101105" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001224153" CONFORMED-NAME="WEYANDT PAUL J" /><FILING-VALUES ACT="34" FILE-NUMBER="001-04717" FILM-NUMBER="101173625" FORM-TYPE="4" /><MAIL-ADDRESS CITY="KANSAS CITY" STATE="MO" STREET1="C/O KANSAS CITY SOUTHERN" STREET2="427 WEST 12TH STREET" ZIP="64105" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="4011" CIK="0000054480" CONFORMED-NAME="KANSAS CITY SOUTHERN" FISCAL-YEAR-END="1231" IRS-NUMBER="440663509" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="KANSAS CITY" PHONE="8169831303" STATE="MO" STREET1="427 W 12TH STREET" ZIP="64105" /><MAIL-ADDRESS CITY="KANSAS CITY" STATE="MO" STREET1="PO BOX 219335" ZIP="64121" /><FORMER-COMPANY DATE-CHANGED="19920703" FORMER-CONFORMED-NAME="KANSAS CITY SOUTHERN INDUSTRIES INC" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" periodOfReport="2010-11-05" schemaVersion="X0303">
+<issuer> issuerCik="0000054480" 
+ issuerName="KANSAS CITY SOUTHERN" 
+ issuerTradingSymbol="KSU" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001224153" 
+ rptOwnerName="WEYANDT PAUL J" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="KANSAS CITY" rptOwnerState="MO" rptOwnerStreet1="KANSAS CITY SOUTHERN" rptOwnerStreet2="PO BOX 219335" rptOwnerZipCode="64121-9335">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="1" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+ officerTitle="Sr. Vice President &amp; Treasurer" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="10000" 
+</transactionShares>
+<transactionPricePerShare value="12.55">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="37741" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="3600" 
+</transactionShares>
+<transactionPricePerShare value="46.31">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="34141" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="5900" 
+</transactionShares>
+<transactionPricePerShare value="46.311">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="28241" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="300" 
+</transactionShares>
+<transactionPricePerShare value="46.32">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="27941" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="200" 
+</transactionShares>
+<transactionPricePerShare value="46.321">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="27741" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeHolding><securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="11.59" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="By ESOP">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+</nonDerivativeTable>
+<derivativeTable><derivativeTransaction><securityTitle> value="Employee Stock Option (Right to Buy)" 
+<footnoteId id="F1" /> 
+</securityTitle>
+<conversionOrExercisePrice> value="12.55" 
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+<footnoteId id="F3" /> 
+</transactionCoding>
+<transactionAmounts><transactionShares> value="10000" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate> value="2008-01-16" 
+</exerciseDate>
+<expirationDate value="2013-01-15">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="15000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="5000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</derivativeTransaction>
+<derivativeTransaction><securityTitle> value="LSAR" 
+<footnoteId id="F1" /> 
+</securityTitle>
+<conversionOrExercisePrice> value="12.55" 
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="J" transactionFormType="4">
+<footnoteId id="F3" /> 
+</transactionCoding>
+<transactionAmounts><transactionShares> value="10000" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate><footnoteId id="F1" /> 
+</exerciseDate>
+<expirationDate><footnoteId id="F1" /> 
+</expirationDate>
+<underlyingSecurity><underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="15000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="5000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</derivativeTransaction>
+<derivativeHolding><securityTitle> value="Employee Stock Option (Right to Buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="35.41">
+</conversionOrExercisePrice>
+<exerciseDate value="2013-03-01">
+<footnoteId id="F2" /> 
+</exerciseDate>
+<expirationDate> value="2020-02-29" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="3800">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="3800" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</derivativeHolding>
+</derivativeTable>
+<footnotes>
+<footnote id="F1" text="Limited Stock Appreciation Rights (LSARs) are granted in tandem with stock options. LSARs become exercisable only following a change-in-control of the Company in lieu of related options and are exercisable only for cash. LSARs terminate when the related options are exercised or terminated." /> 
+ <footnote id="F2" text="Prior to March 1, 2013, this option may become exercisable in 1/3 increments if the daily closing price of Kansas City Southern&apos;s common stock on the New York Stock Exchange is greater than or equal to $38.95, $42.85, and $47.14, respectively, for at least 30 consecutive trading days." /> 
+ <footnote id="F3" text="Options exercised in rule 16b-3 exempt transaction.  LSARs canceled with respect to such shares." /> 
+</footnotes>
+<remarks />
+<ownerSignature> signatureName="Brian P. Banks, Attorney-in-fact" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

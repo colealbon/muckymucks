@@ -1,0 +1,123 @@
+<Source file="./0001140361-10-044223.nc">
+<SUBMISSION ACCESSION-NUMBER="0001140361-10-044223" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001489494" CONFORMED-NAME="Lawal Kase Lukman" /><FILING-VALUES ACT="34" FILE-NUMBER="001-34525" FILM-NUMBER="101173119" FORM-TYPE="4" /><MAIL-ADDRESS CITY="HOUSTON" STATE="TX" STREET1="1330 POST OAK BLVD." STREET2="SUITE 2200" ZIP="77056" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="1381" CIK="0001402281" CONFORMED-NAME="CAMAC Energy Inc." FISCAL-YEAR-END="1231" IRS-NUMBER="300349798" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="Hartsdale" PHONE="914-472-6070" STATE="NY" STREET1="250 East Hartsdale Ave" STREET2="SUITE 47" ZIP="10530" /><MAIL-ADDRESS CITY="Hartsdale" STATE="NY" STREET1="250 East Hartsdale Ave" STREET2="SUITE 47" ZIP="10530" /><FORMER-COMPANY DATE-CHANGED="20070607" FORMER-CONFORMED-NAME="Pacific Asia Petroleum Inc" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0001402281" 
+ issuerName="CAMAC Energy Inc." 
+ issuerTradingSymbol="CAK" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001489494" 
+ rptOwnerName="Lawal Kase Lukman" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="HARTSDALE" rptOwnerState="NY" rptOwnerStreet1="250 EAST HARTSDALE AVE" rptOwnerStreet2="" rptOwnerZipCode="10530" />
+
+
+<reportingOwnerRelationship isDirector="1" isOfficer="1" isOther="0" isTenPercentOwner="0" officerTitle="Chairman">
+<otherText /> 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable>
+<nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="P" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="20000" 
+</transactionShares>
+<transactionPricePerShare>
+<footnoteId id="F1" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="A" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="620000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="P" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="30000" 
+</transactionShares>
+<transactionPricePerShare>
+<footnoteId id="F2" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="A" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="650000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-08">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="P" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="50000" 
+</transactionShares>
+<transactionPricePerShare>
+<footnoteId id="F3" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="A" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="700000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeHolding>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="89467120" 
+<footnoteId id="F4" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="By CAMAC Energy Holdings LTD">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+</nonDerivativeTable>
+<derivativeTable /> 
+<footnotes>
+<footnote id="F1" text="20,000 shares were purchased at an average price of $2.8238 per share on 11/04/10 pursuant to Reporting Person&apos;s Rule 10b5-1 Plan established August 17, 2010 and administered by Wells Fargo Advisors, LLC." /> 
+ <footnote id="F2" text="30,000 shares were purchased at an average price of $2.8132 per share on 11/05/10 pursuant to Reporting Person&apos;s Rule 10b5-1 Plan established August 17, 2010 and administered by Wells Fargo Advisors, LLC." /> 
+ <footnote id="F3" text="50,000 shares were purchased at an average price of $2.7039 per share on 11/08/10 pursuant to Reporting Person&apos;s Rule 10b5-1 Plan established August 17, 2010 and administered by Wells Fargo Advisors, LLC." /> 
+ <footnote id="F4" text="The reporting person disclaims beneficial ownership of these securities except to the extent of his pecuniary interest therein, and the inclusion of these shares in this report shall not be deemed an admission of beneficial ownership of all the reported shares for purposes of section 16 or for any other purpose." /> 
+</footnotes>
+<remarks />
+<ownerSignature> signatureName="/s/ Clark Moore, Attorney in Fact" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

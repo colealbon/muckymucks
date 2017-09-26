@@ -1,0 +1,171 @@
+<Source file="./0001140361-10-044174.nc">
+<SUBMISSION ACCESSION-NUMBER="0001140361-10-044174" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><ISSUER><COMPANY-DATA ASSIGNED-SIC="6029" CIK="0001017793" CONFORMED-NAME="SUN BANCORP INC /NJ/" FISCAL-YEAR-END="1231" IRS-NUMBER="521382541" STATE-OF-INCORPORATION="NJ" /><BUSINESS-ADDRESS CITY="VINELAND" PHONE="8566917700" STATE="NJ" STREET1="226 LANDIS AVENUE" ZIP="08360" /><MAIL-ADDRESS CITY="VINELAND" STATE="NJ" STREET1="226 LANDIS AVE" ZIP="08360" /></ISSUER><REPORTING-OWNER><OWNER-DATA CIK="0001229639" CONFORMED-NAME="KOONS ANNE E" /><FILING-VALUES ACT="34" FILE-NUMBER="000-20957" FILM-NUMBER="101172336" FORM-TYPE="4" /><MAIL-ADDRESS CITY="VINELAND" STATE="NJ" STREET1="226 LANDIS AVENUE" ZIP="08360" /><FORMER-NAME DATE-CHANGED="20030429" FORMER-CONFORMED-NAME="KOONE ANNE E" /></REPORTING-OWNER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0001017793" 
+ issuerName="SUN BANCORP INC /NJ/" 
+ issuerTradingSymbol="SNBC" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001229639" 
+ rptOwnerName="KOONS ANNE E" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="VINELAND" rptOwnerState="NJ" rptOwnerStreet1="SUN BANCORP INC" rptOwnerStreet2="226 LANDIS AVE" rptOwnerZipCode="08360">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="1" 
+ isOfficer="0" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+<officerTitle /> 
+<otherText />
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeHolding><securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="1875" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="Stock Plan">
+<footnoteId id="F2" /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeTransaction><securityTitle> value="Common Stock" 
+<footnoteId id="F1" /> 
+</securityTitle>
+<transactionDate> value="2010-11-04" 
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="J" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="93500" 
+</transactionShares>
+<transactionPricePerShare value="4">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="534440" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Preferred Stock" 
+<footnoteId id="F1" /> 
+</securityTitle>
+<transactionDate> value="2010-11-04" 
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="J" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="374" 
+</transactionShares>
+<transactionPricePerShare value="1000">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="0" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeHolding>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="11029" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="Anne Koons Foundation">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="21331" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="IRA">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="25248" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="Trust - FBO A. Koons">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="36863" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="by Son">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+</nonDerivativeTable>
+<derivativeTable><derivativeHolding><securityTitle> value="Non-Qualified Stock Option (right to buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="5.1">
+</conversionOrExercisePrice>
+<exerciseDate value="2010-09-24">
+<footnoteId id="F3" /> 
+</exerciseDate>
+<expirationDate> value="2020-09-24" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="15500">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="15500" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="Each Preferred Share, purchase price of $1,000, was converted into 250 shares of Common Stock, effective November 4, 2010." /> 
+ <footnote id="F2" text="25% first earned and non-forfeitable on September 24, 2010 and 25% annually thereafter." /> 
+ <footnote id="F3" text="25% is first earned and exercisable on September 24, 2010 and 25% annually thereafter." /> 
+</footnotes>
+<remarks />
+<ownerSignature> signatureName="/s/ Anne E. Koons" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

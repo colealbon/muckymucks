@@ -1,0 +1,190 @@
+<Source file="./0001209191-10-053733.nc">
+<SUBMISSION ACCESSION-NUMBER="0001209191-10-053733" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><ISSUER><COMPANY-DATA ASSIGNED-SIC="2834" CIK="0001047188" CONFORMED-NAME="PENWEST PHARMACEUTICALS CO" FISCAL-YEAR-END="1231" IRS-NUMBER="911513032" STATE-OF-INCORPORATION="WA" /><BUSINESS-ADDRESS CITY="PATTERSON" PHONE="877-736-9378" STATE="NY" STREET1="2981 ROUTE 22" STREET2="SUITE 2" ZIP="12563-2335" /><MAIL-ADDRESS CITY="PATTERSON" STATE="NY" STREET1="2981 ROUTE 22" STREET2="SUITE 2" ZIP="12563-2335" /></ISSUER><REPORTING-OWNER><OWNER-DATA ASSIGNED-SIC="2834" CIK="0001100962" CONFORMED-NAME="ENDO PHARMACEUTICALS HOLDINGS INC" FISCAL-YEAR-END="1231" STATE-OF-INCORPORATION="DE" /><FILING-VALUES ACT="34" FILE-NUMBER="001-34267" FILM-NUMBER="101173235" FORM-TYPE="4" /><BUSINESS-ADDRESS CITY="CHADDS FORD" PHONE="6105589800" STATE="PA" STREET1="100 ENDO BOULEVARD" ZIP="19317" /><MAIL-ADDRESS CITY="CHADDS FORD" STATE="PA" STREET1="100 ENDO BOULEVARD" ZIP="19317" /></REPORTING-OWNER><REPORTING-OWNER><OWNER-DATA CIK="0001501813" CONFORMED-NAME="West Acquisition Corp." FISCAL-YEAR-END="1231" STATE-OF-INCORPORATION="DE" /><FILING-VALUES ACT="34" FILE-NUMBER="001-34267" FILM-NUMBER="101173234" FORM-TYPE="4" /><BUSINESS-ADDRESS CITY="CHADDS FORD" PHONE="(610) 558-9800" STATE="PA" STREET1="100 ENDO BOULEVARD" ZIP="19317" /><MAIL-ADDRESS CITY="CHADDS FORD" STATE="PA" STREET1="100 ENDO BOULEVARD" ZIP="19317" /></REPORTING-OWNER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0001047188" 
+ issuerName="PENWEST PHARMACEUTICALS CO" 
+ issuerTradingSymbol="PPCO" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001100962" 
+ rptOwnerName="ENDO PHARMACEUTICALS HOLDINGS INC" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="CHADDS FORD" rptOwnerState="PA" rptOwnerStreet1="100 ENDO BOULEVARD" rptOwnerStreet2="" rptOwnerZipCode="19317" />
+
+
+<reportingOwnerRelationship isDirector="0" isOfficer="0" isOther="0" isTenPercentOwner="1">
+</reportingOwnerRelationship>
+</reportingOwner>
+<reportingOwner><reportingOwnerId> rptOwnerCik="0001501813" 
+ rptOwnerName="West Acquisition Corp." 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="CHADDS FORD" rptOwnerState="PA" rptOwnerStreet1="100 ENDO BOULEVARD" rptOwnerStreet2="" rptOwnerZipCode="19317" />
+
+
+<reportingOwnerRelationship isDirector="0" isOfficer="0" isOther="0" isTenPercentOwner="1">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock, par value $0.001 per share" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="P" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="3173334" 
+</transactionShares>
+<transactionPricePerShare>
+<footnoteId id="F1" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="A" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="33627009" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="owned through wholly owned corporation">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<derivativeTable><derivativeTransaction><securityTitle> value="Options" 
+</securityTitle>
+<conversionOrExercisePrice value="2.62">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="P" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="928" 
+</transactionShares>
+<transactionPricePerShare>
+<footnoteId id="F1" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="A" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate> value="2009-03-13" 
+</exerciseDate>
+<expirationDate value="2010-12-31">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Options" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="928">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="1576" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="owned through wholly owned corporation">
+</natureOfOwnership>
+</ownershipNature>
+</derivativeTransaction>
+<derivativeTransaction>
+<securityTitle> value="Options" 
+</securityTitle>
+<conversionOrExercisePrice value="3.05">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="P" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="398" 
+</transactionShares>
+<transactionPricePerShare>
+<footnoteId id="F1" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="A" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate> value="2009-06-11" 
+</exerciseDate>
+<expirationDate value="2010-12-31">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Options" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="398">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="1576" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="owned through wholly owned corporation">
+</natureOfOwnership>
+</ownershipNature>
+</derivativeTransaction>
+<derivativeTransaction>
+<securityTitle> value="Options" 
+</securityTitle>
+<conversionOrExercisePrice value="3.81">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="P" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="250" 
+</transactionShares>
+<transactionPricePerShare>
+<footnoteId id="F1" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="A" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate> value="2009-01-22" 
+</exerciseDate>
+<expirationDate value="2010-12-31">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Options" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="250">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="1576" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="owned through wholly owned corporation">
+</natureOfOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="Reflects shares of common stock, par value $0.001 per share (Shares), not tendered in the tender offer pursuant to the Agreement and Plan of Merger, dated August 9, 2010, by and among the Company, Endo Pharmaceuticals Holdings Inc. (Parent) and West Acquisition Corp., a Delaware corporation and an indirect wholly-owned subsidiary of Parent (Purchaser), and deemed acquired at a price of $5.00 per Share, net to the seller in cash, without interest and less any required withholding taxes, pursuant to the consummation of the merger of the Purchaser with and into the Company (the Merger). At the effective time of the Merger, the aforementioned shares and options were cancelled and ceased to exist and each share of the Purchaser converted into shares of the Company. Purchaser&apos;s separate corporate existence ceased and the Company survived as an indirect wholly owned subsidiary of the Parent." /> 
+</footnotes>
+<remarks />
+<ownerSignature> signatureName="/s/ Caroline B. Manogue" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+<ownerSignature signatureDate="2010-11-08" signatureName="/s/ Caroline B. Manogue">
+</ownerSignature>
+</ownershipDocument></Source>

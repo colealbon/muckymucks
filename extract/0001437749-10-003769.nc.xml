@@ -1,0 +1,71 @@
+<Source file="./0001437749-10-003769.nc">
+<SUBMISSION ACCESSION-NUMBER="0001437749-10-003769" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101102" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001270987" CONFORMED-NAME="LONG JAMES H" /><FILING-VALUES ACT="34" FILE-NUMBER="001-31949" FILM-NUMBER="101173789" FORM-TYPE="4" /><MAIL-ADDRESS CITY="HOUSTON" STATE="TX" STREET1="6401 SOUTHWEST FREEWAY" ZIP="77074" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="5045" CIK="0001020017" CONFORMED-NAME="INX Inc" FISCAL-YEAR-END="1231" IRS-NUMBER="760515249" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="HOUSTON" PHONE="7137952000" STATE="TX" STREET1="6401 SOUTHWEST FREEWAY" ZIP="77074" /><MAIL-ADDRESS CITY="HOUSTON" STATE="TX" STREET1="6401 SOUTHWEST FREEWAY" ZIP="77074" /><FORMER-COMPANY DATE-CHANGED="20010712" FORMER-CONFORMED-NAME="I SECTOR CORP" /><FORMER-COMPANY DATE-CHANGED="19960730" FORMER-CONFORMED-NAME="ALLSTAR SYSTEMS INC" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" periodOfReport="2010-11-02" schemaVersion="X0303">
+<issuer> issuerCik="0001020017" 
+ issuerName="INX Inc" 
+ issuerTradingSymbol="INXI" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001270987" 
+ rptOwnerName="LONG JAMES H" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="HOUSTON" rptOwnerState="TX" rptOwnerStreet1="11757 KATY FREEWAY" rptOwnerStreet2="SUITE 500" rptOwnerZipCode="77079">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isOfficer="1" 
+ isTenPercentOwner="1" 
+ officerTitle="Executive Chairman" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-02">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="A" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="60000.0000" 
+<footnoteId id="F1" /> 
+</transactionShares>
+<transactionPricePerShare> value="5.6000" 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="1963880.0000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-02">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="A" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="20000.0000" 
+<footnoteId id="F2" /> 
+</transactionShares>
+<transactionPricePerShare> value="5.6000" 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="1983880.0000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<footnotes> <footnote id="F1" text="Granted 60,000 shares and vest in 12,000 share increments on November 2, 2010; November 2, 2011; November 2, 2012; November 2, 2013; November 2, 2014." /> 
+ <footnote id="F2" text="Granted 20,000 shares and vest in 4,000 share increments on November 2,2010; November 2, 2011; November 2, 2012; November 2, 2013; November 2, 2014." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="/s/ James H. Long">
+</ownerSignature>
+</ownershipDocument></Source>

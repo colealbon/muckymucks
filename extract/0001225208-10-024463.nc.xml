@@ -1,0 +1,101 @@
+<Source file="./0001225208-10-024463.nc">
+<SUBMISSION ACCESSION-NUMBER="0001225208-10-024463" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101105" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001413323" CONFORMED-NAME="Donahue Joseph B" /><FILING-VALUES ACT="34" FILE-NUMBER="001-33260" FILM-NUMBER="101173638" FORM-TYPE="4" /><MAIL-ADDRESS CITY="BERWYN" STATE="PA" STREET1="1050 WESTLAKES DRIVE" ZIP="19312" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="5065" CIK="0001385157" CONFORMED-NAME="Tyco Electronics Ltd." FISCAL-YEAR-END="0930" IRS-NUMBER="980518048" STATE-OF-INCORPORATION="V8" /><BUSINESS-ADDRESS CITY="CH-8200 SCHAFFHAUSEN" PHONE="41 (0)52 633 6661" STATE="V8" STREET1="RHEINSTRASSE 20" ZIP="1" /><MAIL-ADDRESS CITY="CH-8200 SCHAFFHAUSEN" STATE="V8" STREET1="RHEINSTRASSE 20" ZIP="1" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" periodOfReport="2010-11-05" schemaVersion="X0303">
+<issuer> issuerCik="0001385157" 
+ issuerName="Tyco Electronics Ltd." 
+ issuerTradingSymbol="TEL" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001413323" 
+ rptOwnerName="Donahue Joseph B" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="BERWYN" rptOwnerState="PA" rptOwnerStreet1="1050 WESTLAKES DRIVE" rptOwnerStreet2="" rptOwnerZipCode="19312" />
+
+
+<reportingOwnerRelationship isOfficer="1" officerTitle="Pres., Transport. Connectivity">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Shares" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="39787.0000" 
+</transactionShares>
+<transactionPricePerShare value="14.1100">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="55130.0000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Shares" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="39787.0000" 
+</transactionShares>
+<transactionPricePerShare value="32.8534">
+<footnoteId id="F1" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="D" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="15343.0000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<derivativeTable><derivativeTransaction><securityTitle> value="Stock Option (Right to Buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="14.1100">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="39787.0000" 
+</transactionShares>
+<transactionPricePerShare value="0.0000">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate><footnoteId id="F2" /> 
+</exerciseDate>
+<expirationDate> value="2018-11-16" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Shares" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="39787.0000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="119363.0000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="The reported price is the weighted average price for the transactions on November 5, 2010.  The range of prices for the transactions was from $32.73 to $32.98 per share.  Information regarding the number of shares purchased at each separate price will be provided upon request of the Securities and Exchange Commission, the Issuer, or a security holder of the Issuer." /> 
+ <footnote id="F2" text="Options exercisable in four equal installments on the first, second, third and fourth anniversary of the grant date, November 17, 2008." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="H. Gregory Barksdale, attorney-in-fact">
+</ownerSignature>
+</ownershipDocument></Source>

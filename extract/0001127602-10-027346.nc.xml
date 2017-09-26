@@ -1,0 +1,117 @@
+<Source file="./0001127602-10-027346.nc">
+<SUBMISSION ACCESSION-NUMBER="0001127602-10-027346" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101105" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001330270" CONFORMED-NAME="KUO JOHN W" /><FILING-VALUES ACT="34" FILE-NUMBER="001-07598" FILM-NUMBER="101173246" FORM-TYPE="4" /><MAIL-ADDRESS CITY="PALO ALTO" STATE="CA" STREET1="VARIAN MEDICAL SYSTEMS INC" STREET2="3100 HANSEN WAY MAIL STOP E327" ZIP="94304" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="3845" CIK="0000203527" CONFORMED-NAME="VARIAN MEDICAL SYSTEMS INC" FISCAL-YEAR-END="1001" IRS-NUMBER="942359345" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="PALO ALTO" PHONE="650-424-5834" STATE="CA" STREET1="3100 HANSEN WAY" ZIP="94304-1000" /><MAIL-ADDRESS CITY="PALO ALTO" STATE="CA" STREET1="3100 HANSEN WAY" ZIP="94304-1000" /><FORMER-COMPANY DATE-CHANGED="19920703" FORMER-CONFORMED-NAME="VARIAN ASSOCIATES INC /DE/" /><FORMER-COMPANY DATE-CHANGED="19761123" FORMER-CONFORMED-NAME="VARIAN DELAWARE INC" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" periodOfReport="2010-11-05" schemaVersion="X0303">
+<issuer> issuerCik="0000203527" 
+ issuerName="VARIAN MEDICAL SYSTEMS INC" 
+ issuerTradingSymbol="VAR" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001330270" 
+ rptOwnerName="KUO JOHN W" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="PALO ALTO" rptOwnerState="CA" rptOwnerStreet1="C/O VARIAN MEDICAL SYSTEMS, INC." rptOwnerStreet2="3100 HANSEN WAY M/S E-327" rptOwnerZipCode="94304">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isOfficer="1" 
+ officerTitle="VP, Gen Counsel and Secretary" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness />
+<transactionAmounts><transactionShares> value="10000" 
+</transactionShares>
+<transactionPricePerShare value="49.88">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="36128" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+<footnoteId id="F1" /> 
+</transactionCoding>
+<transactionTimeliness /> 
+<transactionAmounts>
+<transactionShares> value="10000" 
+</transactionShares>
+<transactionPricePerShare value="65.00">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="26128" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeHolding>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="1197.373" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="By 401k Plan">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+</nonDerivativeTable>
+<derivativeTable><derivativeTransaction><securityTitle> value="Non-qualified Stock Option (Right to Buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="49.88">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness />
+<transactionAmounts><transactionShares> value="10000" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate><footnoteId id="F2" /> 
+</exerciseDate>
+<expirationDate> value="2015-11-17" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="10000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="40000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="This transaction is pursuant to the filer&apos;s SEC Rule10b5-1 Stock Plan" /> 
+ <footnote id="F2" text="Stock option granted under the Varian Medical Systems, Inc. 2005 Omnibus Stock Plan, which complies with Rule 16b-3.  The option vests as follows: one third on 11/17/06, and the remaining shares in 24 equal installments over the 24 months following the first vesting date." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="/s/ Franco N. Palomba, Attorney in Fact for John W. Kuo">
+</ownerSignature>
+</ownershipDocument></Source>

@@ -1,0 +1,112 @@
+<Source file="./0001117297-10-000036.nc">
+<SUBMISSION ACCESSION-NUMBER="0001117297-10-000036" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101108" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001478988" CONFORMED-NAME="Valenti Douglas" /><FILING-VALUES ACT="34" FILE-NUMBER="001-34628" FILM-NUMBER="101173615" FORM-TYPE="4" /><MAIL-ADDRESS CITY="FOSTER CITY" STATE="CA" STREET1="C/O QUINSTREET, INC." STREET2="1051 EAST HILLSDALE BLVD." ZIP="94404" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="7389" CIK="0001117297" CONFORMED-NAME="QUINSTREET, INC" FISCAL-YEAR-END="1231" IRS-NUMBER="000000000" STATE-OF-INCORPORATION="CA" /><BUSINESS-ADDRESS CITY="FOSTER CITY" PHONE="650-578-7700" STATE="CA" STREET1="1051 E. HILLSDALE BLVD., SUITE 800" ZIP="94404" /><MAIL-ADDRESS CITY="FOSTER CITY" STATE="CA" STREET1="1051 E. HILLSDALE BLVD., SUITE 800" ZIP="94404" /><FORMER-COMPANY DATE-CHANGED="20000627" FORMER-CONFORMED-NAME="QUINSTREET INC" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-08" schemaVersion="X0303">
+<issuer> issuerCik="0001117297" 
+ issuerName="QUINSTREET, INC" 
+ issuerTradingSymbol="QNST" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001478988" 
+ rptOwnerName="Valenti Douglas" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="FOSTER CITY" rptOwnerState="CA" rptOwnerStreet1="1051 EAST HILLSDALE BLVD." rptOwnerStreet2="" rptOwnerZipCode="94404" />
+
+
+<reportingOwnerRelationship isDirector="1" isOfficer="1" isOther="0" isTenPercentOwner="1" officerTitle="Chief Executive Officer">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-08">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="11207" 
+<footnoteId id="F1" /> 
+</transactionShares>
+<transactionPricePerShare> value="15.7935" 
+<footnoteId id="F2" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="D" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="2195172" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="by Partnership">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-08">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="19923" 
+<footnoteId id="F1" /> 
+</transactionShares>
+<transactionPricePerShare> value="15.7935" 
+<footnoteId id="F2" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="D" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="3939946" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="by Trust">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeHolding>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="1" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="6903" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="by Son">
+<footnoteId id="F3" /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding><securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="1" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="by Spouse">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+</nonDerivativeTable>
+<footnotes> <footnote id="F1" text="These shares were sold pursuant to Mr. Valenti&apos;s 10b5-1 Plan established on May 13, 2010." /> 
+ <footnote id="F2" text="The shares were sold at prices between $15.53 and $15.99.  The reporting person will provide upon request to the SEC, the issuer, or security holder of the issuer, full information regarding the number of shares sold at each price." /> 
+ <footnote id="F3" text="Shares held by Mr. Valenti&apos;s children." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="By: Daniel E. Caul  For: Douglas Valenti">
+</ownerSignature>
+</ownershipDocument></Source>

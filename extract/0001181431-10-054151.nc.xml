@@ -1,0 +1,81 @@
+<Source file="./0001181431-10-054151.nc">
+<SUBMISSION ACCESSION-NUMBER="0001181431-10-054151" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101108" PUBLIC-DOCUMENT-COUNT="2" TYPE="3"><REPORTING-OWNER><OWNER-DATA CIK="0001504129" CONFORMED-NAME="Gerosa Christopher N." /><FILING-VALUES ACT="34" FILE-NUMBER="001-32307" FILM-NUMBER="101174080" FORM-TYPE="3" /><MAIL-ADDRESS CITY="NEW YORK" STATE="NY" STREET1="C/O PRIMUS ASSET MANAGEMENT, INC." STREET2="360 MADISON AVENUE, 23RD FLOOR" ZIP="10017" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="6200" CIK="0001170593" CONFORMED-NAME="PRIMUS GUARANTY LTD" IRS-NUMBER="000000000" /><BUSINESS-ADDRESS CITY="NEW YORK" PHONE="2126972227" STATE="NY" STREET1="C/O PRIMUS ASSET MANAGEMENT INC" STREET2="360 MADISON AVE 23RD FL" ZIP="10017" /><MAIL-ADDRESS CITY="NEW YORK" STATE="NY" STREET1="C/O PRIMUS ASSET MANAGEMENT INC" STREET2="360 MADISON AVE 23RD FL" ZIP="10017" /></ISSUER></SUBMISSION><ownershipDocument documentType="3" noSecuritiesOwned="0" periodOfReport="2010-11-08" schemaVersion="X0203">
+<issuer> issuerCik="0001170593" 
+ issuerName="PRIMUS GUARANTY LTD" 
+ issuerTradingSymbol="PRS" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001504129" 
+ rptOwnerName="Gerosa Christopher N." 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="NEW YORK" rptOwnerState="NY" rptOwnerStreet1="C/O PRIMUS ASSET MANAGEMENT, INC" rptOwnerStreet2="360 MADISON AVENUE, 23RD FLOOR" rptOwnerZipCode="10017">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="1" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+ officerTitle="CFO &amp; Treasurer" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeHolding><securityTitle> value="Common Shares, par value $0.08 per share" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="32602" 
+<footnoteId id="F1" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+</nonDerivativeTable>
+<derivativeTable><derivativeHolding><securityTitle> value="Option to purchase common shares" 
+</securityTitle>
+<conversionOrExercisePrice value="13.50">
+</conversionOrExercisePrice>
+<exerciseDate>
+<footnoteId id="F2" /> 
+</exerciseDate>
+<expirationDate> value="2011-10-04" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Shares, par value $0.08 per share" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="1250">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Option to purchase common shares" 
+</securityTitle>
+<conversionOrExercisePrice value="12.74">
+</conversionOrExercisePrice>
+<exerciseDate>
+<footnoteId id="F3" /> 
+</exerciseDate>
+<expirationDate> value="2013-02-13" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Shares, par value $0.08 per share" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="6200">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="The reporting person is the beneficial owner of 32,602 restricted stock units (RSUs).  Under the terms of the RSUs, the reporting person&apos;s right to receive 10,039 common shares, 6,986 common shares, 10,039 common shares and 5,539 common shares will vest on February 1, 2011, February 7, 2011, February 1, 2012 and February 1, 2013, respectively." /> 
+ <footnote id="F2" text="All of the options are currently exercisable.  The options became exercisable upon vesting, which occurred in equal one-quarter increments on October 4 of each of 2005, 2006, 2007 and 2008." /> 
+ <footnote id="F3" text="All of the options are currently exercisable.  The options became exercisable upon vesting, which occurred in equal one-quarter increments on February 1 of each of 2007, 2008, 2009 and 2010." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="/s/ Christopher N. Gerosa">
+</ownerSignature>
+</ownershipDocument></Source>

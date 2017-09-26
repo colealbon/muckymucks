@@ -1,0 +1,73 @@
+<Source file="./0001140361-10-044158.nc">
+<SUBMISSION ACCESSION-NUMBER="0001140361-10-044158" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101105" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001034466" CONFORMED-NAME="MCDONNELL THOMAS A" /><FILING-VALUES ACT="34" FILE-NUMBER="001-14036" FILM-NUMBER="101172061" FORM-TYPE="4" /><MAIL-ADDRESS CITY="KANSAS CITY" STATE="MO" STREET1="C/O DST SYSTEMS" STREET2="333 WEST 11TH ST 5TH FL" ZIP="64105" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="7374" CIK="0000714603" CONFORMED-NAME="DST SYSTEMS INC" FISCAL-YEAR-END="1231" IRS-NUMBER="431581814" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="KANSAS CITY" PHONE="8164356568" STATE="MO" STREET1="333 WEST 11TH STREET" STREET2="5TH FL" ZIP="64105-1594" /><MAIL-ADDRESS CITY="KANSAS CITY" STATE="MO" STREET1="333 WEST 11TH STREET" STREET2="5TH FL" ZIP="64105-1594" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-05" schemaVersion="X0303">
+<issuer> issuerCik="0000714603" 
+ issuerName="DST SYSTEMS INC" 
+ issuerTradingSymbol="DST" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001034466" 
+ rptOwnerName="MCDONNELL THOMAS A" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="KANSAS CITY" rptOwnerState="MO" rptOwnerStreet1="333 WEST 11TH STREET" rptOwnerStreet2="" rptOwnerZipCode="64105" />
+
+
+<reportingOwnerRelationship isDirector="1" isOfficer="1" isOther="0" isTenPercentOwner="0" officerTitle="Chief Executive Officer">
+<otherText /> 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable>
+<nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="S" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="29668" 
+</transactionShares>
+<transactionPricePerShare value="43.3299">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="720443" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-08">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="S" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="48684" 
+</transactionShares>
+<transactionPricePerShare value="43.00">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="671759" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<derivativeTable /> 
+<remarks /> 
+<ownerSignature signatureDate="2010-11-08" signatureName="Randall D. Young for Thomas A. McDonnell by power of attorney">
+</ownerSignature>
+</ownershipDocument></Source>

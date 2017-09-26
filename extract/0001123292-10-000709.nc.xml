@@ -1,0 +1,66 @@
+<Source file="./0001123292-10-000709.nc">
+<SUBMISSION ACCESSION-NUMBER="0001123292-10-000709" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001256116" CONFORMED-NAME="GRUSKY ROBERT R" /><FILING-VALUES ACT="34" FILE-NUMBER="000-21039" FILM-NUMBER="101172771" FORM-TYPE="4" /><MAIL-ADDRESS CITY="ARLINGTON" STATE="VA" STREET1="C/O STRAYER EDUCATION INC" STREET2="1100 WILSON BOULEVARD, SUITE 2500" ZIP="22209" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="8200" CIK="0001013934" CONFORMED-NAME="STRAYER EDUCATION INC" FISCAL-YEAR-END="1231" IRS-NUMBER="521975978" STATE-OF-INCORPORATION="MD" /><BUSINESS-ADDRESS CITY="ARLINGTON" PHONE="703-247-2500" STATE="VA" STREET1="1100 WILSON BLVD., SUITE 2500" ZIP="22209" /><MAIL-ADDRESS CITY="ARLINGTON" STATE="VA" STREET1="1100 WILSON BLVD., SUITE 2500" ZIP="22209" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0001013934" 
+ issuerName="STRAYER EDUCATION INC" 
+ issuerTradingSymbol="STRA" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001256116" 
+ rptOwnerName="GRUSKY ROBERT R" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="ARLINGTON" rptOwnerState="VA" rptOwnerStreet1="C/O STRAYER EDUCATION INC" rptOwnerStreet2="1100 WILSON BOULEVARD, SUITE 2500" rptOwnerZipCode="22209">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="1" 
+ isOfficer="0" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeHolding><securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="1680" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="P" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="100" 
+</transactionShares>
+<transactionPricePerShare value="131.44">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="3025" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="By Halley Dog Investments, LLC">
+<footnoteId id="F1" /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<footnotes>
+<footnote id="F1" text="Halley Dog Investments, LLC is 100% owned by the Reporting Person." /> 
+</footnotes>
+<remarks />
+<ownerSignature> signatureName="/s/ Mark C. Brown, Attorney-in-Fact" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

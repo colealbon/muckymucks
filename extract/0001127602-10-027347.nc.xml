@@ -1,0 +1,158 @@
+<Source file="./0001127602-10-027347.nc">
+<SUBMISSION ACCESSION-NUMBER="0001127602-10-027347" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><ISSUER><COMPANY-DATA ASSIGNED-SIC="6798" CIK="0000906107" CONFORMED-NAME="EQUITY RESIDENTIAL" FISCAL-YEAR-END="1231" IRS-NUMBER="363877868" STATE-OF-INCORPORATION="MD" /><BUSINESS-ADDRESS CITY="CHICAGO" PHONE="3129281178" STATE="IL" STREET1="EQUITY RESIDENTIAL" STREET2="TWO NORTH RIVERSIDE PLAZA, SUITE 400" ZIP="60606" /><MAIL-ADDRESS CITY="CHICAGO" STATE="IL" STREET1="TWO NORTH RIVERSIDE PLAZA" STREET2="SUITE 400" ZIP="60606" /><FORMER-COMPANY DATE-CHANGED="19930524" FORMER-CONFORMED-NAME="EQUITY RESIDENTIAL PROPERTIES TRUST" /></ISSUER><REPORTING-OWNER><OWNER-DATA CIK="0001219726" CONFORMED-NAME="NEITHERCUT DAVID J" /><FILING-VALUES ACT="34" FILE-NUMBER="001-12252" FILM-NUMBER="101173265" FORM-TYPE="4" /><MAIL-ADDRESS CITY="CHICAGO" STATE="IL" STREET1="C/O EQUITY RESIDENTIAL" STREET2="TWO NORTH RIVERSIDE PLAZA, SUITE 400" ZIP="60606" /></REPORTING-OWNER></SUBMISSION><ownershipDocument documentType="4" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0000906107" 
+ issuerName="EQUITY RESIDENTIAL" 
+ issuerTradingSymbol="EQR" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001219726" 
+ rptOwnerName="NEITHERCUT DAVID J" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="CHICAGO" rptOwnerState="IL" rptOwnerStreet1="TWO NORTH RIVERSIDE PLAZA, SUITE 400" rptOwnerStreet2="" rptOwnerZipCode="60606" />
+
+
+<reportingOwnerRelationship isDirector="1" isOfficer="1" officerTitle="President &amp; CEO">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Shares Of Beneficial Interest" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness />
+<transactionAmounts><transactionShares> value="26070.456" 
+</transactionShares>
+<transactionPricePerShare value="50.41">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="122303.981" 
+<footnoteId id="F1" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="SERP Account">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeHolding>
+<securityTitle> value="Common Shares Of Beneficial Interest" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="39765" 
+<footnoteId id="F2" /> 
+<footnoteId id="F3" />
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding>
+<securityTitle> value="Common Shares Of Beneficial Interest" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="2245.4106" 
+<footnoteId id="F4" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="401(k) Plan">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding>
+<securityTitle> value="Common Shares Of Beneficial Interest" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="2874" 
+<footnoteId id="F5" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="Family Limited Partnership">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding>
+<securityTitle> value="Common Shares Of Beneficial Interest" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="21258" 
+<footnoteId id="F6" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="Grantor Trust (fbo daughter)">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding>
+<securityTitle> value="Common Shares Of Beneficial Interest" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="21258" 
+<footnoteId id="F7" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="Grantor Trust (fbo son)">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding>
+<securityTitle> value="Common Shares Of Beneficial Interest" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="140314" 
+<footnoteId id="F8" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="Trust (fbo wife)">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding>
+<securityTitle> value="Common Shares Of Beneficial Interest" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="2" 
+<footnoteId id="F9" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="Trust (fbo wife)">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+</nonDerivativeTable>
+<footnotes> <footnote id="F1" text="Represents shares owned by Principal Trust Company, as Trustee of the Equity Residential Supplemental Executive Retirement Plan, for the benefit of the reporting person." /> 
+ <footnote id="F2" text="Direct total includes restricted shares of the Company scheduled to vest in the future." /> 
+ <footnote id="F3" text="The share amount reported in column 5 has been reduced by 140,314 shares and such shares are now included in the reporting person&apos;s indirect holdings.  The shares were mistakenly aggregated with the reporting person&apos;s direct holdings." /> 
+ <footnote id="F4" text="Represents shares acquired through profit sharing contributions and dividend reinvestment activity in the reporting person&apos;s account with the Equity Residential Advantage 401(k) Retirement Savings Plan, a plan qualified under Section 401(k) of the Internal Revenue Code of 1986, as amended.  Such shares represent acquisitions through October 8, 2010." /> 
+ <footnote id="F5" text="Represents shares beneficially owned by a family limited partnership, of which the reporting person is the general partner." /> 
+ <footnote id="F6" text="Represents shares beneficially owned by a trust for the benefit of the reporting person&apos;s daughter.  The reporting person disclaims beneficial ownership of these securities except to the extent of his pecuniary interest therein, and the inclusion of these shares in this report is not an admission that the reporting person is the beneficial owner of these securities for purposes of Section 16 or for any other purpose." /> 
+ <footnote id="F7" text="Represents shares beneficially owned by a trust for the benefit of the reporting person&apos;s son. The reporting person disclaims beneficial ownership of these securities except to the extent of his pecuniary interest therein, and the inclusion of these shares in this report is not an admission that the reporting person is the beneficial owner of these securities for purposes of Section 16 or for any other purpose." /> 
+ <footnote id="F8" text="Represents shares beneficially owned by a trust for the benefit of the reporting person&apos;s wife.  The reporting person is the sole trustee of this trust and, as such, may be deemed the beneficial owner of these shares." /> 
+ <footnote id="F9" text="Represents shares beneficially owned by a trust for the benefit of the reporting person&apos;s wife. The reporting person disclaims beneficial ownership of these securities except to the extent of his pecuniary interest therein, and the inclusion of these shares in this report is not an admission that the reporting person is the beneficial owner of these securities for purposes of Section 16 or for any other purpose." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="s/ By: Yasmina Duwe, Attorney-in-fact">
+</ownerSignature>
+</ownershipDocument></Source>

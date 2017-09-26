@@ -1,0 +1,82 @@
+<Source file="./0001179110-10-015730.nc">
+<SUBMISSION ACCESSION-NUMBER="0001179110-10-015730" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001032002" CONFORMED-NAME="FILO DAVID" /><FILING-VALUES ACT="34" FILE-NUMBER="000-28018" FILM-NUMBER="101173630" FORM-TYPE="4" /><MAIL-ADDRESS CITY="SANTA CLARA" STATE="CA" STREET1="3400 CENTRAL EXPRESSWAY" STREET2="SUITE 201" ZIP="85081" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="7373" CIK="0001011006" CONFORMED-NAME="YAHOO INC" FISCAL-YEAR-END="1231" IRS-NUMBER="770398689" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="SUNNYVALE" PHONE="4083493300" STATE="CA" STREET1="YAHOO! INC." STREET2="701 FIRST AVENUE" ZIP="94089" /><MAIL-ADDRESS CITY="SUNNYVALE" STATE="CA" STREET1="701 FIRST AVENUE" ZIP="94089" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0001011006" 
+ issuerName="YAHOO INC" 
+ issuerTradingSymbol="YHOO" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001032002" 
+ rptOwnerName="FILO DAVID" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="SUNNYVALE" rptOwnerState="CA" rptOwnerStreet1="C/O YAHOO! INC." rptOwnerStreet2="701 FIRST AVENUE" rptOwnerZipCode="94089">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="1" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+ officerTitle="Chief Yahoo" 
+<otherText /> 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable>
+<nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+<footnoteId id="F1" /> 
+</transactionCoding>
+<transactionAmounts><transactionShares> value="166500" 
+</transactionShares>
+<transactionPricePerShare value="16.1587">
+<footnoteId id="F2" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="D" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="75695890" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="By David Filo 1998 Revocable Trust U/A DTD 06/12/1998">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="G" transactionFormType="5">
+</transactionCoding>
+<transactionTimeliness value="E">
+</transactionTimeliness>
+<transactionAmounts>
+<transactionShares> value="500000" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="75195890" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="By David Filo 1998 Revocable Trust U/A DTD 06/12/1998">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<derivativeTable /> 
+<footnotes>
+<footnote id="F1" text="This transaction was effected pursuant to a Rule 10b5-1 trading plan adopted by the reporting person in February 2010." /> 
+ <footnote id="F2" text="This transaction was executed in multiple trades during the day at prices ranging from $16.025 to $16.34. The price reported above reflects the weighted-average sales price. The reporting person hereby undertakes to provide upon request to the SEC staff, the issuer or a security holder of the issuer full information regarding the number of shares and prices at which the transactions were effected." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="/s/ David Filo">
+</ownerSignature>
+</ownershipDocument></Source>

@@ -1,0 +1,227 @@
+<Source file="./0001104657-10-000060.nc">
+<SUBMISSION ACCESSION-NUMBER="0001104657-10-000060" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101108" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001209387" CONFORMED-NAME="SHERWIN JOHN JR" /><FILING-VALUES ACT="34" FILE-NUMBER="001-15885" FILM-NUMBER="101173056" FORM-TYPE="4" /><MAIL-ADDRESS CITY="CLEVELAND" STATE="OH" STREET1="BRUSH ENGINEERED MATERIALS INC" STREET2="17876 ST CLAIR AVE" ZIP="44110" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="3460" CIK="0001104657" CONFORMED-NAME="BRUSH ENGINEERED MATERIALS INC" FISCAL-YEAR-END="1231" IRS-NUMBER="341919973" /><BUSINESS-ADDRESS CITY="MAYFIELD HTS." PHONE="2163834931" STATE="OH" STREET1="6070 PARKLAND BLVD." ZIP="44124" /><MAIL-ADDRESS CITY="MAYFIELD HTS." STATE="OH" STREET1="6070 PARKLAND BLVD." ZIP="44124" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" periodOfReport="2010-11-08" schemaVersion="X0303">
+<issuer> issuerCik="0001104657" 
+ issuerName="BRUSH ENGINEERED MATERIALS INC" 
+ issuerTradingSymbol="BW" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001209387" 
+ rptOwnerName="SHERWIN JOHN JR" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="MAYFIELD HTS." rptOwnerState="OH" rptOwnerStreet1="6070 PARKLAND BLVD." rptOwnerStreet2="" rptOwnerZipCode="44124" />
+
+
+<reportingOwnerRelationship isDirector="1" isOfficer="0" isOther="0" isTenPercentOwner="0">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-08">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="A" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="2000" 
+</transactionShares>
+<transactionPricePerShare value="20.64">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="2000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-08">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="A" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="2000" 
+</transactionShares>
+<transactionPricePerShare value="16.10">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="4000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-08">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="D" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="4000" 
+</transactionShares>
+<transactionPricePerShare value="36.2493">
+<footnoteId id="F1" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="D" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="0" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeHolding><securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="5687" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding><securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="7101" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="See footnote">
+<footnoteId id="F2" /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding><securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="1429" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="See footnote">
+<footnoteId id="F3" /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding><securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="6668" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="See footnote">
+<footnoteId id="F4" /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+</nonDerivativeTable>
+<derivativeTable>
+<derivativeTransaction><securityTitle> value="Stock Option (Right to Buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="20.60">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-08">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="A" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="2000" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate> value="2001-11-02" 
+</exerciseDate>
+<expirationDate value="2011-05-02">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="common stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="2000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="2000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</derivativeTransaction>
+<derivativeTransaction><securityTitle> value="Stock Option (Right to Buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="16.10">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-08">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="A" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="2000" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate> value="2004-11-05" 
+</exerciseDate>
+<expirationDate value="2014-05-05">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="common stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="2000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="2000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<footnotes>
+<footnote id="F1" text="The price reported in Column 4 is a weighted average price.  These shares were sold in multiple transactions at prices ranging from $36.159 to 36.28, inclusive" /> 
+ <footnote id="F2" text="Acquired and held by trust for the Brush Engineered Materials Inc. Deferred Compensation Plan for Non-employee Directors and the 1997 Stock Incentive Plan." /> 
+ <footnote id="F3" text="Reflects shares held by the reporting person as trustee for son, John (1,026) and daughter, Heather (403)." /> 
+ <footnote id="F4" text="Reflects shares held in living trust of the reporting person." /> 
+</footnotes>
+<remarks />
+<ownerSignature> signatureName="Susan J. MacDonald / Atty in fact" 
+ signatureDate="2010-11-10" 
+</ownerSignature>
+</ownershipDocument></Source>

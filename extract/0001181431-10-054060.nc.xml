@@ -1,0 +1,106 @@
+<Source file="./0001181431-10-054060.nc">
+<SUBMISSION ACCESSION-NUMBER="0001181431-10-054060" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><ISSUER><COMPANY-DATA ASSIGNED-SIC="5500" CIK="0000350698" CONFORMED-NAME="AUTONATION, INC." FISCAL-YEAR-END="1231" IRS-NUMBER="731105145" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="FORT LAUDERDALE" PHONE="9547696000" STATE="FL" STREET1="200 SW 1ST AVE" STREET2="SUITE 1600" ZIP="33301" /><MAIL-ADDRESS CITY="FORT LAUDERDALE" STATE="FL" STREET1="200 SW 1ST AVE" STREET2="SUITE 1600" ZIP="33301" /><FORMER-COMPANY DATE-CHANGED="20090827" FORMER-CONFORMED-NAME="AUTONATION, INC. /FL" /><FORMER-COMPANY DATE-CHANGED="20090827" FORMER-CONFORMED-NAME="AutoNation, Inc. /FL" /><FORMER-COMPANY DATE-CHANGED="19990407" FORMER-CONFORMED-NAME="AUTONATION INC /FL" /></ISSUER><REPORTING-OWNER><OWNER-DATA CIK="0001137895" CONFORMED-NAME="WESTFALL KEVIN P" /><FILING-VALUES ACT="34" FILE-NUMBER="001-13107" FILM-NUMBER="101173094" FORM-TYPE="4" /><MAIL-ADDRESS CITY="FORT LAUDERDALE" STATE="FL" STREET1="200 SW 1ST AVE" STREET2="SUITE 1600" ZIP="33301" /></REPORTING-OWNER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0000350698" 
+ issuerName="AUTONATION, INC." 
+ issuerTradingSymbol="AN" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001137895" 
+ rptOwnerName="WESTFALL KEVIN P" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="FORT LAUDERDALE" rptOwnerState="FL" rptOwnerStreet1="200 SW 1ST AVE" rptOwnerStreet2="SUITE 1600" rptOwnerZipCode="33301">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="1" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+ officerTitle="SVP - Sales" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="35100" 
+</transactionShares>
+<transactionPricePerShare value="16.77">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="48897" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="35100" 
+</transactionShares>
+<transactionPricePerShare value="25.497">
+<footnoteId id="F1" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="D" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="13797" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<derivativeTable><derivativeTransaction><securityTitle> value="Employee Stock Option (right to buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="16.77">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="35100" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate><footnoteId id="F2" /> 
+</exerciseDate>
+<expirationDate> value="2014-07-27" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="35100">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="0" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="This transaction was executed in multiple trades at prices ranging from $25.38 to $25.65. The price reported above reflects the weighted average sale price. The reporting person hereby undertakes to provide upon request to the SEC staff, the issuer or a security holder of the issuer full information regarding the number of shares and prices at which the transactions were effected." /> 
+ <footnote id="F2" text="The option, representing a right to purchase a total of 70,200 shares (as of the grant date) at a purchase price equal to $16.77 per share, vested as to 25% of the underlying shares on each of July 27, 2005, July 27, 2006, July 27, 2007, and July 27, 2008." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="/s/ Jonathan P. Ferrando, Attorney-in-Fact">
+</ownerSignature>
+</ownershipDocument></Source>

@@ -1,0 +1,63 @@
+<Source file="./0001144204-10-058216.nc">
+<SUBMISSION ACCESSION-NUMBER="0001144204-10-058216" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001183922" CONFORMED-NAME="WALTERS MILTON J" /><FILING-VALUES ACT="34" FILE-NUMBER="001-05893" FILM-NUMBER="101172312" FORM-TYPE="4" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="2340" CIK="0000093631" CONFORMED-NAME="FREDERICK&apos;S OF HOLLYWOOD GROUP INC /NY/" FISCAL-YEAR-END="0726" IRS-NUMBER="135651322" STATE-OF-INCORPORATION="NY" /><BUSINESS-ADDRESS CITY="NEW YORK" PHONE="2127984700" STATE="NY" STREET1="1115 BROADWAY" ZIP="10010" /><MAIL-ADDRESS CITY="NEW YORK" STATE="NY" STREET1="1115 BROADWAY" ZIP="10010" /><FORMER-COMPANY DATE-CHANGED="19950112" FORMER-CONFORMED-NAME="MOVIE STAR INC /NY/" /><FORMER-COMPANY DATE-CHANGED="19920703" FORMER-CONFORMED-NAME="SANMARK STARDUST INC" /><FORMER-COMPANY DATE-CHANGED="19810526" FORMER-CONFORMED-NAME="STARDUST INC /NY/" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0000093631" 
+ issuerName="FREDERICK'S OF HOLLYWOOD GROUP INC /NY/" 
+ issuerTradingSymbol="FOH" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001183922" 
+ rptOwnerName="WALTERS MILTON J" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="NEW YORK" rptOwnerState="NY" rptOwnerStreet1="C/O FREDERICK&apos;&apos;S OF HOLLYWOOD GROUP INC." rptOwnerStreet2="1115 BROADWAY, 11TH FLOOR" rptOwnerZipCode="US 10010">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="1" 
+ isOfficer="0" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="A" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="20000" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="48255" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="By Sagebrush Group, Inc.">
+<footnoteId id="F1" /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeHolding><securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="28479" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+</nonDerivativeTable>
+<footnotes> <footnote id="F1" text="The Reporting Person is the sole shareholder of Sagebrush Group, Inc." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-05" signatureName="/s/ Milton J. Walters">
+</ownerSignature>
+</ownershipDocument></Source>

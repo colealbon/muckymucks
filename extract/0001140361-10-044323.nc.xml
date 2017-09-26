@@ -1,0 +1,453 @@
+<Source file="./0001140361-10-044323.nc">
+<SUBMISSION ACCESSION-NUMBER="0001140361-10-044323" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="2" TYPE="4"><ISSUER><COMPANY-DATA ASSIGNED-SIC="2300" CIK="0001060822" CONFORMED-NAME="CARTERS INC" FISCAL-YEAR-END="1231" IRS-NUMBER="133912933" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="ATLANTA" PHONE="(404) 745-2700" STATE="GA" STREET1="THE PROSCENIUM" STREET2="1170 PEACHTREE STREET NE SUITE 900" ZIP="30309" /><MAIL-ADDRESS CITY="ATLANTA" STATE="GA" STREET1="THE PROSCENIUM" STREET2="1170 PEACHTREE STREET NE SUITE 900" ZIP="30309" /><FORMER-COMPANY DATE-CHANGED="19980430" FORMER-CONFORMED-NAME="CARTER HOLDINGS INC" /></ISSUER><REPORTING-OWNER><OWNER-DATA CIK="0001312988" CONFORMED-NAME="Berkshire Partners LLC" FISCAL-YEAR-END="1231" STATE-OF-INCORPORATION="DE" /><FILING-VALUES ACT="34" FILE-NUMBER="001-31829" FILM-NUMBER="101174076" FORM-TYPE="4" /><BUSINESS-ADDRESS CITY="BOSTON" PHONE="617-227-0050" STATE="MA" STREET1="ONE BOSTON PLACE, SUITE 3300" ZIP="02108" /><MAIL-ADDRESS CITY="BOSTON" STATE="MA" STREET1="ONE BOSTON PLACE, SUITE 3300" ZIP="02108" /></REPORTING-OWNER><REPORTING-OWNER><OWNER-DATA CIK="0001374108" CONFORMED-NAME="BERKSHIRE FUND VII-A L P" /><FILING-VALUES ACT="34" FILE-NUMBER="001-31829" FILM-NUMBER="101174072" FORM-TYPE="4" /><BUSINESS-ADDRESS CITY="BOSTON" PHONE="617-227-0050" STATE="MA" STREET1="ONE BOSTON PLACE" ZIP="02108" /><MAIL-ADDRESS CITY="BOSTON" STATE="MA" STREET1="ONE BOSTON PLACE" ZIP="02108" /></REPORTING-OWNER><REPORTING-OWNER><OWNER-DATA CIK="0001374109" CONFORMED-NAME="BERKSHIRE FUND VII L P" /><FILING-VALUES ACT="34" FILE-NUMBER="001-31829" FILM-NUMBER="101174073" FORM-TYPE="4" /><BUSINESS-ADDRESS CITY="BOSTON" PHONE="617-227-0050" STATE="MA" STREET1="ONE BOSTON PLACE" ZIP="02108" /><MAIL-ADDRESS CITY="BOSTON" STATE="MA" STREET1="ONE BOSTON PLACE" ZIP="02108" /></REPORTING-OWNER><REPORTING-OWNER><OWNER-DATA CIK="0001501625" CONFORMED-NAME="Stockbridge Fund, L.P." STATE-OF-INCORPORATION="DE" /><FILING-VALUES ACT="34" FILE-NUMBER="001-31829" FILM-NUMBER="101174069" FORM-TYPE="4" /><BUSINESS-ADDRESS CITY="BOSTON" PHONE="617-227-0050" STATE="MA" STREET1="200 CLARENDON STREET" ZIP="02116" /><MAIL-ADDRESS CITY="BOSTON" STATE="MA" STREET1="200 CLARENDON STREET" ZIP="02116" /></REPORTING-OWNER><REPORTING-OWNER><OWNER-DATA CIK="0001505181" CONFORMED-NAME="Seventh Berkshire Associates LLC" FISCAL-YEAR-END="1231" STATE-OF-INCORPORATION="MA" /><FILING-VALUES ACT="34" FILE-NUMBER="001-31829" FILM-NUMBER="101174075" FORM-TYPE="4" /><BUSINESS-ADDRESS CITY="BOSTON" PHONE="617 227-0050" STATE="MA" STREET1="200 CLARENDON STREET" STREET2="35TH FLOOR" ZIP="02116" /><MAIL-ADDRESS CITY="BOSTON" STATE="MA" STREET1="200 CLARENDON STREET" STREET2="35TH FLOOR" ZIP="02116" /></REPORTING-OWNER><REPORTING-OWNER><OWNER-DATA CIK="0001505182" CONFORMED-NAME="Stockbridge Absolute Return Fund, L.P." FISCAL-YEAR-END="1231" STATE-OF-INCORPORATION="DE" /><FILING-VALUES ACT="34" FILE-NUMBER="001-31829" FILM-NUMBER="101174068" FORM-TYPE="4" /><BUSINESS-ADDRESS CITY="BOSTON" PHONE="617 227-0050" STATE="MA" STREET1="200 CLARENDON STREET" STREET2="35TH FLOOR" ZIP="02116" /><MAIL-ADDRESS CITY="BOSTON" STATE="MA" STREET1="200 CLARENDON STREET" STREET2="35TH FLOOR" ZIP="02116" /></REPORTING-OWNER><REPORTING-OWNER><OWNER-DATA CIK="0001505183" CONFORMED-NAME="Stockbridge Partners LLC" FISCAL-YEAR-END="1231" STATE-OF-INCORPORATION="DE" /><FILING-VALUES ACT="34" FILE-NUMBER="001-31829" FILM-NUMBER="101174074" FORM-TYPE="4" /><BUSINESS-ADDRESS CITY="BOSTON" PHONE="617 227-0050" STATE="MA" STREET1="200 CLARENDON STREET" STREET2="35TH FLOOR" ZIP="02116" /><MAIL-ADDRESS CITY="BOSTON" STATE="MA" STREET1="200 CLARENDON STREET" STREET2="35TH FLOOR" ZIP="02116" /></REPORTING-OWNER><REPORTING-OWNER><OWNER-DATA CIK="0001505184" CONFORMED-NAME="Berkshire Investors III LLC" FISCAL-YEAR-END="1231" STATE-OF-INCORPORATION="MA" /><FILING-VALUES ACT="34" FILE-NUMBER="001-31829" FILM-NUMBER="101174070" FORM-TYPE="4" /><BUSINESS-ADDRESS CITY="BOSTON" PHONE="617 227-0050" STATE="MA" STREET1="200 CLARENDON STREET" STREET2="35TH FLOOR" ZIP="02116" /><MAIL-ADDRESS CITY="BOSTON" STATE="MA" STREET1="200 CLARENDON STREET" STREET2="35TH FLOOR" ZIP="02116" /></REPORTING-OWNER><REPORTING-OWNER><OWNER-DATA CIK="0001505185" CONFORMED-NAME="Berkshire Investors IV LLC" FISCAL-YEAR-END="1231" STATE-OF-INCORPORATION="DE" /><FILING-VALUES ACT="34" FILE-NUMBER="001-31829" FILM-NUMBER="101174071" FORM-TYPE="4" /><BUSINESS-ADDRESS CITY="BOSTON" PHONE="617 227-0050" STATE="MA" STREET1="200 CLARENDON STREET" STREET2="35TH FLOOR" ZIP="02116" /><MAIL-ADDRESS CITY="BOSTON" STATE="MA" STREET1="200 CLARENDON STREET" STREET2="35TH FLOOR" ZIP="02116" /></REPORTING-OWNER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0001060822" 
+ issuerName="CARTERS INC" 
+ issuerTradingSymbol="CRI" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001312988" 
+ rptOwnerName="Berkshire Partners LLC" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="BOSTON" rptOwnerState="MA" rptOwnerStreet1="200 CLARENDON STREET" rptOwnerStreet2="35TH FLOOR" rptOwnerZipCode="02116">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="0" 
+ isTenPercentOwner="1" 
+ isOther="0" 
+<officerTitle /> 
+<otherText />
+</reportingOwnerRelationship>
+</reportingOwner>
+<reportingOwner><reportingOwnerId> rptOwnerCik="0001505181" 
+ rptOwnerName="Seventh Berkshire Associates LLC" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="BOSTON" rptOwnerState="MA" rptOwnerStreet1="C/O BERKSHIRE PARTNERS LLC" rptOwnerStreet2="200 CLARENDON STREET, 35TH FLOOR" rptOwnerZipCode="02116">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="0" 
+ isTenPercentOwner="1" 
+ isOther="0" 
+<officerTitle /> 
+<otherText />
+</reportingOwnerRelationship>
+</reportingOwner>
+<reportingOwner><reportingOwnerId> rptOwnerCik="0001505183" 
+ rptOwnerName="Stockbridge Partners LLC" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="BOSTON" rptOwnerState="MA" rptOwnerStreet1="C/O BERKSHIRE PARTNERS LLC" rptOwnerStreet2="200 CLARENDON STREET, 35TH FLOOR" rptOwnerZipCode="02116">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="0" 
+ isTenPercentOwner="1" 
+ isOther="0" 
+<officerTitle /> 
+<otherText />
+</reportingOwnerRelationship>
+</reportingOwner>
+<reportingOwner><reportingOwnerId> rptOwnerCik="0001374109" 
+ rptOwnerName="BERKSHIRE FUND VII L P" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="BOSTON" rptOwnerState="MA" rptOwnerStreet1="C/O BERKSHIRE PARTNERS LLC" rptOwnerStreet2="200 CLARENDON STREET, 35TH FLOOR" rptOwnerZipCode="02108">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="0" 
+ isTenPercentOwner="1" 
+ isOther="0" 
+<officerTitle /> 
+<otherText />
+</reportingOwnerRelationship>
+</reportingOwner>
+<reportingOwner><reportingOwnerId> rptOwnerCik="0001374108" 
+ rptOwnerName="BERKSHIRE FUND VII-A L P" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="BOSTON" rptOwnerState="MA" rptOwnerStreet1="C/O BERKSHIRE PARTNERS LLC" rptOwnerStreet2="200 CLARENDON STREET, 35TH FLOOR" rptOwnerZipCode="02116">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="0" 
+ isTenPercentOwner="1" 
+ isOther="0" 
+<officerTitle /> 
+<otherText />
+</reportingOwnerRelationship>
+</reportingOwner>
+<reportingOwner><reportingOwnerId> rptOwnerCik="0001505185" 
+ rptOwnerName="Berkshire Investors IV LLC" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="BOSTON" rptOwnerState="MA" rptOwnerStreet1="C/O BERKSHIRE PARTNERS LLC" rptOwnerStreet2="200 CLARENDON STREET, 35TH FLOOR" rptOwnerZipCode="02116">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="0" 
+ isTenPercentOwner="1" 
+ isOther="0" 
+<officerTitle /> 
+<otherText />
+</reportingOwnerRelationship>
+</reportingOwner>
+<reportingOwner><reportingOwnerId> rptOwnerCik="0001505184" 
+ rptOwnerName="Berkshire Investors III LLC" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="BOSTON" rptOwnerState="MA" rptOwnerStreet1="C/O BERKSHIRE PARTNERS LLC" rptOwnerStreet2="200 CLARENDON STREET, 35TH FLOOR" rptOwnerZipCode="02116">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="0" 
+ isTenPercentOwner="1" 
+ isOther="0" 
+<officerTitle /> 
+<otherText />
+</reportingOwnerRelationship>
+</reportingOwner>
+<reportingOwner><reportingOwnerId> rptOwnerCik="0001501625" 
+ rptOwnerName="Stockbridge Fund, L.P." 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="BOSTON" rptOwnerState="MA" rptOwnerStreet1="C/O BERKSHIRE PARTNERS LLC" rptOwnerStreet2="200 CLARENDON STREET, 35TH FLOOR" rptOwnerZipCode="02116">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="0" 
+ isTenPercentOwner="1" 
+ isOther="0" 
+<officerTitle /> 
+<otherText />
+</reportingOwnerRelationship>
+</reportingOwner>
+<reportingOwner><reportingOwnerId> rptOwnerCik="0001505182" 
+ rptOwnerName="Stockbridge Absolute Return Fund, L.P." 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="BOSTON" rptOwnerState="MA" rptOwnerStreet1="C/O BERKSHIRE PARTNERS LLC" rptOwnerStreet2="200 CLARENDON STREET, 35TH FLOOR" rptOwnerZipCode="02116">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="0" 
+ isTenPercentOwner="1" 
+ isOther="0" 
+<officerTitle /> 
+<otherText />
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="P" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="40677" 
+<footnoteId id="F1" /> 
+</transactionShares>
+<transactionPricePerShare> value="27.4065" 
+<footnoteId id="F2" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="A" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="5447607" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="See Footnotes">
+<footnoteId id="F4" /> 
+<footnoteId id="F15" />
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="P" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="568" 
+<footnoteId id="F1" /> 
+</transactionShares>
+<transactionPricePerShare> value="27.4065" 
+<footnoteId id="F2" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="A" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="88931" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+<footnoteId id="F5" /> 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="P" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="439" 
+<footnoteId id="F1" /> 
+</transactionShares>
+<transactionPricePerShare> value="27.4065" 
+<footnoteId id="F2" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="A" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="39563" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+<footnoteId id="F6" /> 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="P" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="1308" 
+<footnoteId id="F1" /> 
+</transactionShares>
+<transactionPricePerShare> value="27.4065" 
+<footnoteId id="F2" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="A" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="186143" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+<footnoteId id="F7" /> 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="P" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="10" 
+<footnoteId id="F1" /> 
+</transactionShares>
+<transactionPricePerShare> value="27.4065" 
+<footnoteId id="F2" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="A" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="5756" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+<footnoteId id="F8" /> 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="P" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="601687" 
+<footnoteId id="F1" /> 
+</transactionShares>
+<transactionPricePerShare> value="27.9114" 
+<footnoteId id="F3" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="A" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="6049294" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="See Footnotes">
+<footnoteId id="F9" /> 
+<footnoteId id="F15" />
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="P" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="8602" 
+<footnoteId id="F1" /> 
+</transactionShares>
+<transactionPricePerShare> value="27.9114" 
+<footnoteId id="F3" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="A" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="97533" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+<footnoteId id="F10" /> 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="P" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="6866" 
+<footnoteId id="F1" /> 
+</transactionShares>
+<transactionPricePerShare> value="27.9114" 
+<footnoteId id="F3" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="A" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="46429" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+<footnoteId id="F11" /> 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="P" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="19833" 
+<footnoteId id="F1" /> 
+</transactionShares>
+<transactionPricePerShare> value="27.9114" 
+<footnoteId id="F3" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="A" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="205976" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+<footnoteId id="F12" /> 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="P" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="612" 
+<footnoteId id="F1" /> 
+</transactionShares>
+<transactionPricePerShare> value="27.9114" 
+<footnoteId id="F3" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="A" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="6368" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+<footnoteId id="F13" /> 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeHolding><securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="22682" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+<footnoteId id="F14" /> 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+</nonDerivativeTable>
+<derivativeTable />
+<footnotes> <footnote id="F1" text="The number of securities reported represents an aggregate number of shares purchased in multiple open market transactions over a range of sales prices." /> 
+ <footnote id="F2" text="The price reported represents the weighted average price.  Purchase prices range from $27.38 to $27.43 per share, inclusive.  Each of the Reporting Persons undertakes to provide the staff of the SEC, the Issuer, or a stockholder of the Issuer, upon request, the number of shares purchased by such Reporting Person at each separate price within the range." /> 
+ <footnote id="F3" text="The price reported represents the weighted average price. Purchase prices range from $27.36 to $28.12 per share, inclusive.  Each of the Reporting Persons undertakes to provide the staff of the SEC, the Issuer, or a stockholder of the Issuer, upon request, the number of shares purchased by such Reporting Person at each separate price within the range." /> 
+ <footnote id="F4" text="Represents shares held indirectly by Berkshire Partners LLC (Berkshire Partners), Seventh Berkshire Associates LLC (7BA) and Stockbridge Partners LLC (Stockbridge Partners).  Berkshire Fund VII, L.P. (Fund VII) acquired 33,209 shares through a wholly owned subsidiary for a total ownership of 4,447,528 shares.  Berkshire Fund VII-A, L.P. (Fund VII-A) acquired 6,177 shares through a wholly owned subsidiary for a total ownership of 831,478 shares.  Stockbridge Partners acquired 1,291 shares for a total ownership of 168,601 shares on behalf of a managed account." /> 
+ <footnote id="F5" text="Represents shares held directly by Berkshire Investors IV LLC.  Berkshire Investors IV LLC may be deemed to be, but does not admit to being, a member of a group holding over 10% of the outstanding common stock of the Issuer for purposes of Section 13(d)(3) of the Securities Exchange Act of 1934." /> 
+ <footnote id="F6" text="Represents shares held directly by Berkshire Investors III LLC.  Berkshire Investors III LLC may be deemed to be, but does not admit to being, a member of a group holding over 10% of the outstanding common stock of the Issuer for purposes of Section 13(d)(3) of the Securities Exchange Act of 1934." /> 
+ <footnote id="F7" text="Represents shares held directly by Stockbridge Fund, L.P. (Stockbridge Fund).  Stockbridge Associates LLC (SA LLC) is the sole general partner of Stockbridge Fund.  SA LLC disclaims beneficial ownership of such shares of common stock except to the extent of its pecuniary interest therein.  Stockbridge Fund and SA LLC may be deemed to be, but do not admit to being, member of a group holding over 10% of the outstanding common stock of the Issuer for purposes of Section 13(d)(3) of the Securities Exchange Act of 1934." /> 
+ <footnote id="F8" text="Represents shares held directly by Stockbridge Absolute Return Fund, L.P. (Stockbridge Absolute).  SA LLC is the sole general partner of Stockbridge Absolute.  SA LLC disclaims beneficial ownership of such shares of common stock except to the extent of its pecuniary interest therein.  Stockbridge Absolute and SA LLC may be deemed to be, but do not admit to being, member of a group holding over 10% of the outstanding common stock of the Issuer for purposes of Section 13(d)(3) of the Securities Exchange Act of 1934." /> 
+ <footnote id="F9" text="Represents shares held indirectly by Berkshire Partners, 7BA and Stockbridge Partners.  Fund VII acquired 490,569 shares through a wholly owned subsidiary for a total ownership of 4,938,097 shares.  Fund VII-A acquired 91,713 shares through a wholly owned subsidiary for a total ownership of 923,191 shares.  Stockbridge Partners acquired 19,405 shares for a total ownership of 188,006 shares on behalf of a managed account." /> 
+ <footnote id="F10" text="Represents shares held directly by Berkshire Investors IV LLC.  Berkshire Investors IV LLC may be deemed to be, but does not admit to being, a member of a group holding over 10% of the outstanding common stock of the Issuer for purposes of Section 13(d)(3) of the Securities Exchange Act of 1934." /> 
+ <footnote id="F11" text="Represents shares held directly by Berkshire Investors III LLC.  Berkshire Investors III LLC may be deemed to be, but does not admit to being, a member of a group holding over 10% of the outstanding common stock of the Issuer for purposes of Section 13(d)(3) of the Securities Exchange Act of 1934." /> 
+ <footnote id="F12" text="Represents shares held directly by Stockbridge Fund. SA LLC is the sole general partner of Stockbridge Fund.  SA LLC disclaims beneficial ownership of such shares of common stock except to the extent of its pecuniary interest therein.  Stockbridge Fund and SA LLC may be deemed to be, but do not admit to being, member of a group holding over 10% of the outstanding common stock of the Issuer for purposes of Section 13(d)(3) of the Securities Exchange Act of 1934." /> 
+ <footnote id="F13" text="Represents shares held directly by Stockbridge Absolute.  SA LLC is the sole general partner of Stockbridge Absolute.  SA LLC disclaims beneficial ownership of such shares of common stock except to the extent of its pecuniary interest therein.  Stockbridge Absolute and SA LLC may be deemed to be, but do not admit to being, member of a group holding over 10% of the outstanding common stock of the Issuer for purposes of Section 13(d)(3) of the Securities Exchange Act of 1934." /> 
+ <footnote id="F14" text="Represents shares held directly by Berkshire Partners." /> 
+ <footnote id="F15" text="7BA is the sole general partner of Fund VII and Fund VII-A.  Berkshire Partners, 7BA and Stockbridge Partners are under common control and may be deemed to be, but do not admit to being, a group for purposes of Section 13(d)(3) of the Securities Exchange Act of 1934.  Each of Berkshire Partners, 7BA and Stockbridge Partners disclaims beneficial ownership of any securities except to the extent of its pecuniary interest therein." /> 
+</footnotes>
+ remarks="Exhibit 99.1 (Joint Filer Information) incorporated herein by reference." 
+<ownerSignature signatureDate="2010-11-08" signatureName="/s/ Michael C. Ascione, Managing Director Berkshire Partners LLC">
+</ownerSignature>
+</ownershipDocument></Source>

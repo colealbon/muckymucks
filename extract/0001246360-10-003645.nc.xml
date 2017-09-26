@@ -1,0 +1,148 @@
+<Source file="./0001246360-10-003645.nc">
+<SUBMISSION ACCESSION-NUMBER="0001246360-10-003645" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101105" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001460434" CONFORMED-NAME="Juden Alexander C." /><FILING-VALUES ACT="34" FILE-NUMBER="001-04601" FILM-NUMBER="101173645" FORM-TYPE="4" /><MAIL-ADDRESS CITY="HOUSTON" STATE="TX" STREET1="C/O SCHLUMBERGER LIMITED" STREET2="5599 SAN FELIPE 17TH FLOOR" ZIP="77056" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="1389" CIK="0000087347" CONFORMED-NAME="SCHLUMBERGER LTD /NV/" FISCAL-YEAR-END="1231" IRS-NUMBER="520684746" STATE-OF-INCORPORATION="P8" /><BUSINESS-ADDRESS CITY="HOUSTON" PHONE="7135132000" STATE="TX" STREET1="5599 SAN FELIPE" STREET2="17TH FLOOR" ZIP="77056" /><MAIL-ADDRESS CITY="HOUSTON" STATE="TX" STREET1="5599 SAN FELIPE" STREET2="17TH FLOOR" ZIP="77056" /><FORMER-COMPANY DATE-CHANGED="19920804" FORMER-CONFORMED-NAME="SCHLUMBERGER NV" /><FORMER-COMPANY DATE-CHANGED="19880812" FORMER-CONFORMED-NAME="SCHLUMBERGER LTD" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="false" periodOfReport="2010-11-05" schemaVersion="X0303">
+<issuer> issuerCik="0000087347" 
+ issuerName="SCHLUMBERGER LTD /NV/" 
+ issuerTradingSymbol="SLB" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001460434" 
+ rptOwnerName="Juden Alexander C." 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="HOUSTON" rptOwnerState="TX" rptOwnerStreet1="5599 SAN FELIPE, 17TH FLOOR" rptOwnerStreet2="" rptOwnerZipCode="77056" />
+
+
+<reportingOwnerRelationship isDirector="false" isOfficer="true" isOther="false" isTenPercentOwner="false" officerTitle="Secretary and General Counsel">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock, $0.01 par value per share" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="M" 
+ equitySwapInvolved="false" 
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="1918" 
+</transactionShares>
+<transactionPricePerShare value="32.455">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="5622" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock, $0.01 par value per share" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="M" 
+ equitySwapInvolved="false" 
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="892" 
+</transactionShares>
+<transactionPricePerShare value="32.455">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="6514" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<derivativeTable><derivativeTransaction><securityTitle> value="Incentive Stock Option (right to buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="32.455">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="M" 
+ equitySwapInvolved="false" 
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="1918" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate> value="2006-01-19" 
+<footnoteId id="F1" /> 
+</exerciseDate>
+<expirationDate> value="2015-01-19" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock, $0.01 par value per share" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="2000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="82" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+<derivativeTransaction>
+<securityTitle> value="NQ Stock Option (right to buy) w/ tandem Tax w/h right" 
+</securityTitle>
+<conversionOrExercisePrice value="32.455">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="M" 
+ equitySwapInvolved="false" 
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="892" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate> value="2006-01-19" 
+<footnoteId id="F2" /> 
+</exerciseDate>
+<expirationDate> value="2015-01-19" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock, $0.01 par value per share" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="930">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="38" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="This option becomes exercisable in four equal annual installments beginning January 19, 2006." /> 
+ <footnote id="F2" text="This option becomes exercisable in four equal annual installments beginning January 19, 2006." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="/s/Lynda Quagliara Attorney-in-Fact For: Alexander Juden">
+</ownerSignature>
+</ownershipDocument></Source>

@@ -1,0 +1,105 @@
+<Source file="./0000089439-10-000068.nc">
+<SUBMISSION ACCESSION-NUMBER="0000089439-10-000068" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101108" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001307618" CONFORMED-NAME="CORMAN RICHARD W" /><FILING-VALUES ACT="34" FILE-NUMBER="001-06770" FILM-NUMBER="101173055" FORM-TYPE="4" /><MAIL-ADDRESS CITY="MEMPHIS" STATE="TN" STREET1="8285 TOURNAMENT DRIVE SUITE 150" ZIP="38125" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="3350" CIK="0000089439" CONFORMED-NAME="MUELLER INDUSTRIES INC" FISCAL-YEAR-END="1227" IRS-NUMBER="250790410" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="MEMPHIS" PHONE="(901)753-3200" STATE="TN" STREET1="SUITE 150" STREET2="8285 TOURNAMENT DRIVE" ZIP="38125" /><MAIL-ADDRESS CITY="MEMPHIS" STATE="TN" STREET1="SUITE 150" STREET2="8285 TOURNAMENT DRIVE" ZIP="38125" /><FORMER-COMPANY DATE-CHANGED="19910103" FORMER-CONFORMED-NAME="SHARON STEEL CORP" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-08" schemaVersion="X0303">
+<issuer> issuerCik="0000089439" 
+ issuerName="MUELLER INDUSTRIES INC" 
+ issuerTradingSymbol="mli" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001307618" 
+ rptOwnerName="CORMAN RICHARD W" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="MEMPHIS" rptOwnerState="TN" rptOwnerStreet1="8285 TOURNAMENT DRIVE SUITE 150" rptOwnerStreet2="" rptOwnerZipCode="38125" />
+
+
+<reportingOwnerRelationship isDirector="0" isOfficer="1" isOther="0" isTenPercentOwner="0" officerTitle="Vice President - Controller">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-08">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="3112" 
+</transactionShares>
+<transactionPricePerShare value="15.202">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="14624" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-08">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="F" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="1534" 
+</transactionShares>
+<transactionPricePerShare value="30.825">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="13090" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<derivativeTable><derivativeTransaction><securityTitle> value="Employee Stock Option (Right-to-Buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="15.202">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-08">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="3112" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate><footnoteId id="F1" /> 
+</exerciseDate>
+<expirationDate> value="2010-12-21" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="3112">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="0" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="Exercisable: 1,556 on 12/21/2004; 1,556 on 12/21/2005" /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="/s/ Richard W. Corman">
+</ownerSignature>
+</ownershipDocument></Source>

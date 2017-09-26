@@ -1,0 +1,131 @@
+<Source file="./0001231886-10-000216.nc">
+<SUBMISSION ACCESSION-NUMBER="0001231886-10-000216" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101108" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001366415" CONFORMED-NAME="Wolford Eric" /><FILING-VALUES ACT="34" FILE-NUMBER="001-33023" FILM-NUMBER="101173871" FORM-TYPE="4" /><MAIL-ADDRESS CITY="SAN FRANCISCO" STATE="CA" STREET1="199 FREMONT STREET" ZIP="94105" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="3576" CIK="0001357326" CONFORMED-NAME="Riverbed Technology, Inc." FISCAL-YEAR-END="1231" IRS-NUMBER="030448754" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="SAN FRANCISCO" PHONE="(415) 247-8800" STATE="CA" STREET1="199 FREMONT STREET" ZIP="94105" /><MAIL-ADDRESS CITY="SAN FRANCISCO" STATE="CA" STREET1="199 FREMONT STREET" ZIP="94105" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-08" schemaVersion="X0303">
+<issuer> issuerCik="0001357326" 
+ issuerName="Riverbed Technology, Inc." 
+ issuerTradingSymbol="RVBD" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001366415" 
+ rptOwnerName="Wolford Eric" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="SAN FRANCISCO" rptOwnerState="CA" rptOwnerStreet1="C/O RIVERBED TECHNOLOGY, INC." rptOwnerStreet2="199 FREMONT ST." rptOwnerZipCode="94105">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="1" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+ officerTitle="Sr VP, Marketing &amp; Bus. Dev." 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-08">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="15000" 
+</transactionShares>
+<transactionPricePerShare value="14.38">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="183595" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-08">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+<footnoteId id="F1" /> 
+</transactionCoding>
+<transactionAmounts><transactionShares> value="12400" 
+</transactionShares>
+<transactionPricePerShare value="59.7086">
+<footnoteId id="F2" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="D" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="171195" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-08">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+<footnoteId id="F1" /> 
+</transactionCoding>
+<transactionAmounts><transactionShares> value="2600" 
+</transactionShares>
+<transactionPricePerShare value="60.2619">
+<footnoteId id="F3" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="D" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="168595" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<derivativeTable><derivativeTransaction><securityTitle> value="Non-Qualified Stock Option (right to buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="14.38">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-08">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="15000" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate><footnoteId id="F4" /> 
+</exerciseDate>
+<expirationDate> value="2015-04-30" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="15000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="174963" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="Sales effected pursuant to a Rule 10b5-1 trading plan adopted by the reporting person on November 12, 2009." /> 
+ <footnote id="F2" text="The sales price reported in column 4 of Table I represents the weighted average sales price of the shares sold ranging from $59.11 to $60.10 per share. The reporting person will provide, upon request by the Commission staff, the issuer, or a security holder of the issuer, full information regarding the number of shares sold at each separate price." /> 
+ <footnote id="F3" text="The sales price reported in column 4 of Table I represents the weighted average sales price of the shares sold ranging from $60.13 to $60.50 per share. The reporting person will provide, upon request by the Commission staff, the issuer, or a security holder of the issuer, full information regarding the number of shares sold at each separate price." /> 
+ <footnote id="F4" text="Option becomes exercisable in monthly installments over a period of 48 months of continuous service after May 1, 2008." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="By: /s/Brett Nissenberg, Attorney in Fact  For: Eric Wolford">
+</ownerSignature>
+</ownershipDocument></Source>

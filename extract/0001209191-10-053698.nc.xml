@@ -1,0 +1,123 @@
+<Source file="./0001209191-10-053698.nc">
+<SUBMISSION ACCESSION-NUMBER="0001209191-10-053698" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101105" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001412649" CONFORMED-NAME="Brezniak Ellen" /><FILING-VALUES ACT="34" FILE-NUMBER="001-33707" FILM-NUMBER="101172752" FORM-TYPE="4" /><MAIL-ADDRESS CITY="WALTHAM" STATE="MA" STREET1="1601 TRAPELO ROAD" STREET2="SUITE 329" ZIP="02451" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="7331" CIK="0001405277" CONFORMED-NAME="Constant Contact, Inc." FISCAL-YEAR-END="1231" IRS-NUMBER="043285398" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="WALTHAM" PHONE="781-472-8100" STATE="MA" STREET1="1601 TRAPELO ROAD" STREET2="SUITE 329" ZIP="02451" /><MAIL-ADDRESS CITY="WALTHAM" STATE="MA" STREET1="1601 TRAPELO ROAD" STREET2="SUITE 329" ZIP="02451" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-05" schemaVersion="X0303">
+<issuer> issuerCik="0001405277" 
+ issuerName="Constant Contact, Inc." 
+ issuerTradingSymbol="CTCT" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001412649" 
+ rptOwnerName="Brezniak Ellen" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="WALTHAM" rptOwnerState="MA" rptOwnerStreet1="C/O CONSTANT CONTACT, INC." rptOwnerStreet2="1601 TRAPELO RD., SUITE 329" rptOwnerZipCode="02451">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="1" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+ officerTitle="SVP Product Strategy" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="M" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="7500" 
+</transactionShares>
+<transactionPricePerShare value="2.68">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="7500" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="S" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="7500" 
+</transactionShares>
+<transactionPricePerShare value="24.1143">
+<footnoteId id="F1" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="D" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="0" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<derivativeTable><derivativeTransaction><securityTitle> value="Stock Option (Right to Buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="2.68">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="M" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="7500" 
+</transactionShares>
+<transactionPricePerShare value="0.00">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate><footnoteId id="F2" /> 
+</exerciseDate>
+<expirationDate> value="2016-09-20" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="7500">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="104891" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="Represents the weighted average sales price for shares sold in multiple transactions. Sales prices ranged from $23.91 to $24.25 per share. The reporting person will provide full information regarding the number of shares sold at each separate price upon request of the staff of the Securities and Exchange Commission, the issuer or a security holder of such issuer." /> 
+ <footnote id="F2" text="The option was initially granted to the reporting person on September 20, 2006. 25% of the shares subject to the option vested on September 20, 2007, and 6.25% of the remaining shares subject to the option vested quarterly thereafter, such that 100% of the shares subject to the option fully vested on September 20, 2010." /> 
+</footnotes>
+<remarks />
+<ownerSignature> signatureName="/s/ Robert P. Nault, attorney-in-fact" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

@@ -1,0 +1,65 @@
+<Source file="./0001127602-10-027334.nc">
+<SUBMISSION ACCESSION-NUMBER="0001127602-10-027334" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101105" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001189095" CONFORMED-NAME="THOMAS GARY L" /><FILING-VALUES ACT="34" FILE-NUMBER="001-09743" FILM-NUMBER="101173021" FORM-TYPE="4" /><MAIL-ADDRESS CITY="HOUSTON" STATE="TX" STREET1="P O BOX 4362" ZIP="772104362" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="1311" CIK="0000821189" CONFORMED-NAME="EOG RESOURCES INC" FISCAL-YEAR-END="1231" IRS-NUMBER="470684736" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="HOUSTON" PHONE="7136517000" STATE="TX" STREET1="1111 BAGBY, SKY LOBBY 2" ZIP="77002" /><MAIL-ADDRESS CITY="HOUSTON" STATE="TX" STREET1="1111 BAGBY, SKY LOBBY 2" ZIP="77002" /><FORMER-COMPANY DATE-CHANGED="19920703" FORMER-CONFORMED-NAME="ENRON OIL &amp; GAS CO" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" periodOfReport="2010-11-05" schemaVersion="X0303">
+<issuer> issuerCik="0000821189" 
+ issuerName="EOG RESOURCES INC" 
+ issuerTradingSymbol="EOG" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001189095" 
+ rptOwnerName="THOMAS GARY L" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="HOUSTON" rptOwnerState="TX" rptOwnerStreet1="PO BOX 4362" rptOwnerStreet2="" rptOwnerZipCode="77002" />
+
+
+<reportingOwnerRelationship isOfficer="1" officerTitle="Sr. Executive VP - Operations">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock - Phantom" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="A" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness />
+<transactionAmounts><transactionShares> value="13.575" 
+</transactionShares>
+<transactionPricePerShare value="88.61">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="168908.314" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeHolding>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="223894" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="5767" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="401(k) Plan">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+</nonDerivativeTable>
+<ownerSignature signatureDate="2010-11-08" signatureName="Vicky Strom, Attorney-In-Fact for Gary L. Thomas">
+</ownerSignature>
+</ownershipDocument></Source>

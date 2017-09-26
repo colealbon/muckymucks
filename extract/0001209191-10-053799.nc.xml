@@ -1,0 +1,55 @@
+<Source file="./0001209191-10-053799.nc">
+<SUBMISSION ACCESSION-NUMBER="0001209191-10-053799" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101105" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001390661" CONFORMED-NAME="Olson James P" /><FILING-VALUES ACT="34" FILE-NUMBER="001-03657" FILM-NUMBER="101173979" FORM-TYPE="4" /><MAIL-ADDRESS CITY="JACKSONVILLE" STATE="FL" STREET1="C/O WINN-DIXIE STORES, INC." STREET2="5050 EDGEWOOD CT." ZIP="32254" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="5411" CIK="0000107681" CONFORMED-NAME="WINN DIXIE STORES INC" FISCAL-YEAR-END="0625" IRS-NUMBER="590514290" STATE-OF-INCORPORATION="FL" /><BUSINESS-ADDRESS CITY="JACKSONVILLE" PHONE="9047835000" STATE="FL" STREET1="5050 EDGEWOOD CT" ZIP="32254" /><MAIL-ADDRESS CITY="JACKSONVILLE" STATE="FL" STREET1="5050 EDGEWOOD CT" ZIP="32254" /><FORMER-COMPANY DATE-CHANGED="19710927" FORMER-CONFORMED-NAME="WINN &amp; LOVETT GROCERY INC" /><FORMER-COMPANY DATE-CHANGED="19671119" FORMER-CONFORMED-NAME="WINN &amp; LOVETT GROCERY CO" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-05" schemaVersion="X0303">
+<issuer> issuerCik="0000107681" 
+ issuerName="WINN DIXIE STORES INC" 
+ issuerTradingSymbol="WINN" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001390661" 
+ rptOwnerName="Olson James P" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="JACKSONVILLE" rptOwnerState="FL" rptOwnerStreet1="C/O WINN-DIXIE STORES, INC." rptOwnerStreet2="5050 EDGEWOOD CT." rptOwnerZipCode="32254">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="1" 
+ isOfficer="0" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="S" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="2800" 
+<footnoteId id="F1" /> 
+</transactionShares>
+<transactionPricePerShare> value="7.13" 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="26855" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<footnotes> <footnote id="F1" text="Shares sold to satisfy income tax obligations." /> 
+</footnotes>
+<remarks />
+<ownerSignature> signatureName="/s/ Bennett Nussbaum, as Attorney-In-Fact" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

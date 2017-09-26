@@ -1,0 +1,78 @@
+<Source file="./0001140361-10-044239.nc">
+<SUBMISSION ACCESSION-NUMBER="0001140361-10-044239" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101105" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001487076" CONFORMED-NAME="Hanna Randall W" /><FILING-VALUES ACT="34" FILE-NUMBER="000-13089" FILM-NUMBER="101173225" FORM-TYPE="4" /><MAIL-ADDRESS CITY="GULFPORT" STATE="MS" STREET1="P.O. BOX" STREET2="4019" ZIP="39502" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="6022" CIK="0000750577" CONFORMED-NAME="HANCOCK HOLDING CO" FISCAL-YEAR-END="1231" IRS-NUMBER="640693170" STATE-OF-INCORPORATION="MS" /><BUSINESS-ADDRESS CITY="GULFPORT" PHONE="6018684605" STATE="MS" STREET1="ONE HANCOCK PLZ" STREET2="P.O. BOX 4019" ZIP="39501" /><MAIL-ADDRESS CITY="GULFPORT" STATE="MS" STREET1="ONE HANCOCK PLZ" STREET2="P O BOX 4019" ZIP="39501" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-05" schemaVersion="X0303">
+<issuer> issuerCik="0000750577" 
+ issuerName="HANCOCK HOLDING CO" 
+ issuerTradingSymbol="HBHC" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001487076" 
+ rptOwnerName="Hanna Randall W" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="GULFPORT" rptOwnerState="MS" rptOwnerStreet1="P.O. BOX 4019" rptOwnerStreet2="" rptOwnerZipCode="39502" />
+
+
+<reportingOwnerRelationship isDirector="1" isOfficer="0" isOther="0" isTenPercentOwner="0">
+<officerTitle /> 
+<otherText />
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<deemedExecutionDate value="2010-11-08">
+</deemedExecutionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="A" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="70.6657" 
+<footnoteId id="F1" /> 
+</transactionShares>
+<transactionPricePerShare> value="31.84" 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="3807.6104" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<deemedExecutionDate value="2010-11-08">
+</deemedExecutionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="A" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="10.0054" 
+<footnoteId id="F2" /> 
+</transactionShares>
+<transactionPricePerShare> value="29.92" 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="3817.6158" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<derivativeTable /> 
+<footnotes>
+<footnote id="F1" text="Equity share acquisition pursuant to the Company&apos;s Non-Qualified Deferred Compensation Plan." /> 
+ <footnote id="F2" text="Equity share acquisition pursuant to the Company&apos;s Dividend Reinvestment Program." /> 
+</footnotes>
+<remarks />
+<ownerSignature> signatureName="Randall W. Hanna by: Paul D. Guichet, POA" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

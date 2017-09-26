@@ -1,0 +1,103 @@
+<Source file="./0001127602-10-027325.nc">
+<SUBMISSION ACCESSION-NUMBER="0001127602-10-027325" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101108" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001292249" CONFORMED-NAME="Weisman Adam" /><FILING-VALUES ACT="34" FILE-NUMBER="000-30205" FILM-NUMBER="101172967" FORM-TYPE="4" /><MAIL-ADDRESS CITY="AURORA" STATE="IL" STREET1="870 N. COMMONS DR." ZIP="60504" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="3674" CIK="0001102934" CONFORMED-NAME="CABOT MICROELECTRONICS CORP" FISCAL-YEAR-END="0930" IRS-NUMBER="364324765" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="AURORA" PHONE="6303755461" STATE="IL" STREET1="870 NORTH COMMONS DRIVE" ZIP="60504" /><MAIL-ADDRESS CITY="AURORA" STATE="IL" STREET1="870 N COMMONS DR" ZIP="60504" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" periodOfReport="2010-11-08" schemaVersion="X0303">
+<issuer> issuerCik="0001102934" 
+ issuerName="CABOT MICROELECTRONICS CORP" 
+ issuerTradingSymbol="CCMP" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001292249" 
+ rptOwnerName="Weisman Adam" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="AURORA" rptOwnerState="IL" rptOwnerStreet1="C/O CABOT MICROELECTRONICS CORPORATION" rptOwnerStreet2="870 COMMONS DRIVE" rptOwnerZipCode="60504">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isOfficer="1" 
+ officerTitle="VP, Business Operations" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-08">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness />
+<transactionAmounts><transactionShares> value="30000" 
+</transactionShares>
+<transactionPricePerShare value="30.10">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="61855.362" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-08">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness />
+<transactionAmounts><transactionShares> value="30000" 
+</transactionShares>
+<transactionPricePerShare value="40.585">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="31855.362" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<derivativeTable><derivativeTransaction><securityTitle> value="Stock Options (Right to Buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="30.10">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-08">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness />
+<transactionAmounts><transactionShares> value="30000" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate> value="2005-05-26" 
+<footnoteId id="F1" /> 
+</exerciseDate>
+<expirationDate> value="2014-05-26" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="30000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="0" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<footnotes><footnote id="F1" text="Vesting Schedule:1/4 on 5/26/2005,1/4 on 5/26/2006,1/4 on 5/26/2007,1/4 on 5/26/2008." />
+</footnotes>
+<ownerSignature> signatureName="/s/ H. Carol Bernstein (Power of Attorney)" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

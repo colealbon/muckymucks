@@ -1,0 +1,164 @@
+<Source file="./0001209191-10-053645.nc">
+<SUBMISSION ACCESSION-NUMBER="0001209191-10-053645" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101105" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001459904" CONFORMED-NAME="SMOLENSKI ERIC M" /><FILING-VALUES ACT="34" FILE-NUMBER="001-08399" FILM-NUMBER="101171993" FORM-TYPE="4" /><MAIL-ADDRESS CITY="COLUMBUS" STATE="OH" STREET1="200 OLD WILSON BRIDGE ROAD" ZIP="43085" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="3310" CIK="0000108516" CONFORMED-NAME="WORTHINGTON INDUSTRIES INC" FISCAL-YEAR-END="0531" IRS-NUMBER="311189815" STATE-OF-INCORPORATION="OH" /><BUSINESS-ADDRESS CITY="COLUMBUS" PHONE="6144383210" STATE="OH" STREET1="200 OLD WILSON BRIDGE ROAD" ZIP="43085" /><MAIL-ADDRESS CITY="COLUMBUS" STATE="OH" STREET1="200 OLD WILSON BRIDGE ROAD" ZIP="43085" /><FORMER-COMPANY DATE-CHANGED="19720123" FORMER-CONFORMED-NAME="WORTHINGTON STEEL CO" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-05" schemaVersion="X0303">
+<issuer> issuerCik="0000108516" 
+ issuerName="WORTHINGTON INDUSTRIES INC" 
+ issuerTradingSymbol="WOR" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001459904" 
+ rptOwnerName="SMOLENSKI ERIC M" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="COLUMBUS" rptOwnerState="OH" rptOwnerStreet1="200 OLD WILSON BRIDGE ROAD" rptOwnerStreet2="" rptOwnerZipCode="43085" />
+
+
+<reportingOwnerRelationship isDirector="0" isOfficer="1" isOther="0" isTenPercentOwner="0" officerTitle="VP-HUMAN RESOURCES">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Shares" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="M" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="3000" 
+</transactionShares>
+<transactionPricePerShare value="9.30">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="4975" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Shares" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="S" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="2160" 
+</transactionShares>
+<transactionPricePerShare value="16.49">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="2815" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeHolding>
+<securityTitle> value="Common Shares" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="4226" 
+<footnoteId id="F1" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="By 401(k) Plan">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+</nonDerivativeTable>
+<derivativeTable><derivativeHolding><securityTitle> value="Phantom Stock, acquired under deferred compensation plan" 
+</securityTitle>
+<conversionOrExercisePrice>
+<footnoteId id="F2" /> 
+</conversionOrExercisePrice>
+<exerciseDate><footnoteId id="F3" /> 
+</exerciseDate>
+<expirationDate><footnoteId id="F4" /> 
+</expirationDate>
+<underlyingSecurity><underlyingSecurityTitle> value="common shares" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="12">
+<footnoteId id="F5" /> 
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="2047" 
+<footnoteId id="F6" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeTransaction>
+<securityTitle> value="Non-Qualified Stock Option (Right to Purchase)" 
+</securityTitle>
+<conversionOrExercisePrice value="9.30">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="M" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="3000" 
+</transactionShares>
+<transactionPricePerShare value="0.00">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate> value="2002-03-29" 
+<footnoteId id="F7" /> 
+</exerciseDate>
+<expirationDate> value="2011-03-29" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="common shares" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="3000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="0" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="Amount listed is the most up-to-date information available regarding holdings in the Company Plan Fund which invests in Common Shares of the Company." /> 
+ <footnote id="F2" text="The accounts track common shares on a one-for-one basis" /> 
+ <footnote id="F3" text="The account balances related to the theoretical common shares may be immediately transferred to other investment options under the terms of the deferred compensation plans." /> 
+ <footnote id="F4" text="These are unfunded accounts under Worthington Industries, Inc.&apos;s deferred compensation plan invested in phantom stock.  Distributions are made only in cash, and generally commence upon retirement or other termination of employment." /> 
+ <footnote id="F5" text="This amount represents unfunded theoretical common shares (i.e. phantom stock) credited to participant&apos;s account pursuant to the dividend reinvestment feature of the Worthington Industries, Inc.s Deferred Compensation Plans." /> 
+ <footnote id="F6" text="The amount reported represents 12 additional unfunded theoretical common shares (i.e., phantom stock) credited to participant&apos;s account pursuant to the dividend reinvestment feature of the Worthington Industries, Inc. Deferred Compensation Plan." /> 
+ <footnote id="F7" text="Date listed is the first day any portion of the option vested.  Additional portions of 20% of the option vested annually on 3/29/2003, 3/29/2004, 3/29/2005 and 3/29/2006.  The last day to exercise out of this option grant is 3/29/2011." /> 
+</footnotes>
+<remarks />
+<ownerSignature> signatureName="/s/Dale T. Brinkman as Attorney-in-Fact for Eric M Smolenski" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

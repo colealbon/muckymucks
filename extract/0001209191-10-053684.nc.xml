@@ -1,0 +1,124 @@
+<Source file="./0001209191-10-053684.nc">
+<SUBMISSION ACCESSION-NUMBER="0001209191-10-053684" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001385611" CONFORMED-NAME="Cebula Wendy M" /><FILING-VALUES ACT="34" FILE-NUMBER="000-51539" FILM-NUMBER="101172512" FORM-TYPE="4" /><MAIL-ADDRESS CITY="LEXINGTON" STATE="MA" STREET1="C/O VISTAPRINT" STREET2="100 HAYDEN AVENUE" ZIP="02421" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="2750" CIK="0001262976" CONFORMED-NAME="VISTAPRINT N.V." FISCAL-YEAR-END="0630" IRS-NUMBER="980417483" STATE-OF-INCORPORATION="P7" /><BUSINESS-ADDRESS CITY="VENLO" PHONE="781-652-6300" STATE="P7" STREET1="HUDSONWEG 8" ZIP="5928 LW" /><MAIL-ADDRESS CITY="LEXINGTON" STATE="MA" STREET1="C/O VISTAPRINT USA, INCORPORATED" STREET2="95 HAYDEN AVE." ZIP="02421" /><FORMER-COMPANY DATE-CHANGED="20030908" FORMER-CONFORMED-NAME="VISTAPRINT LTD" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0001262976" 
+ issuerName="VISTAPRINT N.V." 
+ issuerTradingSymbol="VPRT" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001385611" 
+ rptOwnerName="Cebula Wendy M" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="LEXINGTON" rptOwnerState="MA" rptOwnerStreet1="VISTAPRINT," rptOwnerStreet2="95 HAYDEN AVENUE" rptOwnerZipCode="02421">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="1" 
+ isTenPercentOwner="0" 
+ isOther="1" 
+ officerTitle="President, Vistaprint N.A." 
+ otherText="Member of Management Board" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Ordinary Shares" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="M" 
+ equitySwapInvolved="0" 
+<footnoteId id="F1" /> 
+</transactionCoding>
+<transactionTimeliness><value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="1500" 
+</transactionShares>
+<transactionPricePerShare value="23.31">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="24984" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Ordinary Shares" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="S" 
+ equitySwapInvolved="0" 
+<footnoteId id="F1" /> 
+</transactionCoding>
+<transactionTimeliness><value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="1500" 
+</transactionShares>
+<transactionPricePerShare value="40.056">
+<footnoteId id="F2" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="D" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="23484" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<derivativeTable><derivativeTransaction><securityTitle> value="Share Option (right to buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="23.31">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="M" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="1500" 
+</transactionShares>
+<transactionPricePerShare value="0.00">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate> value="2007-08-01" 
+</exerciseDate>
+<expirationDate value="2016-08-04">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Ordinary Shares" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="1500">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="12500" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="The transactions reported on this Form 4 were effected pursuant to a 10b5-1 trading plan adopted by the reporting person on February 18, 2010." /> 
+ <footnote id="F2" text="The price range for sales of these shares was between $40.00 and $40.23 per share.  Upon appropriate request, the reporting person will provide full information regarding the number of shares sold at each separate price." /> 
+</footnotes>
+<remarks />
+<ownerSignature> signatureName="/s/Kathryn L. Leach, as attorney-in-fact for Wendy M. Cebula" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

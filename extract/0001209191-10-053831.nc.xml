@@ -1,0 +1,342 @@
+<Source file="./0001209191-10-053831.nc">
+<SUBMISSION ACCESSION-NUMBER="0001209191-10-053831" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101108" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><ISSUER><COMPANY-DATA ASSIGNED-SIC="8050" CIK="0001332349" CONFORMED-NAME="Brookdale Senior Living Inc." FISCAL-YEAR-END="1231" IRS-NUMBER="203068069" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="BRENTWOOD" PHONE="(615) 221-2250" STATE="TN" STREET1="111 WESTWOOD PLACE" STREET2="SUITE 400" ZIP="37027" /><MAIL-ADDRESS CITY="BRENTWOOD" STATE="TN" STREET1="111 WESTWOOD PLACE" STREET2="SUITE 400" ZIP="37027" /></ISSUER><REPORTING-OWNER><OWNER-DATA CIK="0001245521" CONFORMED-NAME="FIG LLC" FISCAL-YEAR-END="1231" STATE-OF-INCORPORATION="DE" /><FILING-VALUES ACT="34" FILE-NUMBER="001-32641" FILM-NUMBER="101174114" FORM-TYPE="4" /><BUSINESS-ADDRESS CITY="NEW YORK" PHONE="212-798-6100" STATE="NY" STREET1="1345 AVENUE OF THE AMERICAS" STREET2="46 FLOOR" ZIP="10105" /><MAIL-ADDRESS CITY="NEW YORK" STATE="NY" STREET1="1345 AVENUE OF THE AMERICAS" STREET2="46 FLOOR" ZIP="10105" /><FORMER-NAME DATE-CHANGED="20030621" FORMER-CONFORMED-NAME="FORTRESS INVESTMENT GROUP LLC" /></REPORTING-OWNER><REPORTING-OWNER><OWNER-DATA CIK="0001328139" CONFORMED-NAME="FORTRESS FUND MM II LLC" FISCAL-YEAR-END="1231" STATE-OF-INCORPORATION="DE" /><FILING-VALUES ACT="34" FILE-NUMBER="001-32641" FILM-NUMBER="101174111" FORM-TYPE="4" /><BUSINESS-ADDRESS CITY="NEW YORK" PHONE="212-798-6100" STATE="NY" STREET1="1345 AVENUE OF THE AMERICAS" STREET2="46 FLOOR" ZIP="10105" /><MAIL-ADDRESS CITY="NEW YORK" STATE="NY" STREET1="1345 AVENUE OF THE AMERICAS" STREET2="46 FLOOR" ZIP="10105" /></REPORTING-OWNER><REPORTING-OWNER><OWNER-DATA ASSIGNED-SIC="6282" CIK="0001380393" CONFORMED-NAME="Fortress Investment Group LLC" FISCAL-YEAR-END="1231" STATE-OF-INCORPORATION="DE" /><FILING-VALUES ACT="34" FILE-NUMBER="001-32641" FILM-NUMBER="101174115" FORM-TYPE="4" /><BUSINESS-ADDRESS CITY="NEW YORK" PHONE="212-798-6100" STATE="NY" STREET1="1345 AVENUE OF THE AMERICAS" STREET2="46TH FLOOR" ZIP="10105" /><MAIL-ADDRESS CITY="NEW YORK" STATE="NY" STREET1="1345 AVENUE OF THE AMERICAS" STREET2="46TH FLOOR" ZIP="10105" /><FORMER-NAME DATE-CHANGED="20061107" FORMER-CONFORMED-NAME="Fortress Investment Group Holdings LLC" /></REPORTING-OWNER><REPORTING-OWNER><OWNER-DATA CIK="0001387344" CONFORMED-NAME="Fortress Operating Entity I LP" STATE-OF-INCORPORATION="DE" /><FILING-VALUES ACT="34" FILE-NUMBER="001-32641" FILM-NUMBER="101174112" FORM-TYPE="4" /><BUSINESS-ADDRESS CITY="NEW YORK" PHONE="212-798-6110" STATE="NY" STREET1="1345 AVENUE OF THE AMERICAS" ZIP="10105" /><MAIL-ADDRESS CITY="NEW YORK" STATE="NY" STREET1="1345 AVENUE OF THE AMERICAS" ZIP="10105" /></REPORTING-OWNER><REPORTING-OWNER><OWNER-DATA CIK="0001387345" CONFORMED-NAME="FIG Corp." /><FILING-VALUES ACT="34" FILE-NUMBER="001-32641" FILM-NUMBER="101174113" FORM-TYPE="4" /><BUSINESS-ADDRESS CITY="NEW YORK" PHONE="212-798-6110" STATE="NY" STREET1="1345 AVENUE OF THE AMERICAS" ZIP="10105" /><MAIL-ADDRESS CITY="NEW YORK" STATE="NY" STREET1="1345 AVENUE OF THE AMERICAS" ZIP="10105" /></REPORTING-OWNER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-08" schemaVersion="X0303">
+<issuer> issuerCik="0001332349" 
+ issuerName="Brookdale Senior Living Inc." 
+ issuerTradingSymbol="BKD" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001380393" 
+ rptOwnerName="Fortress Investment Group LLC" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="NEW YORK" rptOwnerState="NY" rptOwnerStreet1="1345 AVENUE OF THE AMERICAS, 46TH FLOOR" rptOwnerStreet2="" rptOwnerZipCode="10105" />
+
+
+<reportingOwnerRelationship isDirector="0" isOfficer="0" isOther="0" isTenPercentOwner="1">
+</reportingOwnerRelationship>
+</reportingOwner>
+<reportingOwner><reportingOwnerId> rptOwnerCik="0001245521" 
+ rptOwnerName="FIG LLC" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="NEW YORK" rptOwnerState="NY" rptOwnerStreet1="1345 AVENUE OF THE AMERICAS, 46TH FLOOR" rptOwnerStreet2="" rptOwnerZipCode="10105" />
+
+
+<reportingOwnerRelationship isDirector="0" isOfficer="0" isOther="0" isTenPercentOwner="1">
+</reportingOwnerRelationship>
+</reportingOwner>
+<reportingOwner><reportingOwnerId> rptOwnerCik="0001387345" 
+ rptOwnerName="FIG Corp." 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="NEW YORK" rptOwnerState="NY" rptOwnerStreet1="1345 AVENUE OF THE AMERICAS, 46TH FLOOR" rptOwnerStreet2="" rptOwnerZipCode="10105" />
+
+
+<reportingOwnerRelationship isDirector="0" isOfficer="0" isOther="0" isTenPercentOwner="1">
+</reportingOwnerRelationship>
+</reportingOwner>
+<reportingOwner><reportingOwnerId> rptOwnerCik="0001387344" 
+ rptOwnerName="Fortress Operating Entity I LP" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="NEW YORK" rptOwnerState="NY" rptOwnerStreet1="1345 AVENUE OF THE AMERICAS, 46TH FLOOR" rptOwnerStreet2="" rptOwnerZipCode="10105" />
+
+
+<reportingOwnerRelationship isDirector="0" isOfficer="0" isOther="0" isTenPercentOwner="1">
+</reportingOwnerRelationship>
+</reportingOwner>
+<reportingOwner><reportingOwnerId> rptOwnerCik="0001328139" 
+ rptOwnerName="FORTRESS FUND MM II LLC" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="NEW YORK" rptOwnerState="NY" rptOwnerStreet1="1345 AVENUE OF THE AMERICAS, 46TH FLOOR" rptOwnerStreet2="" rptOwnerZipCode="10105" />
+
+
+<reportingOwnerRelationship isDirector="0" isOfficer="0" isOther="0" isTenPercentOwner="1">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-08">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="S" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="9518178" 
+</transactionShares>
+<transactionPricePerShare value="18.76">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="0" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="Fort GB Holdings LLC">
+<footnoteId id="F1" /> 
+<footnoteId id="F2" />
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-08">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="S" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="542758" 
+</transactionShares>
+<transactionPricePerShare value="18.76">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="0" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="FABP (GAGACQ) LP">
+<footnoteId id="F1" /> 
+<footnoteId id="F2" />
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeHolding>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="3026435" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="Fortress Investment Fund IV (Fund A) L.P.">
+<footnoteId id="F1" /> 
+<footnoteId id="F3" />
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="1222077" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="Fortress Investment Fund IV (Fund B) L.P.">
+<footnoteId id="F1" /> 
+<footnoteId id="F3" />
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="289968" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="Fortress Investment Fund IV (Fund C) L.P.">
+<footnoteId id="F1" /> 
+<footnoteId id="F3" />
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="1810004" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="Fortress Investment Fund IV (Fund D) L.P.">
+<footnoteId id="F1" /> 
+<footnoteId id="F3" />
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="211916" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="Fortress Investment Fund IV (Fund E) L.P.">
+<footnoteId id="F1" /> 
+<footnoteId id="F3" />
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="95084" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="Fortress Investment Fund IV (Fund F) L.P.">
+<footnoteId id="F1" /> 
+<footnoteId id="F3" />
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="114081" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="Fortress Investment Fund IV (Fund G) L.P.">
+<footnoteId id="F1" /> 
+<footnoteId id="F3" />
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="790673" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="Fortress Investment Fund IV (Coinvestment Fund A) L.P.">
+<footnoteId id="F1" /> 
+<footnoteId id="F3" />
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="492823" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="Fortress Investment Fund IV (Coinvestment Fund B) L.P.">
+<footnoteId id="F1" /> 
+<footnoteId id="F3" />
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="98164" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="Fortress Investment Fund IV (Coinvestment Fund C) L.P.">
+<footnoteId id="F1" /> 
+<footnoteId id="F3" />
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="473183" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="Fortress Investment Fund IV (Coinvestment Fund D) L.P.">
+<footnoteId id="F1" /> 
+<footnoteId id="F3" />
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="40635" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="Fortress Investment Fund IV (Coinvestment Fund F) L.P.">
+<footnoteId id="F1" /> 
+<footnoteId id="F3" />
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="135391" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="Fortress Investment Fund IV (Coinvestment Fund G) L.P.">
+<footnoteId id="F1" /> 
+<footnoteId id="F3" />
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="8793392" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="Fortress RIC Coinvestment Fund LP">
+<footnoteId id="F1" /> 
+<footnoteId id="F4" />
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+</nonDerivativeTable>
+<footnotes> <footnote id="F1" text="Each reporting person disclaims beneficial ownership of all reported shares except to the extent of its pecuniary interest therein and the inclusion of the shares in this report shall not be deemed to be an admission of beneficial ownership of the reported shares for purposes of Section 16 of the Securities Exchange Act of 1934, as amended, or otherwise." /> 
+ <footnote id="F2" text="Fort GB Holdings LLC is a wholly-owned subsidiary of Fortress (GAGACQ) LLC. Fortress Fund MM II LLC is the managing member of Fortress (GAGACQ) LLC and the general partner of FABP (GAGACQ) LP. FIG LLC is the sole managing member of Fortress Fund MM II LLC. Fortress Operating Entity I LP (FOE I) is the sole managing member of FIG LLC. FIG Corp. is the general partner of FOE I, and FIG Corp. is wholly-owned by Fortress Investment Group LLC (FIG)." /> 
+ <footnote id="F3" text="FIG LLC is the investment manager of Fortress Investment Fund IV (Fund A) L.P., Fortress Investment Fund IV (Fund B) L.P., Fortress Investment Fund IV (Fund C) L.P., Fortress Investment Fund IV (Fund D) L.P., Fortress Investment Fund IV (Fund E) L.P., Fortress Investment Fund IV (Fund F) L.P., Fortress Investment Fund IV (Fund G) L.P., Fortress Investment Fund IV (Coinvestment Fund A) L.P., Fortress Investment Fund IV (Coinvestment Fund B) L.P., Fortress Investment Fund IV (Coinvestment Fund C) L.P., Fortress Investment Fund IV (Coinvestment Fund D) L.P., Fortress Investment Fund IV (Coinvestment Fund F) L.P., and Fortress Investment Fund IV (Coinvestment Fund G) L.P. FOE I is the sole managing member of FIG LLC. FIG Corp. is the general partner of FOE I, and FIG Corp. is wholly-owned by FIG." /> 
+ <footnote id="F4" text="FIG LLC is the investment manager of Fortress RIC Coinvestment Fund LP.  FOE I is the sole managing member of FIG LLC.  FIG Corp. is the general partner of FOE I, and FIG Corp. is wholly-owned by FIG." /> 
+</footnotes>
+<remarks />
+<ownerSignature> signatureName="/s/ David Brooks, as Authorized Signatory of Fortress Investment Group LLC" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+<ownerSignature signatureDate="2010-11-08" signatureName="/s/ David Brooks, as Secretary of FIG LLC">
+</ownerSignature>
+<ownerSignature signatureDate="2010-11-08" signatureName="/s/ David Brooks, as Secretary of FIG Corp.">
+</ownerSignature>
+<ownerSignature signatureDate="2010-11-08" signatureName="/s/ David Brooks, as Secretary of Fortress Operating Entity I LP">
+</ownerSignature>
+<ownerSignature signatureDate="2010-11-08" signatureName="/s/ David Brooks, as Vice President of Fortress Fund MM II LLC">
+</ownerSignature>
+</ownershipDocument></Source>

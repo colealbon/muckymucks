@@ -1,0 +1,143 @@
+<Source file="./0001181431-10-054110.nc">
+<SUBMISSION ACCESSION-NUMBER="0001181431-10-054110" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001488157" CONFORMED-NAME="Anand Kamal" /><FILING-VALUES ACT="34" FILE-NUMBER="001-34659" FILM-NUMBER="101173779" FORM-TYPE="4" /><MAIL-ADDRESS CITY="SUNNYVALE" STATE="CA" STREET1="894 ROSS DRIVE" ZIP="94089" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="3576" CIK="0001167294" CONFORMED-NAME="MERU NETWORKS INC" IRS-NUMBER="260049840" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="SUNNYVALE" PHONE="4083162379" STATE="CA" STREET1="894 ROSS DRIVE" ZIP="94089" /><MAIL-ADDRESS CITY="SUNNYVALE" STATE="CA" STREET1="894 ROSS DRIVE" ZIP="94089" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0001167294" 
+ issuerName="MERU NETWORKS INC" 
+ issuerTradingSymbol="MERU" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001488157" 
+ rptOwnerName="Anand Kamal" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="SUNNYVALE" rptOwnerState="CA" rptOwnerStreet1="894 ROSS DRIVE" rptOwnerStreet2="" rptOwnerZipCode="94089" />
+
+
+<reportingOwnerRelationship isDirector="0" isOfficer="1" isOther="0" isTenPercentOwner="0" officerTitle="SVP of Corp Dev &amp; Strategy">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="2769" 
+</transactionShares>
+<transactionPricePerShare value="8.45">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="75936" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="2769" 
+</transactionShares>
+<transactionPricePerShare value="16.25">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="73167" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="17231" 
+</transactionShares>
+<transactionPricePerShare value="16.25">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="55936" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="10000" 
+</transactionShares>
+<transactionPricePerShare value="17.00">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="45936" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<derivativeTable><derivativeTransaction><securityTitle> value="Employee Stock Option (right to buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="8.45">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="2769" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate><footnoteId id="F1" /> 
+</exerciseDate>
+<expirationDate> value="2014-01-28" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="2769">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="0" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="The option, representing a right to purchase a total of 2,769 shares, became exerciseable in 48 equal monthly installments beginning on 1/1/04." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="/s/ Richard Mosher, Attorney-in-Fact">
+</ownerSignature>
+</ownershipDocument></Source>

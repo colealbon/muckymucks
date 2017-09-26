@@ -1,0 +1,57 @@
+<Source file="./0001104659-10-057019.nc">
+<SUBMISSION ACCESSION-NUMBER="0001104659-10-057019" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001505251" CONFORMED-NAME="Gilbert Gerald M." /><FILING-VALUES ACT="34" FILE-NUMBER="001-33460" FILM-NUMBER="101174133" FORM-TYPE="4" /><MAIL-ADDRESS CITY="HOUSTON" STATE="TX" STREET1="1500 CITYWEST BLVD." STREET2="SUITE 800" ZIP="77042" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="1311" CIK="0000314606" CONFORMED-NAME="GEOKINETICS INC" FISCAL-YEAR-END="1231" IRS-NUMBER="941690082" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="HOUSTON" PHONE="(713) 850-7600" STATE="TX" STREET1="1500 CITYWEST BLVD., SUITE 800" ZIP="77042" /><MAIL-ADDRESS CITY="HOUSTON" STATE="TX" STREET1="P.O. BOX 421129" ZIP="77242" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0000314606" 
+ issuerName="GEOKINETICS INC" 
+ issuerTradingSymbol="GOK" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001505251" 
+ rptOwnerName="Gilbert Gerald M." 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="HOUSTON" rptOwnerState="TX" rptOwnerStreet1="1500 CITYWEST BLVD., SUITE 800" rptOwnerStreet2="" rptOwnerZipCode="77042" />
+
+
+<reportingOwnerRelationship isDirector="0" isOfficer="1" isOther="0" isTenPercentOwner="0" officerTitle="Senior Vice President">
+</reportingOwnerRelationship>
+</reportingOwner>
+<derivativeTable><derivativeTransaction><securityTitle> value="Employee Stock Options" 
+</securityTitle>
+<conversionOrExercisePrice value="6.60">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="A" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="30000" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate><footnoteId id="F1" /> 
+</exerciseDate>
+<expirationDate> value="2016-11-15" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="30000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="30000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="The options become exercisable as to 10,000 shares on November 15, 2011, 10,000 shares on November 15, 2012 and 10,000 shares on November 15, 2013." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="/s/ Gerald M. Gilbert">
+</ownerSignature>
+</ownershipDocument></Source>

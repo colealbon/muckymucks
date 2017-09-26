@@ -1,0 +1,105 @@
+<Source file="./0001181431-10-054116.nc">
+<SUBMISSION ACCESSION-NUMBER="0001181431-10-054116" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101103" PUBLIC-DOCUMENT-COUNT="1" TYPE="4/A"><REPORTING-OWNER><OWNER-DATA CIK="0001295890" CONFORMED-NAME="GODINHO NORMAN" /><FILING-VALUES ACT="34" FILE-NUMBER="000-50838" FILM-NUMBER="101173810" FORM-TYPE="4/A" /><MAIL-ADDRESS CITY="LOS ALTOS HILLS" STATE="CA" STREET1="12250 MENALTO DRIVE" ZIP="94022" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="3674" CIK="0001135711" CONFORMED-NAME="NETLOGIC MICROSYSTEMS INC" FISCAL-YEAR-END="1231" IRS-NUMBER="770455244" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="MOUNTAIN VIEW" PHONE="6509616676" STATE="CA" STREET1="1875 CHARLESTON ROAD" ZIP="94043" /><MAIL-ADDRESS CITY="MOUTAIN VIEW" STATE="CA" STREET1="1875 CHARLESTON ROAD" ZIP="94043" /></ISSUER></SUBMISSION><ownershipDocument dateOfOriginalSubmission="2010-11-05" documentType="4/A" notSubjectToSection16="0" periodOfReport="2010-11-03" schemaVersion="X0303">
+<issuer> issuerCik="0001135711" 
+ issuerName="NETLOGIC MICROSYSTEMS INC" 
+ issuerTradingSymbol="NETL" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001295890" 
+ rptOwnerName="GODINHO NORMAN" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="MOUNTAIN VIEW" rptOwnerState="CA" rptOwnerStreet1="1875 CHARLESTON RD." rptOwnerStreet2="" rptOwnerZipCode="94043" />
+
+
+<reportingOwnerRelationship isDirector="1" isOfficer="0" isOther="0" isTenPercentOwner="1">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-03">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+<footnoteId id="F3" /> 
+</transactionCoding>
+<transactionAmounts><transactionShares> value="150000" 
+</transactionShares>
+<transactionPricePerShare value="30.0158">
+<footnoteId id="F1" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="D" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="3368310" 
+<footnoteId id="F6" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="See footnote 2">
+<footnoteId id="F2" /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+<footnoteId id="F3" /> 
+</transactionCoding>
+<transactionAmounts><transactionShares> value="150000" 
+</transactionShares>
+<transactionPricePerShare value="31.0101">
+<footnoteId id="F4" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="D" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="3218310" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="See footnote 2">
+<footnoteId id="F2" /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+<footnoteId id="F3" /> 
+</transactionCoding>
+<transactionAmounts><transactionShares> value="115516" 
+</transactionShares>
+<transactionPricePerShare value="32.0076">
+<footnoteId id="F5" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="D" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="3102794" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="See footnote 2">
+<footnoteId id="F2" /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<footnotes>
+<footnote id="F1" text="The shares sold on this date were sold in multiple transactions. This price is the weighted average sales price per share of all shares sold on this date; the actual sale prices per share range from $30.00 to $30.12. The number of shares sold at each separate price will be provided upon request by the Securities and Exchange Commission, NetLogic Microsystems, or a security holder of NetLogic Microsystems." /> 
+ <footnote id="F2" text="Norman Godinho disclaims beneficial ownership of these securities except to the extent of his pecuniary interest therein. These shares are directly held by The Godinho Family Revocable Living Trust dated April 21, 1995. The inclusion of theses shares in this report shall not be deemed an admission of beneficial ownership of all of the reported shares for purposes of Section 16 of the Securities Exchange Act of 1934 or for any other purpose." /> 
+ <footnote id="F3" text="These sales was effected pursuant to Rule 10b5-1 trading plans adopted by the reporting person on August 25, 2010 and August 26, 2010." /> 
+ <footnote id="F4" text="The shares sold on this date were sold in multiple transactions. This price is the weighted average sales price per share of all shares sold on this date; the actual sale prices per share range from $31.00 to $31.10. The number of shares sold at each separate price will be provided upon request by the Securities and Exchange Commission, NetLogic Microsystems, or a security holder of NetLogic Microsystems." /> 
+ <footnote id="F5" text="The shares sold on this date were sold in multiple transactions. This price is the weighted average sales price per share of all shares sold on this date; the actual sale prices per share range from $32.00 to $32.191. The number of shares sold at each separate price will be provided upon request by the Securities and Exchange Commission, NetLogic Microsystems, or a security holder of NetLogic Microsystems." /> 
+ <footnote id="F6" text="The original filing on November 5, 2010 reported the incorrect number of shares owned by the Godinho Family Revocable Living Trust dated April 21, 1995, Norman Godinho Trustee. On February 16, 2010, NetLogic Microsystems Inc. declared a stock dividend, payable to all holders of record of common stock on March 5, 2010, of one share of common stock for each share of common stock outstanding. As a result, the Godinho Family Revocable Living Trust dated April 21, 1995 received 1,759,155 shares of common stock on March 19, 2010." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="/s/ Roland Cortes, by power of attorney">
+</ownerSignature>
+</ownershipDocument></Source>

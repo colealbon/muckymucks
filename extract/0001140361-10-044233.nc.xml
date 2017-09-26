@@ -1,0 +1,171 @@
+<Source file="./0001140361-10-044233.nc">
+<SUBMISSION ACCESSION-NUMBER="0001140361-10-044233" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20100308" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001423517" CONFORMED-NAME="DONENFELD ALAN P" /><FILING-VALUES ACT="34" FILE-NUMBER="000-32389" FILM-NUMBER="101173202" FORM-TYPE="4" /><MAIL-ADDRESS CITY="NEW YORK" STATE="NY" STREET1="C/O PARAGON CAPITAL LP" STREET2="110 EAST 59TH STREET, 29TH FL" ZIP="10022" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="6411" CIK="0001134982" CONFORMED-NAME="PREVENTION INSURANCE COM INC" FISCAL-YEAR-END="0430" IRS-NUMBER="880126444" /><BUSINESS-ADDRESS CITY="NEW YORK" PHONE="(212) 593-1600" STATE="NY" STREET1="PARAGON CAPITAL LP" STREET2="110 EAST 59TH STREET 29TH FL" ZIP="10022" /><MAIL-ADDRESS CITY="NEW YORK" STATE="NY" STREET1="PARAGON CAPITAL LP" STREET2="110 EAST 59TH STREET 29TH FL" ZIP="10022" /><FORMER-COMPANY DATE-CHANGED="20010214" FORMER-CONFORMED-NAME="PREVENTION INSURANCE COM" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="1" periodOfReport="2010-03-08" schemaVersion="X0303">
+<issuer> issuerCik="0001134982" 
+ issuerName="PREVENTION INSURANCE COM INC" 
+ issuerTradingSymbol="PVNC" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001423517" 
+ rptOwnerName="DONENFELD ALAN P" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="NEW YORK" rptOwnerState="NY" rptOwnerStreet1="C/O PARAGON CAPITAL LP" rptOwnerStreet2="110 EAST 59TH STREET, 29TH FL" rptOwnerZipCode="10022">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="1" 
+ isOfficer="1" 
+ isTenPercentOwner="1" 
+ isOther="0" 
+ officerTitle="President and Secretary" 
+<otherText /> 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable>
+<nonDerivativeHolding><securityTitle> value="Common Stock, par value $0.01 per share (the Common Stock)" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="246428571" 
+<footnoteId id="F1" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="By Limited Partnership">
+<footnoteId id="F2" /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+</nonDerivativeTable>
+<derivativeTable>
+<derivativeTransaction><securityTitle> value="Warrants" 
+</securityTitle>
+<conversionOrExercisePrice value="0.005">
+</conversionOrExercisePrice>
+<transactionDate value="2010-03-08">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="J" 
+ equitySwapInvolved="0" 
+<footnoteId id="F3" /> 
+</transactionCoding>
+<transactionAmounts><transactionShares> value="10000000" 
+</transactionShares>
+<transactionPricePerShare>
+<footnoteId id="F3" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="D" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate> value="2008-04-30" 
+</exerciseDate>
+<expirationDate value="2011-04-08">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="10000000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="135000000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="By Limited Partnership">
+<footnoteId id="F2" /> 
+</natureOfOwnership>
+</ownershipNature>
+</derivativeTransaction>
+<derivativeTransaction><securityTitle> value="Warrants" 
+</securityTitle>
+<conversionOrExercisePrice value="0.005">
+</conversionOrExercisePrice>
+<transactionDate value="2010-06-04">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="J" 
+ equitySwapInvolved="0" 
+<footnoteId id="F4" /> 
+</transactionCoding>
+<transactionAmounts><transactionShares> value="20000000" 
+</transactionShares>
+<transactionPricePerShare value="20000">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate> value="2010-06-04" 
+</exerciseDate>
+<expirationDate value="2013-06-04">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="20000000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="155000000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="By Limited Partnership">
+<footnoteId id="F2" /> 
+</natureOfOwnership>
+</ownershipNature>
+</derivativeTransaction>
+<derivativeTransaction><securityTitle> value="Warrants" 
+</securityTitle>
+<conversionOrExercisePrice value="0.005">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="J" 
+ equitySwapInvolved="0" 
+<footnoteId id="F5" /> 
+</transactionCoding>
+<transactionAmounts><transactionShares> value="20000000" 
+</transactionShares>
+<transactionPricePerShare value="20000">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate> value="2010-11-04" 
+</exerciseDate>
+<expirationDate value="2013-11-04">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="20000000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="175000000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="By Limited Partnership">
+<footnoteId id="F2" /> 
+</natureOfOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<footnotes>
+<footnote id="F1" text="Represents the shares of common stock, par value $.01 (the Common Stock) of the Issuer beneficially owned by the Reporting Person as of the date of this filing and includes an aggregate of 71,428,571 shares of common stock, par value $0.01 (the Common Stock) of the Issuer and warrants to purchase up to an aggregate of 175,000,000 shares of Common Stock of the Issuer owned of record by Paragon Capital LP (Paragon)." /> 
+ <footnote id="F2" text="The securities of the Issuer that are the subject of this report are owned of record by Paragon. The Reporting Person is the Managing Member of Paragon Capital Advisors LLC which is the General Partner of Paragon and therefore may be deemed to beneficially own the securities owned of record by Paragon." /> 
+ <footnote id="F3" text="Pursuant to an agreement, dated March 8, 2010 by and between the Issuer and a third party, Paragon transferred ownership of a Warrant to purchase 10,000,000 shares of the Common Stock of the Company, to a third party." /> 
+ <footnote id="F4" text="Pursuant to a Securities Purchase Agreement, dated June 4, 2010, in exchange for an advance to the Company for an aggregate amount equal to $20,000, the Company issued to Paragon a warrant to purchase up to an aggregate of 20,000,000 shares of Common Stock at an exercise price of $0.005 per share. The warrant is exercisable from the date of issuance until three years from the date of the closing of the transaction." /> 
+ <footnote id="F5" text="On November 4, 2010, Paragon purchased a warrant  to purchase up to 20,000,000 shares of Common Stock of the Issuer for an aggregate purchase price equal to $20,000.   The warrant is exercisable for a period of three years from the date of the issuance at an exercise price equal to $0.005 per share.  The Reporting Person is the Managing Member of Paragon Capital Advisors LLC which is the General Partner of Paragon and therefore may be deemed to beneficially own the securities owned of record by Paragon." /> 
+</footnotes>
+<remarks />
+<ownerSignature> signatureName="/s/ Alan P. Donenfeld" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

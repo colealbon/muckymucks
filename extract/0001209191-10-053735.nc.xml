@@ -1,0 +1,123 @@
+<Source file="./0001209191-10-053735.nc">
+<SUBMISSION ACCESSION-NUMBER="0001209191-10-053735" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101102" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001439933" CONFORMED-NAME="Persaud Krishna" /><FILING-VALUES ACT="34" FILE-NUMBER="001-34126" FILM-NUMBER="101173330" FORM-TYPE="4" /><MAIL-ADDRESS CITY="BOCA RATON" STATE="FL" STREET1="11767 BAYFIELD DRIVE" ZIP="33498" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="6331" CIK="0001400810" CONFORMED-NAME="Homeowners Choice, Inc." FISCAL-YEAR-END="1231" IRS-NUMBER="000000000" STATE-OF-INCORPORATION="FL" /><BUSINESS-ADDRESS CITY="CLEARWATER" PHONE="727-213-3600" STATE="FL" STREET1="2340 DREW STREET" STREET2="SUITE 200" ZIP="33765" /><MAIL-ADDRESS CITY="CLEARWATER" STATE="FL" STREET1="2340 DREW STREET" STREET2="SUITE 200" ZIP="33765" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-02" schemaVersion="X0303">
+<issuer> issuerCik="0001400810" 
+ issuerName="Homeowners Choice, Inc." 
+ issuerTradingSymbol="HCII" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001439933" 
+ rptOwnerName="Persaud Krishna" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="CLEARWATER" rptOwnerState="FL" rptOwnerStreet1="2340 DREW STREET" rptOwnerStreet2="SUITE 200" rptOwnerZipCode="33765">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="1" 
+ isOfficer="0" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeHolding><securityTitle> value="Common stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="120000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="By Homeowners Choice Holdings, LLC">
+<footnoteId id="F1" /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding><securityTitle> value="Common stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="80000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="By Pershing, LLC FBO Krishna Persaud Roth IRA">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeTransaction>
+<securityTitle> value="Common stock" 
+</securityTitle>
+<transactionDate value="2010-11-02">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="M" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="30000" 
+</transactionShares>
+<transactionPricePerShare value="2.50">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="30000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<derivativeTable><derivativeTransaction><securityTitle> value="Stock Option (Right to Buy)" 
+<footnoteId id="F2" /> 
+</securityTitle>
+<conversionOrExercisePrice> value="2.50" 
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-02">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="M" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="30000" 
+</transactionShares>
+<transactionPricePerShare value="2.50">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate> value="2010-05-31" 
+<footnoteId id="F3" /> 
+</exerciseDate>
+<expirationDate> value="2017-05-31" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="30000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="0" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="The reporting person holds voting and investment power of the remaining 120,000 shares, which are held by Homeowners Choice Holdings, LLC.  Prior to the sale on January 20, 2010 of 200,000 shares, the reporting person held the voting and investment power of the 320,000 shares originally reported on Form 3 as held by Windsor Related Holdings, LLC.  The reporting person subsequently transferred the 320,000 shares to Homeowners Choice Holdings, LLC." /> 
+ <footnote id="F2" text="The options were granted pursuant to the Homeowners Choice, Inc. 2007 Stock Option and Incentive Plan." /> 
+ <footnote id="F3" text="Commencing on May 1, 2008 and continuing on the same day of each calendar year thereafter through and including May 1, 2010, 10,000 options vested and become exercisable on each such annual vesting date." /> 
+</footnotes>
+<remarks />
+<ownerSignature> signatureName="/s/ Cathy J. Welch as Attorney-in-fact for Krishna Persaud" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

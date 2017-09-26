@@ -1,0 +1,50 @@
+<Source file="./0001179110-10-015717.nc">
+<SUBMISSION ACCESSION-NUMBER="0001179110-10-015717" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101105" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001300031" CONFORMED-NAME="Allen Charles" /><FILING-VALUES ACT="34" FILE-NUMBER="001-32269" FILM-NUMBER="101172231" FORM-TYPE="4" /><MAIL-ADDRESS CITY="SALT LAKE CITY" STATE="UT" STREET1="2795 EAST COTTONWOOD PARKWAY, SUITE 400" ZIP="84121" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="6798" CIK="0001289490" CONFORMED-NAME="Extra Space Storage Inc." FISCAL-YEAR-END="1231" IRS-NUMBER="201076777" STATE-OF-INCORPORATION="MD" /><BUSINESS-ADDRESS CITY="SALT LAKE CITY" PHONE="801-562-5556" STATE="UT" STREET1="2795 COTTONWOOD PARKWAY, SUITE 400" ZIP="84121" /><MAIL-ADDRESS CITY="SALT LAKE CITY" STATE="UT" STREET1="2795 COTTONWOOD PARKWAY, SUITE 400" ZIP="84121" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-05" schemaVersion="X0303">
+<issuer> issuerCik="0001289490" 
+ issuerName="Extra Space Storage Inc." 
+ issuerTradingSymbol="EXR" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001300031" 
+ rptOwnerName="Allen Charles" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="SALT LAKE CITY" rptOwnerState="UT" rptOwnerStreet1="2795 EAST COTTONWOOD PARKWAY" rptOwnerStreet2="SUITE 400" rptOwnerZipCode="84121">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="1" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+ officerTitle="Executiv VP &amp; CLO" 
+<otherText /> 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable>
+<nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="G" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="6000" 
+</transactionShares>
+<transactionPricePerShare value="17.32">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="186975" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<derivativeTable /> 
+<ownerSignature> signatureName="Charles L. Allen" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

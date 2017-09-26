@@ -1,0 +1,119 @@
+<Source file="./0000919574-10-006167.nc">
+<SUBMISSION ACCESSION-NUMBER="0000919574-10-006167" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001214344" CONFORMED-NAME="BERKOWITZ BRUCE R" /><FILING-VALUES ACT="34" FILE-NUMBER="001-10466" FILM-NUMBER="101172533" FORM-TYPE="4" /><MAIL-ADDRESS CITY="MIAMI" STATE="FL" STREET1="C/O FAIRHOLME CAPITAL MANAGEMENT, L.L.C." STREET2="4400 BISCAYNE BOULEVARD, 9TH FLOOR" ZIP="33137" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="6552" CIK="0000745308" CONFORMED-NAME="ST JOE CO" FISCAL-YEAR-END="1231" IRS-NUMBER="590432511" STATE-OF-INCORPORATION="FL" /><BUSINESS-ADDRESS CITY="WATERSOUND" PHONE="850-231-6482" STATE="FL" STREET1="133 SOUTH WATERSOUND PARKWAY" ZIP="32413" /><MAIL-ADDRESS CITY="WATERSOUND" STATE="FL" STREET1="133 SOUTH WATERSOUND PARKWAY" ZIP="32413" /><FORMER-COMPANY DATE-CHANGED="19980430" FORMER-CONFORMED-NAME="ST JOE CORP" /><FORMER-COMPANY DATE-CHANGED="19920703" FORMER-CONFORMED-NAME="ST JOE PAPER CO" /></ISSUER><REPORTING-OWNER><OWNER-DATA CIK="0001056831" CONFORMED-NAME="FAIRHOLME CAPITAL MANAGEMENT LLC" FISCAL-YEAR-END="1231" STATE-OF-INCORPORATION="DE" /><FILING-VALUES ACT="34" FILE-NUMBER="001-10466" FILM-NUMBER="101172535" FORM-TYPE="4" /><BUSINESS-ADDRESS CITY="MIAMI" PHONE="305-358-3000" STATE="FL" STREET1="4400 BISCAYNE BOULEVARD" STREET2="9TH FLOOR" ZIP="33137" /><MAIL-ADDRESS CITY="MIAMI" STATE="FL" STREET1="4400 BISCAYNE BOULEVARD" STREET2="9TH FLOOR" ZIP="33137" /></REPORTING-OWNER><REPORTING-OWNER><OWNER-DATA CIK="0001096344" CONFORMED-NAME="FAIRHOLME FUNDS INC" FISCAL-YEAR-END="1130" STATE-OF-INCORPORATION="MD" /><FILING-VALUES ACT="34" FILE-NUMBER="001-10466" FILM-NUMBER="101172534" FORM-TYPE="4" /><BUSINESS-ADDRESS CITY="MIAMI" PHONE="305-358-3000" STATE="FL" STREET1="4400 BISCAYNE BOULEVARD" STREET2="9TH FLOOR" ZIP="33137" /><MAIL-ADDRESS CITY="MIAMI" STATE="FL" STREET1="4400 BISCAYNE BOULEVARD" STREET2="9TH FLOOR" ZIP="33137" /><FORMER-NAME DATE-CHANGED="19991005" FORMER-CONFORMED-NAME="FAIRHOLMES FUNDS INC" /></REPORTING-OWNER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0000745308" 
+ issuerName="ST JOE CO" 
+ issuerTradingSymbol="JOE" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001056831" 
+ rptOwnerName="FAIRHOLME CAPITAL MANAGEMENT LLC" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="MIAMI" rptOwnerState="FL" rptOwnerStreet1="4400 BISCAYNE BOULEVARD" rptOwnerStreet2="9TH FLOOR" rptOwnerZipCode="33137">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="0" 
+ isTenPercentOwner="1" 
+ isOther="0" 
+<officerTitle /> 
+<otherText />
+</reportingOwnerRelationship>
+</reportingOwner>
+<reportingOwner><reportingOwnerId> rptOwnerCik="0001096344" 
+ rptOwnerName="FAIRHOLME FUNDS INC" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="MIAMI" rptOwnerState="FL" rptOwnerStreet1="C/O FAIRHOLME CAPITAL MANAGEMENT, L.L.C." rptOwnerStreet2="4400 BISCAYNE BOULEVARD, 9TH FLOOR" rptOwnerZipCode="33137">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="0" 
+ isTenPercentOwner="1" 
+ isOther="0" 
+<officerTitle /> 
+<otherText />
+</reportingOwnerRelationship>
+</reportingOwner>
+<reportingOwner><reportingOwnerId> rptOwnerCik="0001214344" 
+ rptOwnerName="BERKOWITZ BRUCE R" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="MIAMI" rptOwnerState="FL" rptOwnerStreet1="C/O FAIRHOLME CAPITAL MANAGEMENT, L.L.C." rptOwnerStreet2="4400 BISCAYNE BOULEVARD, 9TH FLOOR" rptOwnerZipCode="33137">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="0" 
+ isTenPercentOwner="1" 
+ isOther="0" 
+<officerTitle /> 
+<otherText />
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="J" 
+ equitySwapInvolved="0" 
+<footnoteId id="F1" /> 
+</transactionCoding>
+<transactionTimeliness /> 
+<transactionAmounts>
+<transactionShares> value="4100" 
+</transactionShares>
+<transactionPricePerShare value="19.99">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="26887720" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="See Footnote">
+<footnoteId id="F2" /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeHolding><securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="23136502" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+<footnoteId id="F3" /> 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding><securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="23136502" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="See Footnote">
+<footnoteId id="F4" /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+</nonDerivativeTable>
+<footnotes>
+<footnote id="F1" text="The securities were held in an account managed by Fairholme Capital Management, L.L.C. (Fairholme) and were sold pursuant to an investment management agreement that was terminated. Accordingly, Fairholme and Mr. Berkowitz are no longer deemed to be the beneficial owners of such securities." /> 
+ <footnote id="F2" text="The reported securities are directly owned by managed accounts advised by Fairholme. The securities may be deemed to be beneficially owned by Fairholme, as the investment manager of such managed accounts, and by Bruce R. Berkowitz (Mr. Berkowitz) as the managing member of Fairholme. The Reporting Persons disclaim beneficial ownership in the securities reported on this Form 4 except to the extent of his or its pecuniary interest, if any, therein, and this report shall not be deemed to be an admission that the Reporting Persons are the beneficial owners of such securities for purposes of Section 16 of the Securities Exchange Act of 1934, as amended, or for any other purpose." /> 
+ <footnote id="F3" text="These securities are directly owned by The Fairholme Fund, a series of Fairholme Funds, Inc. (the Fund), which is a Reporting Person." /> 
+ <footnote id="F4" text="The reported securities are directly owned by the Fund. The securities may be deemed to be beneficially owned by Fairholme, as the investment manager of the Fund, and by Mr. Berkowitz as the managing member of Fairholme. The Reporting Persons disclaim beneficial ownership in the securities reported on this Form 4 except to the extent of his or its pecuniary interest, if any, therein, and this report shall not be deemed to be an admission that the Reporting Persons are the beneficial owners of such securities for purposes of Section 16 of the Securities Exchange Act of 1934, as amended, or for any other purpose." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="Fairholme Capital Management, L.L.C., By: /s/ Bruce R. Berkowitz">
+</ownerSignature>
+<ownerSignature signatureDate="2010-11-08" signatureName="Fairholme Funds, Inc., By: Fairholme Capital Management, L.L.C., Investment Manager, By: /s/ Bruce R. Berkowitz">
+</ownerSignature>
+<ownerSignature signatureDate="2010-11-08" signatureName="/s/ Bruce R. Berkowitz">
+</ownerSignature>
+</ownershipDocument></Source>

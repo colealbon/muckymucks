@@ -1,0 +1,171 @@
+<Source file="./0001140361-10-044220.nc">
+<SUBMISSION ACCESSION-NUMBER="0001140361-10-044220" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20071231" PUBLIC-DOCUMENT-COUNT="1" TYPE="3"><ISSUER><COMPANY-DATA ASSIGNED-SIC="6411" CIK="0001134982" CONFORMED-NAME="PREVENTION INSURANCE COM INC" FISCAL-YEAR-END="0430" IRS-NUMBER="880126444" /><BUSINESS-ADDRESS CITY="NEW YORK" PHONE="(212) 593-1600" STATE="NY" STREET1="PARAGON CAPITAL LP" STREET2="110 EAST 59TH STREET 29TH FL" ZIP="10022" /><MAIL-ADDRESS CITY="NEW YORK" STATE="NY" STREET1="PARAGON CAPITAL LP" STREET2="110 EAST 59TH STREET 29TH FL" ZIP="10022" /><FORMER-COMPANY DATE-CHANGED="20010214" FORMER-CONFORMED-NAME="PREVENTION INSURANCE COM" /></ISSUER><REPORTING-OWNER><OWNER-DATA CIK="0001356340" CONFORMED-NAME="PARAGON CAPITAL LP" FISCAL-YEAR-END="1231" STATE-OF-INCORPORATION="DE" /><FILING-VALUES ACT="34" FILE-NUMBER="000-32389" FILM-NUMBER="101173098" FORM-TYPE="3" /><BUSINESS-ADDRESS CITY="NEW YORK" PHONE="212-593-3157" STATE="NY" STREET1="110 EAST 59TH ST 29TH FL" ZIP="10022" /><MAIL-ADDRESS CITY="NEW YORK" STATE="NY" STREET1="110 EAST 59TH ST 29TH FL" ZIP="10022" /><FORMER-NAME DATE-CHANGED="20060315" FORMER-CONFORMED-NAME="PARAGON CAPITAL L P" /></REPORTING-OWNER></SUBMISSION><ownershipDocument documentType="3" noSecuritiesOwned="0" periodOfReport="2007-12-31" schemaVersion="X0203">
+<issuer> issuerCik="0001134982" 
+ issuerName="PREVENTION INSURANCE COM INC" 
+ issuerTradingSymbol="PVNC" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001356340" 
+ rptOwnerName="PARAGON CAPITAL LP" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="NEW YORK" rptOwnerState="NY" rptOwnerStreet1="110 EAST 59TH ST" rptOwnerStreet2="" rptOwnerZipCode="10022" />
+
+
+<reportingOwnerRelationship isDirector="0" isOfficer="0" isOther="0" isTenPercentOwner="1">
+<officerTitle /> 
+<otherText />
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeHolding><securityTitle> value="Common Stock, par value $.0001 per share(the Common Stock)" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="246428571" 
+<footnoteId id="F1" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+</nonDerivativeTable>
+<derivativeTable><derivativeHolding><securityTitle> value="Warrant" 
+</securityTitle>
+<conversionOrExercisePrice value=".01">
+</conversionOrExercisePrice>
+<exerciseDate value="2008-08-29">
+</exerciseDate>
+<expirationDate value="2011-08-29">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="20000000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Warrant" 
+</securityTitle>
+<conversionOrExercisePrice value=".005">
+</conversionOrExercisePrice>
+<exerciseDate value="2008-10-08">
+</exerciseDate>
+<expirationDate value="2011-10-08">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="10000000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Warrant" 
+</securityTitle>
+<conversionOrExercisePrice value=".005">
+</conversionOrExercisePrice>
+<exerciseDate value="2009-06-08">
+</exerciseDate>
+<expirationDate value="2011-06-08">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="15000000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Warrant" 
+</securityTitle>
+<conversionOrExercisePrice value=".005">
+</conversionOrExercisePrice>
+<exerciseDate value="2009-05-29">
+</exerciseDate>
+<expirationDate value="2012-05-29">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="15000000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Warrant" 
+</securityTitle>
+<conversionOrExercisePrice value=".005">
+</conversionOrExercisePrice>
+<exerciseDate value="2009-12-31">
+</exerciseDate>
+<expirationDate value="2012-12-31">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="75000000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Warrant" 
+</securityTitle>
+<conversionOrExercisePrice value=".005">
+</conversionOrExercisePrice>
+<exerciseDate value="2010-06-04">
+</exerciseDate>
+<expirationDate value="2013-06-04">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="20000000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Warrant" 
+</securityTitle>
+<conversionOrExercisePrice value=".005">
+</conversionOrExercisePrice>
+<exerciseDate value="2010-11-04">
+</exerciseDate>
+<expirationDate value="2013-11-04">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="20000000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="Represents 71,428,571 shares of Common Stock and warrants to purchase up to an aggregate of 175,000,000 shares of Common Stock owned of record by the Reporting Person and reported on Table II above." /> 
+</footnotes>
+<remarks />
+<ownerSignature> signatureName="/s/ Alan P. Donenfeld, as principal of the Reporting Person" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

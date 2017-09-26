@@ -1,0 +1,62 @@
+<Source file="./0001209191-10-053749.nc">
+<SUBMISSION ACCESSION-NUMBER="0001209191-10-053749" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20100105" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><ISSUER><COMPANY-DATA ASSIGNED-SIC="3674" CIK="0001175609" CONFORMED-NAME="CAVIUM NETWORKS, INC." IRS-NUMBER="770558625" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="MOUNTAIN VIEW" PHONE="650-623-7000" STATE="CA" STREET1="805 EAST MIDDLEFIELD ROAD" ZIP="94043" /><MAIL-ADDRESS CITY="MOUNTAIN VIEW" STATE="CA" STREET1="805 EAST MIDDLEFIELD ROAD" ZIP="94043" /><FORMER-COMPANY DATE-CHANGED="20020614" FORMER-CONFORMED-NAME="CAVIUM NETWORKS" /></ISSUER><REPORTING-OWNER><OWNER-DATA CIK="0001217917" CONFORMED-NAME="CHELLAM KRIS" /><FILING-VALUES ACT="34" FILE-NUMBER="001-33435" FILM-NUMBER="101173671" FORM-TYPE="4" /><MAIL-ADDRESS CITY="SAN JOSE" STATE="CA" STREET1="2100 LOGIC DR" ZIP="95124" /></REPORTING-OWNER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-01-05" schemaVersion="X0303">
+<issuer> issuerCik="0001175609" 
+ issuerName="CAVIUM NETWORKS, INC." 
+ issuerTradingSymbol="CAVM" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001217917" 
+ rptOwnerName="CHELLAM KRIS" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="MOUNTAIN VIEW" rptOwnerState="CA" rptOwnerStreet1="C/O CAVIUM NETWORKS, INC." rptOwnerStreet2="805 E. MIDDLEFIELD ROAD" rptOwnerZipCode="94043">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="1" 
+ isOfficer="0" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="S" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="15000" 
+</transactionShares>
+<transactionPricePerShare value="34.67">
+<footnoteId id="F1" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="D" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="60000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+<footnoteId id="F2" /> 
+</directOrIndirectOwnership>
+<natureOfOwnership> value="See footnote" 
+<footnoteId id="F3" /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<footnotes>
+<footnote id="F1" text="Shares were sold ranging from $34.40 per share to $34.98 per share." /> 
+ <footnote id="F2" text="See footnote 3." /> 
+ <footnote id="F3" text="60,000 shares are owned by the trust. The reporting person is co-trustee and has shared voting power over the shares." /> 
+</footnotes>
+<remarks />
+<ownerSignature> signatureName="/s/ Arthur D. Chadwick with power of attorney" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

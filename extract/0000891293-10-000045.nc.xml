@@ -1,0 +1,48 @@
+<Source file="./0000891293-10-000045.nc">
+<SUBMISSION ACCESSION-NUMBER="0000891293-10-000045" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101105" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001382225" CONFORMED-NAME="Telling Fred" /><FILING-VALUES ACT="34" FILE-NUMBER="001-12465" FILM-NUMBER="101173849" FORM-TYPE="4" /><MAIL-ADDRESS CITY="SEATTLE" STATE="WA" STREET1="501 ELLIOTT AVE. W." STREET2="SUITE 400" ZIP="98119" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="2834" CIK="0000891293" CONFORMED-NAME="CELL THERAPEUTICS INC" FISCAL-YEAR-END="1231" IRS-NUMBER="911533912" STATE-OF-INCORPORATION="WA" /><BUSINESS-ADDRESS CITY="SEATTLE" PHONE="2062827100" STATE="WA" STREET1="501 ELLIOTT AVE W" STREET2="STE 400" ZIP="98119" /><MAIL-ADDRESS CITY="SEATTLE" STATE="WA" STREET1="501 ELLIOTT AVE W" STREET2="STE 400" ZIP="98119" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-05" schemaVersion="X0303">
+<issuer> issuerCik="0000891293" 
+ issuerName="CELL THERAPEUTICS INC" 
+ issuerTradingSymbol="CTIC" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001382225" 
+ rptOwnerName="Telling Fred" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="SEATTLE" rptOwnerState="WA" rptOwnerStreet1="501 ELLIOTT AVE. W." rptOwnerStreet2="SUITE 400" rptOwnerZipCode="98119">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="1" 
+ isOfficer="0" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="216016" 
+</transactionShares>
+<transactionPricePerShare value="0.39">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="1587907" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<ownerSignature> signatureName="Louis A. Bianco, Attorney-in-fact for Frederick W. Telling" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

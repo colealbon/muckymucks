@@ -1,0 +1,116 @@
+<Source file="./0001213913-10-000016.nc">
+<SUBMISSION ACCESSION-NUMBER="0001213913-10-000016" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001055610" CONFORMED-NAME="RAWSON RICHARD G" /><FILING-VALUES ACT="34" FILE-NUMBER="001-13998" FILM-NUMBER="101173675" FORM-TYPE="4" /><MAIL-ADDRESS CITY="KINGWOOD" STATE="TX" STREET1="C/O ADMINISTAFF" STREET2="19001 CRESCENT SPRINGS DR" ZIP="77339" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="7363" CIK="0001000753" CONFORMED-NAME="ADMINISTAFF INC \DE\" FISCAL-YEAR-END="1231" IRS-NUMBER="760479645" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="KINGWOOD" PHONE="7133588986" STATE="TX" STREET1="19001 CRESCENT SPRINGS DR" ZIP="77339" /><MAIL-ADDRESS CITY="KINGWOOD" STATE="TX" STREET1="19001 CRESCENT SPRINGS DR" ZIP="77339" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0001000753" 
+ issuerName="ADMINISTAFF INC \DE\" 
+ issuerTradingSymbol="ASF" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001055610" 
+ rptOwnerName="RAWSON RICHARD G" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="KINGWOOD" rptOwnerState="TX" rptOwnerStreet1="19001 CRESCENT SPRINGS DRIVE" rptOwnerStreet2="" rptOwnerZipCode="77339" />
+
+
+<reportingOwnerRelationship isDirector="1" isOfficer="1" isOther="0" isTenPercentOwner="0" officerTitle="President">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+<footnoteId id="F1" /> 
+</transactionCoding>
+<transactionAmounts><transactionShares> value="79094" 
+</transactionShares>
+<transactionPricePerShare value="28.62">
+<footnoteId id="F2" /> 
+<footnoteId id="F3" />
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="169988" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeHolding><securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="366102" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="Held by R &amp; D Rawson, LP">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="400266" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="Held by RDKB Rawson, LP">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="350" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="Held by Dawn M. Rawson, spouse">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="50" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="Held by Kimberly Rawson, daughter">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="50" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="Held by Barbie Rawson, daughter">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+</nonDerivativeTable>
+<footnotes> <footnote id="F1" text="The sales reported on this Form 4 were effected pursuant to a Rule 10b5-1 trading plan adopted by the reporting person on November 3, 2010." /> 
+ <footnote id="F2" text="Weighted average sales price.  Actual prices ranged from $28.18 to $28.78." /> 
+ <footnote id="F3" text="Full information regarding the number of shares sold at each separate price will be provided upon request to the SEC&apos;s staff, Administaff, Inc. or its stockholders." /> 
+</footnotes>
+<remarks />
+<ownerSignature> signatureName="Mark T. Troutman, by power of attorney" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

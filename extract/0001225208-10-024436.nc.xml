@@ -1,0 +1,60 @@
+<Source file="./0001225208-10-024436.nc">
+<SUBMISSION ACCESSION-NUMBER="0001225208-10-024436" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101105" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001301131" CONFORMED-NAME="Howell Henry W Jr" /><FILING-VALUES ACT="34" FILE-NUMBER="001-04858" FILM-NUMBER="101171746" FORM-TYPE="4" /><MAIL-ADDRESS CITY="NEW YORK" STATE="NY" STREET1="INTERNATIONAL FLAVORS &amp; FRAGRANCES INC" STREET2="521 WEST 57TH STREET" ZIP="10019" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="2860" CIK="0000051253" CONFORMED-NAME="INTERNATIONAL FLAVORS &amp; FRAGRANCES INC" FISCAL-YEAR-END="1231" IRS-NUMBER="131432060" STATE-OF-INCORPORATION="NY" /><BUSINESS-ADDRESS CITY="NEW YORK" PHONE="2127655500" STATE="NY" STREET1="521 W 57TH ST" ZIP="10019" /><MAIL-ADDRESS CITY="NEW YORK" STATE="NY" STREET1="521 W 57TH ST" ZIP="10019" /><FORMER-COMPANY DATE-CHANGED="19680426" FORMER-CONFORMED-NAME="VANAMERIGEN HAEBLER INC" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" periodOfReport="2010-11-05" schemaVersion="X0303">
+<issuer> issuerCik="0000051253" 
+ issuerName="INTERNATIONAL FLAVORS &amp; FRAGRANCES INC" 
+ issuerTradingSymbol="IFF" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001301131" 
+ rptOwnerName="Howell Henry W Jr" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="NEW YORK" rptOwnerState="NY" rptOwnerStreet1="521 WEST 57TH STREET" rptOwnerStreet2="" rptOwnerZipCode="10019" />
+
+
+<reportingOwnerRelationship isDirector="1">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable /> 
+<derivativeTable>
+<derivativeTransaction><securityTitle> value="Stock Equivalent Unit" 
+</securityTitle>
+<conversionOrExercisePrice>
+<footnoteId id="F1" /> 
+</conversionOrExercisePrice>
+<transactionDate> value="2010-11-05" 
+</transactionDate>
+<deemedExecutionDate value="2010-11-08">
+</deemedExecutionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="A" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="1691.0000" 
+</transactionShares>
+<transactionPricePerShare value="53.2300">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate><footnoteId id="F2" /> 
+</exerciseDate>
+<expirationDate><footnoteId id="F2" /> 
+</expirationDate>
+<underlyingSecurity><underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="1691.0000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="17846.0000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="The Stock Units (Units) convert to Common Stock on a one-for-one basis." /> 
+ <footnote id="F2" text="Units under the Company&apos;s deferred compensation plan resulting from deferral of retainer fees.  The Units are payable in Common Stock upon retirement or other termination of directorship." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="By: Dennis Meany, attorney in fact">
+</ownerSignature>
+</ownershipDocument></Source>

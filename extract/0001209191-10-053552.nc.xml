@@ -1,0 +1,48 @@
+<Source file="./0001209191-10-053552.nc">
+<SUBMISSION ACCESSION-NUMBER="0001209191-10-053552" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001463985" CONFORMED-NAME="Marshall Adrian C" /><FILING-VALUES ACT="34" FILE-NUMBER="811-22126" FILM-NUMBER="101171096" FORM-TYPE="4" /><MAIL-ADDRESS CITY="WILMINGTON" STATE="DE" STREET1="100 BELLEVUE PARKWAY" ZIP="19809" /></REPORTING-OWNER><ISSUER><COMPANY-DATA CIK="0001412914" CONFORMED-NAME="BlackRock Defined Opportunity Credit Trust" FISCAL-YEAR-END="1031" IRS-NUMBER="000000000" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="WILMINGTON" PHONE="800-882-0052" STATE="DE" STREET1="100 BELLEVUE PARKWAY" ZIP="19809" /><MAIL-ADDRESS CITY="WILMINGTON" STATE="DE" STREET1="100 BELLEVUE PARKWAY" ZIP="19809" /><FORMER-COMPANY DATE-CHANGED="20070921" FORMER-CONFORMED-NAME="BlackRock Strategic Income Opportunities Trust" /><FORMER-COMPANY DATE-CHANGED="20070920" FORMER-CONFORMED-NAME="BlackRock Fixed Income Opportunities Trust" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0001412914" 
+ issuerName="BlackRock Defined Opportunity Credit Trust" 
+ issuerTradingSymbol="BHL" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001463985" 
+ rptOwnerName="Marshall Adrian C" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="NEW YORK" rptOwnerState="NY" rptOwnerStreet1="55 EAST 52ND STREET" rptOwnerStreet2="" rptOwnerZipCode="10055" />
+
+
+<reportingOwnerRelationship isDirector="0" isOfficer="0" isOther="1" isTenPercentOwner="0" otherText="Portfolio Manager">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="P" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="375" 
+</transactionShares>
+<transactionPricePerShare value="13.50">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="2673" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<remarks />
+<ownerSignature> signatureName="/s/ Janey Ahn as Attorney-in-Fact" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

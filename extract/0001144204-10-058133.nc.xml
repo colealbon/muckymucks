@@ -1,0 +1,79 @@
+<Source file="./0001144204-10-058133.nc">
+<SUBMISSION ACCESSION-NUMBER="0001144204-10-058133" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101105" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001283589" CONFORMED-NAME="NADAL MILES" /><FILING-VALUES ACT="34" FILE-NUMBER="001-13718" FILM-NUMBER="101171381" FORM-TYPE="4" /><MAIL-ADDRESS CITY="NASSAU" STATE="C5" STREET1="PO BOX N1991" STREET2="PARADISE ISLAND" ZIP="999999999" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="7311" CIK="0000876883" CONFORMED-NAME="MDC PARTNERS INC" FISCAL-YEAR-END="1231" IRS-NUMBER="980364441" STATE-OF-INCORPORATION="A6" /><BUSINESS-ADDRESS CITY="TORONTO" PHONE="646 429 1800" STATE="A6" STREET1="45 HAZELTON AVE" ZIP="M5R 2E3" /><MAIL-ADDRESS CITY="NEW YORK" STATE="NY" STREET1="MDC PARTNERS INC. - LEGAL DEPT." STREET2="950 THIRD AVENUE" ZIP="10022" /><FORMER-COMPANY DATE-CHANGED="20001204" FORMER-CONFORMED-NAME="MDC CORP INC" /><FORMER-COMPANY DATE-CHANGED="19961028" FORMER-CONFORMED-NAME="MDC COMMUNICATIONS CORP" /><FORMER-COMPANY DATE-CHANGED="19950419" FORMER-CONFORMED-NAME="MDC CORPORATION" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-05" schemaVersion="X0303">
+<issuer> issuerCik="0000876883" 
+ issuerName="MDC PARTNERS INC" 
+ issuerTradingSymbol="MDCA" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001283589" 
+ rptOwnerName="NADAL MILES" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="TORONTO" rptOwnerState="A6" rptOwnerStateDescription="ONTARIO, CANADA" rptOwnerStreet1="C/O MDC PARTNERS INC." rptOwnerStreet2="45 HAZELTON AVENUE" rptOwnerZipCode="M5R 2E3">
+</reportingOwnerAddress>
+<reportingOwnerRelationship isDirector="1" isOfficer="1" isOther="0" isTenPercentOwner="1" officerTitle="Chairman, CEO and President">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeHolding><securityTitle> value="Class A Shares" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="3910370" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeTransaction>
+<securityTitle> value="Class A Shares" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="P" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="5000" 
+</transactionShares>
+<transactionPricePerShare value="13.55">
+<footnoteId id="F1" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="A" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="3915370" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<derivativeTable><derivativeHolding><securityTitle> value="Stock Appreciation Rights" 
+<footnoteId id="F2" /> 
+</securityTitle>
+<conversionOrExercisePrice> value="3.72" 
+</conversionOrExercisePrice>
+<exerciseDate value="2010-02-12">
+</exerciseDate>
+<expirationDate value="2014-02-12">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Class A Shares" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="2083333">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="2083333" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+</derivativeTable>
+<footnotes><footnote id="F1" text="Represents a weighted average price of open market purchases. These shares were purchased in multiple transactions at pricesranging from $13.51 to $13.59. The Reporting Person undertakes to provide to the issuer, any security holder of the issuer,or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of sharespurchased at each separate price." />
+<footnote id="F2" text="A total of 2,083,333 Stock Appreciation Rights (SARs) were granted February 12, 2009, 66% are vested as of the date hereof,34% vest on the third anniversary of the grant date, and all such SARs expire on February 12, 2014. These SARs may besettled in cash or stock, at the discretion of the Issuer." />
+</footnotes>
+<ownerSignature> signatureName="/s/ Miles Nadal" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

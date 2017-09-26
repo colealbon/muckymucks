@@ -1,0 +1,79 @@
+<Source file="./0001427152-10-000363.nc">
+<SUBMISSION ACCESSION-NUMBER="0001427152-10-000363" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101105" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001452004" CONFORMED-NAME="Taylor Stuart" /><FILING-VALUES ACT="34" FILE-NUMBER="001-13884" FILM-NUMBER="101172651" FORM-TYPE="4" /><MAIL-ADDRESS CITY="HOUSTON" STATE="TX" STREET1="1333 WEST LOOP SOUTH, SUITE 1700" ZIP="77027" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="3533" CIK="0000941548" CONFORMED-NAME="CAMERON INTERNATIONAL CORP" FISCAL-YEAR-END="1231" IRS-NUMBER="760451843" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="HOUSTON" PHONE="7135133322" STATE="TX" STREET1="1333 WEST LOOP SOUTH" STREET2="STE 1700" ZIP="77027" /><MAIL-ADDRESS CITY="HOUSTON" STATE="TX" STREET1="1333 WEST LOOP SOUTH" STREET2="STE 1700" ZIP="77027" /><FORMER-COMPANY DATE-CHANGED="19950315" FORMER-CONFORMED-NAME="COOPER CAMERON CORP" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-05" schemaVersion="X0303">
+<issuer> issuerCik="0000941548" 
+ issuerName="CAMERON INTERNATIONAL CORP" 
+ issuerTradingSymbol="CAM" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001452004" 
+ rptOwnerName="Taylor Stuart" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="HOUSTON" rptOwnerState="TX" rptOwnerStreet1="1333 WEST LOOP SOUTH, SUITE 1700" rptOwnerStreet2="" rptOwnerZipCode="77027" />
+
+
+<reportingOwnerRelationship isDirector="0" isOfficer="1" isOther="0" isTenPercentOwner="0" officerTitle="Vice President, Tax">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-06">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="F" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="211" 
+<footnoteId id="F1" /> 
+</transactionShares>
+<transactionPricePerShare> value="46.13" 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="7159" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<derivativeTable><derivativeTransaction><securityTitle> value="Phantom Stock" 
+</securityTitle>
+<conversionOrExercisePrice>
+<footnoteId id="F2" /> 
+</conversionOrExercisePrice>
+<transactionDate> value="2010-11-05" 
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="A" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="14.03" 
+</transactionShares>
+<transactionPricePerShare value="45.5692">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate><footnoteId id="F2" /> 
+</exerciseDate>
+<expirationDate><footnoteId id="F2" /> 
+</expirationDate>
+<underlyingSecurity><underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="14.03">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="468.989" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="Payment of tax liability by withholding shares of stock upon the release of restricted stock units that were converted into Cameron common stock.  The grant and vest dates were previously reported on a Form 4 dated November 6, 2009." /> 
+ <footnote id="F2" text="Each share of phantom stock is the economic equivalent of one share of common stock.  The shares of phantom stock become payable in cash upon the reporting person&apos;s termination of service as an employee or retirement." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="By: Grace B. Holmes  For: Stuart Taylor">
+</ownerSignature>
+</ownershipDocument></Source>

@@ -1,0 +1,48 @@
+<Source file="./0001209191-10-053594.nc">
+<SUBMISSION ACCESSION-NUMBER="0001209191-10-053594" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20100525" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><ISSUER><COMPANY-DATA ASSIGNED-SIC="6021" CIK="0001128361" CONFORMED-NAME="NARA BANCORP INC" FISCAL-YEAR-END="1231" IRS-NUMBER="954170121" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="LOS ANGELES" PHONE="2136391700" STATE="CA" STREET1="3731 WILSHIRE BLVD" STREET2="SUITE 1000" ZIP="90010" /><MAIL-ADDRESS CITY="LOS ANGELES" STATE="CA" STREET1="3731 WILSHIRE BLVD" STREET2="SUITE 1000" ZIP="90010" /></ISSUER><REPORTING-OWNER><OWNER-DATA CIK="0001270067" CONFORMED-NAME="LEE BONITA" /><FILING-VALUES ACT="34" FILE-NUMBER="000-50245" FILM-NUMBER="101171356" FORM-TYPE="4" /><MAIL-ADDRESS CITY="LOS ANGELES" STATE="CA" STREET1="3731 WILSHIRE BLVD" STREET2="SUITE 1000" ZIP="90010" /></REPORTING-OWNER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-05-25" schemaVersion="X0303">
+<issuer> issuerCik="0001128361" 
+ issuerName="NARA BANCORP INC" 
+ issuerTradingSymbol="NARA" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001270067" 
+ rptOwnerName="LEE BONITA" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="LOS ANGELES" rptOwnerState="CA" rptOwnerStreet1="3731 WILSHIRE BLVD., SUITE 1000" rptOwnerStreet2="" rptOwnerZipCode="90010" />
+
+
+<reportingOwnerRelationship isDirector="0" isOfficer="1" isOther="0" isTenPercentOwner="0" officerTitle="Chief Operating Officer &amp; EVP">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-05-25">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="P" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="2000" 
+</transactionShares>
+<transactionPricePerShare value="7.31">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="32734" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<remarks />
+<ownerSignature> signatureName="/s/ Bonita Lee" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

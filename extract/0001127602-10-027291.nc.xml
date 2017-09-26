@@ -1,0 +1,69 @@
+<Source file="./0001127602-10-027291.nc">
+<SUBMISSION ACCESSION-NUMBER="0001127602-10-027291" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><ISSUER><COMPANY-DATA ASSIGNED-SIC="3089" CIK="0001008654" CONFORMED-NAME="TUPPERWARE BRANDS CORP" FISCAL-YEAR-END="1229" IRS-NUMBER="364062333" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="ORLANDO" PHONE="(407) 826-5050" STATE="FL" STREET1="14901 S ORANGE BLOSSOM TRAIL" ZIP="32837-6600" /><MAIL-ADDRESS CITY="ORLANDO" STATE="FL" STREET1="P O BOX 2353" ZIP="32802-2353" /><FORMER-COMPANY DATE-CHANGED="19960221" FORMER-CONFORMED-NAME="TUPPERWARE CORP" /></ISSUER><REPORTING-OWNER><OWNER-DATA CIK="0001049162" CONFORMED-NAME="SKROEDER CHRISTIAN E" /><FILING-VALUES ACT="34" FILE-NUMBER="001-11657" FILM-NUMBER="101172350" FORM-TYPE="4" /><MAIL-ADDRESS CITY="ORLANDO" STATE="FL" STREET1="TUPPERWARE BRANDS CORP" STREET2="PO BOX 2353" ZIP="32802-2353" /></REPORTING-OWNER></SUBMISSION><ownershipDocument documentType="4" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0001008654" 
+ issuerName="TUPPERWARE BRANDS CORP" 
+ issuerTradingSymbol="TUP" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001049162" 
+ rptOwnerName="SKROEDER CHRISTIAN E" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="ORLANDO" rptOwnerState="FL" rptOwnerStreet1="TUPPERWARE BRANDS CORP" rptOwnerStreet2="PO BOX 2353" rptOwnerZipCode="32802-2353">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isOfficer="1" 
+ officerTitle="Group President" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeHolding><securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="22467" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+</nonDerivativeTable>
+<derivativeTable><derivativeTransaction><securityTitle> value="Stock Option" 
+</securityTitle>
+<conversionOrExercisePrice value="47.31">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="A" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness />
+<transactionAmounts><transactionShares> value="18400" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate> value="2011-11-04" 
+<footnoteId id="F1" /> 
+</exerciseDate>
+<expirationDate> value="2020-11-03" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="18400">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="18400" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="The option vests in three equal annual installments beginning on November 4, 2011." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-05" signatureName="/s/ Susan R. Coumes, Attorney-in-Fact">
+</ownerSignature>
+</ownershipDocument></Source>

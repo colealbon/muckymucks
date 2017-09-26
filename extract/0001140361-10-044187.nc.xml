@@ -1,0 +1,73 @@
+<Source file="./0001140361-10-044187.nc">
+<SUBMISSION ACCESSION-NUMBER="0001140361-10-044187" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101105" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001184500" CONFORMED-NAME="COLEMAN TERRY L" FISCAL-YEAR-END="1231" STATE-OF-INCORPORATION="GA" /><FILING-VALUES ACT="34" FILE-NUMBER="000-12436" FILM-NUMBER="101172792" FORM-TYPE="4" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="6022" CIK="0000711669" CONFORMED-NAME="COLONY BANKCORP INC" FISCAL-YEAR-END="1231" IRS-NUMBER="581492391" STATE-OF-INCORPORATION="GA" /><BUSINESS-ADDRESS CITY="FITZGERALD" PHONE="229-426-6000" STATE="GA" STREET1="115 SOUTH GRANT STREET" STREET2="." ZIP="31750" /><MAIL-ADDRESS CITY="FITZGERALD" STATE="GA" STREET1="115 SOUTH GRANT STREET" STREET2="." ZIP="31750" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-05" schemaVersion="X0303">
+<issuer> issuerCik="0000711669" 
+ issuerName="COLONY BANKCORP INC" 
+ issuerTradingSymbol="CBAN" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001184500" 
+ rptOwnerName="COLEMAN TERRY L" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="EASTMAN, GA" rptOwnerState="X1" rptOwnerStreet1="1204 4TH AVE" rptOwnerStreet2="" rptOwnerZipCode="31023" />
+
+
+<reportingOwnerRelationship isDirector="1" isOfficer="0" isOther="0" isTenPercentOwner="0">
+<officerTitle /> 
+<otherText />
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="COLONY BANKCORP INC COMMON STOCK" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="S" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="1000" 
+</transactionShares>
+<transactionPricePerShare value="3.95">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="149048.625" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="COLONY BANKCORP INC COMMON STOCK" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="S" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="2000" 
+</transactionShares>
+<transactionPricePerShare value="4.00">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="147048.625" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<derivativeTable /> 
+<remarks /> 
+<ownerSignature signatureDate="2010-11-08" signatureName="TERRY L. COLEMAN">
+</ownerSignature>
+</ownershipDocument></Source>

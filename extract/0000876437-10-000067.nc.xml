@@ -1,0 +1,147 @@
+<Source file="./0000876437-10-000067.nc">
+<SUBMISSION ACCESSION-NUMBER="0000876437-10-000067" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001207994" CONFORMED-NAME="ENGELMAN DAVID S" /><FILING-VALUES ACT="34" FILE-NUMBER="001-10816" FILM-NUMBER="101170930" FORM-TYPE="4" /><MAIL-ADDRESS CITY="WHITTIER" STATE="CA" STREET1="7021 GREENLEAF AVENUE" ZIP="90602" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="6351" CIK="0000876437" CONFORMED-NAME="MGIC INVESTMENT CORP" FISCAL-YEAR-END="1231" IRS-NUMBER="391486475" STATE-OF-INCORPORATION="WI" /><BUSINESS-ADDRESS CITY="MILWAUKEE" PHONE="4143476480" STATE="WI" STREET1="250 EAST KILBOURN AVENUE" ZIP="53202" /><MAIL-ADDRESS CITY="MILWAUKEE" STATE="WI" STREET1="250 EAST KILBOURN AVENUE" ZIP="53202" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0000876437" 
+ issuerName="MGIC INVESTMENT CORP" 
+ issuerTradingSymbol="MTG" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001207994" 
+ rptOwnerName="ENGELMAN DAVID S" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="RANCHO SANTA FE" rptOwnerState="CA" rptOwnerStreet1="P.O. BOX 648" rptOwnerStreet2="" rptOwnerZipCode="90267" />
+
+
+<reportingOwnerRelationship isDirector="1" isOfficer="0" isOther="0" isTenPercentOwner="0">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeHolding><securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="24499.8" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="G" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="150" 
+</transactionShares>
+<transactionPricePerShare>
+<footnoteId id="F1" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="D" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="10913" 
+<footnoteId id="F2" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="By Trust">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="G" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="120" 
+</transactionShares>
+<transactionPricePerShare>
+<footnoteId id="F1" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="D" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="10793" 
+<footnoteId id="F2" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="By Trust">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="G" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="100" 
+</transactionShares>
+<transactionPricePerShare>
+<footnoteId id="F1" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="D" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="10693" 
+<footnoteId id="F2" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="By Trust">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<derivativeTable><derivativeHolding><securityTitle> value="Share Units" 
+<footnoteId id="F3" /> 
+</securityTitle>
+<conversionOrExercisePrice><footnoteId id="F4" /> 
+</conversionOrExercisePrice>
+<exerciseDate><footnoteId id="F5" /> 
+</exerciseDate>
+<expirationDate><footnoteId id="F6" /> 
+</expirationDate>
+<underlyingSecurity><underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="15151.5152">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="15151.5152" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</derivativeHolding>
+</derivativeTable>
+<footnotes>
+<footnote id="F1" text="These shares were given by the reporting person as a gift and no price was paid by the recipient for the shares." /> 
+ <footnote id="F2" text="These shares are owned by a trust of which the reporting person is a trustee and, with members of his immediate family, a beneficiary.  The reporting person disclaims beneficial ownership of shares held by the trust, except to the extent of his pecuniary interest in the trust." /> 
+ <footnote id="F3" text="The reporting person participates in the MGIC Investment Corporation Deferred Compensation Plan for Non-Employee Directors under which units corresponding to shares of Common Stock of the Issuer (Share Units) are awarded to the reporting person.  The Share Units are settled in cash, generally at the time the reporting person ceases to be a Director of the Issuer, unless a qualified election for earlier distribution is made by the reporting person." /> 
+ <footnote id="F4" text="These Share Units do not have a specified dollar-denominated exercise or conversion price.  (Their value is based, on a one-for-one basis, on the price of the Issuer&apos;s common stock on the New York Stock Exchange.)" /> 
+ <footnote id="F5" text="These Share Units are subject to certain restrictions, and vest when such restrictions lapse.  The restrictions generally lapse one year after the Share Units were awarded." /> 
+ <footnote id="F6" text="These Share Units do not expire on a fixed date.  Under certain circumstances, the Share Units are subject to forfeiture if the reporting person ceases to be a Director of the issuer before the lapse of restrictions on the Share Units." /> 
+</footnotes>
+ remarks="This form is signed by the reporting person's attorney-in-fact pursuant to a previously filed power of attorney." 
+<ownerSignature signatureDate="2010-11-04" signatureName="Dan D. Stilwell, Attorney-in-fact">
+</ownerSignature>
+</ownershipDocument></Source>

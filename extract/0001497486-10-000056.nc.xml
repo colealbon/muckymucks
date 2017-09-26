@@ -1,0 +1,49 @@
+<Source file="./0001497486-10-000056.nc">
+<SUBMISSION ACCESSION-NUMBER="0001497486-10-000056" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001222848" CONFORMED-NAME="HARRIS FRANK W" /><FILING-VALUES ACT="34" FILE-NUMBER="001-14959" FILM-NUMBER="101172125" FORM-TYPE="4" /><MAIL-ADDRESS CITY="AKRON" STATE="OH" STREET1="244 SUMMER ST POLYMER BLDG 603" ZIP="53202" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="3990" CIK="0000746598" CONFORMED-NAME="BRADY CORP" FISCAL-YEAR-END="0731" IRS-NUMBER="390178960" STATE-OF-INCORPORATION="WI" /><BUSINESS-ADDRESS CITY="MILWAUKEE" PHONE="4143586600" STATE="WI" STREET1="6555 W GOOD HOPE RD" STREET2="P O BOX 571" ZIP="53201-0571" /><FORMER-COMPANY DATE-CHANGED="19920703" FORMER-CONFORMED-NAME="BRADY W H CO" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0000746598" 
+ issuerName="BRADY CORP" 
+ issuerTradingSymbol="BRC" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001222848" 
+ rptOwnerName="HARRIS FRANK W" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="AKRON" rptOwnerState="OH" rptOwnerStreet1="UNIV OF AKRON 617 GOODYEAR POLYMER CTR." rptOwnerStreet2="170 UNIVERSITY CIRCLE" rptOwnerZipCode="44325">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="1" 
+ isOfficer="0" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Class A Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="2000" 
+</transactionShares>
+<transactionPricePerShare value="32.00">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="34345" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<remarks /> 
+<ownerSignature signatureDate="2010-11-08" signatureName="Krista Ebbens, as Attorney-In-Fact">
+</ownerSignature>
+</ownershipDocument></Source>

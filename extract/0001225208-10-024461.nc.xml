@@ -1,0 +1,100 @@
+<Source file="./0001225208-10-024461.nc">
+<SUBMISSION ACCESSION-NUMBER="0001225208-10-024461" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101105" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001319272" CONFORMED-NAME="Menezes Ivan" /><FILING-VALUES ACT="34" FILE-NUMBER="001-16153" FILM-NUMBER="101173375" FORM-TYPE="4" /><MAIL-ADDRESS CITY="NEW YORK" STATE="NY" STREET1="C/O COACH INC" STREET2="516 W 34TH STREET" ZIP="10001" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="3100" CIK="0001116132" CONFORMED-NAME="COACH INC" FISCAL-YEAR-END="0630" IRS-NUMBER="522242751" STATE-OF-INCORPORATION="MD" /><BUSINESS-ADDRESS CITY="NEW YORK" PHONE="2125941850" STATE="NY" STREET1="516 WEST 34TH ST" ZIP="10001" /><MAIL-ADDRESS CITY="NEW YORK" STATE="NY" STREET1="516 WEST 34TH ST" ZIP="10001" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" periodOfReport="2010-11-05" schemaVersion="X0303">
+<issuer> issuerCik="0001116132" 
+ issuerName="COACH INC" 
+ issuerTradingSymbol="COH" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001319272" 
+ rptOwnerName="Menezes Ivan" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="NEW YORK" rptOwnerState="NY" rptOwnerStreet1="516 WEST 34TH STREET" rptOwnerStreet2="" rptOwnerZipCode="10001" />
+
+
+<reportingOwnerRelationship isDirector="1">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="15000.0000" 
+</transactionShares>
+<transactionPricePerShare value="32.5700">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="33271.0000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+<footnoteId id="F1" /> 
+</securityTitle>
+<transactionDate> value="2010-11-05" 
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="F" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="13329.0000" 
+</transactionShares>
+<transactionPricePerShare value="52.7600">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="19942.0000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<derivativeTable><derivativeTransaction><securityTitle> value="Stock Option" 
+</securityTitle>
+<conversionOrExercisePrice value="32.5700">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="15000.0000" 
+</transactionShares>
+<transactionPricePerShare value="0.0000">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate> value="2006-05-02" 
+</exerciseDate>
+<expirationDate value="2015-11-02">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="15000.0000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="0.0000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="These shares were sold to pay the cost of, and the fees associated with, the exercise of the derivative securities described above." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="Daniel J. Ross, Assistant Secretary, pursuant to a power of attorney filed with the Commission">
+</ownerSignature>
+</ownershipDocument></Source>

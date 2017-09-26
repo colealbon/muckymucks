@@ -1,0 +1,61 @@
+<Source file="./0001127602-10-027384.nc">
+<SUBMISSION ACCESSION-NUMBER="0001127602-10-027384" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101108" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0000901999" CONFORMED-NAME="ELLISON LAWRENCE JOSEPH" /><FILING-VALUES ACT="34" FILE-NUMBER="000-51788" FILM-NUMBER="101173862" FORM-TYPE="4" /><MAIL-ADDRESS CITY="RENO" STATE="NV" STREET1="C/O DELPHI ASSET MGMT CORPORATION" STREET2="6005 PLUMAS STREET, SUITE 100" ZIP="89519" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="7372" CIK="0001341439" CONFORMED-NAME="ORACLE CORP" FISCAL-YEAR-END="0531" IRS-NUMBER="542185193" /><BUSINESS-ADDRESS CITY="REDWOOD CITY" PHONE="6505067000" STATE="CA" STREET1="500 ORACLE PARKWAY" STREET2="MAIL STOP 5 OP 7" ZIP="94065" /><MAIL-ADDRESS CITY="REDWOOD CITY" STATE="CA" STREET1="500 ORACLE PARKWAY" STREET2="MAIL STOP 5 OP 7" ZIP="94065" /><FORMER-COMPANY DATE-CHANGED="20051013" FORMER-CONFORMED-NAME="Ozark Holding Inc." /></ISSUER></SUBMISSION><ownershipDocument documentType="4" periodOfReport="2010-11-08" schemaVersion="X0303">
+<issuer> issuerCik="0001341439" 
+ issuerName="ORACLE CORP" 
+ issuerTradingSymbol="ORCL" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0000901999" 
+ rptOwnerName="ELLISON LAWRENCE JOSEPH" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="RENO" rptOwnerState="NV" rptOwnerStreet1="C/O DELPHI ASSET MGMT CORPORATION" rptOwnerStreet2="6005 PLUMAS STREET, SUITE 100" rptOwnerZipCode="89519">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="1" 
+ isOfficer="1" 
+ isTenPercentOwner="1" 
+ officerTitle="Chief Executive Officer" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-08">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness />
+<transactionAmounts><transactionShares> value="1000000" 
+<footnoteId id="F1" /> 
+</transactionShares>
+<transactionPricePerShare> value="28.9898" 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="1118509580" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeHolding>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="911744" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="By Spouse">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+</nonDerivativeTable>
+<footnotes> <footnote id="F1" text="Sale of shares pursuant to Rule 10b5-1 Plan adopted April 22, 2010." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="/s/ Rita S Dickson by Rita S Dickson, Attorney in Fact for Lawrence J. Ellison (POA filed 10/4/02)">
+</ownerSignature>
+</ownershipDocument></Source>

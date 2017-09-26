@@ -1,0 +1,124 @@
+<Source file="./0000807249-10-000356.nc">
+<SUBMISSION ACCESSION-NUMBER="0000807249-10-000356" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><ISSUER><COMPANY-DATA ASSIGNED-SIC="3728" CIK="0000849240" CONFORMED-NAME="HAWK CORP" FISCAL-YEAR-END="0819" IRS-NUMBER="341608156" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="CLEVELAND" PHONE="2168613553" STATE="OH" STREET1="200 PUBLIC SQ." STREET2="STE 1500" ZIP="44114" /><MAIL-ADDRESS CITY="CLEVELAND" STATE="OH" STREET1="200 PUBLIC SQUARE" STREET2="STE 1500" ZIP="44114-2301" /><FORMER-COMPANY DATE-CHANGED="19950417" FORMER-CONFORMED-NAME="HAWK GROUP OF COMPANIES INC" /></ISSUER><REPORTING-OWNER><OWNER-DATA CIK="0000807249" CONFORMED-NAME="GAMCO INVESTORS, INC. ET AL" FISCAL-YEAR-END="1031" STATE-OF-INCORPORATION="NY" /><FILING-VALUES ACT="34" FILE-NUMBER="001-13797" FILM-NUMBER="101170974" FORM-TYPE="4" /><BUSINESS-ADDRESS CITY="RYE" PHONE="9149215000" STATE="NY" STREET1="ONE CORPORATE CENTER" ZIP="10580-1434" /><MAIL-ADDRESS CITY="RYE" STATE="NY" STREET1="ONE CORPORATE CENTER" ZIP="10580" /><FORMER-NAME DATE-CHANGED="20020828" FORMER-CONFORMED-NAME="GABELLI ASSET MANAGEMENT INC ET AL" /><FORMER-NAME DATE-CHANGED="19940714" FORMER-CONFORMED-NAME="GABELLI FUNDS INC ET AL" /></REPORTING-OWNER><REPORTING-OWNER><OWNER-DATA CIK="0001185533" CONFORMED-NAME="GABELLI MARIO J" /><FILING-VALUES ACT="34" FILE-NUMBER="001-13797" FILM-NUMBER="101170973" FORM-TYPE="4" /><MAIL-ADDRESS CITY="RYE" STATE="NY" STREET1="C/O GAMCO INVESTORS, INC" STREET2="ONE CORPORATE CENTER" ZIP="10580" /></REPORTING-OWNER><REPORTING-OWNER><OWNER-DATA CIK="0001238894" CONFORMED-NAME="GGCP, INC." FISCAL-YEAR-END="1231" STATE-OF-INCORPORATION="NY" /><FILING-VALUES ACT="34" FILE-NUMBER="001-13797" FILM-NUMBER="101170975" FORM-TYPE="4" /><BUSINESS-ADDRESS CITY="RYE" PHONE="9149215100" STATE="NY" STREET1="ONE CORPORATE CENTER" ZIP="10580" /><MAIL-ADDRESS CITY="GREENWICH" STATE="CT" STREET1="140 GREENWICH AVENUE" ZIP="06830" /><FORMER-NAME DATE-CHANGED="20030604" FORMER-CONFORMED-NAME="GABELLI GROUP CAPITAL PARTNERS INC" /></REPORTING-OWNER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0000849240" 
+ issuerName="HAWK CORP" 
+ issuerTradingSymbol="HWK" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0000807249" 
+ rptOwnerName="GAMCO INVESTORS, INC. ET AL" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="RYE" rptOwnerState="NY" rptOwnerStreet1="ONE CORPORATE CENTER" rptOwnerStreet2="" rptOwnerZipCode="10580" />
+
+
+<reportingOwnerRelationship isDirector="0" isOfficer="0" isOther="0" isTenPercentOwner="1">
+</reportingOwnerRelationship>
+</reportingOwner>
+<reportingOwner><reportingOwnerId> rptOwnerCik="0001185533" 
+ rptOwnerName="GABELLI MARIO J" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="RYE" rptOwnerState="NY" rptOwnerStreet1="C/O GAMCO INVESTORS, INC" rptOwnerStreet2="ONE CORPORATE CENTER" rptOwnerZipCode="10580">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="0" 
+ isTenPercentOwner="1" 
+ isOther="0" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<reportingOwner><reportingOwnerId> rptOwnerCik="0001238894" 
+ rptOwnerName="GGCP, INC." 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="GREENWICH" rptOwnerState="CT" rptOwnerStreet1="140 GREENWICH AVENUE" rptOwnerStreet2="" rptOwnerZipCode="06830" />
+
+
+<reportingOwnerRelationship isDirector="0" isOfficer="0" isOther="0" isTenPercentOwner="1">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Class A Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="P" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="4500" 
+</transactionShares>
+<transactionPricePerShare value="49.8522">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="18458" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="By: Investment Partnership I">
+<footnoteId id="F1" /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction><securityTitle> value="Class A Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="P" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="1000" 
+</transactionShares>
+<transactionPricePerShare value="49.85">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="19458" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="By: Investment Partnership I">
+<footnoteId id="F1" /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeHolding><securityTitle> value="Class A Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="1000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="By: Investment Partnership II">
+<footnoteId id="F1" /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding><securityTitle> value="Class A Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="5000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="By: Limited Liability Co.">
+<footnoteId id="F2" /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+</nonDerivativeTable>
+<footnotes>
+<footnote id="F1" text="The Reporting Persons have less than a 100% interest in this entity. The amount of securities reported as beneficially owned reflects the total amount of securities held by this entity which is greater than the Reporting Persons indirect pecuniary interests. The Reporting Persons hereby disclaim ownership of these securities in excess of their pecuniary interests." /> 
+ <footnote id="F2" text="These shares are owned by a limited liability company. Mr. Gabelli has less than a 100% interest in the entity and disclaims beneficial ownership of the shares held by this entity which are in excess of his indirect pecuniary interest." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="/s/ Peter D. Goldstein,                     Attorney-In-Fact for MARIO J. GABELLI, GGCP, INC., and GAMCO INVESTORS, INC.">
+</ownerSignature>
+</ownershipDocument></Source>

@@ -1,0 +1,51 @@
+<Source file="./0001244641-10-000008.nc">
+<SUBMISSION ACCESSION-NUMBER="0001244641-10-000008" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001244641" CONFORMED-NAME="MALOOF THOMAS A" /><FILING-VALUES ACT="34" FILE-NUMBER="001-33757" FILM-NUMBER="101173922" FORM-TYPE="4" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="8051" CIK="0001125376" CONFORMED-NAME="ENSIGN GROUP, INC" IRS-NUMBER="330861263" /><BUSINESS-ADDRESS CITY="MISSION VIEJO" PHONE="(949) 487-9500" STATE="CA" STREET1="27101 PUERTA REAL, SUITE 450" ZIP="92691" /><MAIL-ADDRESS CITY="MISSION VIEJO" STATE="CA" STREET1="27101 PUERTA REAL, SUITE 450" ZIP="92691" /><FORMER-COMPANY DATE-CHANGED="20000930" FORMER-CONFORMED-NAME="ENSIGN GROUP INC" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0001125376" 
+ issuerName="ENSIGN GROUP, INC" 
+ issuerTradingSymbol="ENSG" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001244641" 
+ rptOwnerName="MALOOF THOMAS A" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="MISSION VIEJO" rptOwnerState="CA" rptOwnerStreet1="27101 PUERTA REAL" rptOwnerStreet2="SUITE 450" rptOwnerZipCode="92691">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="1" 
+ isOfficer="0" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+<footnoteId id="F1" /> 
+</transactionCoding>
+<transactionTimeliness><value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="10000" 
+</transactionShares>
+<transactionPricePerShare value="20.5">
+<footnoteId id="F2" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="D" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="53343" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<footnotes> <footnote id="F1" text="The sales reported on this Form 4 were effected pursuant to a Rule 10b5-1 trading plan adopted by the reporting person on August 11, 2010." /> 
+ <footnote id="F2" text="This transaction was executed in multiple trades at prices ranging from $20 to $21. The price above reflects the weighted average sale price. The reporting person hereby undertakes to provide upon request by the Commission staff, the issuer, or a security holder of the issuer, full information regarding the number of shares sold at each separate price." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="/s/ Suzanne Snapper, as power of attorney">
+</ownerSignature>
+</ownershipDocument></Source>

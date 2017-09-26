@@ -1,0 +1,289 @@
+<Source file="./0001144204-10-058058.nc">
+<SUBMISSION ACCESSION-NUMBER="0001144204-10-058058" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101103" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001496132" CONFORMED-NAME="KALLINS GEORGE J" /><FILING-VALUES ACT="34" FILE-NUMBER="000-26285" FILM-NUMBER="101170641" FORM-TYPE="4" /><MAIL-ADDRESS CITY="ALISO VIEJO" STATE="CA" STREET1="C/O CNS RESPONSE INC" STREET2="85 ENTERPRISE" ZIP="92656" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="8090" CIK="0000822370" CONFORMED-NAME="CNS RESPONSE, INC." FISCAL-YEAR-END="0930" IRS-NUMBER="870419387" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="ALISO VIEJO" PHONE="(714) 545 3288" STATE="CA" STREET1="85 ENTERPRISE" STREET2="SUITE 410," ZIP="92656" /><MAIL-ADDRESS CITY="ALISO VIEJO" STATE="CA" STREET1="85 ENTERPRISE" STREET2="SUITE 410," ZIP="92656" /><FORMER-COMPANY DATE-CHANGED="20051115" FORMER-CONFORMED-NAME="STRATIVATION, INC." /><FORMER-COMPANY DATE-CHANGED="20040805" FORMER-CONFORMED-NAME="SalesTactix, Inc." /><FORMER-COMPANY DATE-CHANGED="19990210" FORMER-CONFORMED-NAME="AGE RESEARCH INC" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-03" schemaVersion="X0303">
+<issuer> issuerCik="0000822370" 
+ issuerName="CNS RESPONSE, INC." 
+ issuerTradingSymbol="CNSO" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001496132" 
+ rptOwnerName="KALLINS GEORGE J" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="ALISO VIEJO" rptOwnerState="CA" rptOwnerStreet1="C/O CNS RESPONSE, INC." rptOwnerStreet2="85 ENTERPRISE, SUITE 410" rptOwnerZipCode="92656">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="1" 
+ isOfficer="0" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<derivativeTable><derivativeTransaction><securityTitle> value="Secured Promissory Note" 
+</securityTitle>
+<conversionOrExercisePrice value="0.50">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-03">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="D" transactionFormType="4">
+<footnoteId id="F1" /> 
+<footnoteId id="F2" />
+<footnoteId id="F3" /> 
+</transactionCoding>
+<transactionAmounts><transactionTotalValue> value="512250" 
+<footnoteId id="F1" /> 
+<footnoteId id="F2" />
+<footnoteId id="F3" /> 
+</transactionTotalValue>
+<transactionPricePerShare><footnoteId id="F1" /> 
+<footnoteId id="F2" />
+<footnoteId id="F3" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="A" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate><footnoteId id="F1" /> 
+<footnoteId id="F2" />
+<footnoteId id="F3" /> 
+</exerciseDate>
+<expirationDate> value="2010-12-15" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="1024500">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="0" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="See Footnote">
+<footnoteId id="F1" /> 
+<footnoteId id="F2" />
+<footnoteId id="F3" /> 
+</natureOfOwnership>
+</ownershipNature>
+</derivativeTransaction>
+<derivativeTransaction><securityTitle> value="Common Stock Warrant" 
+</securityTitle>
+<conversionOrExercisePrice value="0.56">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-03">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="D" transactionFormType="4">
+<footnoteId id="F1" /> 
+<footnoteId id="F2" />
+<footnoteId id="F3" /> 
+</transactionCoding>
+<transactionAmounts><transactionShares> value="150000" 
+</transactionShares>
+<transactionPricePerShare>
+<footnoteId id="F1" /> 
+<footnoteId id="F2" />
+<footnoteId id="F3" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="A" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate><footnoteId id="F1" /> 
+<footnoteId id="F2" />
+<footnoteId id="F3" /> 
+</exerciseDate>
+<expirationDate> value="2017-08-19" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="150000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="0" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="See Footnote">
+<footnoteId id="F1" /> 
+<footnoteId id="F2" />
+<footnoteId id="F3" /> 
+</natureOfOwnership>
+</ownershipNature>
+</derivativeTransaction>
+<derivativeTransaction><securityTitle> value="Secured Promissory Note" 
+</securityTitle>
+<conversionOrExercisePrice value="0.30">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-03">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="A" transactionFormType="4">
+<footnoteId id="F1" /> 
+<footnoteId id="F2" />
+<footnoteId id="F3" /> 
+</transactionCoding>
+<transactionAmounts><transactionTotalValue> value="512250" 
+<footnoteId id="F1" /> 
+<footnoteId id="F2" />
+<footnoteId id="F3" /> 
+</transactionTotalValue>
+<transactionPricePerShare><footnoteId id="F1" /> 
+<footnoteId id="F2" />
+<footnoteId id="F3" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="A" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate><footnoteId id="F1" /> 
+<footnoteId id="F2" />
+<footnoteId id="F3" /> 
+</exerciseDate>
+<expirationDate> value="2011-11-03" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="1707500">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="1707500" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="See Footnote">
+<footnoteId id="F1" /> 
+<footnoteId id="F2" />
+<footnoteId id="F3" /> 
+</natureOfOwnership>
+</ownershipNature>
+</derivativeTransaction>
+<derivativeTransaction><securityTitle> value="Common Stock Warrant" 
+</securityTitle>
+<conversionOrExercisePrice value="0.30">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-03">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="A" transactionFormType="4">
+<footnoteId id="F1" /> 
+<footnoteId id="F2" />
+<footnoteId id="F3" /> 
+</transactionCoding>
+<transactionAmounts><transactionShares> value="512250" 
+</transactionShares>
+<transactionPricePerShare>
+<footnoteId id="F1" /> 
+<footnoteId id="F2" />
+<footnoteId id="F3" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="A" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate><footnoteId id="F1" /> 
+<footnoteId id="F2" />
+<footnoteId id="F3" /> 
+</exerciseDate>
+<expirationDate> value="2017-11-02" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="512250">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="512250" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="See Footnote">
+<footnoteId id="F1" /> 
+<footnoteId id="F2" />
+<footnoteId id="F3" /> 
+</natureOfOwnership>
+</ownershipNature>
+</derivativeTransaction>
+<derivativeTransaction><securityTitle> value="Secured Promissory Note" 
+</securityTitle>
+<conversionOrExercisePrice value="0.30">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-03">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="A" transactionFormType="4">
+<footnoteId id="F4" /> 
+</transactionCoding>
+<transactionAmounts><transactionTotalValue> value="250000" 
+</transactionTotalValue>
+<transactionPricePerShare>
+<footnoteId id="F4" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="A" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate><footnoteId id="F4" /> 
+</exerciseDate>
+<expirationDate> value="2011-11-03" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="833333">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="2540833" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="See Footnote">
+<footnoteId id="F4" /> 
+</natureOfOwnership>
+</ownershipNature>
+</derivativeTransaction>
+<derivativeTransaction><securityTitle> value="Common Stock Warrant" 
+</securityTitle>
+<conversionOrExercisePrice value="0.30">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-03">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="A" transactionFormType="4">
+<footnoteId id="F4" /> 
+</transactionCoding>
+<transactionAmounts><transactionShares> value="416666" 
+</transactionShares>
+<transactionPricePerShare>
+<footnoteId id="F4" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="A" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate><footnoteId id="F4" /> 
+</exerciseDate>
+<expirationDate> value="2017-11-02" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="416666">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="928916" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="See Footnote">
+<footnoteId id="F4" /> 
+</natureOfOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<footnotes>
+<footnote id="F1" text="On November 3, 2010, the Issuer issued (i) four convertible promissory notes (each, an Exchange Note) in the aggregateprincipal amount of $512,250 and (ii) four warrants (each, an Exchange Warrant) to purchase an aggregate of 512,250 sharesof the Issuer&apos;s common stock to the Deerwood Partners LLC and Deerwood Holdings LLC (collectively, the Investors), inexchange for the July Notes (including interest), August Notes (including interest) and August Warrants, with each Investorreceiving two Exchange Notes in the aggregate principal amounts of $128,781 and $127,344 and two Exchange Warrants topurchase 128,781 and 127,344 shares of the Issuer&apos;s common stock, respectively.  The July Notes had been issued by theIssuer to the Investors in the aggregate principal amount of $250,000 on July 5, 2010.  The August Notes on the aggregateprincipal amount of $250,000 and related August Warrants to purchase (continued in footnote 2)" />
+<footnote id="F2" text="an aggregate of 150,000 shares of the Issuer&apos;s common stock had been issued by the Issuer to the Investors on August 20,2010.  The Reporting Person is one of the managing members of each of Deerwood Partners LLC and Deerwood Holdings LLC.  Assuch, the Reporting Person may be deemed to beneficially own the securities reported herein. The Reporting Person disclaimsbeneficial ownership of such securities, and this report shall not be deemed an admission that such Reporting Person is thebeneficial owner of the securities for the purpose of Section 16 or for any other purpose, except to the extent of suchReporting Person&apos;s pecuniary interest therein.  On November 3, 2010, and in connection with the transactions describedabove, SAIL Venture Partners, LP (SAIL), the Investors and the Issuer entered into a Purchase Option Agreement pursuant towhich SAIL has the option, which is exercisable at any time (continued in footnote 3)" />
+<footnote id="F3" text="through March 31, 2011, to purchase any or all of the outstanding Exchange Notes from time to time from the Investors at aprice equal to the aggregate principal amount plus accrued interest. As a result of interest accrual on the Exchange Notesthrough the time of their repayment or other redemption, the number of shares that the Exchange Notes are convertible intowill increase over time." />
+<footnote id="F4" text="On November 3, 2010, the Issuer issued (i) a convertible promissory note (the Purchased Notes) in the aggregate principalamount of $250,000 and (ii) a warrant to purchase an aggregate of 416,666 shares of the Issuer&apos;s common stock to BGNAcquisition Ltd., LP (BGN) in exchange for a payment of $250,000 in cash.  The Reporting Person is general partner of BGN.As a result of interest accrual on the Purchased Notes through the time of their repayment or other redemption, the numberof shares that the Purchased Notes are convertible into will increase over time." />
+</footnotes>
+<ownerSignature> signatureName="/s/ George J. Kallins" 
+ signatureDate="2010-11-05" 
+</ownerSignature>
+</ownershipDocument></Source>

@@ -1,0 +1,85 @@
+<Source file="./0001046203-10-000031.nc">
+<SUBMISSION ACCESSION-NUMBER="0001046203-10-000031" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><ISSUER><COMPANY-DATA ASSIGNED-SIC="6022" CIK="0001046203" CONFORMED-NAME="GUARANTY FEDERAL BANCSHARES INC" FISCAL-YEAR-END="1231" IRS-NUMBER="431792717" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="SPRINGFIELD" PHONE="4175204333" STATE="MO" STREET1="1341 WEST BATTLEFIELD" ZIP="65807" /><MAIL-ADDRESS CITY="SPRINGFIELD" STATE="MO" STREET1="1341 WEST BATTLEFIELD" ZIP="65807" /></ISSUER><REPORTING-OWNER><OWNER-DATA ASSIGNED-SIC="6036" CIK="0001044052" CONFORMED-NAME="GIBSON DON M" FISCAL-YEAR-END="0630" STATE-OF-INCORPORATION="DE" /><FILING-VALUES ACT="34" FILE-NUMBER="000-23325" FILM-NUMBER="101171183" FORM-TYPE="4" /><MAIL-ADDRESS CITY="SPRINGFIELD" STATE="MO" STREET2="P O BOX 9009" ZIP="65808-9009" /></REPORTING-OWNER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0001046203" 
+ issuerName="GUARANTY FEDERAL BANCSHARES INC" 
+ issuerTradingSymbol="GFED" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001044052" 
+ rptOwnerName="GIBSON DON M" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="SPRINGFIELD" rptOwnerState="MO" rptOwnerStreet1="4533 ALADDIN CT" rptOwnerStreet2="" rptOwnerZipCode="65810" />
+
+
+<reportingOwnerRelationship isDirector="1" isOfficer="0" isOther="0" isTenPercentOwner="0">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="COMMON STOCK" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="P" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="297" 
+</transactionShares>
+<transactionPricePerShare value="4.98">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="297" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="IRA">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeHolding>
+<securityTitle> value="COMMON STOCK" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="8128" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="IRA">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding>
+<securityTitle> value="COMMON STOCK" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="48200" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="SELF TRUSTEE">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding>
+<securityTitle> value="COMMON STOCK" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="9000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="SELF">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+</nonDerivativeTable>
+<ownerSignature> signatureName="DON M. GIBSON" 
+ signatureDate="2010-11-04" 
+</ownerSignature>
+</ownershipDocument></Source>

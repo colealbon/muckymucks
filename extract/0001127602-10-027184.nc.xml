@@ -1,0 +1,141 @@
+<Source file="./0001127602-10-027184.nc">
+<SUBMISSION ACCESSION-NUMBER="0001127602-10-027184" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001456872" CONFORMED-NAME="Alderson Christopher D" /><FILING-VALUES ACT="34" FILE-NUMBER="033-07012-99" FILM-NUMBER="101170737" FORM-TYPE="4" /><MAIL-ADDRESS CITY="BALTIMORE" STATE="MD" STREET1="100 E. PRATT STREET" ZIP="21202" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="6200" CIK="0001113169" CONFORMED-NAME="PRICE T ROWE GROUP INC" FISCAL-YEAR-END="1231" IRS-NUMBER="522264646" STATE-OF-INCORPORATION="MD" /><BUSINESS-ADDRESS CITY="BALTIMORE" PHONE="4103452000" STATE="MD" STREET1="100 EAST PRATT STREET" STREET2="P.O. BOX 89000" ZIP="21289-0320" /><MAIL-ADDRESS CITY="BALTIMORE" STATE="MD" STREET1="100 EAST PRATT STREET" STREET2="P.O. BOX 89000" ZIP="21289-0320" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0001113169" 
+ issuerName="PRICE T ROWE GROUP INC" 
+ issuerTradingSymbol="TROW" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001456872" 
+ rptOwnerName="Alderson Christopher D" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="BALTIMORE" rptOwnerState="MD" rptOwnerStreet1="100 E. PRATT STREET" rptOwnerStreet2="" rptOwnerZipCode="21202" />
+
+
+<reportingOwnerRelationship isOfficer="1" officerTitle="Vice President">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-10-29">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="A" transactionFormType="5">
+</transactionCoding>
+<transactionTimeliness value="E">
+</transactionTimeliness>
+<transactionAmounts>
+<transactionShares> value="114.137" 
+</transactionShares>
+<transactionPricePerShare value="54.3159">
+<footnoteId id="F1" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="A" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="51494.867" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness />
+<transactionAmounts><transactionShares> value="37622" 
+</transactionShares>
+<transactionPricePerShare value="51.83">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="89116.867" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="F" transactionFormType="5">
+</transactionCoding>
+<transactionTimeliness value="E">
+</transactionTimeliness>
+<transactionAmounts>
+<transactionShares> value="32977" 
+</transactionShares>
+<transactionPricePerShare value="59.13">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="56139.867" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeHolding>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="262000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="Spouse">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+</nonDerivativeTable>
+<derivativeTable><derivativeTransaction><securityTitle> value="Stock Options (Right to Buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="51.83">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness />
+<transactionAmounts><transactionShares> value="37622" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate> value="2007-06-04" 
+<footnoteId id="F2" /> 
+</exerciseDate>
+<expirationDate> value="2010-11-20" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="37622">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="0" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="Shares acquired on 09/28/10, 09/30/10 and 10/29/10 pursuant to the T. Rowe Price Group, Inc. Employee Stock Purchase Plan at the noted weighted-average price." /> 
+ <footnote id="F2" text="06/04/2007 Replenishment Grant - option vests 100% immediately." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-05" signatureName="/s/ Christopher D. Alderson">
+</ownerSignature>
+</ownershipDocument></Source>

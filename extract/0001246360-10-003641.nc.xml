@@ -1,0 +1,86 @@
+<Source file="./0001246360-10-003641.nc">
+<SUBMISSION ACCESSION-NUMBER="0001246360-10-003641" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><ISSUER><COMPANY-DATA ASSIGNED-SIC="1311" CIK="0001038357" CONFORMED-NAME="PIONEER NATURAL RESOURCES CO" FISCAL-YEAR-END="1231" IRS-NUMBER="752702753" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="IRVING" PHONE="9724449001" STATE="TX" STREET1="200 WILLIAMS SQUARE WEST" STREET2="5205 N OCONNOR BLVD" ZIP="75039" /><MAIL-ADDRESS CITY="IRVING" STATE="TX" STREET1="200 WILLIAMS SQUARE WEST" STREET2="5205 N OCONNOR BLVD" ZIP="75039" /></ISSUER><REPORTING-OWNER><OWNER-DATA CIK="0001034316" CONFORMED-NAME="SHEFFIELD SCOTT D" /><FILING-VALUES ACT="34" FILE-NUMBER="001-13245" FILM-NUMBER="101173236" FORM-TYPE="4" /><MAIL-ADDRESS CITY="IRVING" STATE="TX" STREET1="5205 NORTH OCONNOR BLVD" STREET2="SUITE 900" ZIP="75039" /></REPORTING-OWNER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="false" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0001038357" 
+ issuerName="PIONEER NATURAL RESOURCES CO" 
+ issuerTradingSymbol="PXD" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001034316" 
+ rptOwnerName="SHEFFIELD SCOTT D" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="IRVING" rptOwnerState="TX" rptOwnerStreet1="5205 N. O&apos;CONNOR BLVD., SUITE 200" rptOwnerStreet2="" rptOwnerZipCode="75039" />
+
+
+<reportingOwnerRelationship isDirector="true" isOfficer="true" isOther="false" isTenPercentOwner="false" officerTitle="Chairman &amp; CEO">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeHolding><securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="22114" 
+<footnoteId id="F1" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="401(k)">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="5" 
+ transactionCode="G" 
+ equitySwapInvolved="false" 
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="1000" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="611283" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-08">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="5" 
+ transactionCode="G" 
+ equitySwapInvolved="false" 
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="1000" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="610283" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<footnotes> <footnote id="F1" text="Consists of shares beneficially owned as a result of reporting person&apos;s ownership of units in the Pioneer Natural Resources USA, Inc. 401(k) Plan" /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="Mark H. Kleinman, Attorney-in-Fact For Scott D. Sheffield">
+</ownerSignature>
+</ownershipDocument></Source>

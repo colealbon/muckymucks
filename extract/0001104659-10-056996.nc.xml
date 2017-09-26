@@ -1,0 +1,112 @@
+<Source file="./0001104659-10-056996.nc">
+<SUBMISSION ACCESSION-NUMBER="0001104659-10-056996" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101105" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><ISSUER><COMPANY-DATA ASSIGNED-SIC="6282" CIK="0001404912" CONFORMED-NAME="KKR &amp; Co. L.P." FISCAL-YEAR-END="1231" IRS-NUMBER="260426107" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="NEW YORK" PHONE="212-750-8300" STATE="NY" STREET1="9 WEST 57TH STREET" STREET2="SUITE 4200" ZIP="10019" /><MAIL-ADDRESS CITY="NEW YORK" STATE="NY" STREET1="9 WEST 57TH STREET" STREET2="SUITE 4200" ZIP="10019" /></ISSUER><REPORTING-OWNER><OWNER-DATA CIK="0001494555" CONFORMED-NAME="KKR Holdings L.P" FISCAL-YEAR-END="1231" STATE-OF-INCORPORATION="E9" /><FILING-VALUES ACT="34" FILE-NUMBER="001-34820" FILM-NUMBER="101173975" FORM-TYPE="4" /><BUSINESS-ADDRESS CITY="NEW YORK" PHONE="212-230-9742" STATE="NY" STREET1="KKR" STREET2="9 WEST 57TH STREET SUITE 4200" ZIP="10019" /><MAIL-ADDRESS CITY="NEW YORK" STATE="NY" STREET1="KKR" STREET2="9 WEST 57TH STREET SUITE 4200" ZIP="10019" /></REPORTING-OWNER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-05" schemaVersion="X0303">
+<issuer> issuerCik="0001404912" 
+ issuerName="KKR &amp; Co. L.P." 
+ issuerTradingSymbol="KKR" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001494555" 
+ rptOwnerName="KKR Holdings L.P" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="NEW YORK" rptOwnerState="NY" rptOwnerStreet1="C/O KKR &amp; CO. L.P." rptOwnerStreet2="9 WEST 57TH STREET, 42ND FLOOR" rptOwnerZipCode="10019">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="0" 
+ isTenPercentOwner="1" 
+ isOther="0" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Units" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="C" transactionFormType="4">
+<footnoteId id="F2" /> 
+</transactionCoding>
+<transactionTimeliness><value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="4246174" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="4246174" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Units" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="J" transactionFormType="4">
+<footnoteId id="F3" /> 
+</transactionCoding>
+<transactionTimeliness><value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="3012602" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="1233572" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<derivativeTable><derivativeTransaction><securityTitle> value="KKR Group Partnership Units" 
+</securityTitle>
+<conversionOrExercisePrice>
+<footnoteId id="F1" /> 
+</conversionOrExercisePrice>
+<transactionDate> value="2010-11-05" 
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="C" transactionFormType="4">
+<footnoteId id="F2" /> 
+</transactionCoding>
+<transactionTimeliness><value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="4246174" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate><footnoteId id="F1" /> 
+</exerciseDate>
+<expirationDate><footnoteId id="F1" /> 
+</expirationDate>
+<underlyingSecurity><underlyingSecurityTitle> value="Common Units" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="4246174">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="473859020" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="Pursuant to an exchange agreement, holders of KKR Group Partnership Units (which term refers collectively to one Class A partner interest in each of KKR Management Holdings L.P. and KKR Fund Holdings L.P.) may exchange KKR Group Partnership Units held by them for KKR &amp; Co. L.P. common units on a one-for-one basis.  KKR Holdings L.P. owns the KKR Group Partnership Units available for exchange into common units of KKR &amp; Co. L.P., and KKR principals own units in KKR Holdings L.P. that are exchangeable for the KKR Group Partnership Units owned by KKR Holdings L.P. on a one-for-one basis." /> 
+ <footnote id="F2" text="KKR Holdings L.P. exchanged the KKR Group Partnership Units for common units of KKR &amp; Co. L.P. pursuant to the exchange agreement as contemplated by KKR &amp; Co. L.P.&apos;s prospectus dated October 1, 2010, filed with the Securities Exchange Commission on October 5, 2010.  As a result, KKR &amp; Co. L.P.&apos;s percentage ownership in the KKR Group Partnerships (KKR Management Holdings L.P. and KKR Fund Holdings L.P.) increased, and KKR Holdings L.P.&apos;s percentage ownership decreased." /> 
+ <footnote id="F3" text="KKR Holdings L.P. delivered the common units of KKR &amp; Co. L.P. to holders of vested restricted equity units that were granted pursuant to the KKR Holdings L.P. Equity Incentive Plan as contemplated by KKR &amp; Co. L.P.&apos;s prospectus dated October 1, 2010, filed with the Securities Exchange Commission on October 5, 2010." /> 
+</footnotes>
+ remarks="Pursuant to Rule 16a-1(a)(4), of the Securities Exchange Act of 1934, as amended, KKR Holdings L.P. states that this filing shall not be an admission that KKR Holdings L.P. is the beneficial owner of any of the securities reported herein, and KKR Holdings L.P. disclaims beneficial ownership of such securities except to the extent of KKR Holdings L.P.'s pecuniary interest therein." 
+<ownerSignature signatureDate="2010-11-08" signatureName="/s/ David J. Sorkin, Attorney-in-fact">
+</ownerSignature>
+</ownershipDocument></Source>

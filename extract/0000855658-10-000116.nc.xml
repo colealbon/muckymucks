@@ -1,0 +1,100 @@
+<Source file="./0000855658-10-000116.nc">
+<SUBMISSION ACCESSION-NUMBER="0000855658-10-000116" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101105" PUBLIC-DOCUMENT-COUNT="2" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001456657" CONFORMED-NAME="Potter Michael G" /><FILING-VALUES ACT="34" FILE-NUMBER="000-18032" FILM-NUMBER="101173090" FORM-TYPE="4" /><MAIL-ADDRESS CITY="HILLSBORO" STATE="OR" STREET1="5555 NE MOORE CT." ZIP="97124" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="3674" CIK="0000855658" CONFORMED-NAME="LATTICE SEMICONDUCTOR CORP" FISCAL-YEAR-END="0103" IRS-NUMBER="930835214" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="HILLSBORO" PHONE="5032688000" STATE="OR" STREET1="5555 NE MOORE COURT" ZIP="97124-6421" /><MAIL-ADDRESS CITY="HILLSBORO" STATE="OR" STREET1="5555 NE MOORE COURT" ZIP="97124" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-05" schemaVersion="X0303">
+<issuer> issuerCik="0000855658" 
+ issuerName="LATTICE SEMICONDUCTOR CORP" 
+ issuerTradingSymbol="LSCC" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001456657" 
+ rptOwnerName="Potter Michael G" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="PORTLAND" rptOwnerState="OR" rptOwnerStreet1="11989 NW COLEMAN DR" rptOwnerStreet2="" rptOwnerZipCode="97229" />
+
+
+<reportingOwnerRelationship isDirector="0" isOfficer="1" isOther="1" isTenPercentOwner="0" officerTitle="Chief Financial Officer" otherText="Chief Financial Officer">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="6250" 
+</transactionShares>
+<transactionPricePerShare value="1.98">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="6250" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="6250" 
+</transactionShares>
+<transactionPricePerShare value="5.01">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="0" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<derivativeTable><derivativeTransaction><securityTitle> value="Non-Qualified Stock Option (right to buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="1.98">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="6250" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate> value="2010-02-03" 
+<footnoteId id="F1" /> 
+</exerciseDate>
+<expirationDate> value="2016-11-03" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="6250">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="81250" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="This option to purchase shares of common stock becomes exercisable over a four year period where in 1/16th (6.25%) of the total shares granted vest on each quarterly anniversary of the grant date." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="By: Byron W. Milstead, Attorney-in-Fact  For: Michael G. Potter">
+</ownerSignature>
+</ownershipDocument></Source>

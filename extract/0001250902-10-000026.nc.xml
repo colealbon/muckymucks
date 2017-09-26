@@ -1,0 +1,90 @@
+<Source file="./0001250902-10-000026.nc">
+<SUBMISSION ACCESSION-NUMBER="0001250902-10-000026" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101108" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001068013" CONFORMED-NAME="YEAMAN JOHN M" /><FILING-VALUES ACT="34" FILE-NUMBER="001-10485" FILM-NUMBER="101173600" FORM-TYPE="4" /><MAIL-ADDRESS CITY="DALLAS" STATE="TX" STREET1="4320 WESTWAY AVE" ZIP="75205" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="7372" CIK="0000860731" CONFORMED-NAME="TYLER TECHNOLOGIES INC" FISCAL-YEAR-END="1231" IRS-NUMBER="752303920" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="DALLAS" PHONE="9727133700" STATE="TX" STREET1="5949 SHERRY LANE" STREET2="SUITE 1400" ZIP="75225" /><MAIL-ADDRESS CITY="DALLAS" STATE="TX" STREET1="5949 SHERRY LANE" STREET2="SUITE 1400" ZIP="75225" /><FORMER-COMPANY DATE-CHANGED="19930328" FORMER-CONFORMED-NAME="TYLER CORP /NEW/" /><FORMER-COMPANY DATE-CHANGED="19600201" FORMER-CONFORMED-NAME="TYLER THREE INC" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-08" schemaVersion="X0303">
+<issuer> issuerCik="0000860731" 
+ issuerName="TYLER TECHNOLOGIES INC" 
+ issuerTradingSymbol="TYL" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001068013" 
+ rptOwnerName="YEAMAN JOHN M" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="DALLAS" rptOwnerState="TX" rptOwnerStreet1="5949 SHERRY LANE" rptOwnerStreet2="SUITE 1400" rptOwnerZipCode="75225">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="1" 
+ isOfficer="1" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+ officerTitle="Chairman of the Board" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Tyler Technologies Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-08">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="A" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="61732" 
+</transactionShares>
+<transactionPricePerShare value="1.62">
+<footnoteId id="F1" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="A" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="334332" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+<footnoteId id="F2" /> 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<derivativeTable>
+<derivativeTransaction><securityTitle> value="Option" 
+</securityTitle>
+<conversionOrExercisePrice value="1.62">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-08">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="X" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="61732" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate> value="2006-05-08" 
+</exerciseDate>
+<expirationDate value="2011-05-08">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Tyler Technologies Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="61732">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="121268" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="Acquired through the exercise of stock options with an exercise price of $1.62 per share." /> 
+ <footnote id="F2" text="Includes 7,300 shares held in a foundation in which Mr. Yeaman is deemed to have shared voting power." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="/s/ John M. Yeaman">
+</ownerSignature>
+</ownershipDocument></Source>

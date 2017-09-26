@@ -1,0 +1,194 @@
+<Source file="./0001209191-10-053736.nc">
+<SUBMISSION ACCESSION-NUMBER="0001209191-10-053736" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101105" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001504629" CONFORMED-NAME="Davis Kenneth P." /><FILING-VALUES ACT="34" FILE-NUMBER="000-18706" FILM-NUMBER="101173333" FORM-TYPE="4" /><MAIL-ADDRESS CITY="LAWRENCE" STATE="PA" STREET1="1000 PARK DRIVE" ZIP="15055" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="3576" CIK="0000849547" CONFORMED-NAME="BLACK BOX CORP" FISCAL-YEAR-END="0331" IRS-NUMBER="953086563" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="LAWRENCE" PHONE="724-746-5500" STATE="PA" STREET1="1000 PARK DRIVE" ZIP="15055" /><MAIL-ADDRESS CITY="LAWRENCE" STATE="PA" STREET1="1000 PARK DRIVE" ZIP="15055" /><FORMER-COMPANY DATE-CHANGED="19921113" FORMER-CONFORMED-NAME="MB HOLDINGS INC" /><FORMER-COMPANY DATE-CHANGED="19910825" FORMER-CONFORMED-NAME="BLACK BOX INCORPORATED" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-05" schemaVersion="X0303">
+<issuer> issuerCik="0000849547" 
+ issuerName="BLACK BOX CORP" 
+ issuerTradingSymbol="BBOX" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001504629" 
+ rptOwnerName="Davis Kenneth P." 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="LAWRENCE" rptOwnerState="PA" rptOwnerStreet1="1000 PARK DRIVE" rptOwnerStreet2="" rptOwnerZipCode="15055" />
+
+
+<reportingOwnerRelationship isDirector="0" isOfficer="1" isOther="0" isTenPercentOwner="0" officerTitle="Vice President">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock, $.001 par value" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="M" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="15000" 
+</transactionShares>
+<transactionPricePerShare value="28.71">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="19665" 
+<footnoteId id="F1" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock, $.001 par value" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="M" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="6666" 
+</transactionShares>
+<transactionPricePerShare value="28.93">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="26331" 
+<footnoteId id="F1" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock, $.001 par value" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="S" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="21666" 
+</transactionShares>
+<transactionPricePerShare value="35.2846">
+<footnoteId id="F2" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="D" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="4665" 
+<footnoteId id="F1" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<derivativeTable><derivativeTransaction><securityTitle> value="Employee Stock Option (Right to Purchase)" 
+</securityTitle>
+<conversionOrExercisePrice value="28.71">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="M" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="15000" 
+</transactionShares>
+<transactionPricePerShare>
+<footnoteId id="F4" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="D" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate><footnoteId id="F3" /> 
+</exerciseDate>
+<expirationDate> value="2018-05-27" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock, $.001 par value" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="15000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="10000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+<derivativeTransaction>
+<securityTitle> value="Employee Stock Option (Right to Purchase)" 
+</securityTitle>
+<conversionOrExercisePrice value="28.93">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="M" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="6666" 
+</transactionShares>
+<transactionPricePerShare>
+<footnoteId id="F4" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="D" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate><footnoteId id="F3" /> 
+</exerciseDate>
+<expirationDate> value="2018-05-28" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock, $.001 par value" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="6666">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="3334" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="This number includes two grants of restricted stock units awarded under the Black Box Corporation 2008 Long-Term Incentive Plan.  The first grant includes 1,600 restricted stock units which remain unvested.  1/2 of these restricted stock units will vest on 5/26/2011 and the remaining 1/2 will vest on 5/26/2012.  The second grant includes 2,500 restricted stock units.  1/3 of these restricted stock units will vest on 5/11/2011, 1/3 on 5/11/2012 and 1/3 on 5/11/2013." /> 
+ <footnote id="F2" text="This is a weighted average price.  These shares were sold in multiple transactions at prices ranging from $35.00 to $35.45, inclusive.  The reporting person undertakes to provide to Black Box Corporation, any security holder of Black Box Corporation or the Staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range set forth in this footnote." /> 
+ <footnote id="F3" text="1/3 of the options are exercisable on the 1st anniversary of the date of grant, 1/3 on the 2nd anniversary of the date of grant and 1/3 on the 3rd anniversary of the date of grant.  Grant date is 10 years prior to the expiration date." /> 
+ <footnote id="F4" text="Granted under the 1992 Stock Option Plan." /> 
+</footnotes>
+<remarks />
+<ownerSignature> signatureName="/s/ Kenneth P. Davis" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

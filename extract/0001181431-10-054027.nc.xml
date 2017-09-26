@@ -1,0 +1,182 @@
+<Source file="./0001181431-10-054027.nc">
+<SUBMISSION ACCESSION-NUMBER="0001181431-10-054027" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001416756" CONFORMED-NAME="LAZOPOULOS EMANUEL" /><FILING-VALUES ACT="34" FILE-NUMBER="333-07708" FILM-NUMBER="101172608" FORM-TYPE="4" /><MAIL-ADDRESS CITY="CORAL GABLES" STATE="FL" STREET1="P.O. BOX 149222" ZIP="33114-9222" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="0100" CIK="0001047340" CONFORMED-NAME="FRESH DEL MONTE PRODUCE INC" FISCAL-YEAR-END="1227" IRS-NUMBER="000000000" STATE-OF-INCORPORATION="E9" /><BUSINESS-ADDRESS CITY="CORAL GABLES" PHONE="3055208400" STATE="FL" STREET1="241 SEVILLA AVENUE, 12TH FLOOR" STREET2="C/O DEL MONTE FRESH PRODUCE CO" ZIP="33134" /><MAIL-ADDRESS CITY="CORAL GABLES" STATE="FL" STREET1="C/O DEL MONTE FRESH PRODUCE COMPANY" STREET2="241 SEVILLA AVENUE, 12TH FLOOR" ZIP="33134" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0001047340" 
+ issuerName="FRESH DEL MONTE PRODUCE INC" 
+ issuerTradingSymbol="FDP" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001416756" 
+ rptOwnerName="LAZOPOULOS EMANUEL" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="CORAL GABLES" rptOwnerState="FL" rptOwnerStreet1="C/O FRESH DEL MONTE PRODUCE INC." rptOwnerStreet2="P.O. BOX 149222" rptOwnerZipCode="33114">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="1" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+ officerTitle="SVP, North America Sales" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Ordinary Shares" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="4000" 
+</transactionShares>
+<transactionPricePerShare value="15.775">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="4000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Ordinary Shares" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="4000" 
+</transactionShares>
+<transactionPricePerShare value="21.8484">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="0" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Ordinary Shares" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="4000" 
+</transactionShares>
+<transactionPricePerShare value="15.775">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="4000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Ordinary Shares" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="4000" 
+</transactionShares>
+<transactionPricePerShare value="22.2549">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="0" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<derivativeTable><derivativeTransaction><securityTitle> value="Employee Stock Options (Right to Buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="15.775">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="4000" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate><footnoteId id="F1" /> 
+</exerciseDate>
+<expirationDate> value="2016-08-14" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Ordinary Shares" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="4000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="4000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+<derivativeTransaction>
+<securityTitle> value="Employee Stock Options (Right to Buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="15.775">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="4000" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate><footnoteId id="F1" /> 
+</exerciseDate>
+<expirationDate> value="2016-08-14" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Ordinary Shares" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="4000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="0" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="The option became exercisable with respect to 8,000 shares on 8/14/2010." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="/s/ Bruce Jordan, Attorney-in-fact for Emanuel Lazopoulos">
+</ownerSignature>
+</ownershipDocument></Source>

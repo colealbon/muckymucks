@@ -1,0 +1,110 @@
+<Source file="./0000864749-10-000061.nc">
+<SUBMISSION ACCESSION-NUMBER="0000864749-10-000061" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101105" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><ISSUER><COMPANY-DATA ASSIGNED-SIC="3829" CIK="0000864749" CONFORMED-NAME="TRIMBLE NAVIGATION LTD /CA/" FISCAL-YEAR-END="1231" IRS-NUMBER="942802192" STATE-OF-INCORPORATION="CA" /><BUSINESS-ADDRESS CITY="SUNNYVALE" PHONE="4084818000" STATE="CA" STREET1="935 STEWART DRIVE" ZIP="94085" /><MAIL-ADDRESS CITY="SUNNYVALE" STATE="CA" STREET1="935 STEWART DRIVE" ZIP="94085" /></ISSUER><REPORTING-OWNER><OWNER-DATA CIK="0001268131" CONFORMED-NAME="KIRKLAND JAMES A" /><FILING-VALUES ACT="34" FILE-NUMBER="001-14845" FILM-NUMBER="101171927" FORM-TYPE="4" /><MAIL-ADDRESS CITY="SAN JOSE" STATE="CA" STREET1="110 RIO ROBLES" ZIP="95134" /></REPORTING-OWNER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-05" schemaVersion="X0303">
+<issuer> issuerCik="0000864749" 
+ issuerName="TRIMBLE NAVIGATION LTD /CA/" 
+ issuerTradingSymbol="TRMB" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001268131" 
+ rptOwnerName="KIRKLAND JAMES A" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="SUNNYVALE" rptOwnerState="CA" rptOwnerStreet1="C/O TRIMBLE NAVAGATION LIMITED" rptOwnerStreet2="935 STEWART DRIVE" rptOwnerZipCode="94085">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="1" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+ officerTitle="Vice President" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="6000" 
+</transactionShares>
+<transactionPricePerShare value="19.96">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="6240" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="6000" 
+</transactionShares>
+<transactionPricePerShare value="38">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="240" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<derivativeTable><derivativeTransaction><securityTitle> value="Employee Stock Option" 
+</securityTitle>
+<conversionOrExercisePrice value="19.96">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="6000" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate><footnoteId id="F1" /> 
+</exerciseDate>
+<expirationDate> value="2015-10-20" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="6000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="9000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="This option vests 40% after two years and 1.67% a month thereafter." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="James Kirkland">
+</ownerSignature>
+</ownershipDocument></Source>

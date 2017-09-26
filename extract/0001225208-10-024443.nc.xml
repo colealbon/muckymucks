@@ -1,0 +1,71 @@
+<Source file="./0001225208-10-024443.nc">
+<SUBMISSION ACCESSION-NUMBER="0001225208-10-024443" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="2" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001364109" CONFORMED-NAME="Williams Michael Andrew" /><FILING-VALUES ACT="34" FILE-NUMBER="000-30419" FILM-NUMBER="101172257" FORM-TYPE="4" /><MAIL-ADDRESS CITY="PHOENIX" STATE="AZ" STREET1="ON SEMICONDUCTOR C/O J. BOYLE (M/D A700)" STREET2="5005 EAST MCDOWELL ROAD" ZIP="85008" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="3674" CIK="0001097864" CONFORMED-NAME="ON SEMICONDUCTOR CORP" FISCAL-YEAR-END="1231" IRS-NUMBER="363840979" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="PHOENIX" PHONE="6022446600" STATE="AZ" STREET1="5005 EAST MCDOWELL ROAD" ZIP="85008" /><MAIL-ADDRESS CITY="PHOENIX" STATE="AZ" STREET1="5005 EAST MCDOWELL ROAD" ZIP="85008" /><FORMER-COMPANY DATE-CHANGED="19991027" FORMER-CONFORMED-NAME="SCG HOLDING CORP" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0001097864" 
+ issuerName="ON SEMICONDUCTOR CORP" 
+ issuerTradingSymbol="ONNN" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001364109" 
+ rptOwnerName="Williams Michael Andrew" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="PHOENIX" rptOwnerState="AZ" rptOwnerStreet1="5005 EAST MCDOWELL ROAD" rptOwnerStreet2="" rptOwnerZipCode="85008" />
+
+
+<reportingOwnerRelationship isOfficer="1" officerTitle="SVP &amp; GM, Auto &amp; Pwr Grp">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="A" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="19724.0000" 
+<footnoteId id="F1" /> 
+</transactionShares>
+<transactionPricePerShare> value="8.0100" 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="133474.5680" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="F" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="6224.0000" 
+<footnoteId id="F2" /> 
+</transactionShares>
+<transactionPricePerShare> value="8.0100" 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="127250.5680" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<derivativeTable /> 
+<footnotes>
+<footnote id="F1" text="This transaction reports the acquisition, effective November 4, 2010 of 19,724 shares of common stock resulting from the attainment of a performance goal under an earlier award of Performance Based Restricted Stock Units (PBRSU Award) as described in further detail below.  The Compensation Committee of the Issuer originally awarded 236,687 PBRSUs to the Reporting Person with an effective grant date of March 2, 2009 subject to the Issuer&apos;s 2000 Stock Incentive Plan and a related award agreement.  The PBRSU Award vests generally over a three-year (twelve quarter) period but only upon the Issuer achieving certain adjusted non-GAAP earnings before interest, taxes, depreciation and amortization (EBITDA) base and target performance measurements as set forth in the PBRSU Award agreement." /> 
+ <footnote id="F2" text="This disposition transaction represents shares withheld by the Issuer pursuant to the Reporting Person&apos;s March 2, 2009 award of Performance Based Restricted Stock Units (PBRSUs).  On November 4, 2010 certain of these units vested.  These shares were withheld to satisfy the Reporting Person&apos;s withholding obligations for various taxes and similar items.  The Issuer will pay these taxes on behalf of the Reporting Person." /> 
+</footnotes>
+ remarks="Judith A. Boyle is signing on behalf of the Reporting Person pursuant to a Power of Attorney attached herein as an exhibit williams2010poa.txt" 
+<ownerSignature signatureDate="2010-11-08" signatureName="Judith A. Boyle, Attorney-in-Fact">
+</ownerSignature>
+</ownershipDocument></Source>

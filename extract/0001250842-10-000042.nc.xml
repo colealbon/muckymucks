@@ -1,0 +1,49 @@
+<Source file="./0001250842-10-000042.nc">
+<SUBMISSION ACCESSION-NUMBER="0001250842-10-000042" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101105" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001251155" CONFORMED-NAME="SMITH ROBERT E" /><FILING-VALUES ACT="34" FILE-NUMBER="000-26076" FILM-NUMBER="101171630" FORM-TYPE="4" /><MAIL-ADDRESS CITY="COCKEYSVILLE" STATE="MD" STREET1="10706 BEAVER DAM ROAD" ZIP="21030" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="4833" CIK="0000912752" CONFORMED-NAME="SINCLAIR BROADCAST GROUP INC" FISCAL-YEAR-END="1231" IRS-NUMBER="521494660" STATE-OF-INCORPORATION="MD" /><BUSINESS-ADDRESS CITY="HUNT VALLEY" PHONE="4105681500" STATE="MD" STREET1="10706 BEAVER DAM ROAD" ZIP="21030" /><MAIL-ADDRESS CITY="HUNT VALLEY" STATE="MD" STREET1="10706 BEAVER DAM ROAD" ZIP="21030" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-05" schemaVersion="X0303">
+<issuer> issuerCik="0000912752" 
+ issuerName="SINCLAIR BROADCAST GROUP INC" 
+ issuerTradingSymbol="SBGI" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001251155" 
+ rptOwnerName="SMITH ROBERT E" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="COCKEYSVILLE" rptOwnerState="MD" rptOwnerStreet1="10706 BEAVER DAM ROAD" rptOwnerStreet2="" rptOwnerZipCode="21030" />
+
+
+<reportingOwnerRelationship isDirector="1" isOfficer="0" isOther="0" isTenPercentOwner="1">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Class A Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="5050" 
+</transactionShares>
+<transactionPricePerShare value="8.352">
+<footnoteId id="F1" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="D" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="846737" 
+<footnoteId id="F2" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<footnotes> <footnote id="F1" text="The sale price is a weighted average for the sale reported.  The range of prices for this sale was $8.35 - $8.40.  The Reporting Person undertakes to provide, upon request by the Commission staff, the issuer or a security holder of the issuer, full information regarding the number of shares sold at each separate price." /> 
+ <footnote id="F2" text="The Reporting Person also directly owns 7,139,806 shares of Class B Common Stock and 481.801037 shares of Common Stock held by a 401k Plan, and indirectly owns 291,049 shares of Class B Common Stock held in a trust f/b/o family members." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="Lisa A. Olivieri, Esquire, on behalf of Robert E. Smith, by Power of Attorney">
+</ownerSignature>
+</ownershipDocument></Source>

@@ -1,0 +1,134 @@
+<Source file="./0001127602-10-027361.nc">
+<SUBMISSION ACCESSION-NUMBER="0001127602-10-027361" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001239916" CONFORMED-NAME="UPRICHARD DAVID C" /><FILING-VALUES ACT="34" FILE-NUMBER="000-25317" FILM-NUMBER="101173559" FORM-TYPE="4" /><MAIL-ADDRESS CITY="PHILADELPHIA" STATE="PA" STREET1="12 PINE STREET" ZIP="19106" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="2836" CIK="0001073431" CONFORMED-NAME="Life Technologies Corp" FISCAL-YEAR-END="1231" IRS-NUMBER="330373077" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="CARLSBAD" PHONE="7606037200" STATE="CA" STREET1="5791 VAN ALLEN WAY" ZIP="92008" /><MAIL-ADDRESS CITY="CARLSBAD" STATE="CA" STREET1="5791 VAN ALLEN WAY" ZIP="92008" /><FORMER-COMPANY DATE-CHANGED="19981113" FORMER-CONFORMED-NAME="INVITROGEN CORP" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0001073431" 
+ issuerName="Life Technologies Corp" 
+ issuerTradingSymbol="LIFE" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001239916" 
+ rptOwnerName="UPRICHARD DAVID C" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="CARLSBAD" rptOwnerState="CA" rptOwnerStreet1="5791 VAN ALLEN WAY" rptOwnerStreet2="" rptOwnerZipCode="92008" />
+
+
+<reportingOwnerRelationship isDirector="1">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+<footnoteId id="F1" /> 
+</securityTitle>
+<transactionDate> value="2010-11-04" 
+</transactionDate>
+<deemedExecutionDate value="2010-11-04">
+</deemedExecutionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness />
+<transactionAmounts><transactionShares> value="1000" 
+</transactionShares>
+<transactionPricePerShare value="31.86">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="2300" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+<footnoteId id="F2" /> 
+</securityTitle>
+<transactionDate> value="2010-11-04" 
+</transactionDate>
+<deemedExecutionDate value="2010-11-04">
+</deemedExecutionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness />
+<transactionAmounts><transactionShares> value="500" 
+</transactionShares>
+<transactionPricePerShare value="51.90">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="1800" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+<footnoteId id="F2" /> 
+</securityTitle>
+<transactionDate> value="2010-11-04" 
+</transactionDate>
+<deemedExecutionDate value="2010-11-04">
+</deemedExecutionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness />
+<transactionAmounts><transactionShares> value="500" 
+</transactionShares>
+<transactionPricePerShare value="51.9014">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="1300" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<derivativeTable><derivativeTransaction><securityTitle> value="Stock Options" 
+<footnoteId id="F1" /> 
+</securityTitle>
+<conversionOrExercisePrice> value="31.86" 
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<deemedExecutionDate value="2010-11-04">
+</deemedExecutionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness />
+<transactionAmounts><transactionShares> value="1000" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate> value="2007-04-24" 
+</exerciseDate>
+<expirationDate value="2016-04-24">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="1000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="6000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="Options exercised from Grant #101047" /> 
+ <footnote id="F2" text="Sale of common stock from exercise of Grant # 101047" /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="/s/ David L. Szekeres, POA">
+</ownerSignature>
+</ownershipDocument></Source>

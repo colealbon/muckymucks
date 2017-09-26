@@ -1,0 +1,126 @@
+<Source file="./0001184876-10-000012.nc">
+<SUBMISSION ACCESSION-NUMBER="0001184876-10-000012" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001184876" CONFORMED-NAME="KITS VAN HEYNINGEN MARTIN" /><FILING-VALUES ACT="34" FILE-NUMBER="000-28082" FILM-NUMBER="101172654" FORM-TYPE="4" /><MAIL-ADDRESS CITY="MIDDLETOWN" STATE="RI" STREET1="50 ENTERPRISE CENTER" ZIP="02842" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="3663" CIK="0001007587" CONFORMED-NAME="KVH INDUSTRIES INC \DE\" FISCAL-YEAR-END="1231" IRS-NUMBER="050420589" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="MIDDLETOWN" PHONE="4018473327" STATE="RI" STREET1="50 ENTERPRISE CENTER" ZIP="02842" /><MAIL-ADDRESS CITY="MIDDLETOWN" STATE="RI" STREET1="50 ENTERPRISE CENTER" ZIP="02842" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0001007587" 
+ issuerName="KVH INDUSTRIES INC \DE\" 
+ issuerTradingSymbol="KVHI" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001184876" 
+ rptOwnerName="KITS VAN HEYNINGEN MARTIN" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="MIDDLETOWN" rptOwnerState="RI" rptOwnerStreet1="KVH INDUSTRIES, INC." rptOwnerStreet2="50 ENTERPRISE CENTER" rptOwnerZipCode="02842">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="1" 
+ isOfficer="1" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+ officerTitle="CEO/Chairman BOD" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="A" transactionFormType="4">
+<footnoteId id="F1" /> 
+</transactionCoding>
+<transactionAmounts><transactionShares> value="821" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="9369" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="By Spouse">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeHolding>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="398653" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+</nonDerivativeTable>
+<derivativeTable>
+<derivativeHolding><securityTitle> value="Employee Stock Options-Right to Buy" 
+</securityTitle>
+<conversionOrExercisePrice>
+<footnoteId id="F2" /> 
+</conversionOrExercisePrice>
+<exerciseDate><footnoteId id="F2" /> 
+</exerciseDate>
+<expirationDate><footnoteId id="F2" /> 
+</expirationDate>
+<underlyingSecurity><underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares>
+<footnoteId id="F2" /> 
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="70000" 
+<footnoteId id="F3" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding><securityTitle> value="Employee Stock Options-Right to Buy" 
+</securityTitle>
+<conversionOrExercisePrice>
+<footnoteId id="F2" /> 
+</conversionOrExercisePrice>
+<exerciseDate><footnoteId id="F2" /> 
+</exerciseDate>
+<expirationDate><footnoteId id="F2" /> 
+</expirationDate>
+<underlyingSecurity><underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares>
+<footnoteId id="F2" /> 
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="2100" 
+<footnoteId id="F4" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="By Spouse">
+</natureOfOwnership>
+</ownershipNature>
+</derivativeHolding>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="A restricted stock award granted to spouse/KVH employee issued pursuant to the terms &amp; conditions of KVH Industries&apos; 2006 Stock Incentive Plan.  This award vests in 4 installations (206 on 11/4/11; 205 on 11/4/12; 205 on 11/4/13; 205 on 11/4/14)." /> 
+ <footnote id="F2" text="Not applicable." /> 
+ <footnote id="F3" text="Represents total vested/unexercised options beneficially owned." /> 
+ <footnote id="F4" text="Represents total vested/unexercised options beneficially owned by spouse." /> 
+</footnotes>
+<remarks />
+<ownerSignature> signatureName="Martin Kits van Heyningen" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

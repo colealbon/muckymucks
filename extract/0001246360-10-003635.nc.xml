@@ -1,0 +1,46 @@
+<Source file="./0001246360-10-003635.nc">
+<SUBMISSION ACCESSION-NUMBER="0001246360-10-003635" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001378831" CONFORMED-NAME="Weld Gwen E" /><FILING-VALUES ACT="34" FILE-NUMBER="001-33196" FILM-NUMBER="101172742" FORM-TYPE="4" /><MAIL-ADDRESS CITY="SEATTLE" STATE="WA" STREET1="C/O ISILON SYSTEMS, INC." STREET2="3101 WESTERN AVENUE" ZIP="98121" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="3572" CIK="0001373671" CONFORMED-NAME="Isilon Systems, Inc." FISCAL-YEAR-END="1231" IRS-NUMBER="912101027" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="SEATTLE" PHONE="206-315-7500" STATE="WA" STREET1="3101 WESTERN AVENUE" ZIP="98121" /><MAIL-ADDRESS CITY="SEATTLE" STATE="WA" STREET1="3101 WESTERN AVENUE" ZIP="98121" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="false" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0001373671" 
+ issuerName="Isilon Systems, Inc." 
+ issuerTradingSymbol="ISLN" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001378831" 
+ rptOwnerName="Weld Gwen E" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="SEATTLE" rptOwnerState="WA" rptOwnerStreet1="3101 WESTERN AVENUE" rptOwnerStreet2="" rptOwnerZipCode="98121" />
+
+
+<reportingOwnerRelationship isDirector="false" isOfficer="true" isOther="false" isTenPercentOwner="false" officerTitle="VP HR and Organizational Dev">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="S" 
+ equitySwapInvolved="false" 
+<footnoteId id="F1" /> 
+</transactionCoding>
+<transactionAmounts><transactionShares> value="5000" 
+</transactionShares>
+<transactionPricePerShare value="28.5">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="127270" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<footnotes> <footnote id="F1" text="The sales reported by Ms. Weld were effected pursuant to a Rule 10b5-1 trading plan adopted on August 9, 2010." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="Keenan M. Conder, Attorney-in-Fact">
+</ownerSignature>
+</ownershipDocument></Source>

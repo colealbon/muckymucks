@@ -1,0 +1,82 @@
+<Source file="./0000313616-10-000104.nc">
+<SUBMISSION ACCESSION-NUMBER="0000313616-10-000104" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001205260" CONFORMED-NAME="COMAS DANIEL L" /><FILING-VALUES ACT="34" FILE-NUMBER="001-08089" FILM-NUMBER="101173623" FORM-TYPE="4" /><MAIL-ADDRESS CITY="WASHINGTON" STATE="DC" STREET1="DANAHER CORP" STREET2="2099 PENNSYLVANIA AVE NW 12TH FL" ZIP="20006" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="3823" CIK="0000313616" CONFORMED-NAME="DANAHER CORP /DE/" FISCAL-YEAR-END="1231" IRS-NUMBER="591995548" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="WASHINGTON" PHONE="2028280850" STATE="DC" STREET1="2099 PENNSYLVANIA AVE N.W., 12TH FLOOR" ZIP="20006" /><MAIL-ADDRESS CITY="WASHINGTON" STATE="DC" STREET1="2099 PENNSYLVANIA AVE. N.W., 12TH FLOOR" ZIP="20006" /><FORMER-COMPANY DATE-CHANGED="19850221" FORMER-CONFORMED-NAME="DMG INC" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0000313616" 
+ issuerName="DANAHER CORP /DE/" 
+ issuerTradingSymbol="DHR" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001205260" 
+ rptOwnerName="COMAS DANIEL L" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="WASHINGTON" rptOwnerState="DC" rptOwnerStreet1="2099 PENNSYLVANIA AVENUE, NW" rptOwnerStreet2="12TH FLOOR" rptOwnerZipCode="20006">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="1" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+ officerTitle="EVP &amp; CFO" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="A" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="29140" 
+<footnoteId id="F1" /> 
+</transactionShares>
+<transactionPricePerShare> value="0" 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="62729" 
+<footnoteId id="F2" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeHolding><securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="4528" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="By spouse">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="6585" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="By 401(k)">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+</nonDerivativeTable>
+<footnotes> <footnote id="F1" text="On February 20, 2008, the Compensation Committee of the Company&apos;s Board of Directors awarded the reporting person performance based restricted stock units. This Form 4 is being filed in connection with the determination by the Compensation Committee that the performance criteria of the award have been achieved.  The award remains subject to time-based vesting provisions." /> 
+ <footnote id="F2" text="Includes performance based restricted stock units as to which the performance criteria have been satisfied." /> 
+</footnotes>
+<remarks />
+<ownerSignature> signatureName="James F. O'Reilly, attorney-in-fact for Daniel L. Comas" 
+ signatureDate="2010-11-05" 
+</ownerSignature>
+</ownershipDocument></Source>

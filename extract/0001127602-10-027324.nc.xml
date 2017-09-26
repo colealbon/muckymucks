@@ -1,0 +1,21 @@
+<Source file="./0001127602-10-027324.nc">
+<SUBMISSION ACCESSION-NUMBER="0001127602-10-027324" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101008" PUBLIC-DOCUMENT-COUNT="2" TYPE="3"><REPORTING-OWNER><OWNER-DATA CIK="0001311271" CONFORMED-NAME="Bennink Jan" /><FILING-VALUES ACT="34" FILE-NUMBER="001-34874" FILM-NUMBER="101172964" FORM-TYPE="3" /><MAIL-ADDRESS CITY="SCHIPHOL AIRPORT" STATE="P7" STREET1="P.O. BOX 75538" ZIP="1118 ZN" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="2086" CIK="0001491675" CONFORMED-NAME="COCA-COLA ENTERPRISES, INC." FISCAL-YEAR-END="1231" IRS-NUMBER="272197395" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="ATLANTA" PHONE="678-260-3000" STATE="GA" STREET1="2500 WINDY RIDGE PARKWAY, NW" STREET2="14TH FLOOR" ZIP="30339" /><MAIL-ADDRESS CITY="ATLANTA" STATE="GA" STREET1="2500 WINDY RIDGE PARKWAY, NW" STREET2="14TH FLOOR" ZIP="30339" /><FORMER-COMPANY DATE-CHANGED="20100511" FORMER-CONFORMED-NAME="International CCE Inc." /></ISSUER></SUBMISSION><ownershipDocument documentType="3" noSecuritiesOwned="1" periodOfReport="2010-10-08" schemaVersion="X0203">
+<issuer> issuerCik="0001491675" 
+ issuerName="COCA-COLA ENTERPRISES, INC." 
+ issuerTradingSymbol="CCE" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001311271" 
+ rptOwnerName="Bennink Jan" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="ATLANTA" rptOwnerState="GA" rptOwnerStreet1="2500 WINDY RIDGE PARKWAY, NW" rptOwnerStreet2="14TH FLOOR" rptOwnerZipCode="30339">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="1" 
+</reportingOwnerRelationship>
+</reportingOwner>
+ remarks="Exhibit 24 Power of Attorney is attached." 
+<ownerSignature signatureDate="2010-11-08" signatureName="Suzanne N. Forlidas, attorney-in-fact">
+</ownerSignature>
+</ownershipDocument></Source>

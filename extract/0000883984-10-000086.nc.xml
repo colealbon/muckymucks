@@ -1,0 +1,123 @@
+<Source file="./0000883984-10-000086.nc">
+<SUBMISSION ACCESSION-NUMBER="0000883984-10-000086" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101108" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><ISSUER><COMPANY-DATA ASSIGNED-SIC="3841" CIK="0000883984" CONFORMED-NAME="ICU MEDICAL INC/DE" FISCAL-YEAR-END="1231" IRS-NUMBER="330022692" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="SAN CLEMENTE" PHONE="949-366-2183" STATE="CA" STREET1="951 CALLE AMANECER" ZIP="92763-6212" /><MAIL-ADDRESS CITY="SAN CLEMENTE" STATE="CA" STREET1="951 CALLE AMANECER" ZIP="92763-6212" /></ISSUER><REPORTING-OWNER><OWNER-DATA CIK="0001073397" CONFORMED-NAME="LOPEZ GEORGE A" /><FILING-VALUES ACT="34" FILE-NUMBER="001-34634" FILM-NUMBER="101173679" FORM-TYPE="4" /><MAIL-ADDRESS CITY="SAN CLEMENTE" STATE="CA" STREET1="C/O ICU MEDICAL" STREET2="951 CALLE AMANECER" ZIP="92673" /></REPORTING-OWNER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-08" schemaVersion="X0303">
+<issuer> issuerCik="0000883984" 
+ issuerName="ICU MEDICAL INC/DE" 
+ issuerTradingSymbol="ICUI" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001073397" 
+ rptOwnerName="LOPEZ GEORGE A" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="SAN CLEMENTE" rptOwnerState="CA" rptOwnerStreet1="951 CALLE AMANECER" rptOwnerStreet2="" rptOwnerZipCode="92673" />
+
+
+<reportingOwnerRelationship isDirector="1" isOfficer="1" isOther="0" isTenPercentOwner="1" officerTitle="Chairman">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-08">
+</transactionDate>
+<deemedExecutionDate value="2010-11-08">
+</deemedExecutionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="X" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="1500" 
+</transactionShares>
+<transactionPricePerShare value="10.3333">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="335419" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-08">
+</transactionDate>
+<deemedExecutionDate value="2010-11-08">
+</deemedExecutionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+<footnoteId id="F1" /> 
+</transactionCoding>
+<transactionAmounts><transactionShares> value="1500" 
+</transactionShares>
+<transactionPricePerShare value="37">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="333919" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeHolding>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="1186843" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="by Partnership">
+<footnoteId id="F2" /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+</nonDerivativeTable>
+<derivativeTable>
+<derivativeTransaction><securityTitle> value="Non-Qualified Stock Option (right to buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="10.3333">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-08">
+</transactionDate>
+<deemedExecutionDate value="2010-11-08">
+</deemedExecutionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="X" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="1500" 
+</transactionShares>
+<transactionPricePerShare>
+<footnoteId id="F3" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="D" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate> value="2003-01-01" 
+</exerciseDate>
+<expirationDate value="2010-12-20">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="1500">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="26316" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="The sales reported in this Form 4 were effected pursuant to a Rule 10b5-1 trading plan adopted by the reporting person on August 3, 2010." /> 
+ <footnote id="F2" text="Common Stock owned by George A. Lopez M.D. Second Family Limited Partnership. Dr. Lopez holds a one-percent general partnership interest in the Partnership. As general partner, he has the power to vote and power to dispose of the 1,186,843 shares owned by the Partnership and may be deemed to be beneficial owner of such shares.  The Partnership acquired the shares on 2/24/99 from Trusts for the benefit of the Lopez children, the Christopher George Lopez Children&apos;s Trust and the Nicholas George Lopez Children&apos;s Trust, which own a 99% limited partnership in the Partnership.  Dr. Lopez is not trustee of and has no interest in the children&apos;s Trusts.  Except to the extent of his undivided one percent general partnership interest in the assets of the Partnership, Dr. Lopez disclaims any beneficial ownership of the shares owned by the Partnership." /> 
+ <footnote id="F3" text="Transaction is the exercise of a derivative security; see Column 2." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="By: Lynn DeMartini  For: George A. Lopez, M.D.">
+</ownerSignature>
+</ownershipDocument></Source>

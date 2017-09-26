@@ -1,0 +1,27 @@
+<Source file="./0001209191-10-053653.nc">
+<SUBMISSION ACCESSION-NUMBER="0001209191-10-053653" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101015" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001216540" CONFORMED-NAME="GEOGHEGAN JOHN A" /><FILING-VALUES ACT="34" FILE-NUMBER="000-29599" FILM-NUMBER="101172066" FORM-TYPE="4" /><MAIL-ADDRESS CITY="RYE" STATE="NY" STREET1="155 OSBORN RD" ZIP="10580" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="6021" CIK="0001098146" CONFORMED-NAME="PATRIOT NATIONAL BANCORP INC" FISCAL-YEAR-END="1231" IRS-NUMBER="061559137" STATE-OF-INCORPORATION="CT" /><BUSINESS-ADDRESS CITY="STAMFORD" PHONE="2033247500" STATE="CT" STREET1="900 BEDFORD ST" ZIP="06901" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="1" periodOfReport="2010-10-15" schemaVersion="X0303">
+<issuer> issuerCik="0001098146" 
+ issuerName="PATRIOT NATIONAL BANCORP INC" 
+ issuerTradingSymbol="PNBK" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001216540" 
+ rptOwnerName="GEOGHEGAN JOHN A" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="STAMFORD" rptOwnerState="CT" rptOwnerStreet1="C/O PATRIOT NATIONAL BANCORP, INC." rptOwnerStreet2="900 BEDFORD STREET" rptOwnerZipCode="06901">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="0" 
+ isTenPercentOwner="0" 
+ isOther="1" 
+ otherText="Former Director" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable /> 
+<derivativeTable />
+<ownerSignature> signatureName="/s/ John A. Geoghegan" 
+ signatureDate="2010-10-27" 
+</ownerSignature>
+</ownershipDocument></Source>

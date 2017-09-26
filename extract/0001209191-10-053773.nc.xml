@@ -1,0 +1,55 @@
+<Source file="./0001209191-10-053773.nc">
+<SUBMISSION ACCESSION-NUMBER="0001209191-10-053773" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001364708" CONFORMED-NAME="Costa Mark J" /><FILING-VALUES ACT="34" FILE-NUMBER="001-12626" FILM-NUMBER="101173822" FORM-TYPE="4" /><MAIL-ADDRESS CITY="KINGSPORT" STATE="TN" STREET1="200 SOUTH WILCOX DRIVE" STREET2="P.O. BOX 431" ZIP="37660" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="2821" CIK="0000915389" CONFORMED-NAME="EASTMAN CHEMICAL CO" FISCAL-YEAR-END="1007" IRS-NUMBER="621539359" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="KINGSPORT" PHONE="4232292000" STATE="TN" STREET1="PO BOX 511" STREET2="200 SOUTH WILCOX DRIVE" ZIP="37660" /><MAIL-ADDRESS CITY="KINGSPORT" STATE="TN" STREET1="P O BOX BOX 511 B-54D" ZIP="37662" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0000915389" 
+ issuerName="EASTMAN CHEMICAL CO" 
+ issuerTradingSymbol="EMN" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001364708" 
+ rptOwnerName="Costa Mark J" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="KINGSPORT" rptOwnerState="TN" rptOwnerStreet1="200 SOUTH WILCOX DRIVE" rptOwnerStreet2="" rptOwnerZipCode="37660" />
+
+
+<reportingOwnerRelationship isDirector="0" isOfficer="1" isOther="0" isTenPercentOwner="0" officerTitle="EVP, Spc Poly,Coat &amp; Adh &amp; CMO">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="4705" 
+</transactionShares>
+<transactionPricePerShare value="80.00">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="7133" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeHolding>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="949" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="By ESOP">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+</nonDerivativeTable>
+<derivativeTable /> 
+<ownerSignature signatureDate="2010-11-08" signatureName="Brian L. Henry, by Power of Attorney">
+</ownerSignature>
+</ownershipDocument></Source>

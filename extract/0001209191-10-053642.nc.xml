@@ -1,0 +1,32 @@
+<Source file="./0001209191-10-053642.nc">
+<SUBMISSION ACCESSION-NUMBER="0001209191-10-053642" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101001" PUBLIC-DOCUMENT-COUNT="2" TYPE="3"><REPORTING-OWNER><OWNER-DATA CIK="0001252689" CONFORMED-NAME="STALEY JAMES D" /><FILING-VALUES ACT="34" FILE-NUMBER="001-34734" FILM-NUMBER="101171906" FORM-TYPE="3" /><MAIL-ADDRESS CITY="AKRON" STATE="OH" STREET1="C/O ROADWAY CORP" STREET2="1077 GORGE BLVD" ZIP="44310" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="4731" CIK="0001440024" CONFORMED-NAME="Roadrunner Transportation Systems, Inc." FISCAL-YEAR-END="1231" IRS-NUMBER="202454942" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="CUDAHY" PHONE="414-615-1500" STATE="WI" STREET1="4900 S. PENNSYLVANIA AVENUE" ZIP="53110" /><MAIL-ADDRESS CITY="CUDAHY" STATE="WI" STREET1="4900 S. PENNSYLVANIA AVENUE" ZIP="53110" /><FORMER-COMPANY DATE-CHANGED="20080715" FORMER-CONFORMED-NAME="Roadrunner Transportation Services Holdings, Inc." /></ISSUER></SUBMISSION><ownershipDocument documentType="3" noSecuritiesOwned="0" periodOfReport="2010-10-01" schemaVersion="X0203">
+<issuer> issuerCik="0001440024" 
+ issuerName="Roadrunner Transportation Systems, Inc." 
+ issuerTradingSymbol="RRTS" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001252689" 
+ rptOwnerName="STALEY JAMES D" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="CUDAHY" rptOwnerState="WI" rptOwnerStreet1="4900 S. PENNSYLVANIA AVENUE" rptOwnerStreet2="" rptOwnerZipCode="53110" />
+
+
+<reportingOwnerRelationship isDirector="1" isOfficer="0" isOther="0" isTenPercentOwner="0">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeHolding><securityTitle> value="No Securities Beneficially Owned" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="0" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+</nonDerivativeTable>
+<remarks />
+<ownerSignature> signatureName="James D. Staley" 
+ signatureDate="2010-11-03" 
+</ownerSignature>
+</ownershipDocument></Source>

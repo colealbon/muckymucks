@@ -1,0 +1,42 @@
+<Source file="./0001497097-10-000012.nc">
+<SUBMISSION ACCESSION-NUMBER="0001497097-10-000012" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101105" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001370766" CONFORMED-NAME="Moring Andrew John" /><FILING-VALUES ACT="34" FILE-NUMBER="000-24838" FILM-NUMBER="101173792" FORM-TYPE="4" /><MAIL-ADDRESS CITY="FREMONT" STATE="CA" STREET1="47131 BAYSIDE PARKWAY" ZIP="94538" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="3559" CIK="0000928421" CONFORMED-NAME="MATTSON TECHNOLOGY INC" FISCAL-YEAR-END="1231" IRS-NUMBER="770208119" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="FREMONT" PHONE="510 657 5900" STATE="CA" STREET1="47131 BAYSIDE PARKWAY" ZIP="94538" /><MAIL-ADDRESS CITY="FREMONT" STATE="CA" STREET1="47131 BAYSIDE PARKWAY" ZIP="94538" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-05" schemaVersion="X0303">
+<issuer> issuerCik="0000928421" 
+ issuerName="MATTSON TECHNOLOGY INC" 
+ issuerTradingSymbol="MTSN" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001370766" 
+ rptOwnerName="Moring Andrew John" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="FREMONT" rptOwnerState="CA" rptOwnerStreet1="47131 BAYSIDE PARKWAY" rptOwnerStreet2="" rptOwnerZipCode="94538" />
+
+
+<reportingOwnerRelationship isDirector="0" isOfficer="1" isOther="0" isTenPercentOwner="0" officerTitle="Chief Financial Officer">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="29" 
+</transactionShares>
+<transactionPricePerShare value="2.69">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="3534" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<ownerSignature> signatureName="Andrew Moring" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

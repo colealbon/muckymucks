@@ -1,0 +1,85 @@
+<Source file="./0001209191-10-053830.nc">
+<SUBMISSION ACCESSION-NUMBER="0001209191-10-053830" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101105" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001350416" CONFORMED-NAME="Kaye Randall" /><FILING-VALUES ACT="34" FILE-NUMBER="001-15803" FILM-NUMBER="101174110" FORM-TYPE="4" /><MAIL-ADDRESS CITY="SAN DIEGO" STATE="CA" STREET1="11388 SORRENTO VALLEY ROAD" STREET2="STE. 200" ZIP="92121" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="2834" CIK="0000858803" CONFORMED-NAME="AVANIR PHARMACEUTICALS, INC." FISCAL-YEAR-END="0930" IRS-NUMBER="330314804" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="ALISO VIEJO" PHONE="949-389-6700" STATE="CA" STREET1="101 ENTERPRISE" STREET2="SUITE 300" ZIP="92656" /><MAIL-ADDRESS CITY="ALISO VIEJO" STATE="CA" STREET1="101 ENTERPRISE" STREET2="SUITE 300" ZIP="92656" /><FORMER-COMPANY DATE-CHANGED="19981207" FORMER-CONFORMED-NAME="AVANIR PHARMACEUTICALS" /><FORMER-COMPANY DATE-CHANGED="19920703" FORMER-CONFORMED-NAME="LIDAK PHARMACEUTICALS" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-05" schemaVersion="X0303">
+<issuer> issuerCik="0000858803" 
+ issuerName="AVANIR PHARMACEUTICALS, INC." 
+ issuerTradingSymbol="AVNR" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001350416" 
+ rptOwnerName="Kaye Randall" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="ALISO VIEJO" rptOwnerState="CA" rptOwnerStreet1="101 ENTERPRISE, SUITE 300" rptOwnerStreet2="" rptOwnerZipCode="92656" />
+
+
+<reportingOwnerRelationship isDirector="0" isOfficer="1" isOther="0" isTenPercentOwner="0" officerTitle="Sr. VP, Chief Medical Officer">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="S" 
+ equitySwapInvolved="0" 
+<footnoteId id="F1" /> 
+</transactionCoding>
+<transactionTimeliness><value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="10000" 
+</transactionShares>
+<transactionPricePerShare value="4.7556">
+<footnoteId id="F2" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="D" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="187136" 
+<footnoteId id="F3" /> 
+<footnoteId id="F4" />
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeHolding>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="6250" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="By son">
+<footnoteId id="F5" /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding><securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="6250" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="By daughter">
+<footnoteId id="F5" /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+</nonDerivativeTable>
+<footnotes>
+<footnote id="F1" text="The sales reported in this Form 4 were effected pursuant to a Rule 10b5-1 trading plan adopted by the Reporting Person on March 3, 2010 and the proceeds from such sales were used in part to pay required tax withholdings due upon vesting of restricted stock units previously granted to the Reporting Person." /> 
+ <footnote id="F2" text="The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $4.75 to $4.78, inclusive. The Reporting Person undertakes to provide to the Issuer, any security holder of the Issuer, or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range." /> 
+ <footnote id="F3" text="Since the date of the reporting person&apos;s last ownership report, he transferred 29,900 shares of the Issuer&apos;s common stock pursuant a domestic relations order.  The reporting person no longer reports as beneficially owned any securities that were transferred pursuant to this order." /> 
+ <footnote id="F4" text="Includes shares of common stock underlying Restricted Stock Units granted to the Reporting Person, which are subject to certain vesting conditions." /> 
+ <footnote id="F5" text="The Reporting Person disclaims beneficial ownership of these shares, and this report shall not be deemed an admission that the Reporting Person is the beneficial owner of such securities for purposes of Section 16 or for any other purpose." /> 
+</footnotes>
+<remarks />
+<ownerSignature> signatureName="/s/ Christine G. Ocampo, by power of attorney for Randall E. Kaye" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

@@ -1,0 +1,138 @@
+<Source file="./0001209191-10-053699.nc">
+<SUBMISSION ACCESSION-NUMBER="0001209191-10-053699" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101108" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><ISSUER><COMPANY-DATA ASSIGNED-SIC="4813" CIK="0000808461" CONFORMED-NAME="GENERAL COMMUNICATION INC" FISCAL-YEAR-END="1231" IRS-NUMBER="920072737" STATE-OF-INCORPORATION="AK" /><BUSINESS-ADDRESS CITY="ANCHORAGE" PHONE="9072655600" STATE="AK" STREET1="2550 DENALI ST STE 1000" ZIP="99503" /><MAIL-ADDRESS CITY="ANCHORAGE" STATE="AK" STREET1="2550 DENALI STREET" STREET2="SUITE 1000" ZIP="99503" /></ISSUER><REPORTING-OWNER><OWNER-DATA CIK="0000904858" CONFORMED-NAME="STANTON JOHN W" /><FILING-VALUES ACT="34" FILE-NUMBER="000-15279" FILM-NUMBER="101172758" FORM-TYPE="4" /><MAIL-ADDRESS CITY="BELLEVUE" STATE="WA" STREET1="3650 131ST AVE SE #400" STREET2="WESTERN WIRELESS CORP" ZIP="98006" /></REPORTING-OWNER><REPORTING-OWNER><OWNER-DATA CIK="0001014040" CONFORMED-NAME="GILLESPIE THERESA E" /><FILING-VALUES ACT="34" FILE-NUMBER="000-15279" FILM-NUMBER="101172756" FORM-TYPE="4" /><MAIL-ADDRESS CITY="BELLEVUE" STATE="WA" STREET1="3650 131ST AVE. S.E. #400" STREET2="WESTERN WIRELESS CORP STE 100" ZIP="98006" /></REPORTING-OWNER></SUBMISSION><ownershipDocument documentType="4" periodOfReport="2010-11-08" schemaVersion="X0303">
+<issuer> issuerCik="0000808461" 
+ issuerName="GENERAL COMMUNICATION INC" 
+ issuerTradingSymbol="GNCMA" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0000904858" 
+ rptOwnerName="STANTON JOHN W" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="BELLEVUE" rptOwnerState="WA" rptOwnerStreet1="155 108TH AVENUE, N.E." rptOwnerStreet2="SUITE 400" rptOwnerZipCode="98004">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="0" 
+ isTenPercentOwner="1" 
+ isOther="0" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<reportingOwner><reportingOwnerId> rptOwnerCik="0001014040" 
+ rptOwnerName="GILLESPIE THERESA E" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="BELLEVUE" rptOwnerState="WA" rptOwnerStreet1="155 108TH AVENUE, N.E." rptOwnerStreet2="SUITE 400" rptOwnerZipCode="98004">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="0" 
+ isTenPercentOwner="1" 
+ isOther="0" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Class A Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-08">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+<footnoteId id="F1" /> 
+</transactionCoding>
+<transactionAmounts><transactionShares> value="160678" 
+</transactionShares>
+<transactionPricePerShare>
+<footnoteId id="F1" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="D" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="2342627" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+<footnoteId id="F2" /> 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction><securityTitle> value="Class B Common Stock" 
+<footnoteId id="F3" /> 
+</securityTitle>
+<transactionDate> value="2010-11-08" 
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="P" transactionFormType="4">
+<footnoteId id="F1" /> 
+</transactionCoding>
+<transactionAmounts><transactionShares> value="160678" 
+</transactionShares>
+<transactionPricePerShare>
+<footnoteId id="F1" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="A" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="1436469" 
+<footnoteId id="F3" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="D" 
+<footnoteId id="F2" /> 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<derivativeTable>
+<derivativeTransaction><securityTitle> value="Class B Common Stock" 
+<footnoteId id="F3" /> 
+<footnoteId id="F4" />
+</securityTitle>
+<conversionOrExercisePrice>
+<footnoteId id="F6" /> 
+</conversionOrExercisePrice>
+<transactionDate> value="2010-11-08" 
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="P" transactionFormType="4">
+<footnoteId id="F1" /> 
+</transactionCoding>
+<transactionAmounts><transactionShares> value="160678" 
+<footnoteId id="F5" /> 
+</transactionShares>
+<transactionPricePerShare><footnoteId id="F1" /> 
+<footnoteId id="F4" />
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate><footnoteId id="F7" /> 
+</exerciseDate>
+<expirationDate><footnoteId id="F7" /> 
+</expirationDate>
+<underlyingSecurity><underlyingSecurityTitle> value="Class A Common Stock" 
+<footnoteId id="F4" /> 
+</underlyingSecurityTitle>
+<underlyingSecurityShares> value="160678" 
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="1436469" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+<footnoteId id="F2" /> 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<footnotes>
+<footnote id="F1" text="Pursuant to a Share Exchange Agreement, dated as of November 8, 2010, the reporting persons transferred 160,678 shares of Class A Common Stock and received 160,678 shares of Class B Common Stock in an exchange transaction with another stockholder of the Issuer that did not involve any other consideration." /> 
+ <footnote id="F2" text="Shares held by John W. Stanton and Theresa E. Gillespie as either tenants in common or joint tenants with right of survivorship." /> 
+ <footnote id="F3" text="Prior to the reporting persons&apos; acquisition of the 160,678 shares of Class B Common Stock reported herein, they owned 1,275,791 shares of Class B Common Stock, as reported in their Form 3 filed on March 12, 2007.  In Form 4s filed on November 13, 2007, November 14, 2007 and December 3, 2007 this holding was incorrectly stated as 1,279,791 due to a typographical error.  The December 3, 2007 Form 4 also incorrectly checked the exit box on the top left of that Form 4." /> 
+ <footnote id="F4" text="Each share of Class B Common Stock is convertible into one share of Class A Common Stock." /> 
+ <footnote id="F5" text="These are the same shares of Class B Common Stock identified in Table I above." /> 
+ <footnote id="F6" text="1 for 1." /> 
+ <footnote id="F7" text="The Class B Common Stock is convertible at any time, at the holder&apos;s election, and there is no expiration date." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="/s/ John W. Stanton">
+</ownerSignature>
+<ownerSignature signatureDate="2010-11-08" signatureName="/s/ Theresa E. Gillespie">
+</ownerSignature>
+</ownershipDocument></Source>

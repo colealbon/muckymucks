@@ -1,0 +1,48 @@
+<Source file="./0001235126-10-000023.nc">
+<SUBMISSION ACCESSION-NUMBER="0001235126-10-000023" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101108" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><ISSUER><COMPANY-DATA ASSIGNED-SIC="4512" CIK="0001362468" CONFORMED-NAME="Allegiant Travel CO" FISCAL-YEAR-END="1231" IRS-NUMBER="204745737" STATE-OF-INCORPORATION="NV" /><BUSINESS-ADDRESS CITY="LAS VEGAS" PHONE="702-851-7300" STATE="NV" STREET1="8360 SOUTH DURANGO DRIVE" ZIP="89113" /><MAIL-ADDRESS CITY="LAS VEGAS" STATE="NV" STREET1="8360 SOUTH DURANGO DRIVE" ZIP="89113" /></ISSUER><REPORTING-OWNER><OWNER-DATA CIK="0000938673" CONFORMED-NAME="GALLAGHER MAURICE J JR" /><FILING-VALUES ACT="34" FILE-NUMBER="001-33166" FILM-NUMBER="101172059" FORM-TYPE="4" /><MAIL-ADDRESS CITY="LAS VEGAS" STATE="NV" STREET1="8360 SOUTH DURANGO DRIVE" ZIP="89113" /></REPORTING-OWNER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-08" schemaVersion="X0303">
+<issuer> issuerCik="0001362468" 
+ issuerName="Allegiant Travel CO" 
+ issuerTradingSymbol="AGLT" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0000938673" 
+ rptOwnerName="GALLAGHER MAURICE J JR" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="LAS VEGAS" rptOwnerState="NV" rptOwnerStreet1="8360 SOUTH DURANGO DRIVE" rptOwnerStreet2="" rptOwnerZipCode="89113" />
+
+
+<reportingOwnerRelationship isDirector="1" isOfficer="1" isOther="0" isTenPercentOwner="1" officerTitle="CEO">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-08">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="21200" 
+<footnoteId id="F1" /> 
+</transactionShares>
+<transactionPricePerShare> value="48.2768" 
+<footnoteId id="F2" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="D" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="3742583" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<footnotes> <footnote id="F1" text="This trade completes all intended sales under a 10b5-1 trading plan on behalf of beneficial owner." /> 
+ <footnote id="F2" text="Price reported is average price.  Sales were made at prices between $47.73 and $49.06." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="Robert B. Goldberg, under power of attorney">
+</ownerSignature>
+</ownershipDocument></Source>

@@ -1,0 +1,67 @@
+<Source file="./0001127602-10-027254.nc">
+<SUBMISSION ACCESSION-NUMBER="0001127602-10-027254" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001302910" CONFORMED-NAME="Cole Timothy A" /><FILING-VALUES ACT="34" FILE-NUMBER="001-14335" FILM-NUMBER="101172201" FORM-TYPE="4" /><MAIL-ADDRESS CITY="SAN FRANCISCO" STATE="CA" STREET1="PO BOX 193575" ZIP="94119" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="2033" CIK="0000866873" CONFORMED-NAME="DEL MONTE FOODS CO" FISCAL-YEAR-END="0501" IRS-NUMBER="133542950" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="SAN FRANCISCO" PHONE="415-247-3000" STATE="CA" STREET1="ONE MARKET @ THE LANDMARK" STREET2="C/O DEL MONTE CORP" ZIP="94105" /><MAIL-ADDRESS CITY="SAN FRANCISCO" STATE="CA" STREET1="ONE MARKET @ THE LANDMARK" ZIP="94105" /><FORMER-COMPANY DATE-CHANGED="19600201" FORMER-CONFORMED-NAME="DMPF HOLDINGS CORP" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0000866873" 
+ issuerName="DEL MONTE FOODS CO" 
+ issuerTradingSymbol="DLM" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001302910" 
+ rptOwnerName="Cole Timothy A" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="SAN FRANCISCO" rptOwnerState="CA" rptOwnerStreet1="DEL MONTE CORPORATION" rptOwnerStreet2="ONE MARKET @ THE LANDMARK" rptOwnerZipCode="94105">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isOfficer="1" 
+ officerTitle="EVP, Sales" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock, $0.01, Par Value" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="A" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness />
+<transactionAmounts><transactionShares> value="434" 
+<footnoteId id="F1" /> 
+</transactionShares>
+<transactionPricePerShare> value="14.36" 
+<footnoteId id="F2" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="A" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="134169" 
+<footnoteId id="F3" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeHolding>
+<securityTitle> value="Common Stock, $0.01, Par Value" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="6393" 
+<footnoteId id="F4" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="401(k)">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+</nonDerivativeTable>
+<footnotes> <footnote id="F1" text="Represents 434.25 deferred stock units issued under Del Monte Foods Company&apos;s 2002 Stock Incentive Plan pursuant to Del Monte&apos;s AIP Deferred Compensation Plan.  Each deferred stock unit issued in connection with the AIP Deferred Compensation Plan is credited with dividends that are converted into additional deferred stock units.  The deferred stock units reported herein reflect the additional deferred stock units credited in connection with the dividend the Company paid on 11/4/10.  Vesting of deferred stock units credited in connection with a dividend will follow the vesting of the underlying deferred stock units with respect to which such credited deferred stock units were calculated." /> 
+ <footnote id="F2" text="Credited dividends were converted into additional deferred stock units based on the high/low average of the Company&apos;s stock on the transaction date." /> 
+ <footnote id="F3" text="Includes 69,721.61 deferred stock units, 34,400 Performance Accelerated Restricted Stock Units (PARS) and 12,300 Restricted Stock Units (RSU)." /> 
+ <footnote id="F4" text="Reflects the reporting person&apos;s interest in equivalent shares held by the unitized stock fund in the Del Monte 401(k) savings plan (Plan). The unitized stock fund consists of Del Monte common stock (approximately 96% of the fund value) and cash or cash equivalents (approximately 4% of the fund value). The number of shares attributed to the reporting person as a Plan participant and expressed as equivalent shares has been calculated based on the closing price of Del Monte common stock on the date of the reported transaction and may change from time to time without the volition of the reporting person depending on the fair market value of Del Monte common stock and the amount of cash in the fund." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="/s/ James Potter, signed pursuant to power of attorney">
+</ownerSignature>
+</ownershipDocument></Source>

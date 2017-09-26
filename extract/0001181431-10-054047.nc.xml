@@ -1,0 +1,61 @@
+<Source file="./0001181431-10-054047.nc">
+<SUBMISSION ACCESSION-NUMBER="0001181431-10-054047" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20100917" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001257391" CONFORMED-NAME="WHITEBOX ADVISORS LLC" STATE-OF-INCORPORATION="DE" /><FILING-VALUES ACT="34" FILE-NUMBER="001-34506" FILM-NUMBER="101172901" FORM-TYPE="4" /><BUSINESS-ADDRESS CITY="MINNEAPOLIS" STATE="MN" STREET1="3033 EXCELSIOR BLVD." ZIP="55416" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="6798" CIK="0001465740" CONFORMED-NAME="Two Harbors Investment Corp." FISCAL-YEAR-END="1231" IRS-NUMBER="270312904" /><BUSINESS-ADDRESS CITY="MINNETONKA" PHONE="612-238-3300" STATE="MN" STREET1="601 CARLSON PARKWAY" STREET2="SUITE 330" ZIP="55305" /><MAIL-ADDRESS CITY="MINNETONKA" STATE="MN" STREET1="601 CARLSON PARKWAY" STREET2="SUITE 330" ZIP="55305" /></ISSUER><REPORTING-OWNER><OWNER-DATA CIK="0001502255" CONFORMED-NAME="WHITEBOX ASYMMETRIC PARTNERS LP" FISCAL-YEAR-END="0210" STATE-OF-INCORPORATION="E9" /><FILING-VALUES ACT="34" FILE-NUMBER="001-34506" FILM-NUMBER="101172900" FORM-TYPE="4" /><BUSINESS-ADDRESS CITY="GRAND CAYMAN" PHONE="612-253-6001" STATE="E9" STREET1="42 NORTH CHURCH ST" ZIP="KY1-1108" /><MAIL-ADDRESS CITY="MINNEAPOLIS" STATE="MN" STREET1="3033 EXCELSIOR BLVD" STREET2="SUITE 300" ZIP="55416" /></REPORTING-OWNER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-09-17" schemaVersion="X0303">
+<issuer> issuerCik="0001465740" 
+ issuerName="Two Harbors Investment Corp." 
+ issuerTradingSymbol="TWO" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001257391" 
+ rptOwnerName="WHITEBOX ADVISORS LLC" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="MINNEAPOLIS" rptOwnerState="MN" rptOwnerStreet1="3033 EXCELSIOR BOULEVARD, SUITE 300" rptOwnerStreet2="" rptOwnerZipCode="55416" />
+
+
+<reportingOwnerRelationship isDirector="0" isOfficer="0" isOther="1" isTenPercentOwner="1" otherText="See Remarks below">
+</reportingOwnerRelationship>
+</reportingOwner>
+<reportingOwner><reportingOwnerId> rptOwnerCik="0001502255" 
+ rptOwnerName="WHITEBOX ASYMMETRIC PARTNERS LP" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="MINNEAPOLIS" rptOwnerState="MN" rptOwnerStreet1="3033 EXCELSIOR BOULEVARD, SUITE 300" rptOwnerStreet2="" rptOwnerZipCode="55416" />
+
+
+<reportingOwnerRelationship isDirector="0" isOfficer="0" isOther="1" isTenPercentOwner="1" otherText="See Remarks Below">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+<footnoteId id="F1" /> 
+</securityTitle>
+<transactionDate> value="2010-11-05" 
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="9728" 
+</transactionShares>
+<transactionPricePerShare value="9.28">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="1826933" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+<footnoteId id="F2" /> 
+</directOrIndirectOwnership>
+<natureOfOwnership> value="See Footnote" 
+<footnoteId id="F3" /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<footnotes>
+<footnote id="F1" text="Shares acquired are held directly by Whitebox Asymmetric Partners, L.P. (WAP)." /> 
+ <footnote id="F2" text="The general partner of ,WAP is Whitebox Asymmetric Advisors, LLC (WAA). The managing member and controlling owner of WAA is Whitebox Advisors, LLC (WA)." /> 
+ <footnote id="F3" text="Shares attributable to interests held by WA as  Managing Member of WAA, which act as General Partners to WAA which directly  hold the shares." /> 
+</footnotes>
+ remarks="Based on the relationships described in notes (1) and (2), the entities referenced therein may be deemed to constitute a group for purposes of Rule 13d-5(b)(1) under the Securities and Exchange Act of 1934.  The filing of this statement shall not be construed as an admission that WA, WAA, and WAP are a group, or have agreed to act as a group.  WA, WAA, and WAP each disclaim beneficial ownership of the shares of common stock reported herein except to the extent of their pecuniary interest in such shares." 
+<ownerSignature signatureDate="2010-11-08" signatureName="/s/ Jonathan D. Wood, Chief Operating Officer, on behalf of Whitebox Avisors, LLC">
+</ownerSignature>
+</ownershipDocument></Source>

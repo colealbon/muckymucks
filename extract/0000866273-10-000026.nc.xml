@@ -1,0 +1,103 @@
+<Source file="./0000866273-10-000026.nc">
+<SUBMISSION ACCESSION-NUMBER="0000866273-10-000026" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101106" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><ISSUER><COMPANY-DATA ASSIGNED-SIC="1700" CIK="0000866273" CONFORMED-NAME="MATRIX SERVICE CO" FISCAL-YEAR-END="0630" IRS-NUMBER="731352174" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="TULSA" PHONE="9188388822" STATE="OK" STREET1="5100 EAST SKELLY DRIVE" STREET2="SUITE 700" ZIP="74135" /><MAIL-ADDRESS CITY="TULSA" STATE="OK" STREET1="5100 EAST SKELLY DRIVE" STREET2="SUITE 700" ZIP="74135" /></ISSUER><REPORTING-OWNER><OWNER-DATA CIK="0001240071" CONFORMED-NAME="Bradley Michael J" /><FILING-VALUES ACT="34" FILE-NUMBER="001-15461" FILM-NUMBER="101172515" FORM-TYPE="4" /><MAIL-ADDRESS CITY="TULSA" STATE="OK" STREET1="5100 EAST SKELLY DRIVE" ZIP="74135" /><FORMER-NAME DATE-CHANGED="20030609" FORMER-CONFORMED-NAME="BRADLEY MICHAEL JACK" /></REPORTING-OWNER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-06" schemaVersion="X0303">
+<issuer> issuerCik="0000866273" 
+ issuerName="MATRIX SERVICE CO" 
+ issuerTradingSymbol="MTRX" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001240071" 
+ rptOwnerName="Bradley Michael J" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="TULSA" rptOwnerState="OK" rptOwnerStreet1="5100 EAST SKELLY DRIVE, SUITE 700" rptOwnerStreet2="" rptOwnerZipCode="74135" />
+
+
+<reportingOwnerRelationship isDirector="0" isOfficer="1" isOther="0" isTenPercentOwner="0" officerTitle="President &amp; CEO">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="COMMON STOCK" 
+<footnoteId id="F1" /> 
+</securityTitle>
+<transactionDate> value="2010-11-06" 
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="F" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="3167" 
+<footnoteId id="F2" /> 
+</transactionShares>
+<transactionPricePerShare> value="10.29" 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="156923" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="COMMON STOCK" 
+<footnoteId id="F1" /> 
+</securityTitle>
+<transactionDate> value="2010-11-06" 
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="F" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="557" 
+<footnoteId id="F2" /> 
+</transactionShares>
+<transactionPricePerShare> value="10.29" 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="156366" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="COMMON STOCK" 
+<footnoteId id="F1" /> 
+</securityTitle>
+<transactionDate> value="2010-11-06" 
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="F" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="4593" 
+<footnoteId id="F2" /> 
+</transactionShares>
+<transactionPricePerShare> value="10.29" 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="151773" 
+<footnoteId id="F3" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<footnotes> <footnote id="F1" text="MATRIX SERVICE COMPANY COMMON STOCK." /> 
+ <footnote id="F2" text="RESTRICTED STOCK UNIT AWARD - SHARES DISPOSED TO SATISFY TAX OBLIGATION DUE ON VEST DATE FOR TIME-BASED GRANT." /> 
+ <footnote id="F3" text="INCLUDES 101,943 SHARES OF MATRIX SERVICE COMPANY COMMON STOCK OWNED OUTRIGHT." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="Michael J. Bradley">
+</ownerSignature>
+</ownershipDocument></Source>

@@ -1,0 +1,47 @@
+<Source file="./0001209191-10-053538.nc">
+<SUBMISSION ACCESSION-NUMBER="0001209191-10-053538" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101106" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001249678" CONFORMED-NAME="FITZPATRICK JAMES A JR" /><FILING-VALUES ACT="34" FILE-NUMBER="000-24347" FILM-NUMBER="101170924" FORM-TYPE="4" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="7372" CIK="0001016125" CONFORMED-NAME="ULTIMATE SOFTWARE GROUP INC" FISCAL-YEAR-END="1231" IRS-NUMBER="650694077" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="WESTON" PHONE="9542661000" STATE="FL" STREET1="ULTIMATE SOFTWARE GROUP INC" STREET2="2000 ULTIMATE WAY" ZIP="33326" /><MAIL-ADDRESS CITY="WESTON" STATE="FL" STREET1="ULTIMATE SOFTWARE GROUP INC" STREET2="2000 ULTIMATE WAY" ZIP="33326" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-06" schemaVersion="X0303">
+<issuer> issuerCik="0001016125" 
+ issuerName="ULTIMATE SOFTWARE GROUP INC" 
+ issuerTradingSymbol="ULTI" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001249678" 
+ rptOwnerName="FITZPATRICK JAMES A JR" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="NEW YORK" rptOwnerState="NY" rptOwnerStreet1="1301 AVENUE OF THE AMERICAS" rptOwnerStreet2="" rptOwnerZipCode="10019-6092" />
+
+
+<reportingOwnerRelationship isDirector="1" isOfficer="0" isOther="0" isTenPercentOwner="0">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Restricted Stock Award" 
+</securityTitle>
+<transactionDate value="2010-11-06">
+</transactionDate>
+<deemedExecutionDate value="2010-11-06">
+</deemedExecutionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="A" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="1047" 
+</transactionShares>
+<transactionPricePerShare value="0.00">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="8678" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<remarks />
+<ownerSignature> signatureName="Felicia Alvaro by Power of Attorney for James A. FitzPatrick, Jr." 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

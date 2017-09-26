@@ -1,0 +1,94 @@
+<Source file="./0001209191-10-053678.nc">
+<SUBMISSION ACCESSION-NUMBER="0001209191-10-053678" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101105" PUBLIC-DOCUMENT-COUNT="2" TYPE="4"><ISSUER><COMPANY-DATA ASSIGNED-SIC="2771" CIK="0000020629" CONFORMED-NAME="CSS INDUSTRIES INC" FISCAL-YEAR-END="0331" IRS-NUMBER="131920657" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="PHILADELPHIA" PHONE="2155699900" STATE="PA" STREET1="1845 WALNUT ST" ZIP="19103" /><FORMER-COMPANY DATE-CHANGED="19851212" FORMER-CONFORMED-NAME="CITY STORES CO" /></ISSUER><REPORTING-OWNER><OWNER-DATA CIK="0000945473" CONFORMED-NAME="BROMLEY JAMES H" /><FILING-VALUES ACT="34" FILE-NUMBER="001-02661" FILM-NUMBER="101172425" FORM-TYPE="4" /><MAIL-ADDRESS CITY="RADNOR" STATE="PA" STREET1="5 RADNOR CORPORATE CENTER, SUITE 520" STREET2="100 MATSONFORD ROAD" ZIP="19087" /></REPORTING-OWNER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-05" schemaVersion="X0303">
+<issuer> issuerCik="0000020629" 
+ issuerName="CSS INDUSTRIES INC" 
+ issuerTradingSymbol="CSS" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0000945473" 
+ rptOwnerName="BROMLEY JAMES H" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="RADNOR" rptOwnerState="PA" rptOwnerStreet1="5 RADNOR CORPORATE CENTER,  SUITE 520" rptOwnerStreet2="100 MATSONFORD ROAD" rptOwnerZipCode="19087">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="1" 
+ isOfficer="0" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock ($.10 par value)" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="M" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="6000" 
+</transactionShares>
+<transactionPricePerShare value="12.71">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="159738" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<derivativeTable><derivativeTransaction><securityTitle> value="Call (Stock) Option" 
+</securityTitle>
+<conversionOrExercisePrice value="12.71">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="M" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="6000" 
+</transactionShares>
+<transactionPricePerShare value="0.00">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate> value="2001-12-01" 
+<footnoteId id="F1" /> 
+</exerciseDate>
+<expirationDate> value="2010-12-01" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="6000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="0" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="(1)  Reflects first anniversary of the date of grant for options granted pursuant to a Rule 16b-3 plan.  Options are exercisable in installments of 25% of the optioned securities on and after the first anniversary of the date of grant and to the extent of an additional 25% of the optioned securities on and after the 2nd, 3rd and 4th anniversaries of the date of grant.  To the extent not exercised, installments are cumulative." /> 
+</footnotes>
+<remarks />
+<ownerSignature> signatureName="Michael A. Santivasci, Attorney in Fact" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

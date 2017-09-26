@@ -1,0 +1,47 @@
+<Source file="./0001179110-10-015702.nc">
+<SUBMISSION ACCESSION-NUMBER="0001179110-10-015702" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001372455" CONFORMED-NAME="Posner Brian S" /><FILING-VALUES ACT="34" FILE-NUMBER="001-16209" FILM-NUMBER="101171162" FORM-TYPE="4" /><MAIL-ADDRESS CITY="CAMBRIDGE" STATE="MA" STREET1="14 CAMBRIDGE CENTER" ZIP="02142" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="6331" CIK="0000947484" CONFORMED-NAME="ARCH CAPITAL GROUP LTD." FISCAL-YEAR-END="1231" IRS-NUMBER="000000000" /><BUSINESS-ADDRESS CITY="HAMILTON" PHONE="441-278-9250" STATE="D0" STREET1="WESSEX HOUSE" STREET2="45 REID STREET" ZIP="HM 12" /><MAIL-ADDRESS CITY="HAMILTON" STATE="D0" STREET1="WESSEX HOUSE" STREET2="45 REID STREET" ZIP="HM 12" /><FORMER-COMPANY DATE-CHANGED="20000508" FORMER-CONFORMED-NAME="ARCH CAPITAL GROUP LTD" /><FORMER-COMPANY DATE-CHANGED="19950816" FORMER-CONFORMED-NAME="RISK CAPITAL HOLDINGS INC" /><FORMER-COMPANY DATE-CHANGED="19950703" FORMER-CONFORMED-NAME="RISK CAPITAL RE INC" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0000947484" 
+ issuerName="ARCH CAPITAL GROUP LTD." 
+ issuerTradingSymbol="ACGL" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001372455" 
+ rptOwnerName="Posner Brian S" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="HAMILTON" rptOwnerState="D0" rptOwnerStateDescription="BERMUDA" rptOwnerStreet1="C/O ARCH CAPITAL GROUP LTD." rptOwnerStreet2="45 REID STREET, 4TH FLOOR" rptOwnerZipCode="HM 12">
+</reportingOwnerAddress>
+<reportingOwnerRelationship isDirector="1" isOfficer="0" isOther="0" isTenPercentOwner="0">
+<officerTitle /> 
+<otherText />
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Shares, $.01 par value per share" 
+</securityTitle>
+<transactionDate value="2011-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="A" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="332" 
+</transactionShares>
+<transactionPricePerShare>
+<footnoteId id="F1" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="A" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="332" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<derivativeTable /> 
+<footnotes>
+<footnote id="F1" text="Subject to the terms of the restricted share agreement, represents restricted shares that will vest on November 3, 2011." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="/s/ Marcy Rathman, Attorney in fact">
+</ownerSignature>
+</ownershipDocument></Source>

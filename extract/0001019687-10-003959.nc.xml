@@ -1,0 +1,55 @@
+<Source file="./0001019687-10-003959.nc">
+<SUBMISSION ACCESSION-NUMBER="0001019687-10-003959" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001289878" CONFORMED-NAME="Bastian Edward H" /><FILING-VALUES ACT="34" FILE-NUMBER="001-05424" FILM-NUMBER="101172428" FORM-TYPE="4" /><MAIL-ADDRESS CITY="ATLANTA" STATE="GA" STREET1="C/O ACUITY BRANDS INC." STREET2="1170 PEACHTREE STREET, NE, SUITE 2400" ZIP="30309" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="4512" CIK="0000027904" CONFORMED-NAME="DELTA AIR LINES INC /DE/" FISCAL-YEAR-END="1231" IRS-NUMBER="580218548" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="ATLANTA" PHONE="4047152600" STATE="GA" STREET1="HARTSFIELD ATLANTA INTL AIRPORT" STREET2="1030 DELTA BLVD" ZIP="30354-1989" /><MAIL-ADDRESS CITY="ATLANTA" STATE="GA" STREET1="P.O. BOX 20706" STREET2="DEPT 981" ZIP="30320-6001" /><FORMER-COMPANY DATE-CHANGED="19660908" FORMER-CONFORMED-NAME="DELTA AIR CORP" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0000027904" 
+ issuerName="DELTA AIR LINES INC /DE/" 
+ issuerTradingSymbol="DAL" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001289878" 
+ rptOwnerName="Bastian Edward H" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="ATLANTA," rptOwnerState="GA" rptOwnerStreet1="C/O DELTA AIR LINES, INC., DEPT. 981" rptOwnerStreet2="P.O. BOX 20574" rptOwnerZipCode="30320">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="1" 
+ isOfficer="1" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+ officerTitle="President" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="20000" 
+</transactionShares>
+<transactionPricePerShare value="14.091">
+<footnoteId id="F1" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="D" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="597566" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<footnotes>
+<footnote id="F1" text="The reported shares were sold in open market transactions through a broker-dealer at prices ranging from $14.09 to $14.10 per share.  The Reporting Person undertakes to provide, upon request, details regarding the number of shares sold at each separate price to the staff of the Securities and Exchange Commission, Delta Air Lines, Inc., or a security holder of Delta Air Lines, Inc." /> 
+</footnotes>
+<remarks />
+<ownerSignature> signatureName="/s/ Jan M. Davidson as attorney-in-fact for Edward H. Bastian" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

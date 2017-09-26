@@ -1,0 +1,44 @@
+<Source file="./0001127602-10-027213.nc">
+<SUBMISSION ACCESSION-NUMBER="0001127602-10-027213" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001182404" CONFORMED-NAME="SHARP STEVEN" FISCAL-YEAR-END="1231" STATE-OF-INCORPORATION="CA" /><FILING-VALUES ACT="34" FILE-NUMBER="000-22660" FILM-NUMBER="101171420" FORM-TYPE="4" /><MAIL-ADDRESS CITY="SAN JOSE" STATE="CA" STREET1="C/O POWER INTEGRATIONS" STREET2="5245 HELLYER AVE" ZIP="95138" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="3674" CIK="0000913885" CONFORMED-NAME="TRIQUINT SEMICONDUCTOR INC" FISCAL-YEAR-END="1231" IRS-NUMBER="953654013" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="HILLSBORO" PHONE="5036159000" STATE="OR" STREET1="2300 NE BROOKWOOD PARKWAY" ZIP="97124" /><MAIL-ADDRESS CITY="HILLSBORO" STATE="OR" STREET1="2300 NE BROOKWOOD PARKWAY" ZIP="97124" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0000913885" 
+ issuerName="TRIQUINT SEMICONDUCTOR INC" 
+ issuerTradingSymbol="TQNT" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001182404" 
+ rptOwnerName="SHARP STEVEN" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="HILLSBORO" rptOwnerState="OR" rptOwnerStreet1="2300 NE BROOKWOOD PKWY" rptOwnerStreet2="" rptOwnerZipCode="97124" />
+
+
+<reportingOwnerRelationship isDirector="1">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness />
+<transactionAmounts><transactionShares> value="25000" 
+</transactionShares>
+<transactionPricePerShare value="10.349">
+<footnoteId id="F1" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="D" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="426646" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<footnotes> <footnote id="F1" text="Average price.  Actual prices range from $10.31 to $10.41." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-05" signatureName="/s/ Susan Liles, Attorney-in-Fact">
+</ownerSignature>
+</ownershipDocument></Source>

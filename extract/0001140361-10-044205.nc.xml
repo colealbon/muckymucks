@@ -1,0 +1,73 @@
+<Source file="./0001140361-10-044205.nc">
+<SUBMISSION ACCESSION-NUMBER="0001140361-10-044205" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20100518" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001437816" CONFORMED-NAME="THERIT DAVID B." /><FILING-VALUES ACT="34" FILE-NUMBER="000-30062" FILM-NUMBER="101172991" FORM-TYPE="4" /><MAIL-ADDRESS CITY="RALEIGH" STATE="NC" STREET1="P.O. BOX 18949" ZIP="27619-8949" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="6022" CIK="0001071992" CONFORMED-NAME="CAPITAL BANK CORP" FISCAL-YEAR-END="1231" IRS-NUMBER="562101930" STATE-OF-INCORPORATION="NC" /><BUSINESS-ADDRESS CITY="RALEIGH" PHONE="9196456400" STATE="NC" STREET1="333 FAYETTEVILLE ST, SUITE 700" ZIP="27601-2950" /><MAIL-ADDRESS CITY="RALEIGH" STATE="NC" STREET1="PO BOX 18949" ZIP="27619-8949" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-05-18" schemaVersion="X0303">
+<issuer> issuerCik="0001071992" 
+ issuerName="CAPITAL BANK CORP" 
+ issuerTradingSymbol="CBKN" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001437816" 
+ rptOwnerName="THERIT DAVID B." 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="RALEIGH" rptOwnerState="NC" rptOwnerStreet1="P.O. BOX 18949" rptOwnerStreet2="" rptOwnerZipCode="27619-8949" />
+
+
+<reportingOwnerRelationship isDirector="0" isOfficer="1" isOther="0" isTenPercentOwner="0" officerTitle="SVP &amp; Chief Accounting Officer">
+<otherText /> 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable>
+<nonDerivativeHolding><securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="1923" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+</nonDerivativeTable>
+<derivativeTable><derivativeTransaction><securityTitle> value="Stock Option (Right to Buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="4.39">
+</conversionOrExercisePrice>
+<transactionDate value="2010-05-18">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="A" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="1000" 
+</transactionShares>
+<transactionPricePerShare value="4.39">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate><footnoteId id="F1" /> 
+</exerciseDate>
+<expirationDate> value="2020-05-18" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="1000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="1000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="20% exercisable on 5/18/2011; 40% exercisable on 5/18/2012; 60% exercisable on 5/18/2013; 80% exercisable on 5/18/2014; 100% exercisable on 5/18/2015" /> 
+</footnotes>
+<remarks />
+<ownerSignature> signatureName="Nancy A. Snow, by power of attorney" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

@@ -1,0 +1,104 @@
+<Source file="./0001209191-10-053748.nc">
+<SUBMISSION ACCESSION-NUMBER="0001209191-10-053748" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101105" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001424080" CONFORMED-NAME="Gordon Jeffrey S." /><FILING-VALUES ACT="34" FILE-NUMBER="001-32432" FILM-NUMBER="101173670" FORM-TYPE="4" /><MAIL-ADDRESS CITY="TAMPA" STATE="FL" STREET1="SYNIVERSE HOLDINGS, INC." STREET2="8125 HIGHWOODS PALM WAY" ZIP="33647" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="4899" CIK="0001169264" CONFORMED-NAME="SYNIVERSE HOLDINGS INC" FISCAL-YEAR-END="1231" IRS-NUMBER="300041666" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="TAMPA" PHONE="8136375000" STATE="FL" STREET1="8125 HIGHWOODS PALM WAY" ZIP="33647" /><MAIL-ADDRESS CITY="TAMPA" STATE="FL" STREET1="8125 HIGHWOODS PALM WAY" ZIP="33647" /><FORMER-COMPANY DATE-CHANGED="20020315" FORMER-CONFORMED-NAME="TSI TELECOMMUNICATION HOLDINGS INC" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" periodOfReport="2010-11-05" schemaVersion="X0303">
+<issuer> issuerCik="0001169264" 
+ issuerName="SYNIVERSE HOLDINGS INC" 
+ issuerTradingSymbol="SVR" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001424080" 
+ rptOwnerName="Gordon Jeffrey S." 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="TAMPA" rptOwnerState="FL" rptOwnerStreet1="C/O SYNIVERSE HOLDINGS, INC." rptOwnerStreet2="8125 HIGHWOODS PALM WAY" rptOwnerZipCode="33647">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="1" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+ officerTitle="Chief Technology Officer" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="4980" 
+</transactionShares>
+<transactionPricePerShare value="14.84">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="55290" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="4980" 
+</transactionShares>
+<transactionPricePerShare value="30.38">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="50310" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<derivativeTable><derivativeTransaction><securityTitle> value="Employee Stock Option (right to buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="14.84">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="4980" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate><footnoteId id="F1" /> 
+</exerciseDate>
+<expirationDate> value="2016-08-10" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="4980">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="9960" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="The option vests in three equal annual installments beginning August 10, 2010." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="/s/ Laura E. Binion, under a power of attorney">
+</ownerSignature>
+</ownershipDocument></Source>

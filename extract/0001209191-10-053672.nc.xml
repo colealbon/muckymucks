@@ -1,0 +1,157 @@
+<Source file="./0001209191-10-053672.nc">
+<SUBMISSION ACCESSION-NUMBER="0001209191-10-053672" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001207229" CONFORMED-NAME="MOORE DAN T III" /><FILING-VALUES ACT="34" FILE-NUMBER="001-15103" FILM-NUMBER="101172240" FORM-TYPE="4" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="3842" CIK="0000742112" CONFORMED-NAME="INVACARE CORP" FISCAL-YEAR-END="1231" IRS-NUMBER="952680965" STATE-OF-INCORPORATION="OH" /><BUSINESS-ADDRESS CITY="ELYRIA" PHONE="4403296000" STATE="OH" STREET1="ONE INVACARE WAY" STREET2="P O BOX 4028" ZIP="44036" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0000742112" 
+ issuerName="INVACARE CORP" 
+ issuerTradingSymbol="IVC" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001207229" 
+ rptOwnerName="MOORE DAN T III" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="ELYRIA" rptOwnerState="OH" rptOwnerStreet1="ONE INVACARE WAY" rptOwnerStreet2="" rptOwnerZipCode="44035" />
+
+
+<reportingOwnerRelationship isDirector="1" isOfficer="0" isOther="0" isTenPercentOwner="0">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Shares" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="M" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="4480" 
+</transactionShares>
+<transactionPricePerShare value="21.0938">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="64900" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Shares" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="F" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="3395" 
+</transactionShares>
+<transactionPricePerShare value="27.84">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="61505" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeHolding>
+<securityTitle> value="Common Shares" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="37532" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="By Trust">
+<footnoteId id="F1" /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+</nonDerivativeTable>
+<derivativeTable>
+<derivativeTransaction><securityTitle> value="Stock Option (Right to Buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="21.0938">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="M" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="4480" 
+</transactionShares>
+<transactionPricePerShare value="0.00">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate> value="2001-12-31" 
+</exerciseDate>
+<expirationDate value="2010-11-14">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Shares" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="4480">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="0" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+<derivativeHolding>
+<securityTitle> value="Stock Option (Right to Buy)" 
+</securityTitle>
+<conversionOrExercisePrice>
+<footnoteId id="F2" /> 
+</conversionOrExercisePrice>
+<exerciseDate><footnoteId id="F2" /> 
+</exerciseDate>
+<expirationDate><footnoteId id="F2" /> 
+</expirationDate>
+<underlyingSecurity><underlyingSecurityTitle> value="Common Shares" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="33433">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="33433" 
+<footnoteId id="F3" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="Held by a local bank as Trustee for an IRA Trust." /> 
+ <footnote id="F2" text="No transaction is being reported on this line.  Reported on a previously filed Form 3, Form 4, or Form 5." /> 
+ <footnote id="F3" text="The reporting person holds previously reported options to buy 33,433 Common Shares (with tandem tax withholding rights) under the Invacare Corporation 1994 Performance Plan and the Invacare Corporation 2003 Performance Plan, granted in reliance upon the exemption provided by Rule 16b-3.  All options were granted between February 1, 2001 and August 20, 2008, at exercise prices between $23.71 to $47.01 per share, will expire between February 1, 2011 and August 20, 2018 and became or will become exercisable between March 31, 2002 and September 30, 2012." /> 
+</footnotes>
+<remarks />
+<ownerSignature> signatureName="/s/ Dan T. Moore III by Kristofer K. Spreen, his attorney-in-fact, pursuant to Power of Attorney, dated February 12, 2009, on file with the Commission." 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

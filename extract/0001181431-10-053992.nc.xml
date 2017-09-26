@@ -1,0 +1,44 @@
+<Source file="./0001181431-10-053992.nc">
+<SUBMISSION ACCESSION-NUMBER="0001181431-10-053992" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><ISSUER><COMPANY-DATA ASSIGNED-SIC="4812" CIK="0001283699" CONFORMED-NAME="METROPCS COMMUNICATIONS INC" FISCAL-YEAR-END="1231" IRS-NUMBER="200836269" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="RICHARDSON" PHONE="214-265-2550" STATE="TX" STREET1="2250 LAKESIDE BLVD" ZIP="75082" /><MAIL-ADDRESS CITY="RICHARDSON" STATE="TX" STREET1="2250 LAKESIDE BLVD" ZIP="75082" /></ISSUER><REPORTING-OWNER><OWNER-DATA CIK="0001015811" CONFORMED-NAME="LINQUIST ROGER D" FISCAL-YEAR-END="1231" STATE-OF-INCORPORATION="DE" /><FILING-VALUES ACT="34" FILE-NUMBER="001-33409" FILM-NUMBER="101172152" FORM-TYPE="4" /><MAIL-ADDRESS CITY="DALLAS" STATE="TX" STREET1="8144 WALNUT HILL LANE, SUITE 800" ZIP="75231" /></REPORTING-OWNER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0001283699" 
+ issuerName="METROPCS COMMUNICATIONS INC" 
+ issuerTradingSymbol="PCS" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001015811" 
+ rptOwnerName="LINQUIST ROGER D" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="RICHARDSON" rptOwnerState="TX" rptOwnerStreet1="2250 LAKESIDE BOULEVARD" rptOwnerStreet2="" rptOwnerZipCode="75082" />
+
+
+<reportingOwnerRelationship isDirector="1" isOfficer="1" isOther="0" isTenPercentOwner="0" officerTitle="President and CEO">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="F" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="1861" 
+<footnoteId id="F1" /> 
+</transactionShares>
+<transactionPricePerShare> value="11.37" 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="7305867" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<footnotes> <footnote id="F1" text="Shares withheld by Issuer to satisfy minimum statutory tax withholding requirements on the vesting of restricted stock granted on March 4, 2009." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="/s/ Linda M. Brotkin, as Attorney in Fact for Roger D. Linquist">
+</ownerSignature>
+</ownershipDocument></Source>

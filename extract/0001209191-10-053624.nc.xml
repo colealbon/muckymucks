@@ -1,0 +1,25 @@
+<Source file="./0001209191-10-053624.nc">
+<SUBMISSION ACCESSION-NUMBER="0001209191-10-053624" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101101" PUBLIC-DOCUMENT-COUNT="2" TYPE="3"><REPORTING-OWNER><OWNER-DATA CIK="0001504198" CONFORMED-NAME="Jackson Douglas J." /><FILING-VALUES ACT="34" FILE-NUMBER="001-34827" FILM-NUMBER="101171699" FORM-TYPE="3" /><MAIL-ADDRESS CITY="GREENWOOD VILLAGE" STATE="CO" STREET1="5619 DENVER TECH CENTER PARKWAY" STREET2="SUITE 1000" ZIP="80111" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="1000" CIK="0001489137" CONFORMED-NAME="Molycorp, Inc." FISCAL-YEAR-END="1231" IRS-NUMBER="272301797" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="GREENWOOD VILLAGE" PHONE="(303) 843-8040" STATE="CO" STREET1="5619 DENVER TECH CENTER PARKWAY" STREET2="SUITE 1000" ZIP="80111" /><MAIL-ADDRESS CITY="GREENWOOD VILLAGE" STATE="CO" STREET1="5619 DENVER TECH CENTER PARKWAY" STREET2="SUITE 1000" ZIP="80111" /></ISSUER></SUBMISSION><ownershipDocument documentType="3" noSecuritiesOwned="1" periodOfReport="2010-11-01" schemaVersion="X0203">
+<issuer> issuerCik="0001489137" 
+ issuerName="Molycorp, Inc." 
+ issuerTradingSymbol="MCP" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001504198" 
+ rptOwnerName="Jackson Douglas J." 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="GREENWOOD VILLAGE" rptOwnerState="CO" rptOwnerStreet1="5619 DENVER TECH CENTER PARKWAY" rptOwnerStreet2="SUITE 1000" rptOwnerZipCode="80111">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="1" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+ officerTitle="VP, Business Development" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<remarks text="  Exhibit 24 - Power of AttorneyNo securities are beneficially owned." /> 
+<ownerSignature signatureDate="2010-11-08" signatureName="/s/ Andrea G. Leider, as Attorney-in-Fact for Douglas J. Jackson">
+</ownerSignature>
+</ownershipDocument></Source>

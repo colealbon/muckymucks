@@ -1,0 +1,126 @@
+<Source file="./0001209191-10-053739.nc">
+<SUBMISSION ACCESSION-NUMBER="0001209191-10-053739" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001172529" CONFORMED-NAME="LEE JOON HYUNG" /><FILING-VALUES ACT="34" FILE-NUMBER="000-30421" FILM-NUMBER="101173439" FORM-TYPE="4" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="6021" CIK="0001109242" CONFORMED-NAME="HANMI FINANCIAL CORP" FISCAL-YEAR-END="1231" IRS-NUMBER="954788120" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="LOS ANGELES" PHONE="2133822200" STATE="CA" STREET1="3660 WILSHIRE BLVD SUITE PH-A" ZIP="90010" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0001109242" 
+ issuerName="HANMI FINANCIAL CORP" 
+ issuerTradingSymbol="HAFC" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001172529" 
+ rptOwnerName="LEE JOON HYUNG" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="LOS ANGELES" rptOwnerState="CA" rptOwnerStreet1="3660 WILSHIRE BOULEVARD" rptOwnerStreet2="PENTHOUSE A" rptOwnerZipCode="90010">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="1" 
+ isOfficer="0" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="common stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="S" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="286830" 
+</transactionShares>
+<transactionPricePerShare value="1.17">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="2433275" 
+<footnoteId id="F1" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<derivativeTable><derivativeHolding><securityTitle> value="Stock Option" 
+</securityTitle>
+<conversionOrExercisePrice value="1.35">
+</conversionOrExercisePrice>
+<exerciseDate value="2010-04-08">
+<footnoteId id="F2" /> 
+</exerciseDate>
+<expirationDate> value="2019-04-07" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="common stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="16000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="0" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Stock Option" 
+</securityTitle>
+<conversionOrExercisePrice value="21.63">
+</conversionOrExercisePrice>
+<exerciseDate value="2007-11-15">
+<footnoteId id="F3" /> 
+</exerciseDate>
+<expirationDate> value="2016-11-14" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="common stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="24000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="0" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Stock Option" 
+</securityTitle>
+<conversionOrExercisePrice value="14.25">
+</conversionOrExercisePrice>
+<exerciseDate value="2001-09-20">
+</exerciseDate>
+<expirationDate value="2011-09-19">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="common stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="36624">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="0" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="This total includes 15,000 stock bonus award granted on April 8, 2009 which vests over 5 years." /> 
+ <footnote id="F2" text="20% of stock option will be vested on each anniversary date for the next five years." /> 
+ <footnote id="F3" text="33.33% of stock option will be vested on each anniversary date for the next three years." /> 
+</footnotes>
+<remarks />
+<ownerSignature> signatureName="/s/ Joon Hyung Lee" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

@@ -1,0 +1,59 @@
+<Source file="./0001139596-10-000001.nc">
+<SUBMISSION ACCESSION-NUMBER="0001139596-10-000001" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101105" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001139596" CONFORMED-NAME="PARDO BRIAN D" /><FILING-VALUES ACT="34" FILE-NUMBER="000-07900" FILM-NUMBER="101172875" FORM-TYPE="4" /><MAIL-ADDRESS CITY="WACO" STATE="TX" STREET1="908 ARLINGTON DR" ZIP="76712" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="6199" CIK="0000049534" CONFORMED-NAME="LIFE PARTNERS HOLDINGS INC" FISCAL-YEAR-END="0228" IRS-NUMBER="742962475" STATE-OF-INCORPORATION="TX" /><BUSINESS-ADDRESS CITY="WACO" PHONE="8003685569" STATE="TX" STREET1="204 WOODHEW" ZIP="76710" /><MAIL-ADDRESS CITY="WACO" STATE="TX" STREET1="204 WOODHEW" ZIP="76710" /><FORMER-COMPANY DATE-CHANGED="19991110" FORMER-CONFORMED-NAME="IGE INC" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-05" schemaVersion="X0303">
+<issuer> issuerCik="0000049534" 
+ issuerName="LIFE PARTNERS HOLDINGS INC" 
+ issuerTradingSymbol="LPHI" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001139596" 
+ rptOwnerName="PARDO BRIAN D" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="WACO" rptOwnerState="TX" rptOwnerStreet1="908 ARLINGTON DR" rptOwnerStreet2="" rptOwnerZipCode="76712" />
+
+
+<reportingOwnerRelationship isDirector="1" isOfficer="1" isOther="0" isTenPercentOwner="1" officerTitle="Chief Executive Officer">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="P" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="2085" 
+</transactionShares>
+<transactionPricePerShare value="19.29">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="11308" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeHolding>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="7490776" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="Held by Pardo Family Holdings, Ltd.">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+</nonDerivativeTable>
+<ownerSignature> signatureName="/s/Justin R. Blount, Power of Attorney" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+<ownerSignature signatureDate="2010-11-08" signatureName="/s/Justin R. Blount, Power of Attorney">
+</ownerSignature>
+</ownershipDocument></Source>

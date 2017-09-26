@@ -1,0 +1,92 @@
+<Source file="./0001127602-10-027357.nc">
+<SUBMISSION ACCESSION-NUMBER="0001127602-10-027357" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><ISSUER><COMPANY-DATA ASSIGNED-SIC="2086" CIK="0001491675" CONFORMED-NAME="COCA-COLA ENTERPRISES, INC." FISCAL-YEAR-END="1231" IRS-NUMBER="272197395" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="ATLANTA" PHONE="678-260-3000" STATE="GA" STREET1="2500 WINDY RIDGE PARKWAY, NW" STREET2="14TH FLOOR" ZIP="30339" /><MAIL-ADDRESS CITY="ATLANTA" STATE="GA" STREET1="2500 WINDY RIDGE PARKWAY, NW" STREET2="14TH FLOOR" ZIP="30339" /><FORMER-COMPANY DATE-CHANGED="20100511" FORMER-CONFORMED-NAME="International CCE Inc." /></ISSUER><REPORTING-OWNER><OWNER-DATA CIK="0001142395" CONFORMED-NAME="PARKER JOHN R JR" /><FILING-VALUES ACT="34" FILE-NUMBER="001-34874" FILM-NUMBER="101173348" FORM-TYPE="4" /><MAIL-ADDRESS CITY="ATLANTA" STATE="GA" STREET1="PO BOX 723040" ZIP="30339" /></REPORTING-OWNER></SUBMISSION><ownershipDocument documentType="4" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0001491675" 
+ issuerName="COCA-COLA ENTERPRISES, INC." 
+ issuerTradingSymbol="CCE" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001142395" 
+ rptOwnerName="PARKER JOHN R JR" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="ATLANTA" rptOwnerState="GA" rptOwnerStreet1="2500 WINDY RIDGE PARKWAY" rptOwnerStreet2="14TH FLOOR" rptOwnerZipCode="30339">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isOfficer="1" 
+ officerTitle="Sr. VP, General Counsel" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<derivativeTable><derivativeTransaction><securityTitle> value="2010 Stock Option Award" 
+</securityTitle>
+<conversionOrExercisePrice value="24.40">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="A" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness />
+<transactionAmounts><transactionShares> value="67700" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate><footnoteId id="F1" /> 
+</exerciseDate>
+<expirationDate> value="2013-11-04" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="67700">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="67700" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+<derivativeTransaction>
+<securityTitle> value="2010 Restricted Stock Unit Award" 
+</securityTitle>
+<conversionOrExercisePrice>
+<footnoteId id="F2" /> 
+</conversionOrExercisePrice>
+<transactionDate> value="2010-11-04" 
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="A" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness />
+<transactionAmounts><transactionShares> value="20500" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate><footnoteId id="F2" /> 
+</exerciseDate>
+<expirationDate><footnoteId id="F2" /> 
+</expirationDate>
+<underlyingSecurity><underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="20500">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="20500" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="Options vest 33% per year from November 4, 2010." /> 
+ <footnote id="F2" text="Vest on November 4, 2012." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="Suzanne N. Forlidas, attorney-in-fact">
+</ownerSignature>
+</ownershipDocument></Source>

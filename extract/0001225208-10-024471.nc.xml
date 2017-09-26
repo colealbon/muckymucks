@@ -1,0 +1,107 @@
+<Source file="./0001225208-10-024471.nc">
+<SUBMISSION ACCESSION-NUMBER="0001225208-10-024471" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001308771" CONFORMED-NAME="Verguet Patrick B" /><FILING-VALUES ACT="34" FILE-NUMBER="001-15525" FILM-NUMBER="101173833" FORM-TYPE="4" /><MAIL-ADDRESS CITY="COMMUNGNY" STATE="V8" STREET1="CHEMIN CHANTEBISE 19" ZIP="1291" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="3842" CIK="0001099800" CONFORMED-NAME="Edwards Lifesciences Corp" FISCAL-YEAR-END="1231" IRS-NUMBER="364316614" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="IRVINE" PHONE="9492502500" STATE="CA" STREET1="ONE EDWARDS WAY" ZIP="92614" /><MAIL-ADDRESS CITY="IRVINE" STATE="CA" STREET1="ONE EDWARDS WAY" ZIP="92614" /><FORMER-COMPANY DATE-CHANGED="20090225" FORMER-CONFORMED-NAME="EDWARDS LIFESCIENCES CORP." /><FORMER-COMPANY DATE-CHANGED="20000203" FORMER-CONFORMED-NAME="EDWARDS LIFESCIENCES CORP" /><FORMER-COMPANY DATE-CHANGED="19991126" FORMER-CONFORMED-NAME="CVG CONTROLLED INC" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0001099800" 
+ issuerName="Edwards Lifesciences Corp" 
+ issuerTradingSymbol="EW" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001308771" 
+ rptOwnerName="Verguet Patrick B" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="IRVINE" rptOwnerState="CA" rptOwnerStreet1="ONE EDWARDS WAY" rptOwnerStreet2="" rptOwnerZipCode="92614" />
+
+
+<reportingOwnerRelationship isOfficer="1" officerTitle="CVP, Europe">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="20000.0000" 
+</transactionShares>
+<transactionPricePerShare value="16.9900">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="68291.0000" 
+<footnoteId id="F1" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="20000.0000" 
+</transactionShares>
+<transactionPricePerShare value="64.7267">
+<footnoteId id="F2" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="D" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="48291.0000" 
+<footnoteId id="F1" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<derivativeTable><derivativeTransaction><securityTitle> value="Employee Stock Option (Right to Acquire)" 
+</securityTitle>
+<conversionOrExercisePrice value="16.9900">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="20000.0000" 
+</transactionShares>
+<transactionPricePerShare value="0.0000">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate> value="2005-07-08" 
+</exerciseDate>
+<expirationDate value="2011-07-07">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="20000.0000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="40000.0000" 
+<footnoteId id="F1" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="This Form 4 reflects changes in beneficial ownership only; it does not identify other securities of the Issuer beneficially owned by the reporting person." /> 
+ <footnote id="F2" text="This transaction was executed in multiple trades at prices ranging from $64.58 to $65.01.  The price reported above reflects the weighted average sale price.  The reporting person hereby undertakes to provide upon request to the SEC staff, the issuer or a security holder of the issuer full information regarding the number of shares and prices at which the transaction was effected." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="/s/ Denise E. Botticelli, Attorney-in-Fact">
+</ownerSignature>
+</ownershipDocument></Source>

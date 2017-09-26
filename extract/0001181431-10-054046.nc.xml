@@ -1,0 +1,185 @@
+<Source file="./0001181431-10-054046.nc">
+<SUBMISSION ACCESSION-NUMBER="0001181431-10-054046" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001298259" CONFORMED-NAME="Zuidema Richard W" /><FILING-VALUES ACT="34" FILE-NUMBER="001-32253" FILM-NUMBER="101172897" FORM-TYPE="4" /><MAIL-ADDRESS CITY="READING" STATE="PA" STREET1="2366 BRENVILLE ROAD" ZIP="19605" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="5063" CIK="0001289308" CONFORMED-NAME="EnerSys" FISCAL-YEAR-END="0331" IRS-NUMBER="233058564" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="READING" PHONE="(610) 208-1600" STATE="PA" STREET1="2366 BERNVILLE ROAD" ZIP="19605" /><MAIL-ADDRESS CITY="READING" STATE="PA" STREET1="2366 BERNVILLE ROAD" ZIP="19605" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0001289308" 
+ issuerName="EnerSys" 
+ issuerTradingSymbol="ENS" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001298259" 
+ rptOwnerName="Zuidema Richard W" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="READING" rptOwnerState="PA" rptOwnerStreet1="2366 BERNVILLE ROAD" rptOwnerStreet2="" rptOwnerZipCode="19605" />
+
+
+<reportingOwnerRelationship isDirector="0" isOfficer="1" isOther="0" isTenPercentOwner="0" officerTitle="EVP &amp; Secretary">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+<footnoteId id="F1" /> 
+</securityTitle>
+<transactionDate> value="2010-11-04" 
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="9460" 
+</transactionShares>
+<transactionPricePerShare value="16.24">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="99510" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="9460" 
+</transactionShares>
+<transactionPricePerShare value="27.2510">
+<footnoteId id="F2" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="D" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="90050" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="540" 
+</transactionShares>
+<transactionPricePerShare value="16.24">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="90590" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="540" 
+</transactionShares>
+<transactionPricePerShare value="27.2674">
+<footnoteId id="F3" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="D" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="90050" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<derivativeTable><derivativeTransaction><securityTitle> value="Stock Options" 
+</securityTitle>
+<conversionOrExercisePrice value="16.24">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="9460" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate> value="2009-11-18" 
+</exerciseDate>
+<expirationDate value="2012-11-18">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="9460">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="22698" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+<derivativeTransaction>
+<securityTitle> value="Stock Options" 
+</securityTitle>
+<conversionOrExercisePrice value="16.24">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="540" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate> value="2009-11-18" 
+</exerciseDate>
+<expirationDate value="2012-11-18">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="540">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="22158" 
+<footnoteId id="F4" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="The transactions reported on this Form 4 were effected pursuant to a Rule 10b5-1 Trading Plan adopted by the reporting person on September 1, 2010." /> 
+ <footnote id="F2" text="These transactions were executed in multiple trades at prices ranging from $27.24 through $27.27.  The price reported reflects the weighted average sale price.  Full information regarding the number of shares sold and the prices at which the transactions were effected is available to the SEC staff, the issuer or any security holder of the issuer, upon request." /> 
+ <footnote id="F3" text="These transactions were executed in multiple trades at prices ranging from $27.24 through $27.31.  The price reported reflects the weighted average sale price.  Full information regarding the number of shares sold and the prices at which the transactions were effected is available to the SEC staff, the issuer or any security holder of the issuer, upon request." /> 
+ <footnote id="F4" text="This reporting person holds an aggregate total of 286,873 options shares, with various prices, exercisability and expiration dates." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="Karen J. Yodis, by Power of Attorney">
+</ownerSignature>
+</ownershipDocument></Source>

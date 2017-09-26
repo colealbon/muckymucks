@@ -1,0 +1,150 @@
+<Source file="./0001209191-10-053681.nc">
+<SUBMISSION ACCESSION-NUMBER="0001209191-10-053681" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101105" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001220535" CONFORMED-NAME="ROBERTS BRETT A" /><FILING-VALUES ACT="34" FILE-NUMBER="000-20202" FILM-NUMBER="101172442" FORM-TYPE="4" /><MAIL-ADDRESS CITY="SOUTHFIELD" STATE="MI" STREET1="25505 WEST TWELVE MILE ROAD" ZIP="48034" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="6141" CIK="0000885550" CONFORMED-NAME="CREDIT ACCEPTANCE CORP" FISCAL-YEAR-END="1231" IRS-NUMBER="381999511" STATE-OF-INCORPORATION="MI" /><BUSINESS-ADDRESS CITY="SOUTHFIELD" PHONE="2483532700" STATE="MI" STREET1="25505 WEST TWELVE MILE ROAD" ZIP="48034-8334" /><MAIL-ADDRESS CITY="SOUTHFIELD" STATE="MI" STREET1="25505 WEST TWELVE MILE ROAD" ZIP="48034-8334" /><FORMER-COMPANY DATE-CHANGED="19930328" FORMER-CONFORMED-NAME="CREDIT ACCEPTANCE CORPORATION" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-05" schemaVersion="X0303">
+<issuer> issuerCik="0000885550" 
+ issuerName="CREDIT ACCEPTANCE CORP" 
+ issuerTradingSymbol="CACC" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001220535" 
+ rptOwnerName="ROBERTS BRETT A" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="SOUTHFIELD" rptOwnerState="MI" rptOwnerStreet1="25505 WEST TWELVE MILE ROAD" rptOwnerStreet2="" rptOwnerZipCode="48034-8334" />
+
+
+<reportingOwnerRelationship isDirector="1" isOfficer="1" isOther="0" isTenPercentOwner="0" officerTitle="Chief Executive Officer">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="M" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="3772" 
+</transactionShares>
+<transactionPricePerShare value="9.25">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="317845" 
+<footnoteId id="F1" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="S" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="2182" 
+</transactionShares>
+<transactionPricePerShare value="61.90">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="315663" 
+<footnoteId id="F1" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="S" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="1590" 
+</transactionShares>
+<transactionPricePerShare value="62.00">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="314073" 
+<footnoteId id="F1" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<derivativeTable><derivativeTransaction><securityTitle> value="Employee Stock Option (right to buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="9.25">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="M" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="3772" 
+</transactionShares>
+<transactionPricePerShare value="0.00">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate><footnoteId id="F2" /> 
+</exerciseDate>
+<expirationDate> value="2012-01-02" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="3772">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="177215" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="Includes 180,000 restricted stock units that have vested under the Company&apos;s Incentive Compensation Plan." /> 
+ <footnote id="F2" text="The employee&apos;s stock options vested in installments based on the Company&apos;s satisfaction of certain performance-related criteria and became vested in full on March 29, 2005." /> 
+</footnotes>
+<remarks />
+<ownerSignature> signatureName="/s/ Brett A. Roberts" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

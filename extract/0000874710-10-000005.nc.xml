@@ -1,0 +1,88 @@
+<Source file="./0000874710-10-000005.nc">
+<SUBMISSION ACCESSION-NUMBER="0000874710-10-000005" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001263565" CONFORMED-NAME="ROSENTRATER ELDON P" /><FILING-VALUES ACT="34" FILE-NUMBER="000-19266" FILM-NUMBER="101171328" FORM-TYPE="4" /><MAIL-ADDRESS CITY="ST. LOUIS" STATE="MO" STREET1="1720 SUBLETTE AVE" ZIP="63110" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="3842" CIK="0000874710" CONFORMED-NAME="ALLIED HEALTHCARE PRODUCTS INC" FISCAL-YEAR-END="0630" IRS-NUMBER="231370721" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="ST LOUIS" PHONE="3147712400" STATE="MO" STREET1="1720 SUBLETTE AVE" ZIP="63110" /><MAIL-ADDRESS CITY="ST LOUIS" STATE="MO" STREET1="1720 SUBLETTE AVENUE" ZIP="63110" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0000874710" 
+ issuerName="ALLIED HEALTHCARE PRODUCTS INC" 
+ issuerTradingSymbol="AHPI" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001263565" 
+ rptOwnerName="ROSENTRATER ELDON P" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="ST. LOUIS" rptOwnerState="MO" rptOwnerStreet1="1720 SUBLETTE AVENUE" rptOwnerStreet2="" rptOwnerZipCode="63110" />
+
+
+<reportingOwnerRelationship isDirector="0" isOfficer="1" isOther="0" isTenPercentOwner="0" officerTitle="VP - Administration">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="5831" 
+</transactionShares>
+<transactionPricePerShare value="3.35">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="10831" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<derivativeTable>
+<derivativeTransaction><securityTitle> value="Option to purchase common stock" 
+</securityTitle>
+<conversionOrExercisePrice value="3.35">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="5831" 
+</transactionShares>
+<transactionPricePerShare value="3.35">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate> value="2002-04-09" 
+<footnoteId id="F1" /> 
+</exerciseDate>
+<expirationDate> value="2011-04-09" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="30000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="24169" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<footnotes>
+<footnote id="F1" text="Options may not be exercised for a period of one year from the date of the grant and thereafter are exercisable in full." /> 
+</footnotes>
+<remarks />
+<ownerSignature> signatureName="Eldon P. Rosentrater" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

@@ -1,0 +1,122 @@
+<Source file="./0000707179-10-000150.nc">
+<SUBMISSION ACCESSION-NUMBER="0000707179-10-000150" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101105" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001181335" CONFORMED-NAME="STANLEY KELLY N" /><FILING-VALUES ACT="34" FILE-NUMBER="001-15817" FILM-NUMBER="101172866" FORM-TYPE="4" /><MAIL-ADDRESS CITY="EVANSVILLE" STATE="IN" STREET1="C/O 420 MAIN STREET" ZIP="47708" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="6021" CIK="0000707179" CONFORMED-NAME="OLD NATIONAL BANCORP /IN/" FISCAL-YEAR-END="1231" IRS-NUMBER="351539838" STATE-OF-INCORPORATION="IN" /><BUSINESS-ADDRESS CITY="EVANSVILLE" PHONE="8124641434" STATE="IN" STREET1="ONE MAIN ST" ZIP="47708" /><MAIL-ADDRESS CITY="EVANSVILLE" STATE="IN" STREET1="ONE MAIN ST" ZIP="47708" /><FORMER-COMPANY DATE-CHANGED="19950822" FORMER-CONFORMED-NAME="O" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" periodOfReport="2010-11-05" schemaVersion="X0303">
+<issuer> issuerCik="0000707179" 
+ issuerName="OLD NATIONAL BANCORP /IN/" 
+ issuerTradingSymbol="ONB" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001181335" 
+ rptOwnerName="STANLEY KELLY N" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="EVANSVILLE" rptOwnerState="IN" rptOwnerStreet1="ONE MAIN ST" rptOwnerStreet2="" rptOwnerZipCode="47708" />
+
+
+<reportingOwnerRelationship isDirector="1" isOfficer="0" isOther="0" isTenPercentOwner="0">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeHolding><securityTitle> value="COMMON STOCK" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="2500" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+<footnoteId id="F5" /> 
+</directOrIndirectOwnership>
+<natureOfOwnership><value /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding><securityTitle> value="COMMON STOCK" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="35031.666" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding><securityTitle> value="COMMON STOCK" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="2078" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+<footnoteId id="F1" /> 
+</directOrIndirectOwnership>
+<natureOfOwnership><value /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding><securityTitle> value="COMMON STOCK" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="252" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+<footnoteId id="F1" /> 
+</directOrIndirectOwnership>
+<natureOfOwnership> value="SPOUSE - DONNA M STANLEY" 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+</nonDerivativeTable>
+<derivativeTable><derivativeTransaction><securityTitle> value="PHANTOM STOCK" 
+</securityTitle>
+<conversionOrExercisePrice value="9.51">
+<footnoteId id="F2" /> 
+</conversionOrExercisePrice>
+<transactionDate> value="2010-11-05" 
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="A" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="788" 
+</transactionShares>
+<transactionPricePerShare value="9.51">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate><footnoteId id="F3" /> 
+</exerciseDate>
+<expirationDate><footnoteId id="F3" /> 
+</expirationDate>
+<underlyingSecurity><underlyingSecurityTitle> value="COMMON STOCK" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="788">
+<footnoteId id="F2" /> 
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="28653.685" 
+<footnoteId id="F4" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<footnotes>
+<footnote id="F1" text="Held with a broker in an IRA." /> 
+ <footnote id="F2" text="Each share of phantom stock represents the right to receive one share of ONB common stock or the cash value thereof." /> 
+ <footnote id="F3" text="Shares of phantom stock are payable in cash following termination of the reporting person&apos;s employment with ONB or reporting person becoming disabled. The reporting person may transfer his phantom stock account into an alternative investment account at any time." /> 
+ <footnote id="F4" text="On May 14, 2010, Mr. Stanley&apos;s position in ONB stock increased by 20,317.979 shares as a result of an asset allocation adjustment  he made within his deferred compensation account. Shares also include most recent quarterly dividend reinvestment shares." /> 
+ <footnote id="F5" text="Held with a broker." /> 
+</footnotes>
+<remarks />
+<ownerSignature> signatureName="JEFFREY L KNIGHT, EXECUTIVE VP AND CHIEF LEGAL COUNSEL, AS ATTORNEY-IN-FACT" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

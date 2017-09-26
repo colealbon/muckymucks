@@ -1,0 +1,30 @@
+<Source file="./0001144204-10-058352.nc">
+<SUBMISSION ACCESSION-NUMBER="0001144204-10-058352" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101030" PUBLIC-DOCUMENT-COUNT="1" TYPE="3"><REPORTING-OWNER><OWNER-DATA CIK="0001505232" CONFORMED-NAME="Tse Rick Chun Wah" /><FILING-VALUES ACT="34" FILE-NUMBER="000-53481" FILM-NUMBER="101173641" FORM-TYPE="3" /><MAIL-ADDRESS CITY="NORTH POINT" STATE="K3" STREET1="ROOM 2102-03 21/F KINGSFIELD CENTRE" STREET2="18-20 SHELL STREET" ZIP="00000" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="1000" CIK="0001415543" CONFORMED-NAME="Aurum Explorations, Inc." FISCAL-YEAR-END="1231" IRS-NUMBER="000000000" STATE-OF-INCORPORATION="NV" /><BUSINESS-ADDRESS CITY="NORTH POINT," PHONE="011-852-2891-2111" STATE="K3" STREET1="ROOM 2102-03, 21/F, KINGSFIELD CENTRE" STREET2="18-20 SHELL STREET," ZIP="00000" /><MAIL-ADDRESS CITY="NORTH POINT," STATE="K3" STREET1="ROOM 2102-03, 21/F, KINGSFIELD CENTRE" STREET2="18-20 SHELL STREET," ZIP="00000" /></ISSUER></SUBMISSION><ownershipDocument documentType="3" noSecuritiesOwned="0" periodOfReport="2010-10-30" schemaVersion="X0203">
+<issuer> issuerCik="0001415543" 
+ issuerName="Aurum Explorations, Inc." 
+ issuerTradingSymbol="ARMX" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001505232" 
+ rptOwnerName="Tse Rick Chun Wah" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="NORTH POINT" rptOwnerState="K3" rptOwnerStateDescription="HONG KONG" rptOwnerStreet1="ROOM 2102-03 21/F KINGSFIELD CENTRE" rptOwnerStreet2="18-20 SHELL STREET" rptOwnerZipCode="00000">
+</reportingOwnerAddress>
+<reportingOwnerRelationship isDirector="0" isOfficer="1" isOther="0" isTenPercentOwner="0" officerTitle="Marketing Director">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeHolding><securityTitle> value="No securities are beneficially owned" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="0" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+</nonDerivativeTable>
+<ownerSignature> signatureName="/s/ Rick Chun Wah Tse" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

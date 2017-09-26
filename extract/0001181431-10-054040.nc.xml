@@ -1,0 +1,72 @@
+<Source file="./0001181431-10-054040.nc">
+<SUBMISSION ACCESSION-NUMBER="0001181431-10-054040" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001033800" CONFORMED-NAME="LACY LINWOOD A JR" /><FILING-VALUES ACT="34" FILE-NUMBER="000-50350" FILM-NUMBER="101172750" FORM-TYPE="4" /><MAIL-ADDRESS CITY="MIDLOTHIAN" STATE="VA" STREET1="2304 CRANBORNE ROAD" ZIP="23113" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="3661" CIK="0001122904" CONFORMED-NAME="NETGEAR, INC" FISCAL-YEAR-END="1231" IRS-NUMBER="770419172" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="SAN JOSE" PHONE="4089078000" STATE="CA" STREET1="350 EAST PLUMERIA DRIVE" ZIP="95134" /><MAIL-ADDRESS CITY="SAN JOSE" STATE="CA" STREET1="350 EAST PLUMERIA DRIVE" ZIP="95134" /><FORMER-COMPANY DATE-CHANGED="20000828" FORMER-CONFORMED-NAME="NETGEAR INC" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0001122904" 
+ issuerName="NETGEAR, INC" 
+ issuerTradingSymbol="NTGR" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001033800" 
+ rptOwnerName="LACY LINWOOD A JR" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="SAN JOSE" rptOwnerState="CA" rptOwnerStreet1="C/O NETGEAR, INC." rptOwnerStreet2="350 E. PLUMERIA DR." rptOwnerZipCode="95134">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="1" 
+ isOfficer="0" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="30000" 
+</transactionShares>
+<transactionPricePerShare value="31.4385">
+<footnoteId id="F2" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="D" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="248150" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<derivativeTable><derivativeHolding><securityTitle> value="Director Stock Option (right to buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="18.97">
+</conversionOrExercisePrice>
+<exerciseDate>
+<footnoteId id="F1" /> 
+</exerciseDate>
+<expirationDate> value="2015-05-18" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="15000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="15000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="100% of this option grant is exercisable on 05/18/2005, the grant date. Shares underlying the option are restricted from transfer, with the restriction lapsing on the date of the Issuer&apos;s 2006 Annual Meeting of Stockholders, which was held on May 23, 2006." /> 
+ <footnote id="F2" text="The sale price reported in column 4 of Table I represents the weighted average sale price of the shares sold ranging from $31.25 to $31.75 per share.  Upon request by the Commission staff, the Issuer, or a security holder of the Issuer, the Reporting Person will provide full information regarding the number of shares sold at each separate price." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="/s/ Andrew W. Kim, Attorney in Fact">
+</ownerSignature>
+</ownershipDocument></Source>

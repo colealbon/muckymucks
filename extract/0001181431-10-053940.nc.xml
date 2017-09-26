@@ -1,0 +1,35 @@
+<Source file="./0001181431-10-053940.nc">
+<SUBMISSION ACCESSION-NUMBER="0001181431-10-053940" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101103" PUBLIC-DOCUMENT-COUNT="1" TYPE="3"><REPORTING-OWNER><OWNER-DATA CIK="0001505076" CONFORMED-NAME="Anderson Sarah J" /><FILING-VALUES ACT="34" FILE-NUMBER="000-33433" FILM-NUMBER="101171744" FORM-TYPE="3" /><MAIL-ADDRESS CITY="ONTARIO" STATE="CA" STREET1="3633 E. INLAND EMPIRE BLVD., SUITE 480" ZIP="91764" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="6519" CIK="0001144834" CONFORMED-NAME="KAISER VENTURES LLC" FISCAL-YEAR-END="1231" IRS-NUMBER="000000000" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="ONTARIO" PHONE="9094838500" STATE="CA" STREET1="3633 E INLAND EMPIRE BLVD" STREET2="STE 850" ZIP="91764-4922" /><MAIL-ADDRESS CITY="ONTARIO" STATE="CA" STREET1="3633 E INLAND EMPIRE BLVD" STREET2="STE 850" ZIP="91764-4922" /></ISSUER></SUBMISSION><ownershipDocument documentType="3" noSecuritiesOwned="0" periodOfReport="2010-11-03" schemaVersion="X0203">
+<issuer> issuerCik="0001144834" 
+ issuerName="KAISER VENTURES LLC" 
+ issuerTradingSymbol="NONE" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001505076" 
+ rptOwnerName="Anderson Sarah J" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="ONTARIO" rptOwnerState="CA" rptOwnerStreet1="3633 INLAND EMPIRE BLVD, SUITE 480" rptOwnerStreet2="" rptOwnerZipCode="91764" />
+
+
+<reportingOwnerRelationship isDirector="0" isOfficer="0" isOther="1" isTenPercentOwner="0" otherText="Member of Board of Managers">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeHolding><securityTitle> value="Class A Units" 
+<footnoteId id="F1" /> 
+<footnoteId id="F2" />
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="5000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+</nonDerivativeTable>
+<footnotes> <footnote id="F1" text="The Class A Units are not publicly traded.  The Units are scheduled to vest in January 2011." /> 
+ <footnote id="F2" text="Issued in compliance with Equity Compensation Program of the Board of Managers.  No purchase price." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="Sarah J. Anderson">
+</ownerSignature>
+</ownershipDocument></Source>

@@ -1,0 +1,145 @@
+<Source file="./0001181431-10-054121.nc">
+<SUBMISSION ACCESSION-NUMBER="0001181431-10-054121" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101108" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001198430" CONFORMED-NAME="BAILEY BARY" /><FILING-VALUES ACT="34" FILE-NUMBER="001-16753" FILM-NUMBER="101173832" FORM-TYPE="4" /><MAIL-ADDRESS CITY="ALISO VIEJO" STATE="CA" STREET1="ONE ENTERPRISE" ZIP="92656" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="8090" CIK="0001142750" CONFORMED-NAME="AMN HEALTHCARE SERVICES INC" FISCAL-YEAR-END="1231" IRS-NUMBER="061500476" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="SAN DIEGO" PHONE="8668718519" STATE="CA" STREET1="12400 HIGH BLUFF DRIVE" STREET2="SUITE 100" ZIP="92130" /><MAIL-ADDRESS CITY="SAN DIEGO" STATE="CA" STREET1="12400 HIGH BLUFF DRIVE" STREET2="SUITE 100" ZIP="92130" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-08" schemaVersion="X0303">
+<issuer> issuerCik="0001142750" 
+ issuerName="AMN HEALTHCARE SERVICES INC" 
+ issuerTradingSymbol="AHS" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001198430" 
+ rptOwnerName="BAILEY BARY" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="SAN DIEGO" rptOwnerState="CA" rptOwnerStreet1="12400 HIGH BLUFF DRIVE" rptOwnerStreet2="SUITE 100" rptOwnerZipCode="92130">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="1" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+ officerTitle="CFO/CAO" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-08">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="P" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="7500" 
+</transactionShares>
+<transactionPricePerShare value="4.7872">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="15800" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<derivativeTable><derivativeHolding><securityTitle> value="Restricted Stock Units" 
+<footnoteId id="F1" /> 
+</securityTitle>
+<conversionOrExercisePrice><footnoteId id="F4" /> 
+</conversionOrExercisePrice>
+<exerciseDate><footnoteId id="F2" /> 
+</exerciseDate>
+<expirationDate><footnoteId id="F3" /> 
+</expirationDate>
+<underlyingSecurity><underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="47929">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="47929" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Stock Appreciation Rights" 
+<footnoteId id="F1" /> 
+</securityTitle>
+<conversionOrExercisePrice> value="6.57" 
+</conversionOrExercisePrice>
+<exerciseDate>
+<footnoteId id="F5" /> 
+</exerciseDate>
+<expirationDate> value="2019-07-20" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="219834">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="219834" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Restricted Stock Units" 
+</securityTitle>
+<conversionOrExercisePrice>
+<footnoteId id="F6" /> 
+</conversionOrExercisePrice>
+<exerciseDate><footnoteId id="F7" /> 
+</exerciseDate>
+<expirationDate><footnoteId id="F3" /> 
+</expirationDate>
+<underlyingSecurity><underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="37370">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="37370" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Stock Appreciation Rights" 
+</securityTitle>
+<conversionOrExercisePrice value="8.78">
+</conversionOrExercisePrice>
+<exerciseDate>
+<footnoteId id="F5" /> 
+</exerciseDate>
+<expirationDate> value="2020-02-02" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="64650">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="64650" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="The Restricted Stock Units and Stock Appreciation Rights granted on July 20, 2009 to Mr. Bailey were issued under the employee inducement exception to shareholder approved plans pursuant to New York Stock Exchange rule 303A.08." /> 
+ <footnote id="F2" text="The Restricted Stock Units (RSU) vest on the third anniversary of the grant date; notwithstanding the foregoing, in the event the Company achieves its 2010 EBITDA target, 33% will vest on the second anniversary." /> 
+ <footnote id="F3" text="The Restricted Stock Units do not have an expiration date." /> 
+ <footnote id="F4" text="The Restricted Stock Units and Stock Appreciation Rights granted on July 20, 2009 to Mr. Bailey were issued under the employee inducement exception to shareholder approved plans pursuant to New York Stock Exchange rule 303A.08. Each RSU represents a contingent right to receive one share of Common Stock." /> 
+ <footnote id="F5" text="The Stock Appreciation Rights vest over three years on the anniversary of the date of the grant in increments of 33%, 34% and 33% respectively." /> 
+ <footnote id="F6" text="The Restricted Stock Units were granted pursuant to the AMN Healthcare Equity Plan. Each Restricted Stock Unit represents a contingent right ot receive one share of Common Stock." /> 
+ <footnote id="F7" text="The Restricted Stock Units were granted on February 2, 2010 and vest on the third anniversary of the grant date, provided, however, the Restricted Stock Units shall vest on an accelerated basis thirteen months after the grant date, in the incremental amount of 33% should the Company achieve or exceed specified earnings before interest, taxes, depreciation and amortization (EBITDA) threshold for the previous fiscal year and on the second anniversary of the grant date, in the amount of 34% should the Company achieve or exceed specified EBITDA threshold for the previous fiscal year. The settlement date of the Restricted Stock Units shall be the vesting date unless the grantee otherwise elects under the terms of the Company&apos;s 2005 Amended and Restated Executive Nonqualified Excess Plan." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="Bary G. Bailey">
+</ownerSignature>
+</ownershipDocument></Source>

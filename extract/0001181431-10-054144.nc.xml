@@ -1,0 +1,80 @@
+<Source file="./0001181431-10-054144.nc">
+<SUBMISSION ACCESSION-NUMBER="0001181431-10-054144" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001244838" CONFORMED-NAME="GROSS ROBERT G" /><FILING-VALUES ACT="34" FILE-NUMBER="000-19357" FILM-NUMBER="101174053" FORM-TYPE="4" /><MAIL-ADDRESS CITY="ROCHESTER" STATE="NY" STREET1="200 HOLLEDER PARKWAY" ZIP="14615" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="7500" CIK="0000876427" CONFORMED-NAME="MONRO MUFFLER BRAKE INC" FISCAL-YEAR-END="0331" IRS-NUMBER="160838627" STATE-OF-INCORPORATION="NY" /><BUSINESS-ADDRESS CITY="ROCHESTER" PHONE="7166476400" STATE="NY" STREET1="200 HOLLEDER PKWY" ZIP="14615-3808" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0000876427" 
+ issuerName="MONRO MUFFLER BRAKE INC" 
+ issuerTradingSymbol="MNRO" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001244838" 
+ rptOwnerName="GROSS ROBERT G" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="ROCHESTER" rptOwnerState="NY" rptOwnerStreet1="200 HOLLEDER PARKWAY" rptOwnerStreet2="" rptOwnerZipCode="14615" />
+
+
+<reportingOwnerRelationship isDirector="1" isOfficer="1" isOther="0" isTenPercentOwner="0" officerTitle="CEO">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeHolding><securityTitle> value="HOLDING" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="380184" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeTransaction>
+<securityTitle> value="COMMON STOCK" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<deemedExecutionDate value="2010-11-04">
+</deemedExecutionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+<footnoteId id="F1" /> 
+</transactionCoding>
+<transactionAmounts><transactionShares> value="50000" 
+</transactionShares>
+<transactionPricePerShare value="49.9057">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="330184" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="COMMON STOCK" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<deemedExecutionDate value="2010-11-05">
+</deemedExecutionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+<footnoteId id="F1" /> 
+</transactionCoding>
+<transactionAmounts><transactionShares> value="11334" 
+</transactionShares>
+<transactionPricePerShare value="50.1149">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="318850" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<footnotes> <footnote id="F1" text="Proceeds from the sale of these shares will be used by the reporting person to purchase shares of the Issuer&apos;s stock through the exercise of certain stock options, as well as to pay for certain personal tax obligations related to such exercises." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="/s/ Maureen E. Mullholland as POA for Robert G. Gross">
+</ownerSignature>
+</ownershipDocument></Source>

@@ -1,0 +1,89 @@
+<Source file="./0001181431-10-054081.nc">
+<SUBMISSION ACCESSION-NUMBER="0001181431-10-054081" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="2" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001202391" CONFORMED-NAME="BAKER ROBERT K" /><FILING-VALUES ACT="34" FILE-NUMBER="000-21714" FILM-NUMBER="101173560" FORM-TYPE="4" /><MAIL-ADDRESS CITY="KILLBUCK" STATE="OH" STREET1="P.O. BOX 913" ZIP="44637" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="6022" CIK="0000880417" CONFORMED-NAME="CSB BANCORP INC /OH" FISCAL-YEAR-END="1231" IRS-NUMBER="341687530" STATE-OF-INCORPORATION="OH" /><BUSINESS-ADDRESS CITY="MILLERSBURG" PHONE="3306749015" STATE="OH" STREET1="6 W JACKSON ST" STREET2="P O BOX 232" ZIP="44654" /><MAIL-ADDRESS CITY="MILLERSBURG" STATE="OH" STREET1="6 WEST JACKSON STREET" ZIP="44654" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0000880417" 
+ issuerName="CSB BANCORP INC /OH" 
+ issuerTradingSymbol="CSBB.OB" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001202391" 
+ rptOwnerName="BAKER ROBERT K" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="MILLERSBURG" rptOwnerState="OH" rptOwnerStreet1="91 NORTH CLAY STREET" rptOwnerStreet2="" rptOwnerZipCode="44654" />
+
+
+<reportingOwnerRelationship isDirector="1" isOfficer="0" isOther="0" isTenPercentOwner="0">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="P" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="100" 
+</transactionShares>
+<transactionPricePerShare value="15.75">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="5886.2021" 
+<footnoteId id="F1" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeHolding>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="3674" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="IRA">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="1300" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="Spouse">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="1000.6627" 
+<footnoteId id="F1" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="See Footnote">
+<footnoteId id="F2" /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+</nonDerivativeTable>
+<footnotes>
+<footnote id="F1" text="Allocated to the reporting person&apos;s account pursuant to a dividend reinvestment feature of the CSB Bancorp, Inc. Dividend Reinvestment Plan." /> 
+ <footnote id="F2" text="Stock held by Bakerwell, Inc. of which reporting person is a controlling shareholder." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="Robert K. Baker by Margaret L. Conn, Attorney-in-Fact pursuant to Power of Attorney filed herewith">
+</ownerSignature>
+</ownershipDocument></Source>

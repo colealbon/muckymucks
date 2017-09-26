@@ -1,0 +1,102 @@
+<Source file="./0001453865-10-000035.nc">
+<SUBMISSION ACCESSION-NUMBER="0001453865-10-000035" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101105" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001453865" CONFORMED-NAME="GOKHALE VINAY" /><FILING-VALUES ACT="34" FILE-NUMBER="001-33844" FILM-NUMBER="101171376" FORM-TYPE="4" /><MAIL-ADDRESS CITY="SAN DIEGO" STATE="X1" STREET1="C/O ENTROPIC COMMUNICATIONS, INC." STREET2="6290 SEQUENCE DRIVE" ZIP="92121" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="3674" CIK="0001227930" CONFORMED-NAME="ENTROPIC COMMUNICATIONS INC" FISCAL-YEAR-END="1231" IRS-NUMBER="330947630" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="SAN DIEGO" PHONE="858-768-3600" STATE="CA" STREET1="6290 SEQUENCE DRIVE" ZIP="92121" /><MAIL-ADDRESS CITY="SAN DIEGO" STATE="CA" STREET1="6290 SEQUENCE DRIVE" ZIP="92121" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-05" schemaVersion="X0303">
+<issuer> issuerCik="0001227930" 
+ issuerName="ENTROPIC COMMUNICATIONS INC" 
+ issuerTradingSymbol="ENTR" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001453865" 
+ rptOwnerName="GOKHALE VINAY" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="SAN DIEGO" rptOwnerState="CA" rptOwnerStreet1="6290 SEQUENCE DRIVE" rptOwnerStreet2="" rptOwnerZipCode="92121" />
+
+
+<reportingOwnerRelationship isDirector="0" isOfficer="1" isOther="0" isTenPercentOwner="0" officerTitle="SVP,Marketing &amp; Business Dev">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="6000" 
+</transactionShares>
+<transactionPricePerShare value="0.68">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="6000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+<footnoteId id="F1" /> 
+</transactionCoding>
+<transactionAmounts><transactionShares> value="6000" 
+</transactionShares>
+<transactionPricePerShare value="9.1475">
+<footnoteId id="F2" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="D" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="0" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<derivativeTable><derivativeTransaction><securityTitle> value="Non-Qualified Stock Option (right to buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="0.68">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="6000" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate><footnoteId id="F3" /> 
+</exerciseDate>
+<expirationDate> value="2019-02-06" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="6000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="197000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="The sales reported in the Form 4 were effected pursuant to a Rule 10b5-1 trading plan adopted by the reporting person on August 27, 2009." /> 
+ <footnote id="F2" text="The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $8.95 to $9.21, per share. The reporting person undertakes to provide to Entropic Communications (the Company), any security holder of the Company or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the ranges set forth in this footnote." /> 
+ <footnote id="F3" text="1/4th of the shares vest one year after the Vesting Commencement Date beginning 1/5/09.  1/48th of the shares vest monthly thereafter over the next three years. Additionally, grant is subject to accelerated vesting on the terms and conditions set forth in such individual&apos;s Change of Control Agreement." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="By: Lance W. Bridges, as attorney-in-fact  For: Vinay Gokhale">
+</ownerSignature>
+</ownershipDocument></Source>

@@ -1,0 +1,276 @@
+<Source file="./0001209191-10-053547.nc">
+<SUBMISSION ACCESSION-NUMBER="0001209191-10-053547" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101105" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001126949" CONFORMED-NAME="JOHNSON JAMES A /DC/" /><FILING-VALUES ACT="34" FILE-NUMBER="001-33662" FILM-NUMBER="101171073" FORM-TYPE="4" /><MAIL-ADDRESS CITY="WASHINGTON" STATE="DC" STREET1="600 NEW HAMPSHIRE AVENUE N W" STREET2="SUITE 600" ZIP="20037" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="6500" CIK="0001406587" CONFORMED-NAME="Forestar Group Inc." FISCAL-YEAR-END="1229" IRS-NUMBER="261336998" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="AUSTIN" PHONE="512-433-5200" STATE="TX" STREET1="6300 BEE CAVE ROAD" STREET2="BUILDING TWO, SUITE 500" ZIP="78746" /><MAIL-ADDRESS CITY="AUSTIN" STATE="TX" STREET1="6300 BEE CAVE ROAD" STREET2="BUILDING TWO, SUITE 500" ZIP="78746" /><FORMER-COMPANY DATE-CHANGED="20071101" FORMER-CONFORMED-NAME="Forestar Real Estate Group Inc." /><FORMER-COMPANY DATE-CHANGED="20070713" FORMER-CONFORMED-NAME="Forestar Real Estate Group LLC" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-05" schemaVersion="X0303">
+<issuer> issuerCik="0001406587" 
+ issuerName="Forestar Group Inc." 
+ issuerTradingSymbol="FOR" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001126949" 
+ rptOwnerName="JOHNSON JAMES A /DC/" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="AUSTIN" rptOwnerState="TX" rptOwnerStreet1="6300 BEE CAVE ROAD" rptOwnerStreet2="BUILDING TWO, SUITE 500" rptOwnerZipCode="78746">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="1" 
+ isOfficer="0" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="M" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="666" 
+</transactionShares>
+<transactionPricePerShare value="11.76">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="12997" 
+<footnoteId id="F1" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<derivativeTable><derivativeHolding><securityTitle> value="Option (right to buy)" 
+<footnoteId id="F2" /> 
+<footnoteId id="F3" />
+</securityTitle>
+<conversionOrExercisePrice value="6.73">
+</conversionOrExercisePrice>
+<exerciseDate value="2001-02-04">
+</exerciseDate>
+<expirationDate value="2015-02-04">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="1333">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="1333" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Option (right to buy)" 
+<footnoteId id="F3" /> 
+<footnoteId id="F4" />
+</securityTitle>
+<conversionOrExercisePrice value="5.98">
+</conversionOrExercisePrice>
+<exerciseDate value="2002-01-02">
+</exerciseDate>
+<expirationDate value="2016-01-02">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="1333">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="1333" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeTransaction>
+<securityTitle> value="Option (right to buy)" 
+<footnoteId id="F3" /> 
+<footnoteId id="F5" />
+</securityTitle>
+<conversionOrExercisePrice value="11.76">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="M" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="666" 
+</transactionShares>
+<transactionPricePerShare value="0.00">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate> value="2002-02-02" 
+</exerciseDate>
+<expirationDate value="2011-02-02">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="666">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="0" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+<derivativeHolding>
+<securityTitle> value="Option (right to buy)" 
+<footnoteId id="F3" /> 
+<footnoteId id="F6" />
+</securityTitle>
+<conversionOrExercisePrice value="7.08">
+</conversionOrExercisePrice>
+<exerciseDate value="2003-01-02">
+</exerciseDate>
+<expirationDate value="2017-01-02">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="1333">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="1333" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Option (right to buy)" 
+<footnoteId id="F3" /> 
+<footnoteId id="F7" />
+</securityTitle>
+<conversionOrExercisePrice value="13.26">
+</conversionOrExercisePrice>
+<exerciseDate value="2003-02-01">
+</exerciseDate>
+<expirationDate value="2012-02-01">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="666">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="666" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Option (right to buy)" 
+<footnoteId id="F8" /> 
+</securityTitle>
+<conversionOrExercisePrice> value="28.85" 
+</conversionOrExercisePrice>
+<exerciseDate value="2009-02-12">
+</exerciseDate>
+<expirationDate value="2018-02-12">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="20000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="20000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Phantom" 
+<footnoteId id="F3" /> 
+<footnoteId id="F9" />
+</securityTitle>
+<conversionOrExercisePrice>
+<footnoteId id="F9" /> 
+</conversionOrExercisePrice>
+<exerciseDate> value="2007-11-02" 
+</exerciseDate>
+<expirationDate value="2021-11-02">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="1334">
+<footnoteId id="F9" /> 
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="14675" 
+<footnoteId id="F9" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Restricted Share Units" 
+<footnoteId id="F10" /> 
+</securityTitle>
+<conversionOrExercisePrice><footnoteId id="F10" /> 
+</conversionOrExercisePrice>
+<exerciseDate><footnoteId id="F10" /> 
+</exerciseDate>
+<expirationDate><footnoteId id="F10" /> 
+</expirationDate>
+<underlyingSecurity><underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="1237">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="23211" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="In accordance with the Rights Agreement adopted by the Company on December 11, 2007, Preferred Stock Purchase Rights are deemed to be attached to the shares of Common Stock." /> 
+ <footnote id="F2" text="Options Vesting Schedule - Exercise price is $6.73:  Options Exercisable 02/04/2004 - 1,333." /> 
+ <footnote id="F3" text="Shares acquired in a pro rata distribution by Temple-Inland Inc. through a spin-off on or around December 28, 2007." /> 
+ <footnote id="F4" text="Options Vesting Schedule - Exercise price is $5.98:  Options Exercisable 01/02/2005 - 1,333." /> 
+ <footnote id="F5" text="Options are fully vested and exercisable as of the date of this report." /> 
+ <footnote id="F6" text="Options Vesting Schedule - Exercise price is $7.08:  Options Exercisable 01/02/2006 - 1,333." /> 
+ <footnote id="F7" text="Options Vesting Schedule - Exercise price is $13.26:  Options Exercisable 02/01/2006 - 666." /> 
+ <footnote id="F8" text="Options Vesting Schedule for Options Granted 02/12/2008 - Exercise price is $28.85:  Options Exercisable 02/12/2009 - 6,500; Options Exercisable 02/12/2010 - 6,500; Options Exercisable 02/12/2011 - 7,000." /> 
+ <footnote id="F9" text="Phantom shares accrued under a Temple-Inland Inc. plan being settled in 15 annual installments following Reporting Person&apos;s retirement from Temple-Inland Inc. in November 2007.  The first installment was paid in November 2007." /> 
+ <footnote id="F10" text="Restricted share units accrued under a Company plan to be settled in cash  following Reporting Person&apos;s retirement.  Restricted share units are vested on the date of grant and have the economic equivalent of one share of common stock." /> 
+</footnotes>
+<remarks />
+<ownerSignature> signatureName="David M. Grimm signing on behalf of James A. Johnson" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

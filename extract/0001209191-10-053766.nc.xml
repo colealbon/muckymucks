@@ -1,0 +1,122 @@
+<Source file="./0001209191-10-053766.nc">
+<SUBMISSION ACCESSION-NUMBER="0001209191-10-053766" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="2" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001113706" CONFORMED-NAME="GENDRON THOMAS A" /><FILING-VALUES ACT="34" FILE-NUMBER="000-08408" FILM-NUMBER="101173803" FORM-TYPE="4" /><MAIL-ADDRESS CITY="ROCKFORD" STATE="IL" STREET1="5001 NORTH SECOND STREET" ZIP="61111" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="3620" CIK="0000108312" CONFORMED-NAME="WOODWARD GOVERNOR CO" FISCAL-YEAR-END="0930" IRS-NUMBER="361984010" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="ROCKFORD" PHONE="8158777441" STATE="IL" STREET1="5001 N SECOND ST" STREET2="P O BOX 7001" ZIP="61125-7001" /><MAIL-ADDRESS CITY="ROCKFORD" STATE="IL" STREET1="5001 N SECOND ST" STREET2="PO BOX 7001" ZIP="61125-7001" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0000108312" 
+ issuerName="WOODWARD GOVERNOR CO" 
+ issuerTradingSymbol="WGOV" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001113706" 
+ rptOwnerName="GENDRON THOMAS A" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="FORT COLLINS" rptOwnerState="CO" rptOwnerStreet1="1000 E. DRAKE ROAD" rptOwnerStreet2="" rptOwnerZipCode="80525" />
+
+
+<reportingOwnerRelationship isDirector="1" isOfficer="1" isOther="0" isTenPercentOwner="0" officerTitle="President and CEO">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Woodward Governor Company Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="M" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="58500" 
+<footnoteId id="F1" /> 
+</transactionShares>
+<transactionPricePerShare> value="6.9689" 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="146584" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Woodward Governor Company Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="S" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="58500" 
+<footnoteId id="F2" /> 
+</transactionShares>
+<transactionPricePerShare> value="33.0104" 
+<footnoteId id="F2" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="D" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="88084" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<derivativeTable><derivativeTransaction><securityTitle> value="Nonqualified Stock Option (right to buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="6.9689">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="M" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="58500" 
+</transactionShares>
+<transactionPricePerShare value="0.00">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate> value="2001-11-21" 
+<footnoteId id="F3" /> 
+</exerciseDate>
+<expirationDate> value="2010-11-21" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="58500">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="0" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="The transactions reported in this Form 4 were effected pursuant to a Rule 10b5-1 trading plan adopted by the reporting person on June 3, 2010." /> 
+ <footnote id="F2" text="The reporting person executed a trade order through a broker-dealer which resulted in multiple same day, same-way open market sales, with prices ranging from $33.00 to $33.14 per share.  The reporting person has reported these sales on an aggregate basis using the weighted average price for the transactions.  The reporting person undertakes to provide, upon request by teh Securities and Exchange Commission staff, the company or a security holder of the Company, full information regarding the number of shares sold at each separate price." /> 
+ <footnote id="F3" text="Options, which expire in November 2010, became exercisable at the rate of 25% per year beginning November 21, 2001." /> 
+</footnotes>
+<remarks />
+<ownerSignature> signatureName="Jody L. Harrell by Power of Attorney" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

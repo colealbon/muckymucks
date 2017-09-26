@@ -1,0 +1,447 @@
+<Source file="./0001144204-10-058122.nc">
+<SUBMISSION ACCESSION-NUMBER="0001144204-10-058122" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101105" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><ISSUER><COMPANY-DATA ASSIGNED-SIC="7389" CIK="0000949394" CONFORMED-NAME="AMACORE GROUP, INC." FISCAL-YEAR-END="1231" IRS-NUMBER="593206480" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="MAITLAND," PHONE="(407) 805-8900" STATE="FL" STREET1="MAITLAND PROMENADE 1" STREET2="485 NORTH KELLER ROAD, SUITE 450" ZIP="32751" /><MAIL-ADDRESS CITY="MAITLAND," STATE="FL" STREET1="MAITLAND PROMENADE 1" STREET2="485 NORTH KELLER ROAD, SUITE 450" ZIP="32751" /><FORMER-COMPANY DATE-CHANGED="19991029" FORMER-CONFORMED-NAME="EYE CARE INTERNATIONAL INC" /></ISSUER><REPORTING-OWNER><OWNER-DATA CIK="0001341950" CONFORMED-NAME="Vicis Capital, LLC" FISCAL-YEAR-END="1231" STATE-OF-INCORPORATION="DE" /><FILING-VALUES ACT="34" FILE-NUMBER="000-27889" FILM-NUMBER="101171184" FORM-TYPE="4" /><BUSINESS-ADDRESS CITY="NEW YORK" PHONE="212-909-4600" STATE="NY" STREET1="TOWER 56, SUITE 700, 126 E. 56TH STREET" STREET2="7TH FLOOR" ZIP="10022" /><MAIL-ADDRESS CITY="NEW YORK" STATE="NY" STREET1="TOWER 56, SUITE 700, 126 E. 56TH STREET" STREET2="7TH FLOOR" ZIP="10022" /></REPORTING-OWNER><REPORTING-OWNER><OWNER-DATA CIK="0001365954" CONFORMED-NAME="Vicis Capital Master Fund" FISCAL-YEAR-END="1231" STATE-OF-INCORPORATION="E9" /><FILING-VALUES ACT="34" FILE-NUMBER="000-27889" FILM-NUMBER="101171185" FORM-TYPE="4" /><BUSINESS-ADDRESS CITY="NEW YORK" PHONE="212-909-4600" STATE="NY" STREET1="126 EAST 56TH STREET" STREET2="TOWER 56, SUITE 700" ZIP="10022" /><MAIL-ADDRESS CITY="NEW YORK" STATE="NY" STREET1="126 EAST 56TH STREET" STREET2="TOWER 56, SUITE 700" ZIP="10022" /></REPORTING-OWNER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-05" schemaVersion="X0303">
+<issuer> issuerCik="0000949394" 
+ issuerName="AMACORE GROUP, INC." 
+ issuerTradingSymbol="ACGI.OTC" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001341950" 
+ rptOwnerName="Vicis Capital, LLC" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="NEW YORK" rptOwnerState="NY" rptOwnerStreet1="445 PARK AVENUE, SUITE 1901" rptOwnerStreet2="" rptOwnerZipCode="10022" />
+
+
+<reportingOwnerRelationship isDirector="0" isOfficer="0" isOther="0" isTenPercentOwner="1">
+</reportingOwnerRelationship>
+</reportingOwner>
+<reportingOwner><reportingOwnerId> rptOwnerCik="0001365954" 
+ rptOwnerName="Vicis Capital Master Fund" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="NEW YORK" rptOwnerState="NY" rptOwnerStreet1="445 PARK AVENUE, SUITE 1901" rptOwnerStreet2="" rptOwnerZipCode="10022" />
+
+
+<reportingOwnerRelationship isDirector="0" isOfficer="0" isOther="0" isTenPercentOwner="1">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeHolding><securityTitle> value="Class A Common Stock, $0.001 par value per share" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="891316950" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+<footnoteId id="F1" /> 
+</directOrIndirectOwnership>
+<natureOfOwnership> value="By Vicis Capital Master Fund" 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+</nonDerivativeTable>
+<derivativeTable><derivativeTransaction><securityTitle> value="15% Senior Secured Convertible Note" 
+</securityTitle>
+<conversionOrExercisePrice value="0.005">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="P" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionTotalValue> value="625000" 
+</transactionTotalValue>
+<transactionPricePerShare value="625000">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate><footnoteId id="F2" /> 
+</exerciseDate>
+<expirationDate> value="2011-06-30" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Class A Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="125000000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><valueOwnedFollowingTransaction> value="3775000" 
+</valueOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+<footnoteId id="F1" /> 
+</directOrIndirectOwnership>
+<natureOfOwnership> value="By Vicis Capital Master Fund" 
+</natureOfOwnership>
+</ownershipNature>
+</derivativeTransaction>
+<derivativeHolding>
+<securityTitle> value="Series L Convertible Preferred Stock" 
+</securityTitle>
+<conversionOrExercisePrice value="0.01">
+</conversionOrExercisePrice>
+<exerciseDate>
+<footnoteId id="F2" /> 
+</exerciseDate>
+<expirationDate> value="2011-07-15" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Class A Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="600000000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="1050" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+<footnoteId id="F1" /> 
+</directOrIndirectOwnership>
+<natureOfOwnership> value="By Vicis Capital Master Fund" 
+</natureOfOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Warrant to purchase Class A Common Stock" 
+</securityTitle>
+<conversionOrExercisePrice value="0.375">
+</conversionOrExercisePrice>
+<exerciseDate value="2009-12-31">
+</exerciseDate>
+<expirationDate value="2014-12-31">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Class A Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="67500000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="67500000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+<footnoteId id="F1" /> 
+</directOrIndirectOwnership>
+<natureOfOwnership> value="By Vicis Capital Master Fund" 
+</natureOfOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Warrant to purchase Class A Common Stock" 
+</securityTitle>
+<conversionOrExercisePrice value="0.375">
+</conversionOrExercisePrice>
+<exerciseDate value="2009-12-31">
+</exerciseDate>
+<expirationDate value="2014-06-29">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Class A Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="50625000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="50625000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+<footnoteId id="F1" /> 
+</directOrIndirectOwnership>
+<natureOfOwnership> value="By Vicis Capital Master Fund" 
+</natureOfOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Series I Convertible Preferred Stock" 
+</securityTitle>
+<conversionOrExercisePrice value="5.00">
+</conversionOrExercisePrice>
+<exerciseDate>
+<footnoteId id="F2" /> 
+</exerciseDate>
+<expirationDate> value="2011-07-15" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Class A Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="3300000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="1650" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+<footnoteId id="F1" /> 
+</directOrIndirectOwnership>
+<natureOfOwnership> value="By Vicis Capital Master Fund" 
+</natureOfOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Warrant to purchase Class A Common Stock" 
+</securityTitle>
+<conversionOrExercisePrice value="0.375">
+</conversionOrExercisePrice>
+<exerciseDate>
+<footnoteId id="F2" /> 
+</exerciseDate>
+<expirationDate> value="2014-03-31" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Class A Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="45000000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="45000000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+<footnoteId id="F1" /> 
+</directOrIndirectOwnership>
+<natureOfOwnership> value="By Vicis Capital Master Fund" 
+</natureOfOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Warrant to purchase Class A Common Stock" 
+</securityTitle>
+<conversionOrExercisePrice value="0.375">
+</conversionOrExercisePrice>
+<exerciseDate>
+<footnoteId id="F2" /> 
+</exerciseDate>
+<expirationDate> value="2014-01-13" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Class A Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="45000000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="45000000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+<footnoteId id="F1" /> 
+</directOrIndirectOwnership>
+<natureOfOwnership> value="By Vicis Capital Master Fund" 
+</natureOfOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Warrant to purchase Class A Common Stock" 
+</securityTitle>
+<conversionOrExercisePrice value="0.375">
+</conversionOrExercisePrice>
+<exerciseDate>
+<footnoteId id="F2" /> 
+</exerciseDate>
+<expirationDate> value="2013-12-31" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Class A Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="28125000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="28125000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+<footnoteId id="F1" /> 
+</directOrIndirectOwnership>
+<natureOfOwnership> value="By Vicis Capital Master Fund" 
+</natureOfOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Warrant to purchase Class A Common Stock" 
+</securityTitle>
+<conversionOrExercisePrice value="0.375">
+</conversionOrExercisePrice>
+<exerciseDate>
+<footnoteId id="F2" /> 
+</exerciseDate>
+<expirationDate> value="2013-10-06" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Class A Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="22500000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="22500000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+<footnoteId id="F1" /> 
+</directOrIndirectOwnership>
+<natureOfOwnership> value="By Vicis Capital Master Fund" 
+</natureOfOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Warrant to purchase Class A Common Stock" 
+</securityTitle>
+<conversionOrExercisePrice value="0.375">
+</conversionOrExercisePrice>
+<exerciseDate>
+<footnoteId id="F2" /> 
+</exerciseDate>
+<expirationDate> value="2013-09-30" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Class A Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="45000000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="45000000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+<footnoteId id="F1" /> 
+</directOrIndirectOwnership>
+<natureOfOwnership> value="By Vicis Capital Master Fund" 
+</natureOfOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Series G Convertible Preferred Stock" 
+</securityTitle>
+<conversionOrExercisePrice value="5.00">
+</conversionOrExercisePrice>
+<exerciseDate>
+<footnoteId id="F2" /> 
+</exerciseDate>
+<expirationDate> value="2011-07-15" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Class A Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="2400000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="1200" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+<footnoteId id="F1" /> 
+</directOrIndirectOwnership>
+<natureOfOwnership> value="By Vicis Capital Master Fund" 
+</natureOfOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Series H Convertible Preferred Stock" 
+</securityTitle>
+<conversionOrExercisePrice value="5.00">
+</conversionOrExercisePrice>
+<exerciseDate>
+<footnoteId id="F2" /> 
+</exerciseDate>
+<expirationDate> value="2011-07-15" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Class A Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="800000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="400" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+<footnoteId id="F1" /> 
+</directOrIndirectOwnership>
+<natureOfOwnership> value="By Vicis Capital Master Fund" 
+</natureOfOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Warrant to purchase Class A Common Stock" 
+</securityTitle>
+<conversionOrExercisePrice value="0.375">
+</conversionOrExercisePrice>
+<exerciseDate>
+<footnoteId id="F2" /> 
+</exerciseDate>
+<expirationDate> value="2013-03-13" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Class A Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="45000000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="45000000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+<footnoteId id="F1" /> 
+</directOrIndirectOwnership>
+<natureOfOwnership> value="By Vicis Capital Master Fund" 
+</natureOfOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Warrant to purchase Class A Common Stock" 
+</securityTitle>
+<conversionOrExercisePrice value="0.375">
+</conversionOrExercisePrice>
+<exerciseDate>
+<footnoteId id="F2" /> 
+</exerciseDate>
+<expirationDate> value="2013-04-30" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Class A Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="22500000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="22500000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+<footnoteId id="F1" /> 
+</directOrIndirectOwnership>
+<natureOfOwnership> value="By Vicis Capital Master Fund" 
+</natureOfOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Warrant to purchase Class A Common Stock" 
+</securityTitle>
+<conversionOrExercisePrice value="0.375">
+</conversionOrExercisePrice>
+<exerciseDate>
+<footnoteId id="F2" /> 
+</exerciseDate>
+<expirationDate> value="2013-06-02" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Class A Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="45000000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="45000000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+<footnoteId id="F1" /> 
+</directOrIndirectOwnership>
+<natureOfOwnership> value="By Vicis Capital Master Fund" 
+</natureOfOwnership>
+</ownershipNature>
+</derivativeHolding>
+</derivativeTable>
+<footnotes><footnote id="F1" text="Represents the indirect holdings of Vicis Capital LLC.  All of the foregoing represents securities held directly by VicisCapital Master Fund.  Vicis Capital LLC acts as investment advisor to Vicis Capital Master Fund and therefore has voting anddispositive power over all the foregoing shares.  For the purposes of Rule 13d-3 under the Securities Exchange Act of 1934,as amended, Vicis Capital LLC may be deemed to be the beneficial owner of, but hereby disclaims such beneficial ownershipof, the foregoing shares." />
+ <footnote id="F2" text="Immediately." /> 
+</footnotes>
+<ownerSignature> signatureName="/s/ Andrew Comito, Compliance Officer, Vicis Capital LLC" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+<ownerSignature signatureDate="2010-11-08" signatureName="/s/ Andrew Comito, Authorized Representative, Vicis Capital Master Fund">
+</ownerSignature>
+</ownershipDocument></Source>

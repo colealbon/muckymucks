@@ -1,0 +1,140 @@
+<Source file="./0001250617-10-000093.nc">
+<SUBMISSION ACCESSION-NUMBER="0001250617-10-000093" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101105" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001250617" CONFORMED-NAME="TOOHEY JAMES F" /><FILING-VALUES ACT="34" FILE-NUMBER="000-08796" FILM-NUMBER="101171071" FORM-TYPE="4" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="3679" CIK="0000092769" CONFORMED-NAME="SPECTRUM CONTROL INC" FISCAL-YEAR-END="1130" IRS-NUMBER="251196447" STATE-OF-INCORPORATION="PA" /><BUSINESS-ADDRESS CITY="FAIRVIEW" PHONE="8144744310" STATE="PA" STREET1="8031 AVONIA ROAD" ZIP="16415" /><MAIL-ADDRESS CITY="FAIRVIEW" STATE="PA" STREET1="8031 AVONIA ROAD" ZIP="16415" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" periodOfReport="2010-11-05" schemaVersion="X0303">
+<issuer> issuerCik="0000092769" 
+ issuerName="SPECTRUM CONTROL INC" 
+ issuerTradingSymbol="SPEC" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001250617" 
+ rptOwnerName="TOOHEY JAMES F" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="ERIE" rptOwnerState="PA" rptOwnerStreet1="2222 WEST GRANDVIEW BLVD" rptOwnerStreet2="" rptOwnerZipCode="16506" />
+
+
+<reportingOwnerRelationship isDirector="1" isOfficer="1" isOther="0" isTenPercentOwner="0" officerTitle="Secretary">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeHolding><securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="169885" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="Profit Sharing">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="2000" 
+</transactionShares>
+<transactionPricePerShare value="15.19">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="35930" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<derivativeTable>
+<derivativeHolding><securityTitle> value="Options" 
+</securityTitle>
+<conversionOrExercisePrice value="8.38">
+</conversionOrExercisePrice>
+<exerciseDate>
+<footnoteId id="F1" /> 
+</exerciseDate>
+<expirationDate> value="2013-04-10" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="12000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="12000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding><securityTitle> value="Options" 
+</securityTitle>
+<conversionOrExercisePrice value="6.43">
+</conversionOrExercisePrice>
+<exerciseDate>
+<footnoteId id="F2" /> 
+</exerciseDate>
+<expirationDate> value="2014-04-09" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="12000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="12000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding><securityTitle> value="Options" 
+</securityTitle>
+<conversionOrExercisePrice value="13.91">
+</conversionOrExercisePrice>
+<exerciseDate>
+<footnoteId id="F3" /> 
+</exerciseDate>
+<expirationDate> value="2015-04-15" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="6000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="6000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</derivativeHolding>
+</derivativeTable>
+<footnotes>
+<footnote id="F1" text="1/3rd of the options are currently exercisable, 1/3rd are exercisable 4/10/2011 and the remaining 1/3rd are exercisable on 4/10/2012." /> 
+ <footnote id="F2" text="1/3rd of the options are exercisable 4/9/2011, 1/3rd are exercisable 4/9/2012 and the remaining 1/3rd are exercisable on 4/9/2013." /> 
+ <footnote id="F3" text="1/3rd of the options are exercisable 4/15/2012, 1/3rd are exercisable 4/15/2013 and the remaining 1/3rd are exercisable on 4/15/2014." /> 
+</footnotes>
+ remarks="All options have been granted under the Spectrum Control, Inc. 1996 Non-Employee Directors' Stock Option Plan which is a Rule 16(b)(3) Plan." 
+<ownerSignature signatureDate="2010-11-08" signatureName="John P. Leemhuis, Jr. Attorney in fact for James F. Toohey.">
+</ownerSignature>
+</ownershipDocument></Source>

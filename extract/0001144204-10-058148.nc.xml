@@ -1,0 +1,68 @@
+<Source file="./0001144204-10-058148.nc">
+<SUBMISSION ACCESSION-NUMBER="0001144204-10-058148" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101028" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001384383" CONFORMED-NAME="Wasserman Frederick Gerald" /><FILING-VALUES ACT="34" FILE-NUMBER="000-27083" FILM-NUMBER="101171505" FORM-TYPE="4" /><MAIL-ADDRESS CITY="PENNINGTON" STATE="NJ" STREET1="4 NOBADEER DRIVE" ZIP="08534" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="7372" CIK="0000832488" CONFORMED-NAME="MAM SOFTWARE GROUP, INC." FISCAL-YEAR-END="0630" IRS-NUMBER="841108035" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="BARNSLEY" PHONE="011-44-124-431-1794" STATE="X0" STREET1="MAPLE PARK, MAPLE COURT," STREET2="TANKERSLEY" ZIP="S75 3DP" /><MAIL-ADDRESS CITY="BARNSLEY" STATE="X0" STREET1="MAPLE PARK, MAPLE COURT," STREET2="TANKERSLEY" ZIP="S75 3DP" /><FORMER-COMPANY DATE-CHANGED="20060302" FORMER-CONFORMED-NAME="Aftersoft Group" /><FORMER-COMPANY DATE-CHANGED="19991019" FORMER-CONFORMED-NAME="W3 GROUP INC" /><FORMER-COMPANY DATE-CHANGED="19970131" FORMER-CONFORMED-NAME="CONCORDE STRATEGIES GROUP INC" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-10-28" schemaVersion="X0303">
+<issuer> issuerCik="0000832488" 
+ issuerName="MAM SOFTWARE GROUP, INC." 
+ issuerTradingSymbol="MAMS" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001384383" 
+ rptOwnerName="Wasserman Frederick Gerald" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="PENNINGTON" rptOwnerState="NJ" rptOwnerStreet1="4 NOBADEER DRIVE" rptOwnerStreet2="" rptOwnerZipCode="08534" />
+
+
+<reportingOwnerRelationship isDirector="1" isOfficer="0" isOther="0" isTenPercentOwner="0">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-10-28">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="J" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="24000" 
+<footnoteId id="F1" /> 
+</transactionShares>
+<transactionPricePerShare> value="0.065" 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="274666" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-01">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="J" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="173557" 
+<footnoteId id="F1" /> 
+</transactionShares>
+<transactionPricePerShare> value="0.065" 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="448223" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<footnotes><footnote id="F1" text="Represents the shares issued to Mr. Wasserman as a result of Mr. Wasserman&apos;s exercise of his basic and over-subscriptionprivilege in the Issuer&apos;s Rights Offering which expired on October 15, 2010." />
+</footnotes>
+<ownerSignature> signatureName="/s/ Frederick Wasserman" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

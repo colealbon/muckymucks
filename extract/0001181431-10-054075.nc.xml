@@ -1,0 +1,289 @@
+<Source file="./0001181431-10-054075.nc">
+<SUBMISSION ACCESSION-NUMBER="0001181431-10-054075" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001451455" CONFORMED-NAME="MINICUCCI BENITO" /><FILING-VALUES ACT="34" FILE-NUMBER="001-08957" FILM-NUMBER="101173413" FORM-TYPE="4" /><MAIL-ADDRESS CITY="SEATTLE" STATE="WA" STREET1="C/O ALASKA AIRLINES, INC." STREET2="19300 INTERNATIONAL BLVD SO" ZIP="98188" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="4512" CIK="0000766421" CONFORMED-NAME="ALASKA AIR GROUP INC" FISCAL-YEAR-END="1231" IRS-NUMBER="911292054" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="SEATTLE" PHONE="206.392.5040" STATE="WA" STREET1="19300 PACIFIC HWY SOUTH" ZIP="98188" /><MAIL-ADDRESS CITY="SEATTLE" STATE="WA" STREET1="PO BOX 68947" ZIP="98168-0947" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0000766421" 
+ issuerName="ALASKA AIR GROUP INC" 
+ issuerTradingSymbol="ALK" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001451455" 
+ rptOwnerName="MINICUCCI BENITO" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="SEATTLE" rptOwnerState="WA" rptOwnerStreet1="C/O ALASKA AIRLINES, INC." rptOwnerStreet2="19300 INTERNATIONAL BLVD SO" rptOwnerZipCode="98188">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="1" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+ officerTitle="EXEC VP/OPS AND COO" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="COMMON STOCK" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="2590" 
+</transactionShares>
+<transactionPricePerShare value="37.96">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="5575" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="COMMON STOCK" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="1695" 
+</transactionShares>
+<transactionPricePerShare value="42.85">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="7270" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="COMMON STOCK" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="282" 
+</transactionShares>
+<transactionPricePerShare value="25.23">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="7552" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="COMMON STOCK" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="957" 
+</transactionShares>
+<transactionPricePerShare value="17.88">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="8509" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="COMMON STOCK" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="5524" 
+</transactionShares>
+<transactionPricePerShare value="55.00">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="2985" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeHolding>
+<securityTitle> value="COMMON STOCK" 
+<footnoteId id="F1" /> 
+</securityTitle>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="42920" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+</nonDerivativeTable>
+<derivativeTable><derivativeTransaction><securityTitle> value="EMPLOYEE STOCK OPTION (RT TO BUY)" 
+</securityTitle>
+<conversionOrExercisePrice value="37.96">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="2590" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate> value="2010-09-13" 
+</exerciseDate>
+<expirationDate value="2016-09-13">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="COMMON" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="2590">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="0" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+<derivativeTransaction>
+<securityTitle> value="EMPLOYEE STOCK OPTION (RT TO BUY)" 
+</securityTitle>
+<conversionOrExercisePrice value="42.85">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="1695" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate> value="2010-01-31" 
+<footnoteId id="F2" /> 
+</exerciseDate>
+<expirationDate> value="2017-01-31" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="COMMON" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="1695">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="565" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+<derivativeTransaction>
+<securityTitle> value="EMPLOYEE STOCK OPTION (RT TO BUY)" 
+</securityTitle>
+<conversionOrExercisePrice value="25.23">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="282" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate> value="2008-09-19" 
+<footnoteId id="F3" /> 
+</exerciseDate>
+<expirationDate> value="2017-09-19" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="COMMON" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="282">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="282" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+<derivativeTransaction>
+<securityTitle> value="EMPLOYEE STOCK OPTION (RT TO BUY)" 
+</securityTitle>
+<conversionOrExercisePrice value="17.88">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="957" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate> value="2009-06-12" 
+<footnoteId id="F4" /> 
+</exerciseDate>
+<expirationDate> value="2018-06-12" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="COMMON" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="957">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="1913" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="STOCK UNITS AWARDED UNDER THE 2004 LONG-TERM INCENTIVE EQUITY AND 2008 PERFORMANCE INCENTIVE PLANS; SUBJECT TO FORFEITURE." /> 
+ <footnote id="F2" text="OPTIONS VESTED IN EQUAL INSTALLMENTS OF 25% PER YEAR; REMAINING OPTIONS VEST ON 01/31/2011." /> 
+ <footnote id="F3" text="OPTIONS VESTED IN EQUAL INSTALLMENTS OF 25% PER YEAR; REMAINING OPTIONS VEST ON 09/19/2011." /> 
+ <footnote id="F4" text="OPTIONS VESTED IN EQUAL INSTALLMENTS OF 25% PER YEAR;  REMAINING OPTIONS VEST ON 06/12/2011 AND 06/12/2012." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="JEANNE E. GAMMON, ATTORNEY IN FACT FOR BENITO MINICUCCI">
+</ownerSignature>
+</ownershipDocument></Source>

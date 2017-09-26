@@ -1,0 +1,129 @@
+<Source file="./0001356193-10-000013.nc">
+<SUBMISSION ACCESSION-NUMBER="0001356193-10-000013" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101105" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001356193" CONFORMED-NAME="Witowski Gerald T" /><FILING-VALUES ACT="34" FILE-NUMBER="001-00892" FILM-NUMBER="101172012" FORM-TYPE="4" /><MAIL-ADDRESS CITY="BURNSVILLE" STATE="MN" STREET1="14300 JUDICIAL ROAD" ZIP="55306" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="3760" CIK="0000042542" CONFORMED-NAME="GOODRICH CORP" FISCAL-YEAR-END="1231" IRS-NUMBER="340252680" STATE-OF-INCORPORATION="NY" /><BUSINESS-ADDRESS CITY="CHARLOTTE" PHONE="7044237000" STATE="NC" STREET1="4 COLISEUM CENTRE" STREET2="2730 WEST TYVOLA ROAD" ZIP="28217" /><MAIL-ADDRESS CITY="CHARLOTTE" STATE="NC" STREET1="4 COLISEUM CENTRE" STREET2="2730 WEST TYVOLA RD" ZIP="28217" /><FORMER-COMPANY DATE-CHANGED="19920703" FORMER-CONFORMED-NAME="GOODRICH B F CO" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" periodOfReport="2010-11-05" schemaVersion="X0303">
+<issuer> issuerCik="0000042542" 
+ issuerName="GOODRICH CORP" 
+ issuerTradingSymbol="GR" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001356193" 
+ rptOwnerName="Witowski Gerald T" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="CHARLOTTE" rptOwnerState="NC" rptOwnerStreet1="C/O GOODRICH CORPORATION" rptOwnerStreet2="2730 WEST TYVOLA ROAD" rptOwnerZipCode="28217">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="1" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+ officerTitle="Executive Vice President" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="7500" 
+</transactionShares>
+<transactionPricePerShare value="45.87">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="47122" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="7500" 
+</transactionShares>
+<transactionPricePerShare value="86.2263">
+<footnoteId id="F1" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="D" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="39622" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeHolding><securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="278" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="By Trust">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+</nonDerivativeTable>
+<derivativeTable><derivativeTransaction><securityTitle> value="Employee Stock Option (Right to Buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="45.87">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="7500" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate><footnoteId id="F2" /> 
+</exerciseDate>
+<expirationDate> value="2017-01-03" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="7500">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="6000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<footnotes>
+<footnote id="F1" text="The price reported in Column 4 is a weighted average price.  These shares were sold in multiple transactions at prices ranging from $86.07 to $86.38, inclusive.  The reporting person undertakes to provide to Goodrich Corporation, any security  holder of Goodrich Corporation, or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the ranges set forth in footnote (1) of this Form 4." /> 
+ <footnote id="F2" text="The option vested as follows:  33.33% on 1/3/08; 33.33% on 1/3/09 and 33.34% on 1/3/10" /> 
+</footnotes>
+<remarks />
+<ownerSignature> signatureName="Vincent M. Lichtenberger, by Power of Attorney" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

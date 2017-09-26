@@ -1,0 +1,1023 @@
+<Source file="./0001209191-10-053730.nc">
+<SUBMISSION ACCESSION-NUMBER="0001209191-10-053730" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101102" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001439934" CONFORMED-NAME="Patel Paresh" /><FILING-VALUES ACT="34" FILE-NUMBER="001-34126" FILM-NUMBER="101173020" FORM-TYPE="4" /><MAIL-ADDRESS CITY="CLEARWATER" STATE="FL" STREET1="1520 GULF BLVD., APT. 1706" ZIP="33767" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="6331" CIK="0001400810" CONFORMED-NAME="Homeowners Choice, Inc." FISCAL-YEAR-END="1231" IRS-NUMBER="000000000" STATE-OF-INCORPORATION="FL" /><BUSINESS-ADDRESS CITY="CLEARWATER" PHONE="727-213-3600" STATE="FL" STREET1="2340 DREW STREET" STREET2="SUITE 200" ZIP="33765" /><MAIL-ADDRESS CITY="CLEARWATER" STATE="FL" STREET1="2340 DREW STREET" STREET2="SUITE 200" ZIP="33765" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-02" schemaVersion="X0303">
+<issuer> issuerCik="0001400810" 
+ issuerName="Homeowners Choice, Inc." 
+ issuerTradingSymbol="HCII" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001439934" 
+ rptOwnerName="Patel Paresh" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="CLEARWATER" rptOwnerState="FL" rptOwnerStreet1="2340 DREW STREET" rptOwnerStreet2="SUITE 200" rptOwnerZipCode="33765">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="1" 
+ isOfficer="1" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+ officerTitle="Executive Chairman" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeHolding><securityTitle> value="Common stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="284000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+<footnoteId id="F1" /> 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding><securityTitle> value="Common stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="11000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeTransaction>
+<securityTitle> value="Common stock" 
+</securityTitle>
+<transactionDate value="2010-11-02">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="M" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="20000" 
+</transactionShares>
+<transactionPricePerShare value="2.50">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="30000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<derivativeTable><derivativeHolding><securityTitle> value="Stock Warrant (Right to Buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="9.10">
+<footnoteId id="F2" /> 
+</conversionOrExercisePrice>
+<exerciseDate><footnoteId id="F2" /> 
+</exerciseDate>
+<expirationDate> value="2013-07-30" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="2000">
+<footnoteId id="F2" /> 
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="4000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Stock Option (Right to Buy)" 
+<footnoteId id="F3" /> 
+</securityTitle>
+<conversionOrExercisePrice> value="2.50" 
+</conversionOrExercisePrice>
+<exerciseDate>
+<footnoteId id="F4" /> 
+</exerciseDate>
+<expirationDate> value="2017-09-05" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="60000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="60000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeTransaction>
+<securityTitle> value="Exercise of Stock Option" 
+<footnoteId id="F3" /> 
+</securityTitle>
+<conversionOrExercisePrice> value="2.50" 
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-02">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="M" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="20000" 
+</transactionShares>
+<transactionPricePerShare value="2.50">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate><footnoteId id="F5" /> 
+</exerciseDate>
+<expirationDate> value="2017-05-31" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="20000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="60000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+<derivativeHolding>
+<securityTitle> value="Stock Option (Right to Buy)" 
+<footnoteId id="F3" /> 
+</securityTitle>
+<conversionOrExercisePrice> value="2.50" 
+</conversionOrExercisePrice>
+<exerciseDate>
+<footnoteId id="F6" /> 
+</exerciseDate>
+<expirationDate> value="2017-05-31" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="30000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="30000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Stock Warrant (Right to Buy)" 
+<footnoteId id="F7" /> 
+</securityTitle>
+<conversionOrExercisePrice> value="9.10" 
+<footnoteId id="F8" /> 
+</conversionOrExercisePrice>
+<exerciseDate> value="2008-11-14" 
+</exerciseDate>
+<expirationDate value="2013-07-30">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="1400">
+<footnoteId id="F8" /> 
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="2800" 
+<footnoteId id="F8" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="I" 
+<footnoteId id="F9" /> 
+</directOrIndirectOwnership>
+<natureOfOwnership> value="IRA" 
+<footnoteId id="F9" /> 
+</natureOfOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding><securityTitle> value="Stock Warrant (Right to Buy)" 
+<footnoteId id="F7" /> 
+</securityTitle>
+<conversionOrExercisePrice> value="9.10" 
+<footnoteId id="F10" /> 
+</conversionOrExercisePrice>
+<exerciseDate> value="2008-11-18" 
+</exerciseDate>
+<expirationDate value="2013-07-30">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="1900">
+<footnoteId id="F10" /> 
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="3800" 
+<footnoteId id="F10" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="I" 
+<footnoteId id="F9" /> 
+</directOrIndirectOwnership>
+<natureOfOwnership> value="IRA" 
+<footnoteId id="F9" /> 
+</natureOfOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding><securityTitle> value="Stock Warrant (Right to Buy)" 
+<footnoteId id="F7" /> 
+</securityTitle>
+<conversionOrExercisePrice> value="9.10" 
+<footnoteId id="F11" /> 
+</conversionOrExercisePrice>
+<exerciseDate> value="2008-11-19" 
+</exerciseDate>
+<expirationDate value="2013-07-30">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="2050">
+<footnoteId id="F11" /> 
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="4100" 
+<footnoteId id="F11" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="I" 
+<footnoteId id="F9" /> 
+</directOrIndirectOwnership>
+<natureOfOwnership> value="IRA" 
+<footnoteId id="F9" /> 
+</natureOfOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding><securityTitle> value="Stock Warrant (Right to Buy)" 
+<footnoteId id="F7" /> 
+</securityTitle>
+<conversionOrExercisePrice> value="9.10" 
+<footnoteId id="F12" /> 
+</conversionOrExercisePrice>
+<exerciseDate> value="2008-11-20" 
+</exerciseDate>
+<expirationDate value="2013-07-30">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="2500">
+<footnoteId id="F12" /> 
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="5000" 
+<footnoteId id="F12" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="I" 
+<footnoteId id="F9" /> 
+</directOrIndirectOwnership>
+<natureOfOwnership> value="IRA" 
+<footnoteId id="F9" /> 
+</natureOfOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding><securityTitle> value="Stock Warrant (Right to Buy)" 
+<footnoteId id="F7" /> 
+</securityTitle>
+<conversionOrExercisePrice> value="9.10" 
+<footnoteId id="F13" /> 
+</conversionOrExercisePrice>
+<exerciseDate> value="2008-11-25" 
+</exerciseDate>
+<expirationDate value="2013-07-30">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="500">
+<footnoteId id="F13" /> 
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="1000" 
+<footnoteId id="F13" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="I" 
+<footnoteId id="F9" /> 
+</directOrIndirectOwnership>
+<natureOfOwnership> value="IRA" 
+<footnoteId id="F9" /> 
+</natureOfOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding><securityTitle> value="Stock Warrant (Right to Buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="9.10">
+<footnoteId id="F14" /> 
+</conversionOrExercisePrice>
+<exerciseDate> value="2008-12-09" 
+</exerciseDate>
+<expirationDate value="2013-07-30">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="450">
+<footnoteId id="F14" /> 
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="900" 
+<footnoteId id="F14" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Stock Warrant (Right to Buy)" 
+<footnoteId id="F7" /> 
+</securityTitle>
+<conversionOrExercisePrice> value="9.10" 
+<footnoteId id="F15" /> 
+</conversionOrExercisePrice>
+<exerciseDate><footnoteId id="F15" /> 
+</exerciseDate>
+<expirationDate> value="2013-07-30" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="930">
+<footnoteId id="F15" /> 
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="1860" 
+<footnoteId id="F15" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="I" 
+<footnoteId id="F9" /> 
+</directOrIndirectOwnership>
+<natureOfOwnership> value="IRA" 
+<footnoteId id="F9" /> 
+</natureOfOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding><securityTitle> value="Stock Warrant (Right to Buy)" 
+<footnoteId id="F7" /> 
+</securityTitle>
+<conversionOrExercisePrice> value="9.10" 
+<footnoteId id="F16" /> 
+</conversionOrExercisePrice>
+<exerciseDate> value="2009-02-04" 
+</exerciseDate>
+<expirationDate value="2013-07-30">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="401">
+<footnoteId id="F16" /> 
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="802" 
+<footnoteId id="F16" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="I" 
+<footnoteId id="F9" /> 
+</directOrIndirectOwnership>
+<natureOfOwnership> value="IRA" 
+<footnoteId id="F9" /> 
+</natureOfOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding><securityTitle> value="Stock Warrant (Right to Buy)" 
+<footnoteId id="F7" /> 
+</securityTitle>
+<conversionOrExercisePrice> value="9.10" 
+<footnoteId id="F17" /> 
+</conversionOrExercisePrice>
+<exerciseDate> value="2009-03-25" 
+</exerciseDate>
+<expirationDate value="2013-07-30">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="750">
+<footnoteId id="F17" /> 
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="1500" 
+<footnoteId id="F17" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="I" 
+<footnoteId id="F9" /> 
+</directOrIndirectOwnership>
+<natureOfOwnership> value="IRA" 
+<footnoteId id="F9" /> 
+</natureOfOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding><securityTitle> value="Stock Warrant (Right to Buy)" 
+<footnoteId id="F7" /> 
+</securityTitle>
+<conversionOrExercisePrice> value="9.10" 
+<footnoteId id="F18" /> 
+</conversionOrExercisePrice>
+<exerciseDate> value="2009-03-30" 
+</exerciseDate>
+<expirationDate value="2013-07-30">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="500">
+<footnoteId id="F18" /> 
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="1000" 
+<footnoteId id="F18" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="I" 
+<footnoteId id="F9" /> 
+</directOrIndirectOwnership>
+<natureOfOwnership> value="IRA" 
+<footnoteId id="F9" /> 
+</natureOfOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding><securityTitle> value="Stock Warrant (Right to Buy)" 
+<footnoteId id="F7" /> 
+</securityTitle>
+<conversionOrExercisePrice> value="9.10" 
+<footnoteId id="F19" /> 
+</conversionOrExercisePrice>
+<exerciseDate> value="2009-04-01" 
+</exerciseDate>
+<expirationDate value="2013-07-30">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="2200">
+<footnoteId id="F19" /> 
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="4400" 
+<footnoteId id="F19" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="I" 
+<footnoteId id="F9" /> 
+</directOrIndirectOwnership>
+<natureOfOwnership> value="IRA" 
+<footnoteId id="F9" /> 
+</natureOfOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding><securityTitle> value="Stock Warrant (Right to Buy)" 
+<footnoteId id="F7" /> 
+</securityTitle>
+<conversionOrExercisePrice> value="9.10" 
+<footnoteId id="F20" /> 
+</conversionOrExercisePrice>
+<exerciseDate> value="2009-04-06" 
+</exerciseDate>
+<expirationDate value="2013-07-30">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="2000">
+<footnoteId id="F20" /> 
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="4000" 
+<footnoteId id="F20" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="I" 
+<footnoteId id="F9" /> 
+</directOrIndirectOwnership>
+<natureOfOwnership> value="IRA" 
+<footnoteId id="F9" /> 
+</natureOfOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding><securityTitle> value="Stock Warrant (Right to Buy)" 
+<footnoteId id="F7" /> 
+</securityTitle>
+<conversionOrExercisePrice> value="9.10" 
+<footnoteId id="F21" /> 
+</conversionOrExercisePrice>
+<exerciseDate> value="2009-05-06" 
+</exerciseDate>
+<expirationDate value="2013-07-30">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="2500">
+<footnoteId id="F21" /> 
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="5000" 
+<footnoteId id="F21" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="I" 
+<footnoteId id="F9" /> 
+</directOrIndirectOwnership>
+<natureOfOwnership> value="IRA" 
+<footnoteId id="F9" /> 
+</natureOfOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding><securityTitle> value="Stock Warrant (Right to Buy" 
+<footnoteId id="F7" /> 
+</securityTitle>
+<conversionOrExercisePrice> value="9.10" 
+<footnoteId id="F22" /> 
+</conversionOrExercisePrice>
+<exerciseDate> value="2009-05-11" 
+</exerciseDate>
+<expirationDate value="2013-07-30">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="2500">
+<footnoteId id="F22" /> 
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="5000" 
+<footnoteId id="F22" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="I" 
+<footnoteId id="F9" /> 
+</directOrIndirectOwnership>
+<natureOfOwnership> value="IRA" 
+<footnoteId id="F9" /> 
+</natureOfOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding><securityTitle> value="Stock Warrant (Right to Buy)" 
+<footnoteId id="F7" /> 
+</securityTitle>
+<conversionOrExercisePrice> value="9.10" 
+<footnoteId id="F23" /> 
+</conversionOrExercisePrice>
+<exerciseDate> value="2009-05-21" 
+</exerciseDate>
+<expirationDate value="2013-07-30">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="3950">
+<footnoteId id="F23" /> 
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="7900" 
+<footnoteId id="F23" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="I" 
+<footnoteId id="F9" /> 
+</directOrIndirectOwnership>
+<natureOfOwnership> value="IRA" 
+<footnoteId id="F9" /> 
+</natureOfOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding><securityTitle> value="Stock Warrant (Right to Buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="9.10">
+<footnoteId id="F24" /> 
+</conversionOrExercisePrice>
+<exerciseDate> value="2010-06-16" 
+</exerciseDate>
+<expirationDate value="2013-07-30">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="5000">
+<footnoteId id="F24" /> 
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="10000" 
+<footnoteId id="F24" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="I" 
+<footnoteId id="F9" /> 
+</directOrIndirectOwnership>
+<natureOfOwnership> value="IRA" 
+<footnoteId id="F9" /> 
+</natureOfOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding><securityTitle> value="Stock Warrant (Right to Buy)" 
+<footnoteId id="F7" /> 
+</securityTitle>
+<conversionOrExercisePrice> value="9.10" 
+<footnoteId id="F25" /> 
+</conversionOrExercisePrice>
+<exerciseDate> value="2009-06-05" 
+</exerciseDate>
+<expirationDate value="2013-07-30">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="1300">
+<footnoteId id="F25" /> 
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="2600" 
+<footnoteId id="F25" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="I" 
+<footnoteId id="F9" /> 
+</directOrIndirectOwnership>
+<natureOfOwnership> value="IRA" 
+<footnoteId id="F9" /> 
+</natureOfOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding><securityTitle> value="Stock Warrant (Right to Buy)" 
+<footnoteId id="F7" /> 
+</securityTitle>
+<conversionOrExercisePrice> value="9.10" 
+<footnoteId id="F26" /> 
+</conversionOrExercisePrice>
+<exerciseDate> value="2009-07-28" 
+</exerciseDate>
+<expirationDate value="2013-07-30">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="1025">
+<footnoteId id="F26" /> 
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="2050" 
+<footnoteId id="F26" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="I" 
+<footnoteId id="F9" /> 
+</directOrIndirectOwnership>
+<natureOfOwnership> value="IRA" 
+<footnoteId id="F9" /> 
+</natureOfOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding><securityTitle> value="Stock Warrant (Right to Buy)" 
+<footnoteId id="F7" /> 
+</securityTitle>
+<conversionOrExercisePrice> value="9.10" 
+<footnoteId id="F27" /> 
+</conversionOrExercisePrice>
+<exerciseDate> value="2009-08-14" 
+</exerciseDate>
+<expirationDate value="2013-07-30">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="2500">
+<footnoteId id="F27" /> 
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="5000" 
+<footnoteId id="F27" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="I" 
+<footnoteId id="F9" /> 
+</directOrIndirectOwnership>
+<natureOfOwnership> value="IRA" 
+<footnoteId id="F9" /> 
+</natureOfOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding><securityTitle> value="Stock Warrant (Right to Buy)" 
+<footnoteId id="F7" /> 
+</securityTitle>
+<conversionOrExercisePrice> value="9.10" 
+<footnoteId id="F28" /> 
+</conversionOrExercisePrice>
+<exerciseDate> value="2009-08-17" 
+</exerciseDate>
+<expirationDate value="2013-07-30">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="2500">
+<footnoteId id="F28" /> 
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="5000" 
+<footnoteId id="F28" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="I" 
+<footnoteId id="F9" /> 
+</directOrIndirectOwnership>
+<natureOfOwnership> value="IRA" 
+<footnoteId id="F9" /> 
+</natureOfOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding><securityTitle> value="Stock Warrant (RIght to Buy)" 
+<footnoteId id="F7" /> 
+</securityTitle>
+<conversionOrExercisePrice> value="9.10" 
+<footnoteId id="F29" /> 
+</conversionOrExercisePrice>
+<exerciseDate> value="2009-08-27" 
+</exerciseDate>
+<expirationDate value="2013-07-30">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="2500">
+<footnoteId id="F29" /> 
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="5000" 
+<footnoteId id="F29" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="I" 
+<footnoteId id="F9" /> 
+</directOrIndirectOwnership>
+<natureOfOwnership> value="IRA" 
+<footnoteId id="F9" /> 
+</natureOfOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding><securityTitle> value="Stock Warrant (Right to Buy)" 
+<footnoteId id="F7" /> 
+</securityTitle>
+<conversionOrExercisePrice> value="9.10" 
+<footnoteId id="F30" /> 
+</conversionOrExercisePrice>
+<exerciseDate> value="2009-09-01" 
+</exerciseDate>
+<expirationDate value="2013-07-30">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="2500">
+<footnoteId id="F30" /> 
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="5000" 
+<footnoteId id="F30" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="I" 
+<footnoteId id="F9" /> 
+</directOrIndirectOwnership>
+<natureOfOwnership> value="IRA" 
+<footnoteId id="F9" /> 
+</natureOfOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding><securityTitle> value="Stock Warrant (Right to Buy)" 
+<footnoteId id="F7" /> 
+</securityTitle>
+<conversionOrExercisePrice> value="9.10" 
+<footnoteId id="F31" /> 
+</conversionOrExercisePrice>
+<exerciseDate> value="2009-09-04" 
+</exerciseDate>
+<expirationDate value="2013-07-30">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="2500">
+<footnoteId id="F31" /> 
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="5000" 
+<footnoteId id="F31" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="I" 
+<footnoteId id="F9" /> 
+</directOrIndirectOwnership>
+<natureOfOwnership> value="IRA" 
+<footnoteId id="F9" /> 
+</natureOfOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding><securityTitle> value="Stock Warrant (Right to Buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="9.10">
+<footnoteId id="F32" /> 
+</conversionOrExercisePrice>
+<exerciseDate> value="2010-05-20" 
+</exerciseDate>
+<expirationDate value="2013-07-30">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="3550">
+<footnoteId id="F32" /> 
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="7100" 
+<footnoteId id="F32" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="I" 
+<footnoteId id="F9" /> 
+</directOrIndirectOwnership>
+<natureOfOwnership> value="IRA" 
+<footnoteId id="F9" /> 
+</natureOfOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding><securityTitle> value="Stock Warrant (Right to Buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="9.10">
+<footnoteId id="F33" /> 
+</conversionOrExercisePrice>
+<exerciseDate> value="2010-06-02" 
+</exerciseDate>
+<expirationDate value="2013-07-30">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="2500">
+<footnoteId id="F33" /> 
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="5000" 
+<footnoteId id="F33" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="I" 
+<footnoteId id="F9" /> 
+</directOrIndirectOwnership>
+<natureOfOwnership> value="IRA" 
+<footnoteId id="F9" /> 
+</natureOfOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding><securityTitle> value="Stock Warrant (Right to Buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="9.10">
+<footnoteId id="F34" /> 
+</conversionOrExercisePrice>
+<exerciseDate> value="2010-06-03" 
+</exerciseDate>
+<expirationDate value="2013-07-30">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="5000">
+<footnoteId id="F34" /> 
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="10000" 
+<footnoteId id="F34" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="I" 
+<footnoteId id="F9" /> 
+</directOrIndirectOwnership>
+<natureOfOwnership> value="IRA" 
+<footnoteId id="F9" /> 
+</natureOfOwnership>
+</ownershipNature>
+</derivativeHolding>
+</derivativeTable>
+<footnotes>
+<footnote id="F1" text="Shares are held jointly with spouse." /> 
+ <footnote id="F2" text="In connection with the Homeowners Choice, Inc. initial public offering (IPO), 4,000 units were purchased on 7/25/08 at a price of $7.00 per unit, with each unit consisting of one share of common stock and one warrant. Two warrants may be exercised to acquire one share of common stock at an exercise price equal to $9.10 per share.  The warrants may be exercised any time after the closing of the IPO up to five years after the July 30, 2008 IPO closing date." /> 
+ <footnote id="F3" text="The options were granted pursuant to the Homeowners Choice, Inc. 2007 Stock Option and Incentive Plan." /> 
+ <footnote id="F4" text="These options vest and become immediately exercisable upon the fair market value of the Company&apos;s Common Stock reaching $7.50 per share." /> 
+ <footnote id="F5" text="Commencing on June 1, 2007 and continuing on the first day of each calendar month thereafter through and including January 1, 2010, the amount of 5,000 options will vest and become exercisable on each such monthly vesting date." /> 
+ <footnote id="F6" text="Commencing on May 1, 2008 and continuing on the same day of each calendar year thereafter through and including May 1, 2010, the amount of 10,000 options will vest and become exercisable on each such annual vesting date." /> 
+ <footnote id="F7" text="Acquired pursuant to a Section 10b5-1 purchase plan." /> 
+ <footnote id="F8" text="2,800 warrants were purchased on 11/14/08 at a price of $0.3382 per warrant. Two warrants may be exercised to acquire one share of the Company&apos;s common stock at an exercise price equal to $9.10 per share." /> 
+ <footnote id="F9" text="Warrants are held in the reporting person&apos;s IRA." /> 
+ <footnote id="F10" text="3,800 warrants were purchased on 11/18/08 at a price of $0.45 per warrant. Two warrants may be exercised to acquire one share of the Company&apos;s common stock at an exercise price equal to $9.10 per share." /> 
+ <footnote id="F11" text="4,100 warrants were purchased on 11/19/08 at a price of $0.35 per warrant. Two warrants may be exercised to acquire one share of the Company&apos;s common stock at an exercise price equal to $9.10 per share." /> 
+ <footnote id="F12" text="5,000 warrants were purchased on 11/20/08 at a price of $0.38 per warrant. Two warrants may be exercised to acquire one share of the Company&apos;s common stock at an exercise price equal to $9.10 per share." /> 
+ <footnote id="F13" text="1,000 warrants were purchased on 11/25/08 at a price of $0.40 per warrant. Two warrants may be exercised to acquire one share of the Company&apos;s common stock at an exercise price equal to $9.10 per share." /> 
+ <footnote id="F14" text="900 warrants were purchased on 12/09/08 at a price of $0.50 per warrant. Two warrants may be exercised to acquire one share of the Company&apos;s common stock at an exercise price equal to $9.10 per share." /> 
+ <footnote id="F15" text="360 warrants were purchased on 2/2/09 and 1,500 warrants were purchased on 2/06/09 at a price of $0.47 per warrant.  Two warrants may be exercised to acquire one share of the Company&apos;s common stock at an exercise price equal to $9.10 per share." /> 
+ <footnote id="F16" text="802 warrants were purchased on 2/4/09 at a price of $0.47 per warrant.  Two warrants may be exercised to acquire one share of the Company&apos;s common stock at an exercise price equal to $9.10 per share." /> 
+ <footnote id="F17" text="1,500 warrants were purchased on 3/25/09 at a price of $0.42 per warrant.  Two warrants may be exercised to acquire one share of the Company&apos;s common stock at an exercise price equal to $9.10 per share." /> 
+ <footnote id="F18" text="1,000 warrants were purchased on 3/30/09 at a price of $0.49 per warrant. Two warrants may be exercised to acquire one share of the Company&apos;s common stock at an exercise price equal to $9.10 per share." /> 
+ <footnote id="F19" text="4,400 warrants were purchased on 4/01/09 at a price of $0.475 per warrant. Two warrants may be exercised to acquire one share of the Company&apos;s common stock at an exercise price equal to $9.10 per share." /> 
+ <footnote id="F20" text="4,000 warrants were purchased on 4/06/09 at a price of $0.45 per warrant.  Two warrants may be exercised to acquire one share of the Company&apos;s common stock at an exercise price equal to $9.10 per share." /> 
+ <footnote id="F21" text="5,000 warrants were purchased on 5/06/09 at a price of $0.474 per warrant. Two warrants may be exercised to acquire one share of the Company&apos;s common stock at an exercise price equal to $9.10 per share." /> 
+ <footnote id="F22" text="5,000 warrants were purchased on 05/11/09 at a price of $0.504 per warrant. Two warrants may be exercised to acquire one share of the Company&apos;s common stock at an exercise price equal to $9.10 per share." /> 
+ <footnote id="F23" text="5,000 warrants were purchased on 05/21/09 and 2,900 warrants were purchased on 05/28/09 at a price of $0.50 per warrant. Two warrants may be exercised to acquire one share of the Company&apos;s common stock at an exercise price equal to $9.10 per share." /> 
+ <footnote id="F24" text="10,000 warrants were purchased on 06/16/10 at a price of $0.45 per warrant. Two warrants may be exercised to acquire one share of the Company&apos;s common stock at an exercise price equal to $9.10 per share." /> 
+ <footnote id="F25" text="2,600 warrants were purchased on 06/05/09 at a price of $0.5077 per warrant. Two warrants may be exercised to acquire one share of the Company&apos;s common stock at an exercise price equal to $9.10 per share." /> 
+ <footnote id="F26" text="2,050 warrants were purchased on 07/28/09 at a price of $0.5834 per warrant. Two warrants may be exercised to acquire one share of the Company&apos;s common stock at an exercise price equal to $9.10 per share." /> 
+ <footnote id="F27" text="5,000 warrants were purchased on 08/14/09 at a price of $0.6971 per warrant. Two warrants may be exercised to acquire one share of the Company&apos;s common stock at an exercise price equal to $9.10 per share." /> 
+ <footnote id="F28" text="5,000 warrants were purchased on 08/17/09 at a price of $0.69 per warrant. Two warrants may be exercised to acquire one share of the Company&apos;s common stock at an exercise price equal to $9.10 per share." /> 
+ <footnote id="F29" text="5,000 warrants were purchased on 08/27/09 at a price of $0.70 per warrant. Two warrants may be exercised to acquire one share of the Company&apos;s common stock at an exercise price equal to $9.10 per share." /> 
+ <footnote id="F30" text="5,000 warrants were purchased on 09/01/09 at a price of $0.60 per warrant. Two warrants may be exercised to acquire one share of the Company&apos;s common stock at an exercise price equal to $9.10 per share." /> 
+ <footnote id="F31" text="5,000 warrants were purchased on 09/04/09 at a price of $0.70 per warrant. Two warrants may be exercised to acquire one share of the Company&apos;s common stock at an exercise price equal to $9.10 per share." /> 
+ <footnote id="F32" text="7,100 warrants were purchased on 5/20/10 at a price of $0.60 per warrant. Two warrants may be exercised to acquire one share of the Company&apos;s common stock at an exercise price equal to $9.10 per share." /> 
+ <footnote id="F33" text="5,000 warrants were purchased on 06/02/10 at a price of $0.46 per warrant. Two warrants may be exercised to acquire one share of the Company&apos;s common stock at an exercise price equal to $9.10 per share." /> 
+ <footnote id="F34" text="10,000 warrants were purchased on 06/03/10 at a price of $0.50 per warrant. Two warrants may be exercised to acquire one share of the Company&apos;s common stock at an exercise price equal to $9.10 per share." /> 
+</footnotes>
+<remarks />
+<ownerSignature> signatureName="/s/ Cathy J. Welch as Attorney-in-fact for Paresh Patel" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

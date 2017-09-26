@@ -1,0 +1,94 @@
+<Source file="./0001181431-10-053975.nc">
+<SUBMISSION ACCESSION-NUMBER="0001181431-10-053975" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001503003" CONFORMED-NAME="McKnight William D" /><FILING-VALUES ACT="34" FILE-NUMBER="000-22981" FILM-NUMBER="101172029" FORM-TYPE="4" /><MAIL-ADDRESS CITY="AUGUSTA" STATE="GA" STREET1="3527 WHEELER ROAD" ZIP="30909" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="6022" CIK="0001044082" CONFORMED-NAME="Georgia-Carolina Bancshares, Inc" FISCAL-YEAR-END="1231" IRS-NUMBER="582226075" STATE-OF-INCORPORATION="GA" /><BUSINESS-ADDRESS CITY="AUGUSTA" PHONE="706-731-6600" STATE="GA" STREET1="3527 WHEELER ROAD" ZIP="30909" /><MAIL-ADDRESS CITY="AUGUSTA" STATE="GA" STREET1="3527 WHEELER ROAD" ZIP="30909" /><FORMER-COMPANY DATE-CHANGED="19971205" FORMER-CONFORMED-NAME="GEORGIA CAROLINA BANCSHARES INC" /><FORMER-COMPANY DATE-CHANGED="19970808" FORMER-CONFORMED-NAME="PINNACLE BANCSHARES INC /GA" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0001044082" 
+ issuerName="Georgia-Carolina Bancshares, Inc" 
+ issuerTradingSymbol="GECR" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001503003" 
+ rptOwnerName="McKnight William D" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="AUGUSTA" rptOwnerState="GA" rptOwnerStreet1="3527 WHEELER ROAD" rptOwnerStreet2="" rptOwnerZipCode="30909" />
+
+
+<reportingOwnerRelationship isDirector="1" isOfficer="0" isOther="0" isTenPercentOwner="0">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock, $.001 Par Value" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="P" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="1500" 
+</transactionShares>
+<transactionPricePerShare value="6">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="45209" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeHolding>
+<securityTitle> value="Common Stock, $.001 Par Value" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="700" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="Custodian for child">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding>
+<securityTitle> value="Common Stock, $.001 Par Value" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="700" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="Custodian for child">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding>
+<securityTitle> value="Common Stock, $.001 Par Value" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="700" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="Custodian for child">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding>
+<securityTitle> value="Common Stock, $.001 Par Value" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="700" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="Custodian for child">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+</nonDerivativeTable>
+<ownerSignature> signatureName="/s/ Robert C. Schwartz, pursuant to a Power of Attorney" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

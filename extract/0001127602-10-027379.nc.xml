@@ -1,0 +1,58 @@
+<Source file="./0001127602-10-027379.nc">
+<SUBMISSION ACCESSION-NUMBER="0001127602-10-027379" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101105" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001323703" CONFORMED-NAME="Schneider William E" /><FILING-VALUES ACT="34" FILE-NUMBER="001-03480" FILM-NUMBER="101173797" FORM-TYPE="4" /><MAIL-ADDRESS CITY="BISMARCK" STATE="ND" STREET1="1915 NORTH KAVENEY DRIVE" ZIP="58501-1698" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="1400" CIK="0000067716" CONFORMED-NAME="MDU RESOURCES GROUP INC" FISCAL-YEAR-END="1231" IRS-NUMBER="410423660" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="BISMARCK" PHONE="701-530-1059" STATE="ND" STREET1="1200 WEST CENTURY AVENUE" ZIP="58506-5650" /><MAIL-ADDRESS CITY="BISMARCK" STATE="ND" STREET1="1200 WEST CENTURY AVENUE" ZIP="58506-5650" /><FORMER-COMPANY DATE-CHANGED="19850429" FORMER-CONFORMED-NAME="MONTANA DAKOTA UTILITIES CO" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" periodOfReport="2010-11-05" schemaVersion="X0303">
+<issuer> issuerCik="0000067716" 
+ issuerName="MDU RESOURCES GROUP INC" 
+ issuerTradingSymbol="MDU" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001323703" 
+ rptOwnerName="Schneider William E" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="BISMARCK" rptOwnerState="ND" rptOwnerStreet1="KNIFE RIVER CORPORATION" rptOwnerStreet2="P. O. BOX 5568" rptOwnerZipCode="58506-5568">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isOfficer="1" 
+ officerTitle="President &amp; CEO - Knife River" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock - (401-k)" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness />
+<transactionAmounts><transactionShares> value="1.79" 
+</transactionShares>
+<transactionPricePerShare value="20.38">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="0" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="By Trustee">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeHolding>
+<securityTitle> value="Common Stock" 
+<footnoteId id="F1" /> 
+</securityTitle>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="115419" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+</nonDerivativeTable>
+<footnotes> <footnote id="F1" text="Includes 332 shares previously owned indirectly through the MDU Resources Group, Inc. 401(k) Retirement Plan." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="William E. Schneider">
+</ownerSignature>
+</ownershipDocument></Source>

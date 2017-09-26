@@ -1,0 +1,94 @@
+<Source file="./0001181431-10-053930.nc">
+<SUBMISSION ACCESSION-NUMBER="0001181431-10-053930" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><ISSUER><COMPANY-DATA ASSIGNED-SIC="4832" CIK="0000783005" CONFORMED-NAME="EMMIS COMMUNICATIONS CORP" FISCAL-YEAR-END="0228" IRS-NUMBER="351542018" STATE-OF-INCORPORATION="IN" /><BUSINESS-ADDRESS CITY="INDIANAPOLIS" PHONE="3172660100" STATE="IN" STREET1="ONE EMMIS PLAZA" STREET2="40 MONUMENT CIRCLE SUITE 700" ZIP="46204" /><MAIL-ADDRESS CITY="INDIANAPOLIS" STATE="IN" STREET1="ONE EMMIS PLAZA" STREET2="40 MONUMENT CIRCLE #700" ZIP="46204" /><FORMER-COMPANY DATE-CHANGED="19920703" FORMER-CONFORMED-NAME="EMMIS BROADCASTING CORPORATION" /></ISSUER><REPORTING-OWNER><OWNER-DATA CIK="0001469694" CONFORMED-NAME="Smith Management LLC" FISCAL-YEAR-END="0930" STATE-OF-INCORPORATION="NY" /><FILING-VALUES ACT="34" FILE-NUMBER="000-23264" FILM-NUMBER="101171541" FORM-TYPE="4" /><BUSINESS-ADDRESS CITY="NEW YORK" PHONE="(212) 888-5500" STATE="NY" STREET1="885 THIRD AVENUE, 34TH FLOOR" ZIP="10022" /><MAIL-ADDRESS CITY="NEW YORK" STATE="NY" STREET1="885 THIRD AVENUE, 34TH FLOOR" ZIP="10022" /></REPORTING-OWNER><REPORTING-OWNER><OWNER-DATA CIK="0001492343" CONFORMED-NAME="Alden Global Capital Ltd" /><FILING-VALUES ACT="34" FILE-NUMBER="000-23264" FILM-NUMBER="101171543" FORM-TYPE="4" /><BUSINESS-ADDRESS CITY="ST. HELIER" PHONE="212-888-5500" STATE="Y9" STREET1="FIRST FLOOR, LIBERATION STATION" STREET2="ESPLANADE" ZIP="JE2 3AS" /><MAIL-ADDRESS CITY="ST. HELIER" STATE="Y9" STREET1="FIRST FLOOR, LIBERATION STATION" STREET2="ESPLANADE" ZIP="JE2 3AS" /></REPORTING-OWNER><REPORTING-OWNER><OWNER-DATA CIK="0001492345" CONFORMED-NAME="Alden Global Distressed Opportunities Master Fund, L.P." FISCAL-YEAR-END="1231" /><FILING-VALUES ACT="34" FILE-NUMBER="000-23264" FILM-NUMBER="101171542" FORM-TYPE="4" /><BUSINESS-ADDRESS CITY="ST. HELIER" PHONE="212-888-5500" STATE="Y9" STREET1="FIRST FLOOR, LIBERATION STATION" STREET2="ESPLANADE" ZIP="JE2 3AS" /><MAIL-ADDRESS CITY="ST. HELIER" STATE="Y9" STREET1="FIRST FLOOR, LIBERATION STATION" STREET2="ESPLANADE" ZIP="JE2 3AS" /></REPORTING-OWNER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0000783005" 
+ issuerName="EMMIS COMMUNICATIONS CORP" 
+ issuerTradingSymbol="EMMS" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001492343" 
+ rptOwnerName="Alden Global Capital Ltd" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="JERSEY CHANNEL ISLANDS" rptOwnerState="X0" rptOwnerStateDescription="UNITED KINGDOM" rptOwnerStreet1="1ST FL, LIBERATION STATION, ESPLANADE" rptOwnerStreet2="ST. HELIER" rptOwnerZipCode="JES 3AS">
+</reportingOwnerAddress>
+<reportingOwnerRelationship isDirector="0" isOfficer="0" isOther="0" isTenPercentOwner="1">
+</reportingOwnerRelationship>
+</reportingOwner>
+<reportingOwner><reportingOwnerId> rptOwnerCik="0001492345" 
+ rptOwnerName="Alden Global Distressed Opportunities Master Fund, L.P." 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="NEW YORK" rptOwnerState="NY" rptOwnerStreet1="C/O ALDEN GLOBAL CAPITAL" rptOwnerStreet2="885 THIRD AVENUE" rptOwnerZipCode="10022">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="0" 
+ isTenPercentOwner="1" 
+ isOther="0" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<reportingOwner><reportingOwnerId> rptOwnerCik="0001469694" 
+ rptOwnerName="Smith Management LLC" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="NEW YORK" rptOwnerState="NY" rptOwnerStreet1="C/O ALDEN GLOBAL CAPITAL" rptOwnerStreet2="885 THIRD AVENUE" rptOwnerZipCode="10022">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="0" 
+ isTenPercentOwner="1" 
+ isOther="0" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Class A Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="165785.00" 
+</transactionShares>
+<transactionPricePerShare value="0.80">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="1240715" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Class A Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="143580.00" 
+</transactionShares>
+<transactionPricePerShare value="0.80">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="1097135" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<remarks text="All securities are owned by Alden Global Distressed Opportunities Master Fund, L.P. Alden Global Capital Limited acts as the investment manager and Smith Management LLC acts as a service provider to Alden Global Capital Limited and Alden Global Distressed Opportunities Master Fund, L.P. Each of Alden Global Capital Limited and Smith Management LLC may be deemed to beneficially own the securities held by Alden Global Distressed Opportunities Master Fund, L.P., and each such person or entity disclaims beneficial ownership of such securities except to the extent of its respective pecuniary interest therein." />
+<ownerSignature> signatureName="/s/ Bruce Schnelwar, Director for Alden Global Capital Limited" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+<ownerSignature signatureDate="2010-11-08" signatureName="/s/ Jim Plohg, Authorized Signatory for Alden Global Distressed Opportunities Master Fund, L.P.">
+</ownerSignature>
+<ownerSignature signatureDate="2010-11-08" signatureName="/s/ Jim Plohg, Vice President for Smith Management LLC">
+</ownerSignature>
+</ownershipDocument></Source>

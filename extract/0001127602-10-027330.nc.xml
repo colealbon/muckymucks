@@ -1,0 +1,101 @@
+<Source file="./0001127602-10-027330.nc">
+<SUBMISSION ACCESSION-NUMBER="0001127602-10-027330" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><ISSUER><COMPANY-DATA ASSIGNED-SIC="3678" CIK="0000820313" CONFORMED-NAME="AMPHENOL CORP /DE/" FISCAL-YEAR-END="1231" IRS-NUMBER="222785165" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="WALLINGFORD" PHONE="2032658900" STATE="CT" STREET1="358 HALL AVE" ZIP="06492" /></ISSUER><REPORTING-OWNER><OWNER-DATA CIK="0001453275" CONFORMED-NAME="Perrotta Alessandro" /><FILING-VALUES ACT="34" FILE-NUMBER="001-10879" FILM-NUMBER="101173007" FORM-TYPE="4" /><MAIL-ADDRESS CITY="SINGAPORE" STATE="U0" STREET1="12 MAKEPEACE ROAD" ZIP="228637" /></REPORTING-OWNER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="1" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0000820313" 
+ issuerName="AMPHENOL CORP /DE/" 
+ issuerTradingSymbol="APH" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001453275" 
+ rptOwnerName="Perrotta Alessandro" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="SINGAPORE" rptOwnerState="U0" rptOwnerStateDescription="SINGAPORE" rptOwnerStreet1="70 TREVOSE CRESCENT, #02-08" rptOwnerStreet2="TREVOSE PARK" rptOwnerZipCode="298071">
+</reportingOwnerAddress>
+<reportingOwnerRelationship isOther="1" otherText="Former VP &amp; GGM, MCP">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Class A Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness />
+<transactionAmounts><transactionShares> value="22000" 
+</transactionShares>
+<transactionPricePerShare value="45.95">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="22000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Class A Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness />
+<transactionAmounts><transactionShares> value="22000" 
+</transactionShares>
+<transactionPricePerShare value="51.9208">
+<footnoteId id="F1" /> 
+<footnoteId id="F2" />
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="0" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<derivativeTable><derivativeTransaction><securityTitle> value="Stock Option" 
+</securityTitle>
+<conversionOrExercisePrice value="45.95">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness />
+<transactionAmounts><transactionShares> value="22000" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate> value="2009-05-22" 
+</exerciseDate>
+<expirationDate value="2018-05-21">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Class A Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="22000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="33000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="This transaction was executed in multiple trades at prices ranging from $51.840 to $52.00." /> 
+ <footnote id="F2" text="The price reported above reflects the weighted average sales price.  The reporting person hereby undertakes to provide upon request to the SEC staff, the issuer or a security holder of the issuer full information regarding the number of shares and prices at which the transaction was effected." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="Edward C. Wetmore, POA">
+</ownerSignature>
+</ownershipDocument></Source>

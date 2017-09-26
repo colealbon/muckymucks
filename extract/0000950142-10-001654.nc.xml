@@ -1,0 +1,52 @@
+<Source file="./0000950142-10-001654.nc">
+<SUBMISSION ACCESSION-NUMBER="0000950142-10-001654" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001373628" CONFORMED-NAME="Talwar Vikram" /><FILING-VALUES ACT="34" FILE-NUMBER="001-33089" FILM-NUMBER="101173588" FORM-TYPE="4" /><MAIL-ADDRESS CITY="NEW YORK" STATE="NY" STREET1="C/O EXLSERVICE HOLDINGS, INC." STREET2="350 PARK AVENUE" ZIP="10022" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="7389" CIK="0001297989" CONFORMED-NAME="ExlService Holdings, Inc." FISCAL-YEAR-END="1231" IRS-NUMBER="820572194" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="NEW YORK" PHONE="(212) 872-1415" STATE="X1" STREET1="280 PARK AVENUE" STREET2="38TH FLOOR" ZIP="10017" /><MAIL-ADDRESS CITY="NEW YORK" STATE="X1" STREET1="280 PARK AVENUE" STREET2="38TH FLOOR" ZIP="10017" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0001297989" 
+ issuerName="ExlService Holdings, Inc." 
+ issuerTradingSymbol="EXLS" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001373628" 
+ rptOwnerName="Talwar Vikram" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="NEW YORK" rptOwnerState="NY" rptOwnerStreet1="280 PARK AVENUE" rptOwnerStreet2="" rptOwnerZipCode="10017" />
+
+
+<reportingOwnerRelationship isDirector="1" isOfficer="1" isOther="0" isTenPercentOwner="0" officerTitle="Executive Chairman">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock, par value $0.001 per share" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+<footnoteId id="F1" /> 
+</transactionCoding>
+<transactionAmounts><transactionShares> value="49209" 
+</transactionShares>
+<transactionPricePerShare value="20.3132">
+<footnoteId id="F2" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="D" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="858652" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="See footnote">
+<footnoteId id="F3" /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<footnotes>
+<footnote id="F1" text="This sale was made pursuant to a 10b5-1 plan previously entered into by the Talwar 1994 Trust (the Trust)." /> 
+<footnote id="F2" text="This transaction was executed in multiple trades at prices ranging from $20.00 to $20.75 per share.  The price reported abovereflects the weighted average purchase price on the date indicated.  The reporting person hereby undertakes to provide uponrequest to the SEC staff, the issuer or a security holder of the issuer full information regarding the number of shares andprices at which the transactions were effected." />
+ <footnote id="F3" text="Owned by the Trust." /> 
+</footnotes>
+<remarks text="Mr. Oseni is the Company&apos;s Head of Administration and Accounts." />
+<ownerSignature> signatureName="/s/ Lazbart Oseni, Attorney-in-Fact" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

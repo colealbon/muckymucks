@@ -1,0 +1,163 @@
+<Source file="./0001209191-10-053659.nc">
+<SUBMISSION ACCESSION-NUMBER="0001209191-10-053659" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101105" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001232669" CONFORMED-NAME="JEN ENOCH C" /><FILING-VALUES ACT="34" FILE-NUMBER="000-10235" FILM-NUMBER="101172099" FORM-TYPE="4" /><MAIL-ADDRESS CITY="HUDSONVILLE" STATE="MI" STREET1="1934 WEST SIDE DRIVE" ZIP="49426" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="3714" CIK="0000355811" CONFORMED-NAME="GENTEX CORP" FISCAL-YEAR-END="1231" IRS-NUMBER="382030505" STATE-OF-INCORPORATION="MI" /><BUSINESS-ADDRESS CITY="ZEELAND" PHONE="6167721800" STATE="MI" STREET1="600 N CENTENNIAL ST" ZIP="49464" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-05" schemaVersion="X0303">
+<issuer> issuerCik="0000355811" 
+ issuerName="GENTEX CORP" 
+ issuerTradingSymbol="GNTX" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001232669" 
+ rptOwnerName="JEN ENOCH C" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="HUDSONVILLE" rptOwnerState="MI" rptOwnerStreet1="3934 WEST SIDE DRIVE" rptOwnerStreet2="" rptOwnerZipCode="49426" />
+
+
+<reportingOwnerRelationship isDirector="0" isOfficer="1" isOther="0" isTenPercentOwner="0" officerTitle="Senior Vice President">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<deemedExecutionDate value="2010-11-05">
+</deemedExecutionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="12938" 
+</transactionShares>
+<transactionPricePerShare value="15.93">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="87956" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<deemedExecutionDate value="2010-11-05">
+</deemedExecutionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="12938" 
+</transactionShares>
+<transactionPricePerShare value="21.7826">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="75018" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<deemedExecutionDate value="2010-11-05">
+</deemedExecutionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="8012" 
+</transactionShares>
+<transactionPricePerShare value="21.7421">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="67006" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<deemedExecutionDate value="2010-11-05">
+</deemedExecutionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="G" transactionFormType="5">
+</transactionCoding>
+<transactionTimeliness value="E">
+</transactionTimeliness>
+<transactionAmounts>
+<transactionShares> value="2000" 
+</transactionShares>
+<transactionPricePerShare value="21.77">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="65006" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<derivativeTable><derivativeTransaction><securityTitle> value="Employee Stock Option (Right to Buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="15.93">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<deemedExecutionDate value="2010-11-05">
+</deemedExecutionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="12938" 
+</transactionShares>
+<transactionPricePerShare value="15.93">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate> value="2010-03-30" 
+</exerciseDate>
+<expirationDate value="2012-03-30">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common  Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="12938">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="0" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<remarks />
+<ownerSignature> signatureName="/s/ Enoch C. Jen" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

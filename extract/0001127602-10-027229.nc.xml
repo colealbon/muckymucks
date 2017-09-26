@@ -1,0 +1,80 @@
+<Source file="./0001127602-10-027229.nc">
+<SUBMISSION ACCESSION-NUMBER="0001127602-10-027229" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001381682" CONFORMED-NAME="Loh Benjamin GekLim" /><FILING-VALUES ACT="34" FILE-NUMBER="000-22780" FILM-NUMBER="101171724" FORM-TYPE="4" /><MAIL-ADDRESS CITY="HILLSBORO" STATE="OR" STREET1="C/O FEI COMPANY" STREET2="5350 NE DAWSON CREEK DRIVE" ZIP="97124" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="3826" CIK="0000914329" CONFORMED-NAME="FEI CO" FISCAL-YEAR-END="1231" IRS-NUMBER="930621989" STATE-OF-INCORPORATION="OR" /><BUSINESS-ADDRESS CITY="HILLSBORO" PHONE="503-726-7500" STATE="OR" STREET1="5350 NE DAWSON CREEK DRIVE" ZIP="97124" /><MAIL-ADDRESS CITY="HILLSBORO" STATE="OR" STREET1="5350 NE DAWSON CREEK DRIVE" ZIP="97124" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0000914329" 
+ issuerName="FEI CO" 
+ issuerTradingSymbol="FEIC" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001381682" 
+ rptOwnerName="Loh Benjamin GekLim" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="HILLSBORO" rptOwnerState="OR" rptOwnerStreet1="5350 NE DAWSON CREEK DRIVE" rptOwnerStreet2="" rptOwnerZipCode="97124" />
+
+
+<reportingOwnerRelationship isOfficer="1" officerTitle="Exec VP, WW Sales and Service">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="A" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness />
+<transactionAmounts><transactionShares> value="11304" 
+<footnoteId id="F1" /> 
+</transactionShares>
+<transactionPricePerShare> value="0" 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="59846" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<derivativeTable><derivativeTransaction><securityTitle> value="Stock Options" 
+</securityTitle>
+<conversionOrExercisePrice value="23.98">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="A" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness />
+<transactionAmounts><transactionShares> value="27132" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate> value="2011-11-04" 
+<footnoteId id="F2" /> 
+</exerciseDate>
+<expirationDate> value="2017-11-04" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="27132">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="27132" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="RSUs will vest in four equal annual installments beginning one year from the grant date until fully vested." /> 
+ <footnote id="F2" text="Options will vest in four equal annual installments beginning one year from the grant date until fully vested." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="/s/ Raymond A. Link, Attorney in Fact">
+</ownerSignature>
+</ownershipDocument></Source>

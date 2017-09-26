@@ -1,0 +1,98 @@
+<Source file="./0000100726-10-000030.nc">
+<SUBMISSION ACCESSION-NUMBER="0000100726-10-000030" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><ISSUER><COMPANY-DATA ASSIGNED-SIC="2200" CIK="0000100726" CONFORMED-NAME="UNIFI INC" FISCAL-YEAR-END="1103" IRS-NUMBER="112165495" STATE-OF-INCORPORATION="NY" /><BUSINESS-ADDRESS CITY="GREENSBORO" PHONE="9192944410" STATE="NC" STREET1="7201 WEST FRIENDLY RD" STREET2="P O BOX 19109" ZIP="27419-9109" /><MAIL-ADDRESS CITY="GREENSBORO" STATE="NC" STREET1="7201 W FRIENDLY RD" STREET2="PO BOX 19109" ZIP="24719-9109" /><FORMER-COMPANY DATE-CHANGED="19720906" FORMER-CONFORMED-NAME="AUTOMATED ENVIRONMENTAL SYSTEMS INC" /></ISSUER><REPORTING-OWNER><OWNER-DATA CIK="0000905874" CONFORMED-NAME="LANGONE KENNETH G" FISCAL-YEAR-END="1231" STATE-OF-INCORPORATION="NY" /><FILING-VALUES ACT="34" FILE-NUMBER="001-10542" FILM-NUMBER="101171281" FORM-TYPE="4" /><MAIL-ADDRESS CITY="NEW YORK" STATE="NY" STREET1="375 PARK AVENUE" STREET2="STE 2205" ZIP="10152" /></REPORTING-OWNER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0000100726" 
+ issuerName="UNIFI INC" 
+ issuerTradingSymbol="UFI" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0000905874" 
+ rptOwnerName="LANGONE KENNETH G" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="NEW YORK" rptOwnerState="NY" rptOwnerStreet1="375 PARK AVENUE" rptOwnerStreet2="STE 2205" rptOwnerZipCode="10152">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="1" 
+ isOfficer="0" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="P" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="21240" 
+</transactionShares>
+<transactionPricePerShare value="14.99">
+<footnoteId id="F1" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="A" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="691506" 
+<footnoteId id="F2" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="P" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="8494" 
+</transactionShares>
+<transactionPricePerShare value="14.51">
+<footnoteId id="F3" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="A" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="700000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeHolding>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="90000" 
+<footnoteId id="F4" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="by Invemed Associates LLC">
+<footnoteId id="F5" /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+</nonDerivativeTable>
+<footnotes>
+<footnote id="F1" text="The Reporting Person executed a trade order through a broker-dealer which resulted in multiple same-day same-way open market purchases, with the prices ranging from $14.85 to $15.47/share.  The Reporting Person has reported these purchases on an aggregate basis using the weighted average price for the transactions and will provide detailed breakouts upon request." /> 
+ <footnote id="F2" text="On November 3, 2010, Unifi, Inc. effected a 1-for-3 reverse stock split of its common stock, resulting in the Reporting Person&apos;s direct ownership of 1,340,534 fewer shares of common stock." /> 
+ <footnote id="F3" text="The Reporting Person executed a trade order through a broker-dealer which resulted in multiple same-day same-way open market purchases, with the prices ranging from $14.29 to $14.98/share.  The Reporting Person has reported these purchases on an aggregate basis using the weighted average price for the transactions and will provide detailed breakouts upon request." /> 
+ <footnote id="F4" text="On November 3, 2010, Unifi, Inc. effected a 1-for-3 reverse stock split of its common stock, resulting in the Reporting Person&apos;s indirect ownership of 180,000 fewer shares of common stock." /> 
+ <footnote id="F5" text="The Reporting Person is the principal equityholder and President and CEO of Invemed Associates, LLC.  Pursuant to Instruction (4)(b)(iv) of Form 4, the Reporting Person has elected to report as indirectly beneficially owned the entire number of securities beneficially owned by such entity.  The Reporting Person disclaims beneficial ownership of any securities, and any proceeds thereof, that exceed his pecuniary interest therein and/or that are not actually distributed to him." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="/s/Kenneth G. Langone by Charles F. McCoy, POA">
+</ownerSignature>
+</ownershipDocument></Source>

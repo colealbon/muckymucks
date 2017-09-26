@@ -1,0 +1,109 @@
+<Source file="./0001209191-10-053697.nc">
+<SUBMISSION ACCESSION-NUMBER="0001209191-10-053697" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101105" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001335177" CONFORMED-NAME="Warnecke David N" /><FILING-VALUES ACT="34" FILE-NUMBER="001-13105" FILM-NUMBER="101172709" FORM-TYPE="4" /><MAIL-ADDRESS CITY="ST. LOUIS" STATE="MO" STREET1="ONE CITYPLACE DRIVE" STREET2="SUITE 300" ZIP="63141" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="1221" CIK="0001037676" CONFORMED-NAME="ARCH COAL INC" FISCAL-YEAR-END="1231" IRS-NUMBER="430921172" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="ST LOUIS" PHONE="3149942700" STATE="MO" STREET1="CITY PLACE ONE STE 300" STREET2="ARCH MINERAL CORP" ZIP="63141" /><MAIL-ADDRESS CITY="CREVE COEUR" STATE="MO" STREET1="CITYPLACE ONE SUITE 300" STREET2="ARCH MINERAL CORP" ZIP="63141" /><FORMER-COMPANY DATE-CHANGED="19970411" FORMER-CONFORMED-NAME="ARCH MINERAL CORP" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-05" schemaVersion="X0303">
+<issuer> issuerCik="0001037676" 
+ issuerName="ARCH COAL INC" 
+ issuerTradingSymbol="ACI" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001335177" 
+ rptOwnerName="Warnecke David N" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="ST. LOUIS" rptOwnerState="MO" rptOwnerStreet1="CITYPLACE ONE" rptOwnerStreet2="SUITE 300" rptOwnerZipCode="63144">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="1" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+ officerTitle="VP-Marketing &amp; Trading" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="S" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="6100" 
+</transactionShares>
+<transactionPricePerShare value="27.87">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="7700" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="S" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="2700" 
+</transactionShares>
+<transactionPricePerShare value="27.89">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="5000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="S" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="800" 
+</transactionShares>
+<transactionPricePerShare value="27.85">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="0" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="Shares held by spouse in trust">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<remarks />
+<ownerSignature> signatureName="/s/ Jon S. Ploetz, Attorney-in-Fact" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

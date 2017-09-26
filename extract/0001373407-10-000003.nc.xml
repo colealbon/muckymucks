@@ -1,0 +1,44 @@
+<Source file="./0001373407-10-000003.nc">
+<SUBMISSION ACCESSION-NUMBER="0001373407-10-000003" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001373407" CONFORMED-NAME="RIEMAN KENDALL W" /><FILING-VALUES ACT="34" FILE-NUMBER="000-20159" FILM-NUMBER="101172322" FORM-TYPE="4" /><MAIL-ADDRESS CITY="FREMONT" STATE="OH" STREET1="2113 PINEHURST TRAIL" ZIP="43420" /><FORMER-NAME DATE-CHANGED="20060818" FORMER-CONFORMED-NAME="Rieman Kendall W" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="6022" CIK="0000887149" CONFORMED-NAME="CROGHAN BANCSHARES INC" FISCAL-YEAR-END="1231" IRS-NUMBER="311073048" STATE-OF-INCORPORATION="OH" /><BUSINESS-ADDRESS CITY="FREMONT" PHONE="4193327301" STATE="OH" STREET1="323 CROGHAN ST" ZIP="43420" /><MAIL-ADDRESS CITY="FREMONT" STATE="OH" STREET1="323 CROGHAN ST" ZIP="43420" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0000887149" 
+ issuerName="CROGHAN BANCSHARES INC" 
+ issuerTradingSymbol="CHBH" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001373407" 
+ rptOwnerName="RIEMAN KENDALL W" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="FREMONT" rptOwnerState="OH" rptOwnerStreet1="2113 PINEHURST TRAIL" rptOwnerStreet2="" rptOwnerZipCode="43420" />
+
+
+<reportingOwnerRelationship isDirector="0" isOfficer="1" isOther="0" isTenPercentOwner="0" officerTitle="Senior Vice President/CFO&amp;COO">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="P" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="200" 
+</transactionShares>
+<transactionPricePerShare value="25">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="1825" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<ownerSignature> signatureName="Kendall W. Rieman" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

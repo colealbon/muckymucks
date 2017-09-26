@@ -1,0 +1,61 @@
+<Source file="./0001140361-10-044105.nc">
+<SUBMISSION ACCESSION-NUMBER="0001140361-10-044105" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101105" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA ASSIGNED-SIC="8071" CIK="0001035505" CONFORMED-NAME="CRAMER KIRBY L" FISCAL-YEAR-END="1231" STATE-OF-INCORPORATION="MD" /><FILING-VALUES ACT="34" FILE-NUMBER="000-23791" FILM-NUMBER="101171366" FORM-TYPE="4" /><MAIL-ADDRESS CITY="EAST MILLSTONE" STATE="NJ" STREET1="METTLERS ROAD" STREET2="P. O. BOX 2360" ZIP="08875" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="3841" CIK="0001055355" CONFORMED-NAME="SONOSITE INC" FISCAL-YEAR-END="1231" IRS-NUMBER="911405022" /><BUSINESS-ADDRESS CITY="BOTHELL" PHONE="4259511200" STATE="WA" STREET1="21919 30TH DRIVE SE" ZIP="98021-3904" /><MAIL-ADDRESS CITY="BOTHELL" STATE="WA" STREET1="21919 30TH DRIVE SE" ZIP="98021-3904" /><FORMER-COMPANY DATE-CHANGED="19980211" FORMER-CONFORMED-NAME="HANDHELD ULTRASOUND SYSTEMS INC" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-05" schemaVersion="X0303">
+<issuer> issuerCik="0001055355" 
+ issuerName="SONOSITE INC" 
+ issuerTradingSymbol="SONO" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001035505" 
+ rptOwnerName="CRAMER KIRBY L" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="BOTHELL" rptOwnerState="WA" rptOwnerStreet1="21919 30TH DR SE" rptOwnerStreet2="" rptOwnerZipCode="98021" />
+
+
+<reportingOwnerRelationship isDirector="1" isOfficer="0" isOther="0" isTenPercentOwner="0">
+<officerTitle /> 
+<otherText />
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="S" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="26795" 
+</transactionShares>
+<transactionPricePerShare value="32.3846">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="31205" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeHolding>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="2000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="by spouse">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+</nonDerivativeTable>
+<derivativeTable /> 
+<remarks /> 
+<ownerSignature signatureDate="2010-11-08" signatureName="Shannon Atchison, Attorney-in-Fact for Kirby L. Cramer">
+</ownerSignature>
+</ownershipDocument></Source>

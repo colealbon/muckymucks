@@ -1,0 +1,81 @@
+<Source file="./0001144215-10-000130.nc">
+<SUBMISSION ACCESSION-NUMBER="0001144215-10-000130" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101105" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001026933" CONFORMED-NAME="CLENDENIN JOHN L" /><FILING-VALUES ACT="34" FILE-NUMBER="001-16583" FILM-NUMBER="101172598" FORM-TYPE="4" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="3640" CIK="0001144215" CONFORMED-NAME="ACUITY BRANDS INC" FISCAL-YEAR-END="0831" IRS-NUMBER="582632672" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="ATLANTA" PHONE="404-853-1400" STATE="GA" STREET1="1170 PEACHTREE STREET, NE" STREET2="SUITE 2400" ZIP="30309-7676" /><MAIL-ADDRESS CITY="ATLANTA" STATE="GA" STREET1="1170 PEACHTREE STREET, NE" STREET2="SUITE 2400" ZIP="30309-7676" /><FORMER-COMPANY DATE-CHANGED="20010629" FORMER-CONFORMED-NAME="L&amp;C SPINCO INC" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-05" schemaVersion="X0303">
+<issuer> issuerCik="0001144215" 
+ issuerName="ACUITY BRANDS INC" 
+ issuerTradingSymbol="AYI" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001026933" 
+ rptOwnerName="CLENDENIN JOHN L" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="ATLANTA" rptOwnerState="GA" rptOwnerStreet1="C/O ACUITY BRANDS, INC." rptOwnerStreet2="1170 PEACHTREE STREET, NESUITE 2400" rptOwnerZipCode="30309">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="1" 
+ isOfficer="0" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="2123" 
+</transactionShares>
+<transactionPricePerShare value="15.92">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="9886" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<derivativeTable><derivativeTransaction><securityTitle> value="Non-Qualified Stock Option" 
+</securityTitle>
+<conversionOrExercisePrice value="15.92">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="2123" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate><footnoteId id="F1" /> 
+</exerciseDate>
+<expirationDate> value="2010-12-20" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="2123">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="0" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="This stock option previously represented the right to purchase 1,755 shares of the Issuer&apos;s common stock at an exercise price of $19.27.  The stock option was converted to the right to purchase 2,123 shares of the Issuer&apos;s common stock at an exercise price of $15.92 effective with the spin-off of the Issuer&apos;s specialty chemical business on October 31, 2007.  The original option agreement was granted on December 21, 2000 and became fully vested on December 21, 2001." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-05" signatureName="John L. Clendenin">
+</ownerSignature>
+</ownershipDocument></Source>

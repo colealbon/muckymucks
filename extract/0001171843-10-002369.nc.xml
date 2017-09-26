@@ -1,0 +1,750 @@
+<Source file="./0001171843-10-002369.nc">
+<SUBMISSION ACCESSION-NUMBER="0001171843-10-002369" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101105" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001355424" CONFORMED-NAME="Casteel Marty" /><FILING-VALUES ACT="34" FILE-NUMBER="000-06253" FILM-NUMBER="101172306" FORM-TYPE="4" /><MAIL-ADDRESS CITY="PINE BLUFF" STATE="AR" STREET1="501 MAIN STREET" ZIP="71603" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="6021" CIK="0000090498" CONFORMED-NAME="SIMMONS FIRST NATIONAL CORP" FISCAL-YEAR-END="1231" IRS-NUMBER="710407808" STATE-OF-INCORPORATION="AR" /><BUSINESS-ADDRESS CITY="PINE BLUFF" PHONE="8705411000" STATE="AR" STREET1="501 MAIN STREET" STREET2="C/O SIMMONS FIRST NATIONAL CORP" ZIP="71601" /><MAIL-ADDRESS CITY="PINE BLUFF" STATE="AR" STREET1="501 MAIN STREET" STREET2="C/O SIMMONS FIRST NATIONAL CORP" ZIP="71601" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" periodOfReport="2010-11-05" schemaVersion="X0303">
+<issuer> issuerCik="0000090498" 
+ issuerName="SIMMONS FIRST NATIONAL CORP" 
+ issuerTradingSymbol="SFNC" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001355424" 
+ rptOwnerName="Casteel Marty" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="PINE BLUFF" rptOwnerState="AR" rptOwnerStreet1="SIMMONS FIRST NATIONAL CORP" rptOwnerStreet2="501 MAIN STREET" rptOwnerZipCode="71603">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="1" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+ officerTitle="EVP" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="SFNC" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="2000" 
+</transactionShares>
+<transactionPricePerShare value="12.13">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="14834" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="SFNC" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="2000" 
+</transactionShares>
+<transactionPricePerShare value="28.99">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="12834" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeHolding>
+<securityTitle> value="SFNC" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="691" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding>
+<securityTitle> value="SFNC" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="7548" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding>
+<securityTitle> value="SFNC" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="3451" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+</nonDerivativeTable>
+<derivativeTable><derivativeTransaction><securityTitle> value="Incentive Stock Option" 
+</securityTitle>
+<conversionOrExercisePrice value="12.13">
+</conversionOrExercisePrice>
+<transactionDate value="2001-05-07">
+</transactionDate>
+<deemedExecutionDate value="2010-11-05">
+</deemedExecutionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="2000" 
+</transactionShares>
+<transactionPricePerShare value="12.13">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate> value="2005-05-07" 
+</exerciseDate>
+<expirationDate value="2011-05-07">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="2000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="2000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+<derivativeTransaction>
+<securityTitle> value="Incentive Stock Option" 
+</securityTitle>
+<conversionOrExercisePrice value="12.13">
+</conversionOrExercisePrice>
+<transactionDate value="2001-05-07">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="X" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="0" 
+</transactionShares>
+<transactionPricePerShare value="12.13">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate> value="2005-05-07" 
+</exerciseDate>
+<expirationDate value="2011-05-07">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="2000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="2000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+<derivativeTransaction>
+<securityTitle> value="Incentive Stock Option" 
+</securityTitle>
+<conversionOrExercisePrice value="23.78">
+</conversionOrExercisePrice>
+<transactionDate value="2004-07-26">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="X" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="0" 
+</transactionShares>
+<transactionPricePerShare value="23.78">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate> value="2005-12-31" 
+</exerciseDate>
+<expirationDate value="2014-07-26">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="2000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="2000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+<derivativeTransaction>
+<securityTitle> value="Incentive Stock Option" 
+</securityTitle>
+<conversionOrExercisePrice value="24.50">
+</conversionOrExercisePrice>
+<transactionDate value="2005-05-23">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="X" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="0" 
+</transactionShares>
+<transactionPricePerShare value="24.50">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate> value="2005-12-31" 
+</exerciseDate>
+<expirationDate value="2015-05-24">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="920">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="920" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+<derivativeTransaction>
+<securityTitle> value="Incentive Stock Option" 
+</securityTitle>
+<conversionOrExercisePrice value="26.19">
+</conversionOrExercisePrice>
+<transactionDate value="2006-05-22">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="X" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="0" 
+</transactionShares>
+<transactionPricePerShare value="26.19">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate> value="2007-05-22" 
+</exerciseDate>
+<expirationDate value="2016-05-20">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="200">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="200" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+<derivativeTransaction>
+<securityTitle> value="Incentive Stock Option" 
+</securityTitle>
+<conversionOrExercisePrice value="26.19">
+</conversionOrExercisePrice>
+<transactionDate value="2006-05-22">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="X" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="0" 
+</transactionShares>
+<transactionPricePerShare value="26.19">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate> value="2008-05-22" 
+</exerciseDate>
+<expirationDate value="2016-05-20">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="200">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="200" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+<derivativeTransaction>
+<securityTitle> value="Incentive Stock Option" 
+</securityTitle>
+<conversionOrExercisePrice value="26.19">
+</conversionOrExercisePrice>
+<transactionDate value="2006-05-22">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="X" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="0" 
+</transactionShares>
+<transactionPricePerShare value="26.19">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate> value="2009-05-22" 
+</exerciseDate>
+<expirationDate value="2016-05-20">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="200">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="200" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+<derivativeTransaction>
+<securityTitle> value="Incentive Stock Option" 
+</securityTitle>
+<conversionOrExercisePrice value="26.19">
+</conversionOrExercisePrice>
+<transactionDate value="2006-05-22">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="X" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="0" 
+</transactionShares>
+<transactionPricePerShare value="26.19">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate> value="2010-05-22" 
+</exerciseDate>
+<expirationDate value="2016-05-20">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="200">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="200" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+<derivativeTransaction>
+<securityTitle> value="Incentive Stock Option" 
+</securityTitle>
+<conversionOrExercisePrice value="26.19">
+</conversionOrExercisePrice>
+<transactionDate value="2006-05-22">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="X" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="0" 
+</transactionShares>
+<transactionPricePerShare value="26.19">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate> value="2011-05-22" 
+</exerciseDate>
+<expirationDate value="2016-05-20">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="200">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="200" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+<derivativeTransaction>
+<securityTitle> value="Incentive Stock Option" 
+</securityTitle>
+<conversionOrExercisePrice value="28.42">
+</conversionOrExercisePrice>
+<transactionDate value="2007-05-31">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="X" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="0" 
+</transactionShares>
+<transactionPricePerShare value="28.42">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate> value="2008-05-31" 
+</exerciseDate>
+<expirationDate value="2017-05-31">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="240">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="240" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+<derivativeTransaction>
+<securityTitle> value="Incentive Stock Option" 
+</securityTitle>
+<conversionOrExercisePrice value="28.42">
+</conversionOrExercisePrice>
+<transactionDate value="2007-05-31">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="X" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="0" 
+</transactionShares>
+<transactionPricePerShare value="28.42">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate> value="2009-05-31" 
+</exerciseDate>
+<expirationDate value="2017-05-31">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="240">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="240" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+<derivativeTransaction>
+<securityTitle> value="Incentive Stock Option" 
+</securityTitle>
+<conversionOrExercisePrice value="28.42">
+</conversionOrExercisePrice>
+<transactionDate value="2007-05-31">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="X" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="0" 
+</transactionShares>
+<transactionPricePerShare value="28.42">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate> value="2010-05-31" 
+</exerciseDate>
+<expirationDate value="2017-05-31">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="240">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="240" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+<derivativeTransaction>
+<securityTitle> value="Incentive Stock Option" 
+</securityTitle>
+<conversionOrExercisePrice value="28.42">
+</conversionOrExercisePrice>
+<transactionDate value="2007-05-31">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="X" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="0" 
+</transactionShares>
+<transactionPricePerShare value="28.42">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate> value="2011-05-31" 
+</exerciseDate>
+<expirationDate value="2017-05-31">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="240">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="240" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+<derivativeTransaction>
+<securityTitle> value="Incentive Stock Option" 
+</securityTitle>
+<conversionOrExercisePrice value="28.42">
+</conversionOrExercisePrice>
+<transactionDate value="2007-05-31">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="X" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="0" 
+</transactionShares>
+<transactionPricePerShare value="28.42">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate> value="2012-05-31" 
+</exerciseDate>
+<expirationDate value="2017-05-31">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="240">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="240" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+<derivativeTransaction>
+<securityTitle> value="Non-Qualified Stock Option" 
+</securityTitle>
+<conversionOrExercisePrice value="30.31">
+</conversionOrExercisePrice>
+<transactionDate value="2008-05-29">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="X" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="0" 
+</transactionShares>
+<transactionPricePerShare value="30.31">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate> value="2009-05-29" 
+</exerciseDate>
+<expirationDate value="2018-05-28">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="842">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="842" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+<derivativeTransaction>
+<securityTitle> value="Non-Qualified Stock Option" 
+</securityTitle>
+<conversionOrExercisePrice value="30.31">
+</conversionOrExercisePrice>
+<transactionDate value="2008-05-29">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="X" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="0" 
+</transactionShares>
+<transactionPricePerShare value="30.31">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate> value="2010-05-29" 
+</exerciseDate>
+<expirationDate value="2018-05-28">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="842">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="842" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+<derivativeTransaction>
+<securityTitle> value="Non-Qualified Stock Option" 
+</securityTitle>
+<conversionOrExercisePrice value="30.31">
+</conversionOrExercisePrice>
+<transactionDate value="2008-05-29">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="X" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="0" 
+</transactionShares>
+<transactionPricePerShare value="30.31">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate> value="2011-05-29" 
+</exerciseDate>
+<expirationDate value="2018-05-28">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="842">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="842" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+<derivativeTransaction>
+<securityTitle> value="Non-Qualified Stock Option" 
+</securityTitle>
+<conversionOrExercisePrice value="30.31">
+</conversionOrExercisePrice>
+<transactionDate value="2008-05-29">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="X" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="0" 
+</transactionShares>
+<transactionPricePerShare value="30.31">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate> value="2012-05-29" 
+</exerciseDate>
+<expirationDate value="2018-05-28">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="842">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="842" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+<derivativeTransaction>
+<securityTitle> value="Non-Qualified Stock Option" 
+</securityTitle>
+<conversionOrExercisePrice value="30.31">
+</conversionOrExercisePrice>
+<transactionDate value="2008-05-29">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="X" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="0" 
+</transactionShares>
+<transactionPricePerShare value="30.31">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate> value="2013-05-29" 
+</exerciseDate>
+<expirationDate value="2018-05-28">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="842">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="842" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<ownerSignature> signatureName="/s/ Marty Casteel by Piper P. Erwin" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

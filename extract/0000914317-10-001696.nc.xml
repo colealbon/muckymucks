@@ -1,0 +1,95 @@
+<Source file="./0000914317-10-001696.nc">
+<SUBMISSION ACCESSION-NUMBER="0000914317-10-001696" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101105" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001400164" CONFORMED-NAME="Congdon Keith N" /><FILING-VALUES ACT="34" FILE-NUMBER="000-51102" FILM-NUMBER="101171596" FORM-TYPE="4" /><MAIL-ADDRESS CITY="GEORGETOWN" STATE="MA" STREET1="2 EAST MAIN STREET" ZIP="01833" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="6036" CIK="0001302709" CONFORMED-NAME="Georgetown Bancorp, Inc." FISCAL-YEAR-END="0823" IRS-NUMBER="000000000" STATE-OF-INCORPORATION="X1" /><BUSINESS-ADDRESS CITY="GEORGETOWN" PHONE="(978) 352-8600" STATE="MA" STREET1="2 EAST MAIN STREET" ZIP="01833" /><MAIL-ADDRESS CITY="GEORGETOWN" STATE="MA" STREET1="2 EAST MAIN STREET" ZIP="01833" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-05" schemaVersion="X0303">
+<issuer> issuerCik="0001302709" 
+ issuerName="Georgetown Bancorp, Inc." 
+ issuerTradingSymbol="GTWN" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001400164" 
+ rptOwnerName="Congdon Keith N" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="GEORGETOWN" rptOwnerState="MA" rptOwnerStreet1="2 EAST MAIN STREET" rptOwnerStreet2="" rptOwnerZipCode="01833" />
+
+
+<reportingOwnerRelationship isDirector="1" isOfficer="0" isOther="0" isTenPercentOwner="0">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="A" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="200" 
+</transactionShares>
+<transactionPricePerShare value="5.5">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="5092" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="IRA">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeHolding>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="625" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+</nonDerivativeTable>
+<derivativeTable><derivativeTransaction><securityTitle> value="Stock Options" 
+</securityTitle>
+<conversionOrExercisePrice value="6.72">
+</conversionOrExercisePrice>
+<transactionDate value="2010-02-22">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="A" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="625" 
+<footnoteId id="F1" /> 
+</transactionShares>
+<transactionPricePerShare> value="0" 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate> value="2011-02-22" 
+</exerciseDate>
+<expirationDate value="2020-02-22">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="625">
+<footnoteId id="F1" /> 
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="625" 
+<footnoteId id="F1" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="Represents stock options vest at a rate of 33.3% per year commencing on February 22, 2011." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="/s/Joseph W. Kennedy,  pursuant to power of attorney">
+</ownerSignature>
+</ownershipDocument></Source>

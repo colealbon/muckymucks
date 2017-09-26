@@ -1,0 +1,131 @@
+<Source file="./0001181431-10-054084.nc">
+<SUBMISSION ACCESSION-NUMBER="0001181431-10-054084" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101103" PUBLIC-DOCUMENT-COUNT="2" TYPE="3"><REPORTING-OWNER><OWNER-DATA CIK="0001278712" CONFORMED-NAME="TUCK STEPHEN F" /><FILING-VALUES ACT="34" FILE-NUMBER="001-34207" FILM-NUMBER="101173598" FORM-TYPE="3" /><MAIL-ADDRESS CITY="BERKELEY" STATE="CA" STREET1="C/O DYNAVAX TECHNOLOGIES CORP" STREET2="2929 SEVENTH ST STE 100" ZIP="94710" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="2834" CIK="0001029142" CONFORMED-NAME="DYNAVAX TECHNOLOGIES CORP" FISCAL-YEAR-END="1231" IRS-NUMBER="330728374" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="BERKELEY" PHONE="5108485100" STATE="CA" STREET1="2929 SEVENTH STREET" STREET2="SUITE 100" ZIP="94710" /><MAIL-ADDRESS CITY="BERKELEY" STATE="CA" STREET1="2929 SEVENTH STREET" STREET2="SUITE 100" ZIP="94710" /></ISSUER></SUBMISSION><ownershipDocument documentType="3" noSecuritiesOwned="0" periodOfReport="2010-11-03" schemaVersion="X0203">
+<issuer> issuerCik="0001029142" 
+ issuerName="DYNAVAX TECHNOLOGIES CORP" 
+ issuerTradingSymbol="DVAX" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001278712" 
+ rptOwnerName="TUCK STEPHEN F" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="BERKELEY" rptOwnerState="CA" rptOwnerStreet1="C/O DYNAVAX TECHNOLOGIES CORPORATION" rptOwnerStreet2="2929 SEVENTH STREET, SUITE 100" rptOwnerZipCode="94710">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="1" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+ officerTitle="VP, Global Technical Ops" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeHolding><securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="33333" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+</nonDerivativeTable>
+<derivativeTable><derivativeHolding><securityTitle> value="Option (Right to Buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="1.50">
+</conversionOrExercisePrice>
+<exerciseDate value="2007-01-22">
+</exerciseDate>
+<expirationDate value="2013-01-21">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="50000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Option (Right to Buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="3.00">
+</conversionOrExercisePrice>
+<exerciseDate value="2007-12-18">
+</exerciseDate>
+<expirationDate value="2013-12-17">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="19999">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Option (Right to Buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="7.49">
+</conversionOrExercisePrice>
+<exerciseDate value="2005-01-20">
+</exerciseDate>
+<expirationDate value="2015-01-19">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="50000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Option (Right to Buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="5.85">
+</conversionOrExercisePrice>
+<exerciseDate value="2009-02-14">
+</exerciseDate>
+<expirationDate value="2016-02-13">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="37500">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Option (Right to Buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="6.19">
+</conversionOrExercisePrice>
+<exerciseDate value="2009-02-02">
+</exerciseDate>
+<expirationDate value="2017-02-01">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="25000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+</derivativeTable>
+<ownerSignature> signatureName="Stephen Tuck, by /s/ Jennifer Lew, Attorney-in Fact" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

@@ -1,0 +1,49 @@
+<Source file="./0001016157-10-000001.nc">
+<SUBMISSION ACCESSION-NUMBER="0001016157-10-000001" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101102" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><ISSUER><COMPANY-DATA ASSIGNED-SIC="5045" CIK="0001020017" CONFORMED-NAME="INX Inc" FISCAL-YEAR-END="1231" IRS-NUMBER="760515249" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="HOUSTON" PHONE="7137952000" STATE="TX" STREET1="6401 SOUTHWEST FREEWAY" ZIP="77074" /><MAIL-ADDRESS CITY="HOUSTON" STATE="TX" STREET1="6401 SOUTHWEST FREEWAY" ZIP="77074" /><FORMER-COMPANY DATE-CHANGED="20010712" FORMER-CONFORMED-NAME="I SECTOR CORP" /><FORMER-COMPANY DATE-CHANGED="19960730" FORMER-CONFORMED-NAME="ALLSTAR SYSTEMS INC" /></ISSUER><REPORTING-OWNER><OWNER-DATA ASSIGNED-SIC="5045" CIK="0001016157" CONFORMED-NAME="HILZ MARK T" FISCAL-YEAR-END="1231" STATE-OF-INCORPORATION="DE" /><FILING-VALUES ACT="34" FILE-NUMBER="001-31949" FILM-NUMBER="101173536" FORM-TYPE="4" /><MAIL-ADDRESS CITY="LEWISVILLE" STATE="TX" STREET1="1955 LAKEWAY DR" STREET2="SUITE 220" ZIP="75057" /></REPORTING-OWNER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-02" schemaVersion="X0303">
+<issuer> issuerCik="0001020017" 
+ issuerName="INX Inc" 
+ issuerTradingSymbol="inxi" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001016157" 
+ rptOwnerName="HILZ MARK T" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="LEWISVILLE" rptOwnerState="TX" rptOwnerStreet1="1955 LAKEWAY DR" rptOwnerStreet2="SUITE 220" rptOwnerZipCode="75057">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="1" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+ officerTitle="President/CEO" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-02">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="A" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="60000" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="585535" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<ownerSignature> signatureName="Mark T. Hilz" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

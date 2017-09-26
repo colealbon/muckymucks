@@ -1,0 +1,588 @@
+<Source file="./0001181431-10-054031.nc">
+<SUBMISSION ACCESSION-NUMBER="0001181431-10-054031" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001032793" CONFORMED-NAME="FULLER MORTIMER B III" FISCAL-YEAR-END="1231" STATE-OF-INCORPORATION="CT" /><FILING-VALUES ACT="34" FILE-NUMBER="001-31456" FILM-NUMBER="101172670" FORM-TYPE="4" /><MAIL-ADDRESS CITY="GREENWICH" STATE="CT" STREET1="66 FIELD POINT ROAD" ZIP="06830" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="4011" CIK="0001012620" CONFORMED-NAME="GENESEE &amp; WYOMING INC" FISCAL-YEAR-END="1231" IRS-NUMBER="060984624" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="GREENWICH" PHONE="2036293722" STATE="CT" STREET1="66 FIELD POINT ROAD" ZIP="06830" /><MAIL-ADDRESS CITY="GREENWICH" STATE="CT" STREET1="66 FIELD POINT ROAD" ZIP="06830" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0001012620" 
+ issuerName="GENESEE &amp; WYOMING INC" 
+ issuerTradingSymbol="GWR" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001032793" 
+ rptOwnerName="FULLER MORTIMER B III" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="GREENWICH" rptOwnerState="CT" rptOwnerStreet1="66 FIELD POINT ROAD" rptOwnerStreet2="" rptOwnerZipCode="06830" />
+
+
+<reportingOwnerRelationship isDirector="1" isOfficer="0" isOther="0" isTenPercentOwner="0">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Class A Common Stock, $0.01 par value" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="3400" 
+</transactionShares>
+<transactionPricePerShare value="32.35">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="34022" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Class A Common Stock, $0.01 par value" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="56845" 
+</transactionShares>
+<transactionPricePerShare value="29.41">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="90867" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Class A Common Stock, $0.01 par value" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="136476" 
+</transactionShares>
+<transactionPricePerShare value="30.37">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="227343" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Class A Common Stock, $0.01 par value" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="37084" 
+</transactionShares>
+<transactionPricePerShare value="32.35">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="264427" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Class A Common Stock, $0.01 par value" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="3979" 
+</transactionShares>
+<transactionPricePerShare value="20.89">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="268406" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Class A Common Stock, $0.01 par value" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="2766" 
+</transactionShares>
+<transactionPricePerShare value="28.92">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="271172" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Class A Common Stock, $0.01 par value" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="2535" 
+</transactionShares>
+<transactionPricePerShare value="31.38">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="273707" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Class A Common Stock, $0.01 par velue" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="2591" 
+</transactionShares>
+<transactionPricePerShare value="31.12">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="276298" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Class A Common Stock, $0.01 par value" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="30000" 
+</transactionShares>
+<transactionPricePerShare value="45.9481">
+<footnoteId id="F1" /> 
+<footnoteId id="F2" />
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="246298" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Class A Common Stock, $0.01 par value" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="220128" 
+</transactionShares>
+<transactionPricePerShare value="46.56">
+<footnoteId id="F2" /> 
+<footnoteId id="F3" />
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="26170" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeHolding>
+<securityTitle> value="Class A Common Stock, $0.01 par value" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="5955.5" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+<footnoteId id="F4" /> 
+</directOrIndirectOwnership>
+<natureOfOwnership> value="By wife." 
+<footnoteId id="F4" /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding><securityTitle> value="Class B Common Stock, $0.01 par value" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="1286823.5" 
+<footnoteId id="F5" /> 
+<footnoteId id="F6" />
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding>
+<securityTitle> value="Class B Common Stock, $0.01 par value" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="5748" 
+<footnoteId id="F5" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="I" 
+<footnoteId id="F4" /> 
+</directOrIndirectOwnership>
+<natureOfOwnership> value="By wife" 
+<footnoteId id="F4" /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding><securityTitle> value="Class B Common Stock, $0.01 par value" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="345070" 
+<footnoteId id="F5" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="I" 
+<footnoteId id="F7" /> 
+</directOrIndirectOwnership>
+<natureOfOwnership> value="By Grantor Retained Annuity Trust" 
+<footnoteId id="F7" /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+</nonDerivativeTable>
+<derivativeTable>
+<derivativeTransaction><securityTitle> value="Stock Option (Right to  Buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="32.35">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="3400" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate><footnoteId id="F8" /> 
+</exerciseDate>
+<expirationDate> value="2011-05-29" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Class A Common Stock, $0.01 par value" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="3400">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="0" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+<derivativeTransaction>
+<securityTitle> value="Stock Option (Right to Buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="29.41">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="56845" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate><footnoteId id="F8" /> 
+</exerciseDate>
+<expirationDate> value="2011-05-29" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Class A Common Stock, $0.01 par value" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="56845">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="0" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+<derivativeTransaction>
+<securityTitle> value="Stock Option (Right to Buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="30.37">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="136476" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate><footnoteId id="F9" /> 
+</exerciseDate>
+<expirationDate> value="2011-06-01" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Class A Common Stock, $0.01 par value" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="136476">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="0" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+<derivativeTransaction>
+<securityTitle> value="Stock Option (Right to Buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="32.35">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="37084" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate><footnoteId id="F10" /> 
+</exerciseDate>
+<expirationDate> value="2012-05-29" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Class A Common Stock, $0.01 par value" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="37084">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="0" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+<derivativeTransaction>
+<securityTitle> value="Stock Option (Right to Buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="20.89">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="3979" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate><footnoteId id="F11" /> 
+</exerciseDate>
+<expirationDate> value="2014-02-26" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Class A Common Stock, $0.01 par value" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="3979">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="3978" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+<derivativeTransaction>
+<securityTitle> value="Stock Option (Right to Buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="28.92">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="2766" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate><footnoteId id="F11" /> 
+</exerciseDate>
+<expirationDate> value="2014-05-28" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Class A Common Stock, $0.01 par value" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="2766">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="4949" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+<derivativeTransaction>
+<securityTitle> value="Stock Option (Right to Buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="31.38">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="2535" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate><footnoteId id="F11" /> 
+</exerciseDate>
+<expirationDate> value="2014-08-30" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Class A Common Stock, $0.01 par value" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="2535">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="5069" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+<derivativeTransaction>
+<securityTitle> value="Stock Option (Right to Buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="31.12">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="2591" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate><footnoteId id="F11" /> 
+</exerciseDate>
+<expirationDate> value="2014-11-29" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Class A Common Stock, $0.01 par value" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="2591">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="5182" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="Represents the weighted average sales price for the price increments ranging from $45.88 to $45.99." /> 
+ <footnote id="F2" text="The Reporting Person undertakes to provide, upon request by the Securities and Exchange Commission staff, the Issuer or a security holder of the Issuer, full information regarding the number of shares sold at each separate price for all transactions reported on this Form 4." /> 
+ <footnote id="F3" text="Represents the weighted average sales price for the price increments ranging from $46.00 to $46.92." /> 
+ <footnote id="F4" text="These shares are held by Mr. Fuller&apos;s wife.  Mr. Fuller disclaims beneficial ownership of these shares." /> 
+ <footnote id="F5" text="This Class B Common Stock is not registered pursuant to Section 12 of the Act.  However, each share of Class B Common Stock is freely convertible into one share of Class A Common Stock." /> 
+ <footnote id="F6" text="Reflects a distribution effected on October 15, 2010 of 154,930 shares of Class B Common Stock to Mr. Fuller by a Grantor Retained Annuity Trust, of which Mr. Fuller is the Trustee." /> 
+ <footnote id="F7" text="These shares are held in a Grantor Retained Annuity Trust, of which Mr. Fuller is the Trustee." /> 
+ <footnote id="F8" text="This option was granted under the Genesee &amp; Wyoming Inc. Amended and Restated 2004 Omnibus Incentive Plan and became vested in three equal annual installments, beginning May 30, 2007." /> 
+ <footnote id="F9" text="This option was granted under the Geneseee &amp; Wyoming Inc. Amended and Restated 2004 Omnibus Incentive Plan and became vested on June 2, 2006." /> 
+ <footnote id="F10" text="This option was granted under the Genesee &amp; Wyoming Inc. Amended and Restated 2004 Omnibus Incentive Plan and became vested in three equal annual installments, beginning May 30, 2008." /> 
+ <footnote id="F11" text="This option was granted under the Genesee &amp; Wyoming Inc. Amended and Restated 2004 Omnibus Incentive Plan and became vested in three equal annual installments, beginning February 27, 2010." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="Allison M. Fergus, Attorney-in-Fact for Mortimer B. Fuller III">
+</ownerSignature>
+</ownershipDocument></Source>

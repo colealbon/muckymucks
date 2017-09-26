@@ -1,0 +1,191 @@
+<Source file="./0001127602-10-027329.nc">
+<SUBMISSION ACCESSION-NUMBER="0001127602-10-027329" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101105" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001288431" CONFORMED-NAME="RITCHIE KEVIN J" /><FILING-VALUES ACT="34" FILE-NUMBER="001-03761" FILM-NUMBER="101172998" FORM-TYPE="4" /><MAIL-ADDRESS CITY="DALLAS" STATE="TX" STREET1="12500 TI BLVD." ZIP="75243" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="3674" CIK="0000097476" CONFORMED-NAME="TEXAS INSTRUMENTS INC" FISCAL-YEAR-END="1231" IRS-NUMBER="750289970" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="DALLAS" PHONE="9729953773" STATE="TX" STREET1="P.O. BOX 660199" ZIP="75266" /><MAIL-ADDRESS CITY="DALLAS" STATE="TX" STREET1="12500 TI BLVD" STREET2="PO BOX 660199" ZIP="75266" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" periodOfReport="2010-11-05" schemaVersion="X0303">
+<issuer> issuerCik="0000097476" 
+ issuerName="TEXAS INSTRUMENTS INC" 
+ issuerTradingSymbol="TXN" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001288431" 
+ rptOwnerName="RITCHIE KEVIN J" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="DALLAS" rptOwnerState="TX" rptOwnerStreet1="12500 TI BOULEVARD" rptOwnerStreet2="" rptOwnerZipCode="75243" />
+
+
+<reportingOwnerRelationship isOfficer="1" officerTitle="Sr. Vice President">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness />
+<transactionAmounts><transactionShares> value="175000" 
+</transactionShares>
+<transactionPricePerShare value="16.11">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="427618" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness />
+<transactionAmounts><transactionShares> value="90000" 
+</transactionShares>
+<transactionPricePerShare value="16.25">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="517618" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+<footnoteId id="F1" /> 
+</transactionCoding>
+<transactionTimeliness /> 
+<transactionAmounts>
+<transactionShares> value="265000" 
+</transactionShares>
+<transactionPricePerShare value="31.1836">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="252618" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeHolding>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="3047.08" 
+<footnoteId id="F2" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="By Trust--401(k)">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="5190.8" 
+<footnoteId id="F3" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="By Trust--PS">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+</nonDerivativeTable>
+<derivativeTable><derivativeTransaction><securityTitle> value="NQ Stock Option (Right to Buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="16.11">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness />
+<transactionAmounts><transactionShares> value="175000" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate><footnoteId id="F4" /> 
+</exerciseDate>
+<expirationDate> value="2013-01-15" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="175000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="0" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+<derivativeTransaction>
+<securityTitle> value="NQ Stock Option (Right to Buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="16.25">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness />
+<transactionAmounts><transactionShares> value="90000" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate><footnoteId id="F5" /> 
+</exerciseDate>
+<expirationDate> value="2013-02-20" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="90000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="0" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="The price in Table 1 is a weighted average sale price.  The sales were at prices ranging from $31.10 to $31.22.  The Issuer undertakes to provide upon request a detailed breakout of the sale prices and the number of shares sold at each price." /> 
+ <footnote id="F2" text="Estimated shares attributable to TI 401(k) Account as of 9-30-2010.   (Interests in this account are denominated in units.  Consequently, share amount shown is an estimate.)  This statement does not include changes in beneficial ownership of shares held in this account occurring after 9-30-2010 that are eligible for deferred reporting on Form 5." /> 
+ <footnote id="F3" text="Estimated shares attributable to TI Universal Profit Sharing Account as of 9-30-2010.  (Interests in this account are denominated in units.  Consequently, share amount shown is an estimate.)  This statement does not include changes in beneficial ownership of shares held in such account occurring after 9-30-2010 that are eligible for deferred reporting on Form 5." /> 
+ <footnote id="F4" text="The option becomes exercisable in four equal annual installments beginning on January 15, 2004." /> 
+ <footnote id="F5" text="The option become exercisable in three installments with fifty percent becoming exercisable on the second anniversary date of the grant and an additional twenty-five percent becoming exercisable on the third and fourth anniversary dates." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="/s/ Daniel M. Drory, Attorney In Fact">
+</ownerSignature>
+</ownershipDocument></Source>

@@ -1,0 +1,202 @@
+<Source file="./0001325670-10-000029.nc">
+<SUBMISSION ACCESSION-NUMBER="0001325670-10-000029" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001376606" CONFORMED-NAME="KABBASH CHARLES A" /><FILING-VALUES ACT="34" FILE-NUMBER="001-33037" FILM-NUMBER="101171060" FORM-TYPE="4" /><MAIL-ADDRESS CITY="CHARLOTTESVILLE" STATE="VA" STREET1="308 EAST MARKET ST." ZIP="22902" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="6022" CIK="0001325670" CONFORMED-NAME="Southern National Bancorp of Virginia Inc" FISCAL-YEAR-END="1231" IRS-NUMBER="201417448" STATE-OF-INCORPORATION="VA" /><BUSINESS-ADDRESS CITY="CHARLOTTESVILLE" PHONE="(434) 973-5242" STATE="VA" STREET1="1770 TIMBERWOOD BOULEVARD" STREET2="SUITE 100" ZIP="22911" /><MAIL-ADDRESS CITY="CHARLOTTESVILLE" STATE="VA" STREET1="1770 TIMBERWOOD BOULEVARD" STREET2="SUITE 100" ZIP="22911" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0001325670" 
+ issuerName="Southern National Bancorp of Virginia Inc" 
+ issuerTradingSymbol="SONA" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001376606" 
+ rptOwnerName="KABBASH CHARLES A" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="CHARLOTTESVILLE" rptOwnerState="VA" rptOwnerStreet1="308 EAST MARKET ST." rptOwnerStreet2="" rptOwnerZipCode="22902" />
+
+
+<reportingOwnerRelationship isDirector="1" isOfficer="0" isOther="0" isTenPercentOwner="0">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeHolding><securityTitle> value="Southern National Bancorp of Virginia Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="38040" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeTransaction>
+<securityTitle> value="Southern National Bancorp of Virginia Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="P" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="180" 
+</transactionShares>
+<transactionPricePerShare value="7.98">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="14338" 
+<footnoteId id="F1" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeHolding>
+<securityTitle> value="Southern National Bancorp of Virginia Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="9664" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="By IRA">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding>
+<securityTitle> value="Southern National Bancorp of Virginia Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="6187" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="By Wife&apos;s IRA">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+</nonDerivativeTable>
+<derivativeTable><derivativeHolding><securityTitle> value="Warrants (Right to Buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="9.09">
+</conversionOrExercisePrice>
+<exerciseDate value="2004-08-27">
+</exerciseDate>
+<expirationDate value="2014-08-27">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="11000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="11000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Employee Stock Option (Right to Buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="14.73">
+</conversionOrExercisePrice>
+<exerciseDate value="2008-01-24">
+<footnoteId id="F2" /> 
+</exerciseDate>
+<expirationDate> value="2017-01-24" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="1100">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="1100" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Employee Stock Option (Right to Buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="9.2">
+</conversionOrExercisePrice>
+<exerciseDate value="2009-01-23">
+<footnoteId id="F3" /> 
+</exerciseDate>
+<expirationDate> value="2018-01-23" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="1000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="2100" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Employee Stock Option (Right to Buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="5.5">
+</conversionOrExercisePrice>
+<exerciseDate value="2010-01-27">
+<footnoteId id="F4" /> 
+</exerciseDate>
+<expirationDate> value="2019-01-27" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="1000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="3100" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Employee Stock Option (Right to Buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="7.04">
+</conversionOrExercisePrice>
+<exerciseDate value="2011-07-27">
+<footnoteId id="F5" /> 
+</exerciseDate>
+<expirationDate> value="2020-07-27" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="1000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="4100" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="These shares are owned jointly with spouse." /> 
+ <footnote id="F2" text="These options are exercisable as follows: 220 on 1/24/2008,220 on  1/24/2009, 220 on 1/24/2010,220 on 1/24/2011,220 on 1/24/2012" /> 
+ <footnote id="F3" text="These options are exercisable as follows: 200 on 1/23/2009, 200 on 1/23/2010, 200 on 1/23/2011, 200 on 1/23/2012, 200 on 1/23/2013." /> 
+ <footnote id="F4" text="These options are exercisable as follows: 200 on 1/27/2010, 200 on 1/27/2011, 200 on 1/27/2012, 200 on 1/27/2013, 200 on 1/27/2014." /> 
+ <footnote id="F5" text="These shares are exercisable as follows:200 on 7/27/2011, 200 on 7/27/2012, 200 on 7/27/2013, 200 on 7/27/2014, 200 on 7/27/2015." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="Charles A.Kabbash">
+</ownerSignature>
+</ownershipDocument></Source>

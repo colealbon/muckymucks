@@ -1,0 +1,243 @@
+<Source file="./0001246360-10-003634.nc">
+<SUBMISSION ACCESSION-NUMBER="0001246360-10-003634" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101105" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><ISSUER><COMPANY-DATA ASSIGNED-SIC="2510" CIK="0000037472" CONFORMED-NAME="FLEXSTEEL INDUSTRIES INC" FISCAL-YEAR-END="0630" IRS-NUMBER="420442319" STATE-OF-INCORPORATION="MN" /><BUSINESS-ADDRESS CITY="DUBUQUE" PHONE="3195567730" STATE="IA" STREET1="PO BOX 877" STREET2="3400 JACKSON" ZIP="52004-0877" /><MAIL-ADDRESS CITY="DUBUQUE" STATE="IA" STREET1="3400 JACKSON" STREET2="P.O. BOX 877" ZIP="52004-0877" /></ISSUER><REPORTING-OWNER><OWNER-DATA CIK="0001166013" CONFORMED-NAME="BOYLEN L BRUCE" /><FILING-VALUES ACT="34" FILE-NUMBER="000-05151" FILM-NUMBER="101172578" FORM-TYPE="4" /><MAIL-ADDRESS CITY="DUBUQUE" STATE="IA" STREET1="P. O. BOX 877" ZIP="52004" /></REPORTING-OWNER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="false" periodOfReport="2010-11-05" schemaVersion="X0303">
+<issuer> issuerCik="0000037472" 
+ issuerName="FLEXSTEEL INDUSTRIES INC" 
+ issuerTradingSymbol="FLXS" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001166013" 
+ rptOwnerName="BOYLEN L BRUCE" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="DUBUQUE" rptOwnerState="IA" rptOwnerStreet1="P O BOX 877" rptOwnerStreet2="" rptOwnerZipCode="52004" />
+
+
+<reportingOwnerRelationship isDirector="true" isOfficer="false" isOther="false" isTenPercentOwner="false">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="S" 
+ equitySwapInvolved="false" 
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="1000" 
+</transactionShares>
+<transactionPricePerShare value="15.3716">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="0" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<derivativeTable><derivativeHolding><securityTitle> value="Option 12/11/2001" 
+</securityTitle>
+<conversionOrExercisePrice value="10.75">
+</conversionOrExercisePrice>
+<exerciseDate value="2001-12-11">
+</exerciseDate>
+<expirationDate value="2011-12-11">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="1000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="1000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Option 12/10/2002" 
+</securityTitle>
+<conversionOrExercisePrice value="15.925">
+</conversionOrExercisePrice>
+<exerciseDate value="2002-12-10">
+</exerciseDate>
+<expirationDate value="2012-12-10">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="2500">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="2500" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Option 12/09/2003" 
+</securityTitle>
+<conversionOrExercisePrice value="20.27">
+</conversionOrExercisePrice>
+<exerciseDate value="2003-12-09">
+</exerciseDate>
+<expirationDate value="2013-12-09">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="2500">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="2500" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Option 12/15/2004" 
+</securityTitle>
+<conversionOrExercisePrice value="16.49">
+</conversionOrExercisePrice>
+<exerciseDate value="2004-12-15">
+</exerciseDate>
+<expirationDate value="2014-12-15">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="2500">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="2500" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Option 12/13/2005" 
+</securityTitle>
+<conversionOrExercisePrice value="14.4">
+</conversionOrExercisePrice>
+<exerciseDate value="2005-12-13">
+</exerciseDate>
+<expirationDate value="2015-12-13">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="2500">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="2500" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Option 12-12-2006" 
+</securityTitle>
+<conversionOrExercisePrice value="12.45">
+</conversionOrExercisePrice>
+<exerciseDate value="2006-12-12">
+</exerciseDate>
+<expirationDate value="2016-12-12">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="2500">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="2500" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Option 12/11/2007" 
+</securityTitle>
+<conversionOrExercisePrice value="12.74">
+</conversionOrExercisePrice>
+<exerciseDate value="2007-12-11">
+</exerciseDate>
+<expirationDate value="2017-12-11">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="2500">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="2500" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Option 12-09-2008" 
+</securityTitle>
+<conversionOrExercisePrice value="6.96">
+</conversionOrExercisePrice>
+<exerciseDate value="2008-12-09">
+</exerciseDate>
+<expirationDate value="2018-12-09">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="2500">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="2500" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Option 12/08/2009" 
+</securityTitle>
+<conversionOrExercisePrice value="8.55">
+</conversionOrExercisePrice>
+<exerciseDate value="2009-12-08">
+</exerciseDate>
+<expirationDate value="2019-12-08">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="2500">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="2500" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+</derivativeTable>
+<ownerSignature> signatureName="L. B. Boylen" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

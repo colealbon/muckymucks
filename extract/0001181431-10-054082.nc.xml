@@ -1,0 +1,232 @@
+<Source file="./0001181431-10-054082.nc">
+<SUBMISSION ACCESSION-NUMBER="0001181431-10-054082" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20100510" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001418377" CONFORMED-NAME="Kanoy Billy R" /><FILING-VALUES ACT="34" FILE-NUMBER="000-52640" FILM-NUMBER="101173572" FORM-TYPE="4" /><MAIL-ADDRESS CITY="OAK RIDGE" STATE="NC" STREET1="2211 OAK RIDGE ROAD" ZIP="27310" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="6021" CIK="0001398006" CONFORMED-NAME="Oak Ridge Financial Services, Inc." FISCAL-YEAR-END="1231" IRS-NUMBER="208550086" STATE-OF-INCORPORATION="NC" /><BUSINESS-ADDRESS CITY="OAK RIDGE" PHONE="336 664 9944" STATE="NC" STREET1="2211 OAK RIDGE ROAD PO BOX 2" ZIP="27310" /><MAIL-ADDRESS CITY="OAK RIDGE" STATE="NC" STREET1="2211 OAK RIDGE ROAD PO BOX 2" ZIP="27310" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-05-10" schemaVersion="X0303">
+<issuer> issuerCik="0001398006" 
+ issuerName="Oak Ridge Financial Services, Inc." 
+ issuerTradingSymbol="BKOR" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001418377" 
+ rptOwnerName="Kanoy Billy R" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="OAK RIDGE" rptOwnerState="NC" rptOwnerStreet1="PO BOX 2" rptOwnerStreet2="" rptOwnerZipCode="27310" />
+
+
+<reportingOwnerRelationship isDirector="1" isOfficer="0" isOther="0" isTenPercentOwner="0">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-05-10">
+</transactionDate>
+<deemedExecutionDate value="2010-05-10">
+</deemedExecutionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="A" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="278" 
+<footnoteId id="F2" /> 
+</transactionShares>
+<transactionPricePerShare> value="5.4" 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="14028" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeHolding>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="2175" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="Kanoy Grading">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="125" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="Wife">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="425" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="Custodial Account for Granddaughter">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="375" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="Custodial Account for Granddaughter">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+</nonDerivativeTable>
+<derivativeTable><derivativeHolding><securityTitle> value="Stock Option" 
+</securityTitle>
+<conversionOrExercisePrice value="8.80">
+<footnoteId id="F1" /> 
+</conversionOrExercisePrice>
+<exerciseDate> value="2005-12-20" 
+</exerciseDate>
+<expirationDate value="2011-04-30">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="5368">
+<footnoteId id="F1" /> 
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="5368" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Stock Option" 
+</securityTitle>
+<conversionOrExercisePrice value="10.40">
+<footnoteId id="F1" /> 
+</conversionOrExercisePrice>
+<exerciseDate> value="2005-12-20" 
+</exerciseDate>
+<expirationDate value="2013-08-19">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="2813">
+<footnoteId id="F1" /> 
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="2813" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Stock Option" 
+</securityTitle>
+<conversionOrExercisePrice value="10.00">
+<footnoteId id="F1" /> 
+</conversionOrExercisePrice>
+<exerciseDate> value="2005-12-20" 
+</exerciseDate>
+<expirationDate value="2014-08-18">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="7500">
+<footnoteId id="F1" /> 
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="7500" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Stock Option" 
+</securityTitle>
+<conversionOrExercisePrice value="11.20">
+</conversionOrExercisePrice>
+<exerciseDate value="2005-12-20">
+</exerciseDate>
+<expirationDate value="2015-12-20">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="1800">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="1800" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeTransaction>
+<securityTitle> value="Stock Option" 
+</securityTitle>
+<conversionOrExercisePrice value="4.82">
+</conversionOrExercisePrice>
+<transactionDate value="2010-08-19">
+</transactionDate>
+<deemedExecutionDate value="2010-08-19">
+</deemedExecutionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="A" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="278" 
+</transactionShares>
+<transactionPricePerShare value="4.82">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate> value="2010-08-19" 
+</exerciseDate>
+<expirationDate value="2020-08-19">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="278">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="17759" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="As adjusted for stock dividend" /> 
+ <footnote id="F2" text="These shares of Restricted Stock were awarded on May 10, 2010, and will vest on May 11, 2011 so long as Mr. Kanoy is still a director of the Company." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="/s/ Billy Kanoy">
+</ownerSignature>
+</ownershipDocument></Source>

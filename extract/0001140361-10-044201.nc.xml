@@ -1,0 +1,52 @@
+<Source file="./0001140361-10-044201.nc">
+<SUBMISSION ACCESSION-NUMBER="0001140361-10-044201" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101103" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001418488" CONFORMED-NAME="DONLIN PAUL" /><FILING-VALUES ACT="34" FILE-NUMBER="001-33796" FILM-NUMBER="101172934" FORM-TYPE="4" /><MAIL-ADDRESS CITY="NEW YORK" STATE="NY" STREET1="1211 AVENUE OF THE AMERICAS" STREET2="SUITE 2902" ZIP="10036" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="6798" CIK="0001409493" CONFORMED-NAME="CHIMERA INVESTMENT CORP" FISCAL-YEAR-END="1231" IRS-NUMBER="260630461" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="NEW YORK" PHONE="212-696-0100" STATE="NY" STREET1="1211 AVENUE OF THE AMERICAS" STREET2="SUITE 2902" ZIP="10036" /><MAIL-ADDRESS CITY="NEW YORK" STATE="NY" STREET1="1211 AVENUE OF THE AMERICAS" STREET2="SUITE 2902" ZIP="10036" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-03" schemaVersion="X0303">
+<issuer> issuerCik="0001409493" 
+ issuerName="CHIMERA INVESTMENT CORP" 
+ issuerTradingSymbol="CIM" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001418488" 
+ rptOwnerName="DONLIN PAUL" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="NEW YORK" rptOwnerState="NY" rptOwnerStreet1="C/O: CHIMERA INVESTMENT CORPORATION" rptOwnerStreet2="1211 AVENUE OF THE AMERICAS, SUITE 2902" rptOwnerZipCode="10036">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="1" 
+ isOfficer="0" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+<officerTitle /> 
+<otherText />
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-03">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="P" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="100000" 
+</transactionShares>
+<transactionPricePerShare value="3.85">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="379015" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<derivativeTable /> 
+<remarks /> 
+<ownerSignature signatureDate="2010-11-08" signatureName="/s/ Paul Donlin">
+</ownerSignature>
+</ownershipDocument></Source>

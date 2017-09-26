@@ -1,0 +1,111 @@
+<Source file="./0001179110-10-015741.nc">
+<SUBMISSION ACCESSION-NUMBER="0001179110-10-015741" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001314870" CONFORMED-NAME="Metza Kristen" /><FILING-VALUES ACT="34" FILE-NUMBER="000-19731" FILM-NUMBER="101173820" FORM-TYPE="4" /><MAIL-ADDRESS CITY="FOSTER CITY" STATE="CA" STREET1="333 LAKESIDE DRIVE" ZIP="94404" /><FORMER-NAME DATE-CHANGED="20050121" FORMER-CONFORMED-NAME="Anderson Kristen Metza" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="2836" CIK="0000882095" CONFORMED-NAME="GILEAD SCIENCES INC" FISCAL-YEAR-END="1231" IRS-NUMBER="943047598" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="FOSTER CITY" PHONE="6505743000" STATE="CA" STREET1="333 LAKESIDE DR" ZIP="94404" /><MAIL-ADDRESS CITY="FOSTER CITY" STATE="CA" STREET1="333 LAKESIDE DR" ZIP="94404" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0000882095" 
+ issuerName="GILEAD SCIENCES INC" 
+ issuerTradingSymbol="GILD" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001314870" 
+ rptOwnerName="Metza Kristen" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="FOSTER CITY" rptOwnerState="CA" rptOwnerStreet1="GILEAD SCIENCES, INC." rptOwnerStreet2="333 LAKESIDE DRIVE" rptOwnerZipCode="94404">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="1" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+ officerTitle="SVP, Human Resources" 
+<otherText /> 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable>
+<nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="1000" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="10446" 
+<footnoteId id="F3" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="F" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="466" 
+</transactionShares>
+<transactionPricePerShare value="39.64">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="9980" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<derivativeTable><derivativeTransaction><securityTitle> value="Restricted Stock Unit" 
+</securityTitle>
+<conversionOrExercisePrice>
+<footnoteId id="F2" /> 
+</conversionOrExercisePrice>
+<transactionDate> value="2010-11-04" 
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="1000" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate><footnoteId id="F1" /> 
+</exerciseDate>
+<expirationDate> value="2019-11-04" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="1000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="4000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="The restricted stock units have a five year vesting schedule.  20% of the restricted stock units vest on November 4, 2010, the first anniversary of the grant.  The balance will vest 20% every year thereafter until fully vested on November 4, 2014.  Vested shares will be delivered to the Reporting Person no later than the later of (i) the close of the calendar year in which the restricted stock units vest or (ii) the fifteenth day of the third calendar month following such vesting date." /> 
+ <footnote id="F2" text="Each restricted stock unit represents a contingent right to receive one share of Issuer&apos;s common stock." /> 
+ <footnote id="F3" text="Amount of securities beneficially owned following the reported transactions includes 577 shares acquired under the Gilead Sciences, Inc. Employee Stock Purchase Plan on June 30, 2010." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="/s/ John F. Milligan, by Power of Attorney for Kristen Metza">
+</ownerSignature>
+</ownershipDocument></Source>

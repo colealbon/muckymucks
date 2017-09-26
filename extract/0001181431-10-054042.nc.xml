@@ -1,0 +1,168 @@
+<Source file="./0001181431-10-054042.nc">
+<SUBMISSION ACCESSION-NUMBER="0001181431-10-054042" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001256304" CONFORMED-NAME="MERRILL MARK G" /><FILING-VALUES ACT="34" FILE-NUMBER="000-50350" FILM-NUMBER="101172761" FORM-TYPE="4" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="3661" CIK="0001122904" CONFORMED-NAME="NETGEAR, INC" FISCAL-YEAR-END="1231" IRS-NUMBER="770419172" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="SAN JOSE" PHONE="4089078000" STATE="CA" STREET1="350 EAST PLUMERIA DRIVE" ZIP="95134" /><MAIL-ADDRESS CITY="SAN JOSE" STATE="CA" STREET1="350 EAST PLUMERIA DRIVE" ZIP="95134" /><FORMER-COMPANY DATE-CHANGED="20000828" FORMER-CONFORMED-NAME="NETGEAR INC" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0001122904" 
+ issuerName="NETGEAR, INC" 
+ issuerTradingSymbol="NTGR" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001256304" 
+ rptOwnerName="MERRILL MARK G" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="SAN JOSE" rptOwnerState="CA" rptOwnerStreet1="NETGEAR, INC." rptOwnerStreet2="350 E. PLUMERIA DR." rptOwnerZipCode="95134">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="1" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+ officerTitle="Chief Technology Officer" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="3001" 
+</transactionShares>
+<transactionPricePerShare value="31.4786">
+<footnoteId id="F8" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="D" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="7544" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<derivativeTable><derivativeHolding><securityTitle> value="Restricted Stock Units" 
+</securityTitle>
+<conversionOrExercisePrice>
+<footnoteId id="F2" /> 
+</conversionOrExercisePrice>
+<exerciseDate><footnoteId id="F4" /> 
+</exerciseDate>
+<expirationDate><footnoteId id="F3" /> 
+</expirationDate>
+<underlyingSecurity><underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="1750">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="1750" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Restricted Stock Units" 
+</securityTitle>
+<conversionOrExercisePrice>
+<footnoteId id="F2" /> 
+</conversionOrExercisePrice>
+<exerciseDate><footnoteId id="F5" /> 
+</exerciseDate>
+<expirationDate><footnoteId id="F3" /> 
+</expirationDate>
+<underlyingSecurity><underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="1500">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="1500" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Employee Stock Option (Right to Buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="6.00">
+</conversionOrExercisePrice>
+<exerciseDate>
+<footnoteId id="F1" /> 
+</exerciseDate>
+<expirationDate> value="2012-10-30" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="2001">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="2001" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Restricted Stock Units" 
+</securityTitle>
+<conversionOrExercisePrice>
+<footnoteId id="F2" /> 
+</conversionOrExercisePrice>
+<exerciseDate><footnoteId id="F6" /> 
+</exerciseDate>
+<expirationDate><footnoteId id="F3" /> 
+</expirationDate>
+<underlyingSecurity><underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="2250">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="2250" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Employee Stock Option (Right to Buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="21.10">
+</conversionOrExercisePrice>
+<exerciseDate>
+<footnoteId id="F7" /> 
+</exerciseDate>
+<expirationDate> value="2020-02-02" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="6000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="6000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="This stock option was granted under the NETGEAR, Inc. 2000 Option Plan on October 30, 2002 and is fully vested and exercisable at this time." /> 
+ <footnote id="F2" text="Converts to common stock on a one for one basis." /> 
+ <footnote id="F3" text="Not applicable." /> 
+ <footnote id="F4" text="Stock units will be paid in an equal number of shares of the Issuer&apos;s common stock upon vesting of the units.  25% of the units will cliff vest on each anniversary of 1/12/2007, the vest start date, so that all of the units will have vested on 1/12/2011." /> 
+ <footnote id="F5" text="Stock units will be paid in an equal number of shares of the Issuer&apos;s common stock upon vesting of the units.  25% of the units will cliff vest on each anniversary of 1/11/2008, the vest start date, so that all of the units will have vested on 1/11/2012." /> 
+ <footnote id="F6" text="Stock units will be paid in an equal number of shares of the Issuer&apos;s common stock upon vesting of the units.  25% of the units will cliff vest on each anniversary of 1/16/2009, the vesting start date, so that all of the units will have vested on 1/16/2013." /> 
+ <footnote id="F7" text="25% of the option grant is exercisable on 2/2/2011, and 1/48 of the option grant is exercisable each month thereafter." /> 
+ <footnote id="F8" text="The sale price reported in Column 4 of Table I represents the weighted average sale price of the shares sold ranging from $31.45 to $31.50 per share.  Upon request by the Commission staff, the Issuer, or a security holder of the Issuer, the Reporting Person will provide full information regarding the number of shares sold at each separate price." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="/s/ Andrew W. Kim, Attorney in Fact">
+</ownerSignature>
+</ownershipDocument></Source>

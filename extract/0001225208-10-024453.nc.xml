@@ -1,0 +1,60 @@
+<Source file="./0001225208-10-024453.nc">
+<SUBMISSION ACCESSION-NUMBER="0001225208-10-024453" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101105" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001181688" CONFORMED-NAME="DEVINE JOHN M" /><FILING-VALUES ACT="34" FILE-NUMBER="001-01063" FILM-NUMBER="101172687" FORM-TYPE="4" /><MAIL-ADDRESS CITY="DETROIT" STATE="MI" STREET1="300 RENAISSANCE CENTER" STREET2="MC 482 C39 B30" ZIP="48265-3000" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="3714" CIK="0000026780" CONFORMED-NAME="DANA HOLDING CORP" FISCAL-YEAR-END="1231" IRS-NUMBER="261531856" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="MAUMEE" PHONE="419-887-3000" STATE="OH" STREET1="3939 TECHNOLOGY DRIVE" ZIP="43537" /><MAIL-ADDRESS CITY="MAUMEE" STATE="OH" STREET1="PO BOX 1000" ZIP="43537" /><FORMER-COMPANY DATE-CHANGED="19920703" FORMER-CONFORMED-NAME="DANA CORP" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" periodOfReport="2010-11-05" schemaVersion="X0303">
+<issuer> issuerCik="0000026780" 
+ issuerName="DANA HOLDING CORP" 
+ issuerTradingSymbol="DAN" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001181688" 
+ rptOwnerName="DEVINE JOHN M" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="MAUMEE" rptOwnerState="OH" rptOwnerStreet1="3939 TECHNOLOGY DRIVE" rptOwnerStreet2="" rptOwnerZipCode="43537" />
+
+
+<reportingOwnerRelationship isDirector="1" isOfficer="1" officerTitle="Executive Chairman">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable /> 
+<derivativeTable>
+<derivativeTransaction><securityTitle> value="Stock Option - Right to Buy" 
+<footnoteId id="F1" /> 
+</securityTitle>
+<conversionOrExercisePrice> value="15.0200" 
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="A" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="54054.0000" 
+</transactionShares>
+<transactionPricePerShare value="0.0000">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate> value="2011-11-05" 
+<footnoteId id="F2" /> 
+</exerciseDate>
+<expirationDate> value="2020-11-05" 
+<footnoteId id="F2" /> 
+</expirationDate>
+<underlyingSecurity><underlyingSecurityTitle> value="Common Stock, par value $0.01" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="54054.0000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="54054.0000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="Stock options granted pursuant to the Dana Holding Corporation 2008 Omnibus Incentive Plan." /> 
+ <footnote id="F2" text="Stock options granted vest in three (3) equal annual installments beginning on the first year anniversary date of the grant." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="/s/ Robert W. Spencer, Jr. on behalf of John M. Devine">
+</ownerSignature>
+</ownershipDocument></Source>

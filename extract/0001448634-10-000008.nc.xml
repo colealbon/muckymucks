@@ -1,0 +1,61 @@
+<Source file="./0001448634-10-000008.nc">
+<SUBMISSION ACCESSION-NUMBER="0001448634-10-000008" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001448093" CONFORMED-NAME="McCalmont D. Thompson" /><FILING-VALUES ACT="34" FILE-NUMBER="001-34044" FILM-NUMBER="101173801" FORM-TYPE="4" /><MAIL-ADDRESS CITY="CAMPBELL" STATE="CA" STREET1="2959 WINCHESTER BLVD., SUITE 200A" ZIP="95008" /></REPORTING-OWNER><REPORTING-OWNER><OWNER-DATA CIK="0001448634" CONFORMED-NAME="McCalmont Darlene J." /><FILING-VALUES ACT="34" FILE-NUMBER="001-34044" FILM-NUMBER="101173802" FORM-TYPE="4" /><MAIL-ADDRESS CITY="CAMPBELL" STATE="CA" STREET1="2959 WINCHESTER BLVD, SUITE 200A" ZIP="95008" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="3433" CIK="0001425565" CONFORMED-NAME="Real Goods Solar, Inc." FISCAL-YEAR-END="1231" IRS-NUMBER="261851813" STATE-OF-INCORPORATION="CO" /><BUSINESS-ADDRESS CITY="BROOMFIELD" PHONE="303-222-3600" STATE="CO" STREET1="360 INTERLOCKEN BOULEVARD" ZIP="80021" /><MAIL-ADDRESS CITY="BROOMFIELD" STATE="CO" STREET1="360 INTERLOCKEN BOULEVARD" ZIP="80021" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0001425565" 
+ issuerName="Real Goods Solar, Inc." 
+ issuerTradingSymbol="RSOL" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001448634" 
+ rptOwnerName="McCalmont Darlene J." 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="CAMPBELL" rptOwnerState="CA" rptOwnerStreet1="2959 WINCHESTER BLVD, SUITE 200A" rptOwnerStreet2="" rptOwnerZipCode="95008" />
+
+
+<reportingOwnerRelationship isDirector="0" isOfficer="0" isOther="0" isTenPercentOwner="1">
+</reportingOwnerRelationship>
+</reportingOwner>
+<reportingOwner><reportingOwnerId> rptOwnerCik="0001448093" 
+ rptOwnerName="McCalmont D. Thompson" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="CAMPBELL" rptOwnerState="CA" rptOwnerStreet1="2959 WINCHESTER BLVD., SUITE 200A" rptOwnerStreet2="" rptOwnerZipCode="95008" />
+
+
+<reportingOwnerRelationship isDirector="0" isOfficer="0" isOther="0" isTenPercentOwner="1">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Class A Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="6100" 
+</transactionShares>
+<transactionPricePerShare value="3.11">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="1847223" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="By Trust">
+<footnoteId id="F1" /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<footnotes>
+<footnote id="F1" text="(1)  All shares were issued to either Darlene J. McCalmont, in her name alone, or to the McCalmont Living Trust dated September 3, 2004.  The shares are owned directly by the McCalmont Living Trust dated September 3, 2004, and indirectly by D. Thompson McCalmont and Darlene J. McCalmont as co-trustees and sole beneficiaries of that trust; however, D. Thompson McCalmont expressly disclaims beneficial ownership of such shares." /> 
+</footnotes>
+ remarks="/s/ Darlene J. McCalmont and D. Thompson McCalmont, individually and as Co-Trustees of the McCalmont Living Trust dated September 3, 2004." 
+<ownerSignature signatureDate="2010-11-05" signatureName="/s/  Darlene J. McCalmont">
+</ownerSignature>
+<ownerSignature signatureDate="2010-11-05" signatureName="/s/  D. Thompson McCalmont">
+</ownerSignature>
+</ownershipDocument></Source>

@@ -1,0 +1,96 @@
+<Source file="./0001209191-10-053783.nc">
+<SUBMISSION ACCESSION-NUMBER="0001209191-10-053783" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001236269" CONFORMED-NAME="FREYMAN BRUCE J" /><FILING-VALUES ACT="34" FILE-NUMBER="001-05560" FILM-NUMBER="101173943" FORM-TYPE="4" /><MAIL-ADDRESS CITY="CHANDLER" STATE="AZ" STREET1="1900 SOUTH PRICE ROAD" ZIP="85248" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="3674" CIK="0000004127" CONFORMED-NAME="SKYWORKS SOLUTIONS INC" FISCAL-YEAR-END="0930" IRS-NUMBER="042302115" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="WOBURN" PHONE="6179355150" STATE="MA" STREET1="20 SYLVAN ROAD" ZIP="01801" /><MAIL-ADDRESS CITY="WOBURN" STATE="MA" STREET1="20 SYLVAN ROAD" STREET2="20 SYLVAN ROAD" ZIP="01801" /><FORMER-COMPANY DATE-CHANGED="19920703" FORMER-CONFORMED-NAME="ALPHA INDUSTRIES INC" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0000004127" 
+ issuerName="SKYWORKS SOLUTIONS INC" 
+ issuerTradingSymbol="SWKS" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001236269" 
+ rptOwnerName="FREYMAN BRUCE J" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="IRVINE" rptOwnerState="CA" rptOwnerStreet1="5221 CALIFORNIA AVENUE" rptOwnerStreet2="" rptOwnerZipCode="92617" />
+
+
+<reportingOwnerRelationship isDirector="0" isOfficer="1" isOther="0" isTenPercentOwner="0" officerTitle="Vice President - WW Operations">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="A" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="30028" 
+<footnoteId id="F1" /> 
+</transactionShares>
+<transactionPricePerShare> value="0.00" 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="103312" 
+<footnoteId id="F2" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="F" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="14018" 
+<footnoteId id="F3" /> 
+</transactionShares>
+<transactionPricePerShare> value="23.68" 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="89294" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeHolding>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="6042" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="By 401(k) plan">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+</nonDerivativeTable>
+<footnotes> <footnote id="F1" text="Represents 30,028 shares of common stock issued to the Reporting Person pursuant to a performance share award dated November 4, 2008.  Such performance share award contained both a continued employment condition and a performance condition related to the achievement by the Issuer of certain pre-established performance metrics for fiscal year 2009." /> 
+ <footnote id="F2" text="This total includes the 466 shares of common stock acquired by the Reporting Person in the Issuer&apos;s Employee Stock Purchase Plan since the last report." /> 
+ <footnote id="F3" text="Transfer of stock to the Issuer of the number of common shares determined to be sufficient to satisfy tax withholding obligations related to the issuance of Common Stock on 11/4/10." /> 
+</footnotes>
+<remarks />
+<ownerSignature> signatureName="Robert J. Terry, attorney-in-fact" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

@@ -1,0 +1,92 @@
+<Source file="./0001012975-10-000389.nc">
+<SUBMISSION ACCESSION-NUMBER="0001012975-10-000389" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20100930" PUBLIC-DOCUMENT-COUNT="1" TYPE="5"><REPORTING-OWNER><OWNER-DATA CIK="0001180171" CONFORMED-NAME="HAGEDORN JAMES" /><FILING-VALUES ACT="34" FILE-NUMBER="001-11593" FILM-NUMBER="101171168" FORM-TYPE="5" /><MAIL-ADDRESS CITY="MARYSVILLE" STATE="OH" STREET1="C/O SCOTTS CO" STREET2="14111 SCOTTSLAWN ROAD" ZIP="43041" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="2870" CIK="0000825542" CONFORMED-NAME="SCOTTS MIRACLE-GRO CO" FISCAL-YEAR-END="0930" IRS-NUMBER="311414921" STATE-OF-INCORPORATION="OH" /><BUSINESS-ADDRESS CITY="MARYSVILLE" PHONE="9376440011" STATE="OH" STREET1="14111 SCOTTSLAWN ROAD" ZIP="43041" /><MAIL-ADDRESS CITY="MARYSVILLE" STATE="OH" STREET1="14111 SCOTTSLAWN ROAD" STREET2="N/A" ZIP="43041" /><FORMER-COMPANY DATE-CHANGED="19920703" FORMER-CONFORMED-NAME="SCOTTS COMPANY" /><FORMER-COMPANY DATE-CHANGED="19900104" FORMER-CONFORMED-NAME="CDS HOLDING CORP" /></ISSUER></SUBMISSION><ownershipDocument documentType="5" form3HoldingsReported="0" form4TransactionsReported="0" periodOfReport="2010-09-30" schemaVersion="X0303">
+<issuer> issuerCik="0000825542" 
+ issuerName="SCOTTS MIRACLE-GRO CO" 
+ issuerTradingSymbol="SMG" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001180171" 
+ rptOwnerName="HAGEDORN JAMES" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="MARYSVILLE" rptOwnerState="OH" rptOwnerStreet1="C/O THE SCOTTS MIRACLE-GRO COMPANY" rptOwnerStreet2="14111 SCOTTSLAWN ROAD" rptOwnerZipCode="43041">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="1" 
+ isOfficer="1" 
+ isTenPercentOwner="1" 
+ isOther="0" 
+ officerTitle="CEO and Chairman" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Shares" 
+</securityTitle>
+<transactionDate value="2010-05-20">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="G" transactionFormType="5">
+<footnoteId id="F1" /> 
+</transactionCoding>
+<transactionAmounts><transactionShares> value="32142" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="3145414" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="See footnote">
+<footnoteId id="F2" /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeHolding><securityTitle> value="Common Shares" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="80040.459" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding><securityTitle> value="Common Shares" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="30690.846" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="By 401(k) plan">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding>
+<securityTitle> value="Common Shares" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="3913.7834" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="By DSPP">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+</nonDerivativeTable>
+<footnotes> <footnote id="F1" text="Represents the gift for the account of James Hagedorn of a portion of his proportionate interest in the Issuer&apos;s common shares (the Common Shares) held by Hagedorn Partnership, L.P." /> 
+ <footnote id="F2" text="Pursuant to Exchange Act Rule 16a-1(a)(1), the Reporting Person may be deemed, solely for purposes of determining whether he is a beneficial owner of more than 10% of the Common Shares, to be the beneficial owner of the securities of the Issuer that are held by Hagedorn Partnership, L.P., a Delaware limited partnership in which the Reporting Person is a general partner." /> 
+</footnotes>
+<remarks />
+<ownerSignature> signatureName="/s/ Rob McMahon, Attorney-in-Fact" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

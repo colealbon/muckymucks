@@ -1,0 +1,151 @@
+<Source file="./0001213913-10-000013.nc">
+<SUBMISSION ACCESSION-NUMBER="0001213913-10-000013" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101105" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><ISSUER><COMPANY-DATA ASSIGNED-SIC="7363" CIK="0001000753" CONFORMED-NAME="ADMINISTAFF INC \DE\" FISCAL-YEAR-END="1231" IRS-NUMBER="760479645" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="KINGWOOD" PHONE="7133588986" STATE="TX" STREET1="19001 CRESCENT SPRINGS DR" ZIP="77339" /><MAIL-ADDRESS CITY="KINGWOOD" STATE="TX" STREET1="19001 CRESCENT SPRINGS DR" ZIP="77339" /></ISSUER><REPORTING-OWNER><OWNER-DATA CIK="0001032399" CONFORMED-NAME="SARVADI PAUL J" /><FILING-VALUES ACT="34" FILE-NUMBER="001-13998" FILM-NUMBER="101173398" FORM-TYPE="4" /><MAIL-ADDRESS CITY="KINGWOOD" STATE="TX" STREET1="C/O ADMINISTAFF" STREET2="19001 CRESCENT SPRINGS DR" ZIP="77339" /></REPORTING-OWNER></SUBMISSION><ownershipDocument documentType="4" periodOfReport="2010-11-05" schemaVersion="X0303">
+<issuer> issuerCik="0001000753" 
+ issuerName="ADMINISTAFF INC \DE\" 
+ issuerTradingSymbol="ASF" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001032399" 
+ rptOwnerName="SARVADI PAUL J" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="KINGWOOD" rptOwnerState="TX" rptOwnerStreet1="19001 CRESCENT SPRINGS DRIVE" rptOwnerStreet2="" rptOwnerZipCode="77339" />
+
+
+<reportingOwnerRelationship isDirector="1" isOfficer="1" isOther="0" isTenPercentOwner="0" officerTitle="Chairman of the Board &amp; CEO">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+<footnoteId id="F1" /> 
+</transactionCoding>
+<transactionAmounts><transactionShares> value="5600" 
+</transactionShares>
+<transactionPricePerShare value="29.1781">
+<footnoteId id="F2" /> 
+<footnoteId id="F3" />
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="1205673" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="By self, as General Partner of Our Ship Limited Partnership, Ltd.">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-08">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+<footnoteId id="F1" /> 
+</transactionCoding>
+<transactionAmounts><transactionShares> value="800" 
+</transactionShares>
+<transactionPricePerShare value="29.15">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="1204873" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="By self, as General Partner of Our Ship Limited Partnership, Ltd.">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+<footnoteId id="F1" /> 
+</transactionCoding>
+<transactionAmounts><transactionShares> value="2800" 
+</transactionShares>
+<transactionPricePerShare value="29.1781">
+<footnoteId id="F2" /> 
+<footnoteId id="F3" />
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="584706" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="By self, as General Partner of the Sarvadi Childrens Limited Partnership">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-08">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+<footnoteId id="F1" /> 
+</transactionCoding>
+<transactionAmounts><transactionShares> value="400" 
+</transactionShares>
+<transactionPricePerShare value="29.15">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="584306" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="By self, as General Partner of the Sarvadi Children&apos;s Limited Partnership">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeHolding>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="180643" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding><securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="19644" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="Six education trusts established for the benefit of the Sarvadi children">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+</nonDerivativeTable>
+<footnotes> <footnote id="F1" text="The sales reported on this Form 4 were effected pursuant to a Rule 10b5-1 trading plan adopted by the reporting person on May 5, 2010." /> 
+ <footnote id="F2" text="Weighted average sales price.  Actual prices ranged from $29.15 to $29.22." /> 
+ <footnote id="F3" text="Full information regarding the number of shares sold at each separate price will be provided upon request to the SEC&apos;s staff, Administaff, Inc. or its stockholders." /> 
+</footnotes>
+<remarks />
+<ownerSignature> signatureName="Mark T. Troutman, by power of attorney" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

@@ -1,0 +1,133 @@
+<Source file="./0001166074-10-000005.nc">
+<SUBMISSION ACCESSION-NUMBER="0001166074-10-000005" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101105" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><ISSUER><COMPANY-DATA ASSIGNED-SIC="1400" CIK="0000719413" CONFORMED-NAME="HECLA MINING CO/DE/" FISCAL-YEAR-END="1231" IRS-NUMBER="770664171" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="COEUR D&apos;ALENE" PHONE="2087694100" STATE="ID" STREET1="6500 N MINERAL DRIVE SUITE 200" STREET2="NONE" ZIP="83815-9408" /><MAIL-ADDRESS CITY="COEUR D&apos;ALENE" STATE="ID" STREET1="6500 N MINERAL DRIVE SUITE 200" STREET2="NONE" ZIP="83815-9408" /></ISSUER><REPORTING-OWNER><OWNER-DATA CIK="0001166074" CONFORMED-NAME="BAKER PHILLIPS S JR" /><FILING-VALUES ACT="34" FILE-NUMBER="001-08491" FILM-NUMBER="101173079" FORM-TYPE="4" /><MAIL-ADDRESS CITY="COEUR D &apos;ALENE" STATE="ID" STREET1="6500 NORTH MINERAL DRIVE" STREET2="SUITE 200" ZIP="83815" /></REPORTING-OWNER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-05" schemaVersion="X0303">
+<issuer> issuerCik="0000719413" 
+ issuerName="HECLA MINING CO/DE/" 
+ issuerTradingSymbol="HL" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001166074" 
+ rptOwnerName="BAKER PHILLIPS S JR" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="COEUR D &apos;ALENE" rptOwnerState="ID" rptOwnerStreet1="6500 NORTH MINERAL DRIVE" rptOwnerStreet2="SUITE 200" rptOwnerZipCode="83815">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="1" 
+ isOfficer="1" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+ officerTitle="President &amp; CEO" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="146000" 
+</transactionShares>
+<transactionPricePerShare value="6.495">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="915692" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="146000" 
+</transactionShares>
+<transactionPricePerShare value="7.9767">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="769692" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="100000" 
+</transactionShares>
+<transactionPricePerShare value="7.9767">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="669692" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<derivativeTable><derivativeTransaction><securityTitle> value="Stock Option" 
+</securityTitle>
+<conversionOrExercisePrice value="6.495">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="146000" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate> value="2006-05-05" 
+</exerciseDate>
+<expirationDate value="2011-05-05">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="146000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="605833" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<ownerSignature> signatureName="Tami D Hansen, Attorney-in-Fact for Phillips S. Baker, Jr." 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

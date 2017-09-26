@@ -1,0 +1,114 @@
+<Source file="./0001140361-10-044135.nc">
+<SUBMISSION ACCESSION-NUMBER="0001140361-10-044135" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001350577" CONFORMED-NAME="NAQUI ALI" /><FILING-VALUES ACT="34" FILE-NUMBER="000-19271" FILM-NUMBER="101171680" FORM-TYPE="4" /><MAIL-ADDRESS CITY="WESTBROOK" STATE="ME" STREET1="C/O IDEXX IDEXX LABORATORIES, INC." STREET2="ONE IDEXX DRIVE" ZIP="04092" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="2835" CIK="0000874716" CONFORMED-NAME="IDEXX LABORATORIES INC /DE" FISCAL-YEAR-END="1231" IRS-NUMBER="010393723" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="WESTBROOK" PHONE="2075560300" STATE="ME" STREET1="ONE IDEXX DRIVE" ZIP="04092-2041" /><MAIL-ADDRESS CITY="WESTBROOK" STATE="ME" STREET1="ONE IDEXX DRIVE" ZIP="04092-2041" /><FORMER-COMPANY DATE-CHANGED="19600201" FORMER-CONFORMED-NAME="IDEXX CORP / DE" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0000874716" 
+ issuerName="IDEXX LABORATORIES INC /DE" 
+ issuerTradingSymbol="IDXX" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001350577" 
+ rptOwnerName="NAQUI ALI" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="WESTBROOK" rptOwnerState="ME" rptOwnerStreet1="ONE IDEXX DRIVE" rptOwnerStreet2="" rptOwnerZipCode="04092" />
+
+
+<reportingOwnerRelationship isDirector="0" isOfficer="1" isOther="0" isTenPercentOwner="0" officerTitle="Corporate Vice President">
+<otherText /> 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable>
+<nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="M" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="3770" 
+</transactionShares>
+<transactionPricePerShare value="25.4500">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="18778" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="S" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="2770" 
+</transactionShares>
+<transactionPricePerShare value="61.4968">
+<footnoteId id="F1" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="D" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="16008" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<derivativeTable><derivativeTransaction><securityTitle> value="Incentive Stock Option" 
+</securityTitle>
+<conversionOrExercisePrice value="25.4500">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="M" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="3770" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate><footnoteId id="F2" /> 
+</exerciseDate>
+<expirationDate> value="2014-02-04" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="3770">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="0" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="The sale price reported reflects the weighted average sale price of multiple transactions on the reported date at prices that ranged from $61.43 to $61.64, inclusive.  The reporting person hereby undertakes to provide upon request to SEC staff, the issuer or a security holder of the issuer, full information regarding the number of shares sold at each separate price within the range." /> 
+ <footnote id="F2" text="Grant of options to buy shares of common stock becomes exercisable as to 1,370 shares on 2/5/2008 and the remaining 2,400 shares on 2/5/2009." /> 
+</footnotes>
+<remarks />
+<ownerSignature> signatureName="John B. Rogers, Attorney-in-Fact for Ali Naqui, PhD" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

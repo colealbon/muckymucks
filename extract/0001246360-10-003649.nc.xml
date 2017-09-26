@@ -1,0 +1,98 @@
+<Source file="./0001246360-10-003649.nc">
+<SUBMISSION ACCESSION-NUMBER="0001246360-10-003649" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101108" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><ISSUER><COMPANY-DATA ASSIGNED-SIC="5731" CIK="0000096289" CONFORMED-NAME="RADIOSHACK CORP" FISCAL-YEAR-END="1231" IRS-NUMBER="751047710" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="FORT WORTH" PHONE="817-415-3700" STATE="TX" STREET1="300 RADIOSHACK CIRCLE" ZIP="76102" /><MAIL-ADDRESS CITY="FORT WORTH" STATE="TX" STREET1="300 RADIOSHACK CIRCLE" ZIP="76102" /><FORMER-COMPANY DATE-CHANGED="19920703" FORMER-CONFORMED-NAME="TANDY CORP /DE/" /><FORMER-COMPANY DATE-CHANGED="19681216" FORMER-CONFORMED-NAME="TANDY LEATHER CO" /><FORMER-COMPANY DATE-CHANGED="19660825" FORMER-CONFORMED-NAME="AMERICAN HIDE &amp; LEATHER CO" /></ISSUER><REPORTING-OWNER><OWNER-DATA CIK="0001187708" CONFORMED-NAME="MESSMAN JACK L" /><FILING-VALUES ACT="34" FILE-NUMBER="001-05571" FILM-NUMBER="101173780" FORM-TYPE="4" /><MAIL-ADDRESS CITY="WALTHAM" STATE="MA" STREET1="404 WYMAN STREET, SUITE 500" ZIP="02451" /></REPORTING-OWNER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="false" periodOfReport="2010-11-08" schemaVersion="X0303">
+<issuer> issuerCik="0000096289" 
+ issuerName="RADIOSHACK CORP" 
+ issuerTradingSymbol="RSH" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001187708" 
+ rptOwnerName="MESSMAN JACK L" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="FT. WORTH" rptOwnerState="TX" rptOwnerStreet1="MS CF3-203, 300 RADIOSHACK CIRCLE" rptOwnerStreet2="" rptOwnerZipCode="76102" />
+
+
+<reportingOwnerRelationship isDirector="true" isOfficer="false" isOther="false" isTenPercentOwner="false">
+</reportingOwnerRelationship>
+</reportingOwner>
+<derivativeTable><derivativeTransaction><securityTitle> value="Common Stock Unit" 
+<footnoteId id="F1" /> 
+</securityTitle>
+<conversionOrExercisePrice> value="0" 
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-08">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="A" 
+ equitySwapInvolved="false" 
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="155" 
+</transactionShares>
+<transactionPricePerShare value="20.13">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate> value="1988-08-08" 
+</exerciseDate>
+<expirationDate value="1988-08-08">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="155">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="42807" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+<derivativeTransaction>
+<securityTitle> value="Common Stock Unit" 
+<footnoteId id="F2" /> 
+</securityTitle>
+<conversionOrExercisePrice> value="0" 
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-08">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="A" 
+ equitySwapInvolved="false" 
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="92" 
+</transactionShares>
+<transactionPricePerShare value="20.35">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate> value="1988-08-08" 
+</exerciseDate>
+<expirationDate value="1988-08-08">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="92">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="42899" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="Under the RadioShack Corporation Unfunded Deferred Compensation Plan (Reg. No. 333-48331), the director received stock units upon deferral of retainer and/or meeting fees." /> 
+ <footnote id="F2" text="Under the RadioShack Corporation Unfunded Deferred Compensation Plan (Reg. No. 333-48331), the director received stock units upon deferral of retainer and/or meeting fees." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="Jeffrey J. Walker, by Power of Attorney for Jack L Messman">
+</ownerSignature>
+</ownershipDocument></Source>

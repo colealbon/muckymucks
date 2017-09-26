@@ -1,0 +1,51 @@
+<Source file="./0001275657-10-000007.nc">
+<SUBMISSION ACCESSION-NUMBER="0001275657-10-000007" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101105" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001275657" CONFORMED-NAME="ARENA PAUL R" /><FILING-VALUES ACT="34" FILE-NUMBER="333-57818" FILM-NUMBER="101171645" FORM-TYPE="4" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="3669" CIK="0001137204" CONFORMED-NAME="Augme Technologies, Inc." FISCAL-YEAR-END="0228" IRS-NUMBER="582604254" /><BUSINESS-ADDRESS CITY="PHOENIX" PHONE="480-643-5989" STATE="AZ" STREET1="2617 SOUTH 46TH STREET" STREET2="SUITE 300" ZIP="85034-7417" /><MAIL-ADDRESS CITY="PHOENIX" STATE="AZ" STREET1="2617 SOUTH 46TH STREET" STREET2="SUITE 300" ZIP="85034-7417" /><FORMER-COMPANY DATE-CHANGED="20051018" FORMER-CONFORMED-NAME="MODAVOX INC" /><FORMER-COMPANY DATE-CHANGED="20030827" FORMER-CONFORMED-NAME="SURFNET MEDIA GROUP INC" /><FORMER-COMPANY DATE-CHANGED="20010326" FORMER-CONFORMED-NAME="INNERSPACE CORP" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-05" schemaVersion="X0303">
+<issuer> issuerCik="0001137204" 
+ issuerName="Augme Technologies, Inc." 
+ issuerTradingSymbol="AUGT.OB" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001275657" 
+ rptOwnerName="ARENA PAUL R" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="NEW YORK" rptOwnerState="NY" rptOwnerStreet1="43 WEST 24TH STREET" rptOwnerStreet2="SUITE 11B" rptOwnerZipCode="10010">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="1" 
+ isOfficer="1" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+ officerTitle="CEO and PFO" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common stock, par value $.0001 per share" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="A" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="6250" 
+</transactionShares>
+<transactionPricePerShare>
+<footnoteId id="F1" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="A" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="56250" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<footnotes> <footnote id="F1" text="These shares were acquired as consideration for the reporting person&apos;s services to the issuer as Chief Executive Officer and Principal Financial Officer pursuant to the employment agreement between the issuer and the reporting person dated June 8, 2010." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="/s/ Paul R. Arena">
+</ownerSignature>
+</ownershipDocument></Source>

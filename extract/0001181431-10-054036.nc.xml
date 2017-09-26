@@ -1,0 +1,210 @@
+<Source file="./0001181431-10-054036.nc">
+<SUBMISSION ACCESSION-NUMBER="0001181431-10-054036" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101105" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001241113" CONFORMED-NAME="WIEHOFF JOHN" /><FILING-VALUES ACT="34" FILE-NUMBER="000-23189" FILM-NUMBER="101172704" FORM-TYPE="4" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="4731" CIK="0001043277" CONFORMED-NAME="C H ROBINSON WORLDWIDE INC" FISCAL-YEAR-END="1231" IRS-NUMBER="411883630" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="EDEN PRAIRIE" PHONE="9529378500" STATE="MN" STREET1="14701 CHARLSON ROAD" ZIP="55347" /><MAIL-ADDRESS CITY="EDEN PRAIRIE" STATE="MN" STREET1="14701 CHARLSON ROAD" ZIP="55347" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-05" schemaVersion="X0303">
+<issuer> issuerCik="0001043277" 
+ issuerName="C H ROBINSON WORLDWIDE INC" 
+ issuerTradingSymbol="CHRW" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001241113" 
+ rptOwnerName="WIEHOFF JOHN" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="EDEN PRAIRIE" rptOwnerState="MN" rptOwnerStreet1="14701 CHARLSON ROAD" rptOwnerStreet2="" rptOwnerZipCode="55347" />
+
+
+<reportingOwnerRelationship isDirector="1" isOfficer="1" isOther="0" isTenPercentOwner="0" officerTitle="CEO">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeHolding><securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="2108" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="By child">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="56000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="By spouse">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="711261" 
+<footnoteId id="F1" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="By Trust">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="1534" 
+</transactionShares>
+<transactionPricePerShare value="64.20">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="214573" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="1534" 
+</transactionShares>
+<transactionPricePerShare value="72.2649">
+<footnoteId id="F2" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="D" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="213039" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="5140" 
+</transactionShares>
+<transactionPricePerShare value="72.02">
+<footnoteId id="F3" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="D" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="207899" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<derivativeTable><derivativeTransaction><securityTitle> value="Option (Right to Buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="65.20">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="1534" 
+</transactionShares>
+<transactionPricePerShare value="0.00">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate> value="2010-07-30" 
+</exerciseDate>
+<expirationDate value="2011-02-01">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="1534">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+<derivativeHolding>
+<securityTitle> value="Option (Right to Buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="65.20">
+</conversionOrExercisePrice>
+<exerciseDate value="2010-07-30">
+</exerciseDate>
+<expirationDate value="2012-02-15">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="31069">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="31069" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Option (Right to Buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="65.20">
+</conversionOrExercisePrice>
+<exerciseDate value="2010-07-30">
+</exerciseDate>
+<expirationDate value="2013-02-07">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="42355">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="42355" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="Deferred shares held in a non-qualified grantor trust for reporting person&apos;s benefit." /> 
+ <footnote id="F2" text="The price reported is the weighted average sale price for the transactions reported.  The prices received ranged from $72.16 to $72.37.  The reporting person will provide to the issuer, a security holder of the issuer, or the SEC staff, upon request, full information regarding the number of shares sold at each price within the range." /> 
+ <footnote id="F3" text="The price reported is the weighted average sale price for the transactions reported.  The prices received ranged from $72.00 to $72.07.  The reporting person will provide to the issuer, a security holder of the issuer, or the SEC staff, upon request, full information regarding the number of shares sold at each price within the range." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="/s/ Troy Renner, Attorney in fact for John P. Wiehoff">
+</ownerSignature>
+</ownershipDocument></Source>

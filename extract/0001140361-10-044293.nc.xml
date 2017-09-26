@@ -1,0 +1,53 @@
+<Source file="./0001140361-10-044293.nc">
+<SUBMISSION ACCESSION-NUMBER="0001140361-10-044293" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101105" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><ISSUER><COMPANY-DATA ASSIGNED-SIC="5047" CIK="0001323974" CONFORMED-NAME="MWI Veterinary Supply, Inc." FISCAL-YEAR-END="0930" IRS-NUMBER="020620757" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="MERIDIAN" PHONE="(800) 824-3703" STATE="ID" STREET1="651 S. STRATFORD DRIVE" STREET2="SUITE 100" ZIP="83642" /><MAIL-ADDRESS CITY="MERIDIAN" STATE="ID" STREET1="651 S. STRATFORD DRIVE" STREET2="SUITE 100" ZIP="83642" /><FORMER-COMPANY DATE-CHANGED="20050415" FORMER-CONFORMED-NAME="MWI Holdings, Inc." /></ISSUER><REPORTING-OWNER><OWNER-DATA ASSIGNED-SIC="2015" CIK="0001070975" CONFORMED-NAME="ALESSI KEITH E" FISCAL-YEAR-END="0630" STATE-OF-INCORPORATION="VA" /><FILING-VALUES ACT="34" FILE-NUMBER="000-51468" FILM-NUMBER="101173635" FORM-TYPE="4" /><MAIL-ADDRESS CITY="COLORADO SPRINGS" STATE="CO" STREET1="2 NORTH CASCADE AVE, 14TH FLOOR" ZIP="80903-1614" /></REPORTING-OWNER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-05" schemaVersion="X0303">
+<issuer> issuerCik="0001323974" 
+ issuerName="MWI Veterinary Supply, Inc." 
+ issuerTradingSymbol="MWIV" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001070975" 
+ rptOwnerName="ALESSI KEITH E" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="MERIDIAN" rptOwnerState="ID" rptOwnerStreet1="651 S. STRATFORD DR., SUITE 100" rptOwnerStreet2="" rptOwnerZipCode="83642" />
+
+
+<reportingOwnerRelationship isDirector="1" isOfficer="0" isOther="0" isTenPercentOwner="0">
+<officerTitle /> 
+<otherText />
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock, par value $0.01 per share" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="5" 
+ transactionCode="G" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="5500" 
+<footnoteId id="F1" /> 
+</transactionShares>
+<transactionPricePerShare> value="0" 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="18828" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<derivativeTable /> 
+<footnotes>
+<footnote id="F1" text="Transfer of common stock as a charitable contribution." /> 
+</footnotes>
+<remarks />
+<ownerSignature> signatureName="Ryan Cleverley as attorney-in-fact for Keith E. Alessi" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

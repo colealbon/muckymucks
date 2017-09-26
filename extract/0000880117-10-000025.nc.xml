@@ -1,0 +1,55 @@
+<Source file="./0000880117-10-000025.nc">
+<SUBMISSION ACCESSION-NUMBER="0000880117-10-000025" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101103" PUBLIC-DOCUMENT-COUNT="2" TYPE="3"><REPORTING-OWNER><OWNER-DATA CIK="0001505045" CONFORMED-NAME="Gardier Christopher" /><FILING-VALUES ACT="34" FILE-NUMBER="000-19681" FILM-NUMBER="101172971" FORM-TYPE="3" /><MAIL-ADDRESS CITY="ELGIN" STATE="IL" STREET1="1703 N. RANDALL ROAD" ZIP="60123" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="2060" CIK="0000880117" CONFORMED-NAME="SANFILIPPO JOHN B &amp; SON INC" FISCAL-YEAR-END="0628" IRS-NUMBER="362419677" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="ELGIN" PHONE="847-289-1800" STATE="IL" STREET1="1703 N. RANDALL ROAD" ZIP="60123-7820" /><MAIL-ADDRESS CITY="ELGIN" STATE="IL" STREET1="1703 N. RANDALL ROAD" ZIP="60123-7820" /></ISSUER></SUBMISSION><ownershipDocument documentType="3" noSecuritiesOwned="0" periodOfReport="2010-11-03" schemaVersion="X0203">
+<issuer> issuerCik="0000880117" 
+ issuerName="SANFILIPPO JOHN B &amp; SON INC" 
+ issuerTradingSymbol="JBSS" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001505045" 
+ rptOwnerName="Gardier Christopher" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="ELGIN" rptOwnerState="IL" rptOwnerStreet1="1703 N. RANDALL ROAD" rptOwnerStreet2="" rptOwnerZipCode="60123" />
+
+
+<reportingOwnerRelationship isDirector="0" isOfficer="1" isOther="0" isTenPercentOwner="0" officerTitle="VP, Consumer Sales">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeHolding><securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="1131" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+</nonDerivativeTable>
+<derivativeTable><derivativeHolding><securityTitle> value="Option to Purchase Common Stock" 
+<footnoteId id="F1" /> 
+</securityTitle>
+<conversionOrExercisePrice> value="14.73" 
+</conversionOrExercisePrice>
+<exerciseDate value="2011-06-28">
+<footnoteId id="F2" /> 
+</exerciseDate>
+<expirationDate> value="2020-06-28" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="1000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="Reflects options granted pursuant to the John B. Sanfilippo &amp; Son, Inc. 2008 Equity Incentive Plan." /> 
+ <footnote id="F2" text="Options become exercisable in four equal annual installments beginning on the date listed provided reporting person remains an employee of the company on such dates.  The foregoing exercise installments are cumulative and may be exercised in whole or in part." /> 
+</footnotes>
+ remarks="This form is filed to reflect a Board of Directors resolution designating Christopher Gardier an officer of John B. Sanfilippo &amp; Son, Inc. as of November 3, 2010 for the purposes of Section 16(a) of the Securities Exchange Act of 1934." 
+<ownerSignature signatureDate="2010-11-08" signatureName="/s/Herbert J. Marros as Power of Attorney">
+</ownerSignature>
+</ownershipDocument></Source>

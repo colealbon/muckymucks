@@ -1,0 +1,60 @@
+<Source file="./0001397635-10-000010.nc">
+<SUBMISSION ACCESSION-NUMBER="0001397635-10-000010" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001386979" CONFORMED-NAME="Gillman Charles M" /><FILING-VALUES ACT="34" FILE-NUMBER="333-92060" FILM-NUMBER="101171661" FORM-TYPE="4" /><MAIL-ADDRESS CITY="TULSA" STATE="OK" STREET1="15 EAST 5TH STREET" STREET2="SUITE 2660" ZIP="74103" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="7990" CIK="0000931683" CONFORMED-NAME="LITTLEFIELD CORP" FISCAL-YEAR-END="1231" IRS-NUMBER="742723809" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="AUSTIN" PHONE="5124765141" STATE="TX" STREET1="2501 NORTH LAMAR BLVD." STREET2="ATTN: SEC COMPLIANCE" ZIP="78705" /><MAIL-ADDRESS CITY="AUSTIN" STATE="TX" STREET1="2501 NORTH LAMAR BLVD." STREET2="ATTN: SEC COMPLIANCE" ZIP="78705" /><FORMER-COMPANY DATE-CHANGED="19941020" FORMER-CONFORMED-NAME="AMERICAN BINGO &amp; GAMING CORP" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0000931683" 
+ issuerName="LITTLEFIELD CORP" 
+ issuerTradingSymbol="LTFD" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001386979" 
+ rptOwnerName="Gillman Charles M" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="TULSA" rptOwnerState="OK" rptOwnerStreet1="15 EAST 5TH STREET" rptOwnerStreet2="SUITE 2660" rptOwnerZipCode="74103">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="1" 
+ isOfficer="0" 
+ isTenPercentOwner="1" 
+ isOther="0" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<derivativeTable><derivativeTransaction><securityTitle> value="Incentive Stock Option (right to buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="0.72">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="A" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="2500" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate> value="2010-11-04" 
+</exerciseDate>
+<expirationDate value="2020-11-04">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="2500">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="2500" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<ownerSignature> signatureName="Paula L. Skidmore, Attorney-in-Fact for Reporting Person" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

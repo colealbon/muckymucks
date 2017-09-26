@@ -1,0 +1,44 @@
+<Source file="./0001257063-10-000001.nc">
+<SUBMISSION ACCESSION-NUMBER="0001257063-10-000001" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101105" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001257063" CONFORMED-NAME="RUST RANDY" /><FILING-VALUES ACT="34" FILE-NUMBER="000-29829" FILM-NUMBER="101173672" FORM-TYPE="4" /><MAIL-ADDRESS CITY="ABERDEEN" STATE="WA" STREET1="300 E MARKET STREET" ZIP="98520-5244" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="6022" CIK="0001093728" CONFORMED-NAME="PACIFIC FINANCIAL CORP" FISCAL-YEAR-END="1231" IRS-NUMBER="911815009" STATE-OF-INCORPORATION="WA" /><BUSINESS-ADDRESS CITY="ABERDEEN" PHONE="3605338870" STATE="WA" STREET1="1101 S BOONE STREET" ZIP="98520-5244" /><MAIL-ADDRESS CITY="ABERDEEN" STATE="WA" STREET1="1101 S BOONE STREET" ZIP="98502-5244" /><FORMER-COMPANY DATE-CHANGED="20000306" FORMER-CONFORMED-NAME="PACIFIC FINANCIAL CORP /" /><FORMER-COMPANY DATE-CHANGED="19990823" FORMER-CONFORMED-NAME="HARBOR BANCORP INC" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-05" schemaVersion="X0303">
+<issuer> issuerCik="0001093728" 
+ issuerName="PACIFIC FINANCIAL CORP" 
+ issuerTradingSymbol="pflc.ob" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001257063" 
+ rptOwnerName="RUST RANDY" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="ABERDEEN" rptOwnerState="WA" rptOwnerStreet1="300 E MARKET STREET" rptOwnerStreet2="" rptOwnerZipCode="98520-5244" />
+
+
+<reportingOwnerRelationship isDirector="1" isOfficer="0" isOther="0" isTenPercentOwner="0">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="A" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="510" 
+</transactionShares>
+<transactionPricePerShare value="4.35">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="97001" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<ownerSignature> signatureName="Randy Rust" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

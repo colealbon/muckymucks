@@ -1,0 +1,65 @@
+<Source file="./0001209191-10-053511.nc">
+<SUBMISSION ACCESSION-NUMBER="0001209191-10-053511" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20100820" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001491163" CONFORMED-NAME="Wagener David" /><FILING-VALUES ACT="34" FILE-NUMBER="001-32347" FILM-NUMBER="101170662" FORM-TYPE="4" /><MAIL-ADDRESS CITY="RENO" STATE="NV" STREET1="6225 NEIL ROAD" ZIP="89511" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="4911" CIK="0001296445" CONFORMED-NAME="ORMAT TECHNOLOGIES, INC." FISCAL-YEAR-END="1231" IRS-NUMBER="880326081" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="RENO" PHONE="775-356-9029" STATE="NV" STREET1="6225 NEIL ROAD, SUITE 300" ZIP="89511-1136" /><MAIL-ADDRESS CITY="RENO" STATE="NV" STREET1="6225 NEIL ROAD, SUITE 300" ZIP="89511-1136" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" periodOfReport="2010-08-20" schemaVersion="X0303">
+<issuer> issuerCik="0001296445" 
+ issuerName="ORMAT TECHNOLOGIES, INC." 
+ issuerTradingSymbol="ORA" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001491163" 
+ rptOwnerName="Wagener David" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="RENO" rptOwnerState="NV" rptOwnerStreet1="C/O ORMAT TECHNOLOGIES, INC." rptOwnerStreet2="6225 NEIL ROAD" rptOwnerZipCode="89511">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="1" 
+ isOfficer="0" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable /> 
+<derivativeTable>
+<derivativeTransaction><securityTitle> value="Stock Option ( Right to Buy)" 
+<footnoteId id="F1" /> 
+</securityTitle>
+<conversionOrExercisePrice> value="28.19" 
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="A" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="7500" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate> value="2011-11-04" 
+</exerciseDate>
+<expirationDate value="2017-11-04">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="7500">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="15600" 
+<footnoteId id="F1" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="The total amount of 15,600 represents the following grants: (i) 7500 stock options at exercise price of $29.21 ea exercisable 05/06/2011 to 05/06/2017 (ii)) 400 shares purchased at market on August 11,2010 at an average price of $27.14, (iii) 200 shares purchased at market on August 25,2010 at an average price of $26.00,(iv) 7,500 stock options granted at exercise price of $28.19 ea exercisable from 11/04/2011 to 11/04/2017" /> 
+</footnotes>
+ remarks="Etty Rosner is signing on behalf of Mr. Wagener pursuant to a power of attorney dated 02/25/2010 filed as an exhibit hereto." 
+<ownerSignature signatureDate="2010-11-08" signatureName="/s/ Etty Rosner">
+</ownerSignature>
+</ownershipDocument></Source>

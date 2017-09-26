@@ -1,0 +1,49 @@
+<Source file="./0001485532-10-000035.nc">
+<SUBMISSION ACCESSION-NUMBER="0001485532-10-000035" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101105" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><ISSUER><COMPANY-DATA ASSIGNED-SIC="3561" CIK="0000832101" CONFORMED-NAME="IDEX CORP /DE/" FISCAL-YEAR-END="1231" IRS-NUMBER="363555336" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="NORTHBROOK" PHONE="8474987070" STATE="IL" STREET1="630 DUNDEE RD STE 400" ZIP="60062" /></ISSUER><REPORTING-OWNER><OWNER-DATA CIK="0001339142" CONFORMED-NAME="MITTS HEATH A" /><FILING-VALUES ACT="34" FILE-NUMBER="001-10235" FILM-NUMBER="101173329" FORM-TYPE="4" /><MAIL-ADDRESS CITY="NORTHBROOK" STATE="IL" STREET1="630 DUNDEE ROAD" STREET2="SUITE 400" ZIP="60062" /></REPORTING-OWNER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-05" schemaVersion="X0303">
+<issuer> issuerCik="0000832101" 
+ issuerName="IDEX CORP /DE/" 
+ issuerTradingSymbol="IEX" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001339142" 
+ rptOwnerName="MITTS HEATH A" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="LAKE FOREST" rptOwnerState="IL" rptOwnerStreet1="1925 WEST FIELD COURT" rptOwnerStreet2="SUITE 200" rptOwnerZipCode="60045">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="1" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+ officerTitle="VP - Corporate Finance" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="COMMON STOCK" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="3704" 
+</transactionShares>
+<transactionPricePerShare value="37.6995">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="20673" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<ownerSignature> signatureName="HEATH A. MITTS" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

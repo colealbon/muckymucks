@@ -1,0 +1,109 @@
+<Source file="./0001111928-10-000168.nc">
+<SUBMISSION ACCESSION-NUMBER="0001111928-10-000168" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001130421" CONFORMED-NAME="GAPONTSEV VALENTIN P" /><FILING-VALUES ACT="34" FILE-NUMBER="001-33155" FILM-NUMBER="101172935" FORM-TYPE="4" /><MAIL-ADDRESS CITY="STURBRIDGE" STATE="MA" STREET1="660 MAIN STREET" ZIP="01566" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="3674" CIK="0001111928" CONFORMED-NAME="IPG PHOTONICS CORP" IRS-NUMBER="043444218" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="OXFORD" PHONE="5083731100" STATE="MA" STREET1="50 OLD WEBSTER ROAD" ZIP="01540" /><MAIL-ADDRESS CITY="OXFORD" STATE="MA" STREET1="50 OLD WEBSTER ROAD" ZIP="01540" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0001111928" 
+ issuerName="IPG PHOTONICS CORP" 
+ issuerTradingSymbol="IPGP" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001130421" 
+ rptOwnerName="GAPONTSEV VALENTIN P" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="OXFORD" rptOwnerState="MA" rptOwnerStreet1="C/O IPG PHOTONICS CORPORATION" rptOwnerStreet2="50 OLD WEBSTER ROAD" rptOwnerZipCode="01540">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="1" 
+ isOfficer="1" 
+ isTenPercentOwner="1" 
+ isOther="0" 
+ officerTitle="CEO &amp; Chairman of the Board" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+<footnoteId id="F1" /> 
+</transactionCoding>
+<transactionAmounts><transactionShares> value="27000" 
+</transactionShares>
+<transactionPricePerShare value="25.12">
+<footnoteId id="F2" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="D" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="7577002" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="Through IP Fibre Devices (UK) Ltd.">
+<footnoteId id="F5" /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+<footnoteId id="F1" /> 
+</transactionCoding>
+<transactionAmounts><transactionShares> value="16400" 
+</transactionShares>
+<transactionPricePerShare value="25.12">
+<footnoteId id="F3" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="D" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="7560602" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="Through IP Fibre Devices (UK) Ltd.">
+<footnoteId id="F5" /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-08">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+<footnoteId id="F1" /> 
+</transactionCoding>
+<transactionAmounts><transactionShares> value="56600" 
+</transactionShares>
+<transactionPricePerShare value="25.60">
+<footnoteId id="F4" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="D" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="7504002" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="Through IP Fibre Devices (UK) Ltd.">
+<footnoteId id="F5" /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<footnotes>
+<footnote id="F1" text="The sales reported in this Form 4 were effected pursuant to a Rule 10b5-1 trading plan adopted by IP Fibre Devices (U.K.) Ltd. on September 13, 2010." /> 
+ <footnote id="F2" text="The reported transaction involved sales transactions from $25.00 to $25.30 per share.  The Reporting Person undertakes to provide upon request by the SEC staff, the Issuer or a security holder of the Issuer information regarding the number of shares sold at each separate price." /> 
+ <footnote id="F3" text="The reported transaction involved sales transactions from $25.00 to $25.26 per share.  The Reporting Person undertakes to provide upon request by the SEC staff, the Issuer or a security holder of the Issuer information regarding the number of shares sold at each separate price." /> 
+ <footnote id="F4" text="The reported transaction involved sales transactions from $25.14 to $25.94 per share.  The Reporting Person undertakes to provide upon request by the SEC staff, the Issuer or a security holder of the Issuer information regarding the number of shares sold at each separate price." /> 
+ <footnote id="F5" text="The reporting person is the managing director of IP Fibre Devices (UK) Ltd. and has voting and investment power with respect to the shares held of record by IP Fibre Devices (UK) Ltd.  The reporting person disclaims beneficial ownership of these securities except to the extent of his pecuniary interest therein, and the inclusion of these shares in this report shall not be deemed an admission of the beneficial ownership of all the reported shares for purposes of Section 16 of the Securities Exchange Act of 1934, as amended, or for any other purpose." /> 
+</footnotes>
+<remarks />
+<ownerSignature> signatureName="Angelo P. Lopresti, Attorney-at-law" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

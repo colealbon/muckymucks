@@ -1,0 +1,115 @@
+<Source file="./0001127602-10-027302.nc">
+<SUBMISSION ACCESSION-NUMBER="0001127602-10-027302" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001100932" CONFORMED-NAME="TRUCKSESS HERBERT A III" /><FILING-VALUES ACT="34" FILE-NUMBER="000-49983" FILM-NUMBER="101172495" FORM-TYPE="4" /><MAIL-ADDRESS CITY="DULUTH" STATE="2Q" STREET1="SAIA INC" STREET2="11465 JOHNS CREEK PARKWAY STE 400" ZIP="30097" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="4213" CIK="0001177702" CONFORMED-NAME="SAIA INC" FISCAL-YEAR-END="1231" IRS-NUMBER="481229851" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="DULUTH" PHONE="7702325067" STATE="2Q" STREET1="11465 JOHNS CREEK PARKWAY" STREET2="STE 400" ZIP="30097" /><MAIL-ADDRESS CITY="DULUTH" STATE="2Q" STREET1="11465 JOHNS CREEK PARKWAY" STREET2="STE 400" ZIP="30097" /><FORMER-COMPANY DATE-CHANGED="20020717" FORMER-CONFORMED-NAME="SCS TRANSPORTATION INC" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0001177702" 
+ issuerName="SAIA INC" 
+ issuerTradingSymbol="SAIA" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001100932" 
+ rptOwnerName="TRUCKSESS HERBERT A III" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="JOHNS CREEK" rptOwnerState="GA" rptOwnerStreet1="11465 JOHNS CREEK PARKWAY, SUITE 400" rptOwnerStreet2="" rptOwnerZipCode="30097" />
+
+
+<reportingOwnerRelationship isDirector="1">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+<footnoteId id="F1" /> 
+</transactionCoding>
+<transactionTimeliness /> 
+<transactionAmounts>
+<transactionShares> value="6320" 
+<footnoteId id="F1" /> 
+</transactionShares>
+<transactionPricePerShare> value="15.00" 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="290662" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+<footnoteId id="F1" /> 
+</transactionCoding>
+<transactionTimeliness /> 
+<transactionAmounts>
+<transactionShares> value="3680" 
+<footnoteId id="F1" /> 
+</transactionShares>
+<transactionPricePerShare> value="15.00" 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="286982" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<derivativeTable><derivativeHolding><securityTitle> value="Stock Options (Right to Buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="23.00">
+</conversionOrExercisePrice>
+<exerciseDate value="2008-02-03">
+</exerciseDate>
+<expirationDate value="2012-02-02">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="9840">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="9840" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Stock Options (Right to Buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="27.38">
+</conversionOrExercisePrice>
+<exerciseDate value="2009-01-28">
+</exerciseDate>
+<expirationDate value="2013-01-27">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="16000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="16000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="Sale of Common Stock in accordance with Mr. Trucksess&apos; previously announced 10b5-1 stock trading plan." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="/s/ Stephanie R. Maschmeier">
+</ownerSignature>
+</ownershipDocument></Source>

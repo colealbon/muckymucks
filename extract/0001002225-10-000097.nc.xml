@@ -1,0 +1,42 @@
+<Source file="./0001002225-10-000097.nc">
+<SUBMISSION ACCESSION-NUMBER="0001002225-10-000097" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101108" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><ISSUER><COMPANY-DATA ASSIGNED-SIC="7371" CIK="0001002225" CONFORMED-NAME="ADVENT SOFTWARE INC /DE/" FISCAL-YEAR-END="1231" IRS-NUMBER="942901952" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="SAN FRANCISCO" PHONE="4155437696" STATE="CA" STREET1="600 TOWNSEND ST" ZIP="94103" /><MAIL-ADDRESS CITY="SAN FRANCISCO" STATE="CA" STREET1="600 TOWNSEND ST" ZIP="94103" /></ISSUER><REPORTING-OWNER><OWNER-DATA CIK="0001220864" CONFORMED-NAME="ROEMER JAMES P" /><FILING-VALUES ACT="34" FILE-NUMBER="000-26994" FILM-NUMBER="101173839" FORM-TYPE="4" /><MAIL-ADDRESS CITY="AN ARBOR" STATE="MI" STREET1="300 N ZEEB ROAD" ZIP="48103" /></REPORTING-OWNER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-08" schemaVersion="X0303">
+<issuer> issuerCik="0001002225" 
+ issuerName="ADVENT SOFTWARE INC /DE/" 
+ issuerTradingSymbol="ADVS" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001220864" 
+ rptOwnerName="ROEMER JAMES P" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="SAN FRANCISCO" rptOwnerState="CA" rptOwnerStreet1="600 TOWNSEND STREET" rptOwnerStreet2="" rptOwnerZipCode="94103" />
+
+
+<reportingOwnerRelationship isDirector="1" isOfficer="0" isOther="0" isTenPercentOwner="0">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-08">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="3502" 
+</transactionShares>
+<transactionPricePerShare value="55.8">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="18300" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<ownerSignature> signatureName="By: James S Cox  For: James P Roemer" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

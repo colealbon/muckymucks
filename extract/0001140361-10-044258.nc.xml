@@ -1,0 +1,79 @@
+<Source file="./0001140361-10-044258.nc">
+<SUBMISSION ACCESSION-NUMBER="0001140361-10-044258" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101108" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001447229" CONFORMED-NAME="Grenz Carl D" /><FILING-VALUES ACT="34" FILE-NUMBER="001-32212" FILM-NUMBER="101173388" FORM-TYPE="4" /><MAIL-ADDRESS CITY="HOUSTON" STATE="TX" STREET1="1001 FANNIN STREET" STREET2="SUITE 1600" ZIP="77002" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="1311" CIK="0001112412" CONFORMED-NAME="ENDEAVOUR INTERNATIONAL CORP" FISCAL-YEAR-END="1231" IRS-NUMBER="880448389" STATE-OF-INCORPORATION="NV" /><BUSINESS-ADDRESS CITY="HOUSTON" PHONE="713-307-8700" STATE="TX" STREET1="1001 FANNIN STREET" STREET2="SUITE 1600" ZIP="77002" /><MAIL-ADDRESS CITY="HOUSTON" STATE="TX" STREET1="1001 FANNIN STREET" STREET2="SUITE 1600" ZIP="77002" /><FORMER-COMPANY DATE-CHANGED="20020816" FORMER-CONFORMED-NAME="CONTINENTAL SOUTHERN RESOURCES  INC" /><FORMER-COMPANY DATE-CHANGED="20000419" FORMER-CONFORMED-NAME="EXPRESSIONS GRAPHICS INC" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-08" schemaVersion="X0303">
+<issuer> issuerCik="0001112412" 
+ issuerName="ENDEAVOUR INTERNATIONAL CORP" 
+ issuerTradingSymbol="END" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001447229" 
+ rptOwnerName="Grenz Carl D" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="HOUSTON" rptOwnerState="TX" rptOwnerStreet1="1001 FANNIN STREET, SUITE 1600" rptOwnerStreet2="" rptOwnerZipCode="77002" />
+
+
+<reportingOwnerRelationship isDirector="0" isOfficer="1" isOther="0" isTenPercentOwner="0" officerTitle="EVP - International">
+<otherText /> 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable>
+<nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="S" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="21400" 
+</transactionShares>
+<transactionPricePerShare value="1.22">
+<footnoteId id="F1" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="D" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="520826" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="S" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="2126" 
+</transactionShares>
+<transactionPricePerShare value="1.23">
+<footnoteId id="F1" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="D" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="518700" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<derivativeTable /> 
+<footnotes>
+<footnote id="F1" text="This transaction involved sales of securities to satisfy the federal income tax withholding liability which arose upon the vesting of certain securities under an inducement grant. All of the proceeds from this sales transaction will be utilized to satisfy such withholding obligation." /> 
+</footnotes>
+<remarks />
+<ownerSignature> signatureName="/s/ William L. Transier by Power of Attorney for Carl D. Grenz" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

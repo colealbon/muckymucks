@@ -1,0 +1,48 @@
+<Source file="./0000851968-10-000031.nc">
+<SUBMISSION ACCESSION-NUMBER="0000851968-10-000031" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101105" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001201491" CONFORMED-NAME="WELLBORN CHISTOPHER" /><FILING-VALUES ACT="34" FILE-NUMBER="001-13697" FILM-NUMBER="101173591" FORM-TYPE="4" /><MAIL-ADDRESS CITY="CALHOUN" STATE="GA" STREET1="MOHAWK INDUSTRIES INC" STREET2="P O BOX 12069" ZIP="30703" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="2273" CIK="0000851968" CONFORMED-NAME="MOHAWK INDUSTRIES INC" FISCAL-YEAR-END="1231" IRS-NUMBER="521604305" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="CALHOUN" PHONE="678-355-5814" STATE="GA" STREET1="160 S INDUSTRIAL BLVD" STREET2="PO BOX 12069" ZIP="30701" /><MAIL-ADDRESS CITY="CALHOUN" STATE="GA" STREET1="P O BOX 12069" ZIP="30703" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-05" schemaVersion="X0303">
+<issuer> issuerCik="0000851968" 
+ issuerName="MOHAWK INDUSTRIES INC" 
+ issuerTradingSymbol="MHK" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001201491" 
+ rptOwnerName="WELLBORN CHISTOPHER" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="CALHOUN" rptOwnerState="GA" rptOwnerStreet1="160 SOUTH INDUSTRIAL BLVD." rptOwnerStreet2="P.O. BOX 12069" rptOwnerZipCode="30703">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="1" 
+ isOfficer="1" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+ officerTitle="President and COO" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="A" transactionFormType="4">
+<footnoteId id="F1" /> 
+</transactionCoding>
+<transactionAmounts><transactionShares> value="60000" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="202426" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<footnotes> <footnote id="F1" text="Subject to certain vesting conditions, the restricted stock units are scheduled to vest on December 31, 2019." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="CHRISTOPHER WELLBORN">
+</ownerSignature>
+</ownershipDocument></Source>

@@ -1,0 +1,115 @@
+<Source file="./0001127602-10-027342.nc">
+<SUBMISSION ACCESSION-NUMBER="0001127602-10-027342" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><ISSUER><COMPANY-DATA ASSIGNED-SIC="3674" CIK="0001224370" CONFORMED-NAME="MINDSPEED TECHNOLOGIES, INC" FISCAL-YEAR-END="0930" IRS-NUMBER="010616769" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="NEWPORT BEACH" PHONE="9495793000" STATE="CA" STREET1="4000 MACARTHUR BOULEVARD" STREET2="EAST TOWER" ZIP="92660" /><MAIL-ADDRESS CITY="NEWPORT BEACH" STATE="CA" STREET1="4000 MACARTHUR BOULEVARD" STREET2="EAST TOWER" ZIP="92660" /><FORMER-COMPANY DATE-CHANGED="20030324" FORMER-CONFORMED-NAME="MINDSPEED TECHNOLOGIES INC" /></ISSUER><REPORTING-OWNER><OWNER-DATA CIK="0001185808" CONFORMED-NAME="DECKER DWIGHT W" /><FILING-VALUES ACT="34" FILE-NUMBER="001-31650" FILM-NUMBER="101173120" FORM-TYPE="4" /><MAIL-ADDRESS CITY="NEWPORT BEACH" STATE="CA" STREET1="MINDSPEED TECHNOLOGIES, INC." STREET2="4000 MACARTHUR BLVD., EAST TOWER" ZIP="92660" /></REPORTING-OWNER></SUBMISSION><ownershipDocument documentType="4" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0001224370" 
+ issuerName="MINDSPEED TECHNOLOGIES, INC" 
+ issuerTradingSymbol="MSPD" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001185808" 
+ rptOwnerName="DECKER DWIGHT W" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="NEWPORT BEACH" rptOwnerState="CA" rptOwnerStreet1="4000 MACARTHUR BLVD., EAST TOWER" rptOwnerStreet2="" rptOwnerZipCode="92660" />
+
+
+<reportingOwnerRelationship isDirector="1">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness />
+<transactionAmounts><transactionShares> value="22284" 
+</transactionShares>
+<transactionPricePerShare value="4.848">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="335995" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness />
+<transactionAmounts><transactionShares> value="22284" 
+<footnoteId id="F1" /> 
+</transactionShares>
+<transactionPricePerShare> value="6.3708" 
+<footnoteId id="F2" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="D" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="313711" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeHolding>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="380" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="By IRA">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+</nonDerivativeTable>
+<derivativeTable><derivativeTransaction><securityTitle> value="Stock Option (Right to Buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="4.848">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness />
+<transactionAmounts><transactionShares> value="22284" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate> value="2003-11-04" 
+</exerciseDate>
+<expirationDate value="2010-11-04">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="22284">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="0" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="Shares sold were the underlying shares from stock options expiring on the date of sale." /> 
+ <footnote id="F2" text="The price in Column 4 is a weighted average price. The prices actually received ranged from $6.33 to $6.435. The reporting person will provide to the Company, any security holder of the Company, or the SEC staff, upon request, information regarding the number of shares sold at each price within the range." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="/s/ Brandi R. Steege, Attorney-in-fact">
+</ownerSignature>
+</ownershipDocument></Source>

@@ -1,0 +1,75 @@
+<Source file="./0001127602-10-027198.nc">
+<SUBMISSION ACCESSION-NUMBER="0001127602-10-027198" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101105" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001197608" CONFORMED-NAME="GLENN T MICHAEL" /><FILING-VALUES ACT="34" FILE-NUMBER="001-15829" FILM-NUMBER="101171272" FORM-TYPE="4" /><MAIL-ADDRESS CITY="MEMPHIS" STATE="TN" STREET1="942 S SHADY GROVE RD" ZIP="38120" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="4513" CIK="0001048911" CONFORMED-NAME="FEDEX CORP" FISCAL-YEAR-END="0531" IRS-NUMBER="621721435" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="MEMPHIS" PHONE="9018187500" STATE="TN" STREET1="942 SOUTH SHADY GROVE ROAD" ZIP="38120-" /><MAIL-ADDRESS CITY="MEMPHIS" STATE="TN" STREET1="942 SOUTH SHADY GROVE ROAD" ZIP="38120-" /><FORMER-COMPANY DATE-CHANGED="19971103" FORMER-CONFORMED-NAME="FDX CORP" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" periodOfReport="2010-11-05" schemaVersion="X0303">
+<issuer> issuerCik="0001048911" 
+ issuerName="FEDEX CORP" 
+ issuerTradingSymbol="FDX" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001197608" 
+ rptOwnerName="GLENN T MICHAEL" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="MEMPHIS" rptOwnerState="TN" rptOwnerStreet1="942 SOUTH SHADY GROVE ROAD" rptOwnerStreet2="" rptOwnerZipCode="38120" />
+
+
+<reportingOwnerRelationship isOfficer="1" officerTitle="EVP MKT DEVEL/CORP COMM">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="G" transactionFormType="5">
+</transactionCoding>
+<transactionTimeliness value="E">
+</transactionTimeliness>
+<transactionAmounts>
+<transactionShares> value="1700" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="115756" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeHolding>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="88750" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+<footnoteId id="F1" /> 
+</directOrIndirectOwnership>
+<natureOfOwnership> value="Glenn Family Partners" 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="551" 
+<footnoteId id="F2" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="Retirement Plan">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+</nonDerivativeTable>
+<footnotes> <footnote id="F1" text="The reporting person disclaims beneficial ownership of FedEx common stock held by Glenn Family Partners except to the extent of his pecuniary interest therein." /> 
+ <footnote id="F2" text="Ownership has been adjusted to reflect dividend paid to all holders of record." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-05" signatureName="/s/T. Michael Glenn">
+</ownerSignature>
+</ownershipDocument></Source>

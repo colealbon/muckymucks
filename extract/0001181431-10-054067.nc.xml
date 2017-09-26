@@ -1,0 +1,48 @@
+<Source file="./0001181431-10-054067.nc">
+<SUBMISSION ACCESSION-NUMBER="0001181431-10-054067" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101105" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001261887" CONFORMED-NAME="HALL SHAWN D" /><FILING-VALUES ACT="34" FILE-NUMBER="001-13449" FILM-NUMBER="101173274" FORM-TYPE="4" /><MAIL-ADDRESS CITY="SAN JOSE" STATE="CA" STREET1="1650 TECHNOLOGY DRIVE" STREET2="SUITE 800" ZIP="95110" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="3572" CIK="0000709283" CONFORMED-NAME="QUANTUM CORP /DE/" FISCAL-YEAR-END="0331" IRS-NUMBER="942665054" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="SAN JOSE" PHONE="408 944 4000" STATE="CA" STREET1="1650 TECHNOLOGY DRIVE" STREET2="SUITE 700" ZIP="95110" /><MAIL-ADDRESS CITY="SAN JOSE" STATE="CA" STREET1="1650 TECHNOLOGY DRIVE" STREET2="SUITE 700" ZIP="95110" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-05" schemaVersion="X0303">
+<issuer> issuerCik="0000709283" 
+ issuerName="QUANTUM CORP /DE/" 
+ issuerTradingSymbol="QTM" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001261887" 
+ rptOwnerName="HALL SHAWN D" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="SAN JOSE" rptOwnerState="CA" rptOwnerStreet1="C/O QUANTUM CORPORATION" rptOwnerStreet2="1650       TECHNOLOGY DRIVE,  SUITE  800" rptOwnerZipCode="95110">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="1" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+ officerTitle="Senior VP, GC &amp; Secretary" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+<footnoteId id="F1" /> 
+</transactionCoding>
+<transactionAmounts><transactionShares> value="5200" 
+</transactionShares>
+<transactionPricePerShare value="3.50">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="242844" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<footnotes> <footnote id="F1" text="The sales reported in this Form 4 were effected pursuant to a Rule 10b-5 trading plan adopted by the reporting person on November 16, 2009." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="/s/ Astrid Becker-Celik, Attorney in Fact for Shawn D. Hall">
+</ownerSignature>
+</ownershipDocument></Source>

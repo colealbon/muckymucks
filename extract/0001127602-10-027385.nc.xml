@@ -1,0 +1,67 @@
+<Source file="./0001127602-10-027385.nc">
+<SUBMISSION ACCESSION-NUMBER="0001127602-10-027385" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101105" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001376548" CONFORMED-NAME="Ehrich Elliot" /><FILING-VALUES ACT="34" FILE-NUMBER="001-14131" FILM-NUMBER="101173863" FORM-TYPE="4" /><MAIL-ADDRESS CITY="CAMBRIDGE" STATE="MA" STREET1="88 SIDNEY ST" ZIP="02139" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="2834" CIK="0000874663" CONFORMED-NAME="ALKERMES INC" FISCAL-YEAR-END="0331" IRS-NUMBER="232472830" STATE-OF-INCORPORATION="PA" /><BUSINESS-ADDRESS CITY="WALTHAM" PHONE="(781)609-6000" STATE="MA" STREET1="852 WINTER STREET" ZIP="02451-1420" /><MAIL-ADDRESS CITY="WALTHAM" STATE="MA" STREET1="852 WINTER STREET" ZIP="02451-1420" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" periodOfReport="2010-11-05" schemaVersion="X0303">
+<issuer> issuerCik="0000874663" 
+ issuerName="ALKERMES INC" 
+ issuerTradingSymbol="ALKS" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001376548" 
+ rptOwnerName="Ehrich Elliot" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="WALTHAM" rptOwnerState="MA" rptOwnerStreet1="852 WINTER ST." rptOwnerStreet2="" rptOwnerZipCode="02451" />
+
+
+<reportingOwnerRelationship isOfficer="1" officerTitle="SVP, R&amp;D &amp; Chief Medical Ofcr">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="F" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness />
+<transactionAmounts><transactionShares> value="159" 
+</transactionShares>
+<transactionPricePerShare value="12.10">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="26920" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-08">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+<footnoteId id="F1" /> 
+</transactionCoding>
+<transactionTimeliness /> 
+<transactionAmounts>
+<transactionShares> value="341" 
+</transactionShares>
+<transactionPricePerShare value="12.02">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="26579" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<footnotes> <footnote id="F1" text="This sale was effected pursuant to a Rule 10b5-1 trading plan adopted by the reporting person." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="/s/ Jennifer Baptiste, attorney-in-fact for Elliot Ehrich">
+</ownerSignature>
+</ownershipDocument></Source>

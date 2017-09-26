@@ -1,0 +1,184 @@
+<Source file="./0001209191-10-053767.nc">
+<SUBMISSION ACCESSION-NUMBER="0001209191-10-053767" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><ISSUER><COMPANY-DATA ASSIGNED-SIC="5944" CIK="0001091171" CONFORMED-NAME="BLUE NILE INC" FISCAL-YEAR-END="0104" IRS-NUMBER="911963165" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="SEATTLE" PHONE="2063366700" STATE="WA" STREET1="705 FIFTH AVE S" STREET2="STE 900" ZIP="98104" /><MAIL-ADDRESS CITY="SEATTLE" STATE="WA" STREET1="705 FIFTH AVE S" STREET2="STE 900" ZIP="98104" /><FORMER-COMPANY DATE-CHANGED="20000131" FORMER-CONFORMED-NAME="INTERNET DIAMONDS INC" /></ISSUER><REPORTING-OWNER><OWNER-DATA CIK="0001287613" CONFORMED-NAME="VADON MARK C" /><FILING-VALUES ACT="34" FILE-NUMBER="000-50763" FILM-NUMBER="101173804" FORM-TYPE="4" /><MAIL-ADDRESS CITY="SEATTLE" STATE="WA" STREET1="705 FIFTH AVE S STE 900" ZIP="98104" /></REPORTING-OWNER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0001091171" 
+ issuerName="BLUE NILE INC" 
+ issuerTradingSymbol="NILE" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001287613" 
+ rptOwnerName="VADON MARK C" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="SEATTLE" rptOwnerState="WA" rptOwnerStreet1="C/O BLUE NILE, INC." rptOwnerStreet2="705 FIFTH AVENUE S, STE 900" rptOwnerZipCode="98104">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="1" 
+ isOfficer="1" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+ officerTitle="Executive Chairman" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="M" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="40866" 
+</transactionShares>
+<transactionPricePerShare value="8.75">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="400799" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="S" 
+ equitySwapInvolved="0" 
+<footnoteId id="F1" /> 
+</transactionCoding>
+<transactionTimeliness><value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="40866" 
+</transactionShares>
+<transactionPricePerShare value="45.08">
+<footnoteId id="F2" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="D" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="359933" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="S" 
+ equitySwapInvolved="0" 
+<footnoteId id="F1" /> 
+</transactionCoding>
+<transactionTimeliness><value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="9134" 
+</transactionShares>
+<transactionPricePerShare value="45.17">
+<footnoteId id="F3" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="D" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="350799" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="S" 
+ equitySwapInvolved="0" 
+<footnoteId id="F1" /> 
+</transactionCoding>
+<transactionTimeliness><value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="240866" 
+</transactionShares>
+<transactionPricePerShare value="48.65">
+<footnoteId id="F4" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="D" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="109933" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<derivativeTable><derivativeTransaction><securityTitle> value="Stock Options (Right to Buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="8.75">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="M" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="40866" 
+</transactionShares>
+<transactionPricePerShare>
+<footnoteId id="F6" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="D" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate><footnoteId id="F5" /> 
+</exerciseDate>
+<expirationDate> value="2013-10-09" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="40866">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="0" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="This sale was affected pursuant to a Rule 10b5-1 trading plan adopted by the reporting person." /> 
+ <footnote id="F2" text="Represents the weighted average sale price. The highest price at which shares were sold was $45.50 and the lowest price at which shares were sold was $45.00." /> 
+ <footnote id="F3" text="Represents the weighted average sale price. The highest price at which shares were sold was $45.475 and the lowest price at which shares were sold was $45.00." /> 
+ <footnote id="F4" text="Represents the weighted average sale price. The highest price at which shares were sold was $50.07 and the lowest price at which shares were sold was $47.00." /> 
+ <footnote id="F5" text="25% of the option shares vest on August 26, 2004 and one-forty-eighth of the option shares vest in equal monthly installments over the following thirty-six months." /> 
+ <footnote id="F6" text="Not applicable." /> 
+</footnotes>
+<remarks />
+<ownerSignature> signatureName="/s/ Lauren Neiswender, Power of Attorney" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

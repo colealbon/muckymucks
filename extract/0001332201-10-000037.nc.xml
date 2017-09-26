@@ -1,0 +1,144 @@
+<Source file="./0001332201-10-000037.nc">
+<SUBMISSION ACCESSION-NUMBER="0001332201-10-000037" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001391399" CONFORMED-NAME="CAMPBELL WILLIAM K" /><FILING-VALUES ACT="34" FILE-NUMBER="001-31396" FILM-NUMBER="101173966" FORM-TYPE="4" /><MAIL-ADDRESS CITY="EMERYVILLE" STATE="CA" STREET1="LEAPFROG ENTERPRISES, INC." STREET2="6401 HOLLIS STREET" ZIP="94608" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="3944" CIK="0001138951" CONFORMED-NAME="LEAPFROG ENTERPRISES INC" FISCAL-YEAR-END="1231" IRS-NUMBER="954700094" /><BUSINESS-ADDRESS CITY="EMERYVILLE" PHONE="5104205000" STATE="CA" STREET1="6401 HOLLIS ST" STREET2="STE 150" ZIP="94608" /><MAIL-ADDRESS CITY="EMERYVILLE" STATE="CA" STREET1="6401 HOLLIS STREET" STREET2="SUITE 150" ZIP="94608" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0001138951" 
+ issuerName="LEAPFROG ENTERPRISES INC" 
+ issuerTradingSymbol="LF" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001391399" 
+ rptOwnerName="CAMPBELL WILLIAM K" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="EMERYVILLE" rptOwnerState="CA" rptOwnerStreet1="LEAPFROG ENTERPRISES, INC." rptOwnerStreet2="6401 HOLLIS STREET" rptOwnerZipCode="94608">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="1" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+ officerTitle="President Sales and Marketing" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Class A Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="9764" 
+</transactionShares>
+<transactionPricePerShare value="6.07">
+<footnoteId id="F1" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="D" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="0" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction><securityTitle> value="Class A Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-08">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="15000" 
+</transactionShares>
+<transactionPricePerShare value="2.75">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="15000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction><securityTitle> value="Class A Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-08">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="15000" 
+</transactionShares>
+<transactionPricePerShare value="5.86">
+<footnoteId id="F2" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="D" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="0" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<derivativeTable>
+<derivativeTransaction><securityTitle> value="Non-qualified Stock Option (right to buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="2.75">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-08">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="15000" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate><footnoteId id="F3" /> 
+</exerciseDate>
+<expirationDate> value="2019-05-15" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Class A Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="15000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="150700" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<footnotes>
+<footnote id="F1" text="The shares were sold between $6.05 and $6.09.  The Reporting Person will provide upon request, to the SEC, the issuer or security holder of the issuer, full information regarding the number of shares sold at each separate price." /> 
+ <footnote id="F2" text="The shares were sold between $5.81 and $5.94.  The Reporting Person will provide upon request, to the SEC, the issuer or security holder of the issuer, full information regarding the number of shares sold at each separate price." /> 
+ <footnote id="F3" text="The option becomes exercisable, if at all, when the average closing price of the Company&apos;s Class A common stock on the NYSE across all trading days during a consecutive 90-day period that occurs after the grant date and during the term of the option equals or exceeds $4.00 per share (such condition of vesting, the Price Condition).  In addition, subject to the Price Condition, the option will vest over four years as follows:  25% of the option shares will vest on May 15, 2010 with the remaining option shares vesting in 36 equal monthly installments commencing June 15, 2010.  Any option shares that would, but for the Price Condition, have vested according to the vesting schedule above, will vest when the Price Condition is met.   The Price Condition was met prior to May 15, 2010." /> 
+</footnotes>
+<remarks />
+<ownerSignature> signatureName="William K. Campbell" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

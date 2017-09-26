@@ -1,0 +1,83 @@
+<Source file="./0001372761-10-000006.nc">
+<SUBMISSION ACCESSION-NUMBER="0001372761-10-000006" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101105" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001309652" CONFORMED-NAME="BUTCHOFSKY ROBERT" /><FILING-VALUES ACT="34" FILE-NUMBER="000-17082" FILM-NUMBER="101171710" FORM-TYPE="4" /><MAIL-ADDRESS CITY="VANCOUVER" STATE="A1" STREET1="887 GREAT NORTHERN WAY" ZIP="V5T 4T5" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="2834" CIK="0000827809" CONFORMED-NAME="QLT INC/BC" FISCAL-YEAR-END="1231" IRS-NUMBER="000000000" STATE-OF-INCORPORATION="A1" /><BUSINESS-ADDRESS CITY="VANCOUVER" PHONE="6047077000" STATE="A1" STREET1="887 GREAT NORTHERN WAY" STREET2="-" ZIP="V5T 4T5" /><MAIL-ADDRESS CITY="VANCOUVER" STATE="A1" STREET1="887 GREAT NORTHERN WAY" ZIP="V5T 4T5" /><FORMER-COMPANY DATE-CHANGED="19960618" FORMER-CONFORMED-NAME="QLT PHOTO THERAPEUTICS INC" /><FORMER-COMPANY DATE-CHANGED="19941201" FORMER-CONFORMED-NAME="QUADRA LOGIC TECHNOLOGIES INC" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-05" schemaVersion="X0303">
+<issuer> issuerCik="0000827809" 
+ issuerName="QLT INC/BC" 
+ issuerTradingSymbol="QLTI" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001309652" 
+ rptOwnerName="BUTCHOFSKY ROBERT" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="VANCOUVER" rptOwnerState="A1" rptOwnerStateDescription="BRITISH COLUMBIA, CANADA" rptOwnerStreet1="C/O QLT INC." rptOwnerStreet2="887 GREAT NORTHERN WAY, SUITE 101" rptOwnerZipCode="V5T 4T5">
+</reportingOwnerAddress>
+<reportingOwnerRelationship isDirector="1" isOfficer="1" isOther="0" isTenPercentOwner="0" officerTitle="President and CEO">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="P" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="591" 
+</transactionShares>
+<transactionPricePerShare value="5.6">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="166088" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="P" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="2409" 
+</transactionShares>
+<transactionPricePerShare value="5.63">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="168497" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeHolding>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="1400" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="By Trust">
+<footnoteId id="F1" /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+</nonDerivativeTable>
+<footnotes>
+<footnote id="F1" text="An aggregate of 1,400 shares are held by the Brock Family Living Trust, for which the Reporting Person is a joint trustee.  The Reporting Person is a 25% beneficiary under the trust and therefore beneficially owns 350 of these shares.  The Reporting Person disclaims beneficial ownership of the shares, except to the extent of his pecuniary interest therein (350 shares)." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="/s/ Robert Butchofsky">
+</ownerSignature>
+</ownershipDocument></Source>

@@ -1,0 +1,163 @@
+<Source file="./0000320187-10-000184.nc">
+<SUBMISSION ACCESSION-NUMBER="0000320187-10-000184" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101105" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001239159" CONFORMED-NAME="DENSON CHARLES D" /><FILING-VALUES ACT="34" FILE-NUMBER="001-10635" FILM-NUMBER="101173464" FORM-TYPE="4" /><MAIL-ADDRESS CITY="BEAVERTON" STATE="OR" STREET1="ONE BOWERMAN DRIVE" ZIP="97005" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="3021" CIK="0000320187" CONFORMED-NAME="NIKE INC" FISCAL-YEAR-END="0531" IRS-NUMBER="930584541" STATE-OF-INCORPORATION="OR" /><BUSINESS-ADDRESS CITY="BEAVERTON" PHONE="5036713173" STATE="OR" STREET1="ONE BOWERMAN DR" ZIP="97005-6453" /><MAIL-ADDRESS CITY="BEAVERTON" STATE="OR" STREET1="ONE BOWERMAN DR" ZIP="97005-6453" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-05" schemaVersion="X0303">
+<issuer> issuerCik="0000320187" 
+ issuerName="NIKE INC" 
+ issuerTradingSymbol="NKE" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001239159" 
+ rptOwnerName="DENSON CHARLES D" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="BEAVERTON" rptOwnerState="OR" rptOwnerStreet1="ONE BOWERMAN DRIVE" rptOwnerStreet2="" rptOwnerZipCode="97005" />
+
+
+<reportingOwnerRelationship isDirector="0" isOfficer="1" isOther="0" isTenPercentOwner="0" officerTitle="President-NIKE Brand">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Class B Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+<footnoteId id="F1" /> 
+</transactionDate>
+<transactionCoding> transactionFormType="4" 
+ transactionCode="M" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="25000" 
+</transactionShares>
+<transactionPricePerShare value="24.49">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="113266" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Class B Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="25000" 
+</transactionShares>
+<transactionPricePerShare value="84">
+<footnoteId id="F2" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="D" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="88266" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeHolding>
+<securityTitle> value="Class B Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="10000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="by Denson Invest">
+<footnoteId id="F3" /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding><securityTitle> value="Class B Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="17960" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="by Denson Trust">
+<footnoteId id="F4" /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding><securityTitle> value="Class B Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="1683" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="by ESPP">
+<footnoteId id="F5" /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding><securityTitle> value="Class B Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="8504" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="by Retirement Plan">
+<footnoteId id="F6" /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+</nonDerivativeTable>
+<derivativeTable>
+<derivativeTransaction><securityTitle> value="Non-Qualified Stock Option (right to buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="24.49">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="25000" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate><footnoteId id="F7" /> 
+</exerciseDate>
+<expirationDate> value="2012-07-22" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Class B Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="25000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="45000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="Exercise and sale pursuant to an approved 10b5-1 trading plan.  Pursuant to Company policy, market sales of Company stock by officers and directors are permitted only after the second full trading day after the public release of quarterly earnings and ending on the last day of the second month of the following fiscal quarter, except pursuant to approved 10b5-1 trading plans." /> 
+ <footnote id="F2" text="The price reported in Column 4 is a weighted average price.  These shares were sold in multiple transactions at prices ranging from $84.00 to $84.01, inclusive.  The reporting person undertakes to provide NIKE, Inc., any security holder of NIKE, Inc., or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the ranges set forth in the footnotes (2) to this Form 4." /> 
+ <footnote id="F3" text="Charles D. Denson, Member of Denson Investments LLC." /> 
+ <footnote id="F4" text="Charles D. Denson, Trustee of the Charles D. Denson 2009 Annuity Trust." /> 
+ <footnote id="F5" text="Shares held in account under NIKE, Inc. Employee Stock Purchase Plan." /> 
+ <footnote id="F6" text="Shares held in account under the NIKE, Inc. 401(k) and Profit Sharing Plan." /> 
+ <footnote id="F7" text="Option granted on 7/22/2002 and becomes exercisable with respect to 25% of the shares on each of the first four anniversaries of the date of the grant." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="By: Ann M. Miller  For: Charles Denson">
+</ownerSignature>
+</ownershipDocument></Source>

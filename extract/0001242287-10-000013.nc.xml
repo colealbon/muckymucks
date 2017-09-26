@@ -1,0 +1,130 @@
+<Source file="./0001242287-10-000013.nc">
+<SUBMISSION ACCESSION-NUMBER="0001242287-10-000013" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101105" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001242287" CONFORMED-NAME="CAPP STEPHEN H" /><FILING-VALUES ACT="34" FILE-NUMBER="001-13641" FILM-NUMBER="101172881" FORM-TYPE="4" /><MAIL-ADDRESS CITY="LAS VEGAS" STATE="NV" STREET1="C/O PINNACLE ENTERTAINMENT INC" STREET2="8918 SPANISH RIDGE AVENUE" ZIP="89148" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="7990" CIK="0000356213" CONFORMED-NAME="PINNACLE ENTERTAINMENT INC." FISCAL-YEAR-END="1231" IRS-NUMBER="953667491" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="LAS VEGAS" PHONE="702-541-7777" STATE="NV" STREET1="8918 SPANISH RIDGE AVENUE" ZIP="89148" /><MAIL-ADDRESS CITY="LAS VEGAS" STATE="NV" STREET1="8918 SPANISH RIDGE AVENUE" ZIP="89148" /><FORMER-COMPANY DATE-CHANGED="20000225" FORMER-CONFORMED-NAME="PINNACLE ENTERTAINMENT INC" /><FORMER-COMPANY DATE-CHANGED="19920703" FORMER-CONFORMED-NAME="HOLLYWOOD PARK INC/NEW/" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" periodOfReport="2010-11-05" schemaVersion="X0303">
+<issuer> issuerCik="0000356213" 
+ issuerName="PINNACLE ENTERTAINMENT INC." 
+ issuerTradingSymbol="PNK" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001242287" 
+ rptOwnerName="CAPP STEPHEN H" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="LAS VEGAS" rptOwnerState="NV" rptOwnerStreet1="C/O PINNACLE ENTERTAINMENT, INC." rptOwnerStreet2="8918 SPANISH RIDGE AVENUE" rptOwnerZipCode="89148">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="1" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+ officerTitle="Exec. Vice Pres. &amp; CFO" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="14200" 
+</transactionShares>
+<transactionPricePerShare value="6.05">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="56700" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+<footnoteId id="F1" /> 
+</transactionCoding>
+<transactionAmounts><transactionShares> value="14200" 
+</transactionShares>
+<transactionPricePerShare value="14.28">
+<footnoteId id="F2" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="D" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="42500" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeHolding><securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="7311" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="By 401(k) Plan">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+</nonDerivativeTable>
+<derivativeTable><derivativeTransaction><securityTitle> value="Stock Options (Right to Buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="6.05">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="14200" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate><footnoteId id="F3" /> 
+</exerciseDate>
+<expirationDate> value="2013-01-11" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="14200">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="5737" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<footnotes>
+<footnote id="F1" text="The sales reported in this Form 4 were effected pursuant to a Rule 10b5-1 trading plan adopted by the reporting person on June 11, 2010." /> 
+ <footnote id="F2" text="The price reported in Column 4 is a weighted average price.  These shares were sold in multiple transactions at prices ranging from $14.25 to $14.32, inclusive.  The reporting person undertakes to provide to Pinnacle Entertainment, Inc., any security holder of Pinnacle Entertainment, Inc., or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each price within the ranges set forth in footnote (2) to this Form 4." /> 
+ <footnote id="F3" text="The stock options vested in five equal annual installments on January 11, 2004, January 11, 2005, January 11, 2006, January 11, 2007 and January 11, 2008." /> 
+</footnotes>
+<remarks />
+<ownerSignature> signatureName="/s/ Elliot D. Hoops, Attorney-In-Fact for Stephen H. Capp" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

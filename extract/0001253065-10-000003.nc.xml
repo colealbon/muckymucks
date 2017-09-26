@@ -1,0 +1,58 @@
+<Source file="./0001253065-10-000003.nc">
+<SUBMISSION ACCESSION-NUMBER="0001253065-10-000003" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101102" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001253065" CONFORMED-NAME="SIEGEL SEYMOUR" /><FILING-VALUES ACT="34" FILE-NUMBER="001-13550" FILM-NUMBER="101171627" FORM-TYPE="4" /><MAIL-ADDRESS CITY="HAUPPAUGE" STATE="NY" STREET1="91 CABOT COURT" ZIP="11788" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="3577" CIK="0000930803" CONFORMED-NAME="HAUPPAUGE DIGITAL INC" FISCAL-YEAR-END="1226" IRS-NUMBER="113227864" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="HAUPPAUGE" PHONE="5164341600" STATE="NY" STREET1="91 CABOT COURT" ZIP="11788" /><MAIL-ADDRESS CITY="HAUPPAUGE" STATE="NY" STREET1="91 CABOT COURT" ZIP="11788" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-02" schemaVersion="X0303">
+<issuer> issuerCik="0000930803" 
+ issuerName="HAUPPAUGE DIGITAL INC" 
+ issuerTradingSymbol="HAUP" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001253065" 
+ rptOwnerName="SIEGEL SEYMOUR" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="HAUPPAUGE" rptOwnerState="NY" rptOwnerStreet1="91 CABOT COURT" rptOwnerStreet2="" rptOwnerZipCode="11788" />
+
+
+<reportingOwnerRelationship isDirector="1" isOfficer="0" isOther="0" isTenPercentOwner="0">
+</reportingOwnerRelationship>
+</reportingOwner>
+<derivativeTable><derivativeTransaction><securityTitle> value="STOCK OPTION" 
+</securityTitle>
+<conversionOrExercisePrice value="2.27">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-02">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="A" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="10000" 
+<footnoteId id="F1" /> 
+</transactionShares>
+<transactionPricePerShare> value="0" 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate> value="2011-11-02" 
+</exerciseDate>
+<expirationDate value="2020-11-01">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="COMMON STOCK" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="10000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="55000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="Stock option granted on 11/02/2010" /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="SEYMOUR SIEGEL">
+</ownerSignature>
+</ownershipDocument></Source>

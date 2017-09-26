@@ -1,0 +1,116 @@
+<Source file="./0001140361-10-044121.nc">
+<SUBMISSION ACCESSION-NUMBER="0001140361-10-044121" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101108" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001186051" CONFORMED-NAME="BAUSEWINE GEORGE W" /><FILING-VALUES ACT="34" FILE-NUMBER="001-15759" FILM-NUMBER="101171504" FORM-TYPE="4" /><MAIL-ADDRESS CITY="PINEVILLE" STATE="LA" STREET1="PINEVILLE GENERAL OFFICE" STREET2="2030 DONAHUE FERRY RD PO BOX 5000" ZIP="71361-5000" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="4911" CIK="0001089819" CONFORMED-NAME="CLECO CORP" FISCAL-YEAR-END="1231" IRS-NUMBER="721445282" STATE-OF-INCORPORATION="LA" /><BUSINESS-ADDRESS CITY="PINEVILLE" PHONE="3184847400" STATE="LA" STREET1="2030 DONAHUE FERRY ROAD" ZIP="71360-5226" /><MAIL-ADDRESS CITY="PINEVILLE" STATE="LA" STREET1="PO BOX 5000" ZIP="71361-5000" /><FORMER-COMPANY DATE-CHANGED="19990630" FORMER-CONFORMED-NAME="CLECO HOLDING CORP" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-08" schemaVersion="X0303">
+<issuer> issuerCik="0001089819" 
+ issuerName="CLECO CORP" 
+ issuerTradingSymbol="CNL" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001186051" 
+ rptOwnerName="BAUSEWINE GEORGE W" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="PINEVILLE" rptOwnerState="LA" rptOwnerStreet1="P.O. BOX 5000" rptOwnerStreet2="" rptOwnerZipCode="71361-5000" />
+
+
+<reportingOwnerRelationship isDirector="0" isOfficer="1" isOther="0" isTenPercentOwner="0" officerTitle="President &amp; COO - Cleco Power">
+<otherText /> 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable>
+<nonDerivativeTransaction><securityTitle> value="Common Stock, $1 par" 
+</securityTitle>
+<transactionDate value="2010-11-08">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="M" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="4000" 
+</transactionShares>
+<transactionPricePerShare value="22.25">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="60247.0152" 
+<footnoteId id="F1" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock, $1 par" 
+</securityTitle>
+<transactionDate value="2010-11-08">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="S" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="4000" 
+</transactionShares>
+<transactionPricePerShare value="31.4634">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="56247.0152" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<derivativeTable><derivativeTransaction><securityTitle> value="Non-Qualified Stock Option" 
+</securityTitle>
+<conversionOrExercisePrice value="22.25">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-08">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="X" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="4000" 
+</transactionShares>
+<transactionPricePerShare>
+<footnoteId id="F2" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="D" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate> value="2007-07-27" 
+</exerciseDate>
+<expirationDate value="2011-07-27">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock, $1 par" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="4000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="0" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="Total includes 81.584 shares acquired through contributions and/or reinvestment of dividends under the Company&apos;s 401(k) plan during the period 03/18/2010 through 06/30/2010." /> 
+ <footnote id="F2" text="Right to buy granted under the Company&apos;s 2000 Long-Term Incentive Compensation Plan." /> 
+</footnotes>
+<remarks />
+<ownerSignature> signatureName="Judy P. Miller, Attorney-in-Fact for George W. Bausewine" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

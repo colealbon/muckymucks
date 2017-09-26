@@ -1,0 +1,121 @@
+<Source file="./0001140361-10-044122.nc">
+<SUBMISSION ACCESSION-NUMBER="0001140361-10-044122" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001243746" CONFORMED-NAME="ZEILSTRA DAVID C" /><FILING-VALUES ACT="34" FILE-NUMBER="000-27754" FILM-NUMBER="101171539" FORM-TYPE="4" /><MAIL-ADDRESS CITY="DOWNERS GROVA" STATE="IL" STREET1="3050 HIGHLAND PARKWAY" STREET2="STE 100" ZIP="60515" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="4731" CIK="0000940942" CONFORMED-NAME="HUB GROUP INC" FISCAL-YEAR-END="1231" IRS-NUMBER="364007085" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="LOMBARD" PHONE="7089645800" STATE="IL" STREET1="377 E BUTTERFIELD RD" STREET2="STE 700" ZIP="60148" /><MAIL-ADDRESS CITY="LOMBARD" STATE="IL" STREET1="377 EAST BUTTERFIELD RD" STREET2="SUITE 700" ZIP="60148" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0000940942" 
+ issuerName="HUB GROUP INC" 
+ issuerTradingSymbol="HUBG" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001243746" 
+ rptOwnerName="ZEILSTRA DAVID C" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="DOWNERS GROVE" rptOwnerState="IL" rptOwnerStreet1="3050 HIGHLAND PKWY" rptOwnerStreet2="SUITE 100" rptOwnerZipCode="60515">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="1" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+ officerTitle="VP, Gen'l Counsel, Secretary" 
+<otherText /> 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable>
+<nonDerivativeTransaction><securityTitle> value="Class A Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="M" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="15000" 
+</transactionShares>
+<transactionPricePerShare value="1.30">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="81221" 
+<footnoteId id="F1" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Class A Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="S" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="6350" 
+</transactionShares>
+<transactionPricePerShare value="33.6967">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="74871" 
+<footnoteId id="F1" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<derivativeTable><derivativeTransaction><securityTitle> value="Stock Options (Right to Buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="1.30">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="M" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="15000" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate> value="2005-12-16" 
+</exerciseDate>
+<expirationDate value="2012-12-16">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Class A Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="15000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="0" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="20,995 of the shares of Class A Common Stock are restricted stock subject to vesting requirements." /> 
+</footnotes>
+<remarks />
+<ownerSignature> signatureName="/s/ David C. Zeilstra" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

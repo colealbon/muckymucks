@@ -1,0 +1,49 @@
+<Source file="./0001127602-10-027309.nc">
+<SUBMISSION ACCESSION-NUMBER="0001127602-10-027309" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20100125" PUBLIC-DOCUMENT-COUNT="1" TYPE="4/A"><ISSUER><COMPANY-DATA ASSIGNED-SIC="6331" CIK="0000086312" CONFORMED-NAME="TRAVELERS COMPANIES, INC." FISCAL-YEAR-END="1231" IRS-NUMBER="410518860" STATE-OF-INCORPORATION="MN" /><BUSINESS-ADDRESS CITY="SAINT PAUL" PHONE="6513107911" STATE="MN" STREET1="385 WASHINGTON ST" ZIP="55102" /><MAIL-ADDRESS CITY="ST. PAUL" STATE="MN" STREET1="385 WASHINGTON STREET" ZIP="55102" /><FORMER-COMPANY DATE-CHANGED="20040401" FORMER-CONFORMED-NAME="ST PAUL TRAVELERS COMPANIES INC" /><FORMER-COMPANY DATE-CHANGED="19990219" FORMER-CONFORMED-NAME="ST PAUL FIRE &amp; MARINE INSURANCE CO/MD" /><FORMER-COMPANY DATE-CHANGED="19990219" FORMER-CONFORMED-NAME="ST PAUL COMPANIES INC/MN/" /></ISSUER><REPORTING-OWNER><OWNER-DATA ASSIGNED-SIC="6331" CIK="0001224084" CONFORMED-NAME="RUSSELL DOUGLAS K" FISCAL-YEAR-END="1231" /><FILING-VALUES ACT="34" FILE-NUMBER="001-10898" FILM-NUMBER="101172740" FORM-TYPE="4/A" /><BUSINESS-ADDRESS CITY="HARTFORD" PHONE="860 277 0111" STATE="CT" STREET1="ONE TOWER SQUARE" ZIP="06183" /><MAIL-ADDRESS CITY="HARTFORD" STATE="CT" STREET1="THE TRAVELERS COMPANIES INC" STREET2="ONE TOWER SQ" ZIP="06183" /><FORMER-NAME DATE-CHANGED="20030321" FORMER-CONFORMED-NAME="RUSSEL DOUGLAS K" /></REPORTING-OWNER></SUBMISSION><ownershipDocument dateOfOriginalSubmission="2010-01-27" documentType="4/A" periodOfReport="2010-01-25" schemaVersion="X0303">
+<issuer> issuerCik="0000086312" 
+ issuerName="TRAVELERS COMPANIES, INC." 
+ issuerTradingSymbol="TRV" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001224084" 
+ rptOwnerName="RUSSELL DOUGLAS K" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="ST. PAUL" rptOwnerState="MN" rptOwnerStreet1="THE TRAVELERS COMPANIES, INC." rptOwnerStreet2="385 WASHINGTON STREET" rptOwnerZipCode="55102">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isOfficer="1" 
+ officerTitle="SVP &amp; Controller" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-01-25">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="F" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness />
+<transactionAmounts><transactionShares> value="884" 
+<footnoteId id="F1" /> 
+</transactionShares>
+<transactionPricePerShare> value="48.53" 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="23661" 
+<footnoteId id="F2" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<footnotes> <footnote id="F1" text="Represents shares withheld for payment of taxes due upon vesting of restricted stock, which was originally granted on January 25, 2005, and reported on Form 4 at the time of the grant." /> 
+ <footnote id="F2" text="This Amendment amends the direct holdings totals reported in Column 5 of Table I to reflect shares of The Travelers Companies, Inc. common stock acquired from October 1, 2009 to January 4, 2010 pursuant to an automatic dividend reinvestment plan provided by a broker under terms similar to the Issuer&apos;s Dividend Reinvestment Plan." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="/s/Wendy C. Skjerven, by power of attorney">
+</ownerSignature>
+</ownershipDocument></Source>

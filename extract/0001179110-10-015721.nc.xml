@@ -1,0 +1,99 @@
+<Source file="./0001179110-10-015721.nc">
+<SUBMISSION ACCESSION-NUMBER="0001179110-10-015721" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001233677" CONFORMED-NAME="ROUSSEAU MICHAEL T" /><FILING-VALUES ACT="34" FILE-NUMBER="001-12441" FILM-NUMBER="101172606" FORM-TYPE="4" /><MAIL-ADDRESS CITY="ST. PAUL" STATE="MN" STREET1="ONE ST JUDE MEDICAL DRIVE" ZIP="55117" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="3845" CIK="0000203077" CONFORMED-NAME="ST JUDE MEDICAL INC" FISCAL-YEAR-END="1231" IRS-NUMBER="411276891" STATE-OF-INCORPORATION="MN" /><BUSINESS-ADDRESS CITY="ST PAUL" PHONE="6517562000" STATE="MN" STREET1="ONE ST JUDE MEDICAL DRIVE" ZIP="55117" /><MAIL-ADDRESS CITY="ST PAUL" STATE="MN" STREET1="ONE ST JUDE MEDICAL DRIVE" ZIP="55117" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0000203077" 
+ issuerName="ST JUDE MEDICAL INC" 
+ issuerTradingSymbol="STJ" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001233677" 
+ rptOwnerName="ROUSSEAU MICHAEL T" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="ST. PAUL" rptOwnerState="MN" rptOwnerStreet1="ONE ST. JUDE MEDICAL DRIVE" rptOwnerStreet2="" rptOwnerZipCode="55117" />
+
+
+<reportingOwnerRelationship isDirector="0" isOfficer="1" isOther="0" isTenPercentOwner="0" officerTitle="Group President">
+<otherText /> 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable>
+<nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="90000" 
+</transactionShares>
+<transactionPricePerShare value="17.36">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="109215" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="90000" 
+</transactionShares>
+<transactionPricePerShare value="38.00">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="19215" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<derivativeTable><derivativeTransaction><securityTitle> value="Stock Option (Right to Buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="17.36">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="90000" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate> value="2003-12-09" 
+</exerciseDate>
+<expirationDate value="2010-12-09">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="90000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="0" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<ownerSignature signatureDate="2010-11-08" signatureName="/s/ Kashif Rashid, Attorney in Fact">
+</ownerSignature>
+</ownershipDocument></Source>

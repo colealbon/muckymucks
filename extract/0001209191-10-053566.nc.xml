@@ -1,0 +1,55 @@
+<Source file="./0001209191-10-053566.nc">
+<SUBMISSION ACCESSION-NUMBER="0001209191-10-053566" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="2" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001342165" CONFORMED-NAME="Reinland Andrew" /><FILING-VALUES ACT="34" FILE-NUMBER="000-26041" FILM-NUMBER="101171164" FORM-TYPE="4" /><MAIL-ADDRESS CITY="SEATTLE" STATE="WA" STREET1="C/O F5 NETWORKS, INC." STREET2="401 ELLIOTT AVE. WEST" ZIP="98119" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="3576" CIK="0001048695" CONFORMED-NAME="F5 NETWORKS INC" FISCAL-YEAR-END="0930" IRS-NUMBER="911714307" STATE-OF-INCORPORATION="WA" /><BUSINESS-ADDRESS CITY="SEATTLE" PHONE="2062725555" STATE="WA" STREET1="401 ELLIOT AVE WEST" STREET2="STE 500" ZIP="98119" /><MAIL-ADDRESS CITY="SEATTLE" STATE="WA" STREET1="401 ELLIOT AVE WEST" STREET2="STE 500" ZIP="98119" /><FORMER-COMPANY DATE-CHANGED="19990305" FORMER-CONFORMED-NAME="F5 LABS INC" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0001048695" 
+ issuerName="F5 NETWORKS INC" 
+ issuerTradingSymbol="FFIV" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001342165" 
+ rptOwnerName="Reinland Andrew" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="SEATTLE" rptOwnerState="WA" rptOwnerStreet1="C/O F5 NETWORKS, INC." rptOwnerStreet2="401 ELLIOTT AVE. WEST" rptOwnerZipCode="98119">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="1" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+ officerTitle="Sr.VP, Chief Finance Officer" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="S" 
+ equitySwapInvolved="0" 
+<footnoteId id="F1" /> 
+</transactionCoding>
+<transactionTimeliness><value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="3571" 
+</transactionShares>
+<transactionPricePerShare value="125.00">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="892" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<footnotes> <footnote id="F1" text="Sale pursuant to the terms of a 10b5-1 trading plan." /> 
+</footnotes>
+<remarks />
+<ownerSignature> signatureName="/s/ Jeffrey A. Christianson by Power of Attorney" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

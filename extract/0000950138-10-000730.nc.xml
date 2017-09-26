@@ -1,0 +1,103 @@
+<Source file="./0000950138-10-000730.nc">
+<SUBMISSION ACCESSION-NUMBER="0000950138-10-000730" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><ISSUER><COMPANY-DATA ASSIGNED-SIC="3600" CIK="0000032604" CONFORMED-NAME="EMERSON ELECTRIC CO" FISCAL-YEAR-END="0930" IRS-NUMBER="430259330" STATE-OF-INCORPORATION="MO" /><BUSINESS-ADDRESS CITY="ST LOUIS" PHONE="3145532000" STATE="MO" STREET1="8000 W FLORISSANT AVE" STREET2="P O BOX 4100" ZIP="63136" /><MAIL-ADDRESS CITY="ST LOUIS" STATE="MO" STREET1="8000 W. FLORISSANT" STREET2="P.O. BOX 4100" ZIP="63136" /><FORMER-COMPANY DATE-CHANGED="19730710" FORMER-CONFORMED-NAME="EMERSON ELECTRIC MANUFACTUING CO" /></ISSUER><REPORTING-OWNER><OWNER-DATA CIK="0001205462" CONFORMED-NAME="SCHLUETER RICHARD J" /><FILING-VALUES ACT="34" FILE-NUMBER="001-00278" FILM-NUMBER="101173553" FORM-TYPE="4" /><MAIL-ADDRESS CITY="ST LOUIS" STATE="MO" STREET1="C/O EMERSON ELECTRIC CO" STREET2="8000 W FLORISSANT" ZIP="63136" /></REPORTING-OWNER></SUBMISSION><ownershipDocument documentType="4" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0000032604" 
+ issuerName="EMERSON ELECTRIC CO" 
+ issuerTradingSymbol="EMR" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001205462" 
+ rptOwnerName="SCHLUETER RICHARD J" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="ST. LOUIS" rptOwnerState="MO" rptOwnerStreet1="C/O EMERSON ELECTRIC CO." rptOwnerStreet2="8000 W FLORISSANT" rptOwnerZipCode="63136">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="1" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+ officerTitle="VP &amp; Chief Accounting Officer" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="6617" 
+</transactionShares>
+<transactionPricePerShare value="56.6804">
+<footnoteId id="F1" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="D" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="51286" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-08">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="151" 
+</transactionShares>
+<transactionPricePerShare value="56.611">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="51135" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeHolding><securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="1773.709" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="401(k) plan">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="632.43" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="401(k) excess plan">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+</nonDerivativeTable>
+<footnotes> <footnote id="F1" text="The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $56.6800 to $56.6812. The reporting person undertakes to provide Emerson Electric Co., any security holder of Emerson Electric Co., or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each price within the range set forth in this footnote." /> 
+</footnotes>
+<remarks />
+<ownerSignature> signatureName="/s/ Timothy G. Westman, Attorney-in-Fact for Richard J. Schlueter" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

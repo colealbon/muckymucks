@@ -1,0 +1,61 @@
+<Source file="./0000950117-10-001291.nc">
+<SUBMISSION ACCESSION-NUMBER="0000950117-10-001291" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101105" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001430870" CONFORMED-NAME="Kramvis Andreas" /><FILING-VALUES ACT="34" FILE-NUMBER="001-08974" FILM-NUMBER="101170967" FORM-TYPE="4" /><MAIL-ADDRESS CITY="MORRISTOWN" STATE="NJ" STREET1="101 COLUMBIA ROAD" ZIP="07960" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="3714" CIK="0000773840" CONFORMED-NAME="HONEYWELL INTERNATIONAL INC" FISCAL-YEAR-END="1231" IRS-NUMBER="222640650" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="MORRISTOWN" PHONE="9734552000" STATE="NJ" STREET1="101 COLUMBIA RD" STREET2="PO BOX 4000" ZIP="07962" /><MAIL-ADDRESS CITY="MORRISTOWN" STATE="NJ" STREET1="101 COLUMBIA RD P O BOX 4000" STREET2="101 COLUMBIA RD P O BOX 4000" ZIP="07962" /><FORMER-COMPANY DATE-CHANGED="19940929" FORMER-CONFORMED-NAME="ALLIEDSIGNAL INC" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-05" schemaVersion="X0303">
+<issuer> issuerCik="0000773840" 
+ issuerName="HONEYWELL INTERNATIONAL INC" 
+ issuerTradingSymbol="HON" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001430870" 
+ rptOwnerName="Kramvis Andreas" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="MORRISTOWN" rptOwnerState="NJ" rptOwnerStreet1="101 COLUMBIA ROAD" rptOwnerStreet2="" rptOwnerZipCode="07960" />
+
+
+<reportingOwnerRelationship isDirector="0" isOfficer="1" isOther="0" isTenPercentOwner="0" officerTitle="President &amp; CEO, SM">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable /> 
+<derivativeTable>
+<derivativeTransaction><securityTitle> value="Supplemental Savings Plan Interests" 
+</securityTitle>
+<conversionOrExercisePrice>
+<footnoteId id="F1" /> 
+</conversionOrExercisePrice>
+<transactionDate> value="2010-11-05" 
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="A" 
+ equitySwapInvolved="0" 
+<footnoteId id="F2" /> 
+</transactionCoding>
+<transactionAmounts><transactionShares> value="10.38" 
+</transactionShares>
+<transactionPricePerShare value="49.28">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate><footnoteId id="F2" /> 
+</exerciseDate>
+<expirationDate><footnoteId id="F2" /> 
+</expirationDate>
+<underlyingSecurity><underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="10.38">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="3662.007" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="Instrument converts to common stock on a one-for-one basis." /> 
+ <footnote id="F2" text="Reflects phantom shares of common stock represented by Company contributions to my account under the Executive Supplemental Savings Plan under Rule 16b-3 on 11/05/2010." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="Jacqueline Katzel FOR Andreas Kramvis">
+</ownerSignature>
+</ownershipDocument></Source>

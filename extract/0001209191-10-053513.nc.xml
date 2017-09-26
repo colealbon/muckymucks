@@ -1,0 +1,65 @@
+<Source file="./0001209191-10-053513.nc">
+<SUBMISSION ACCESSION-NUMBER="0001209191-10-053513" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><ISSUER><COMPANY-DATA ASSIGNED-SIC="4911" CIK="0001296445" CONFORMED-NAME="ORMAT TECHNOLOGIES, INC." FISCAL-YEAR-END="1231" IRS-NUMBER="880326081" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="RENO" PHONE="775-356-9029" STATE="NV" STREET1="6225 NEIL ROAD, SUITE 300" ZIP="89511-1136" /><MAIL-ADDRESS CITY="RENO" STATE="NV" STREET1="6225 NEIL ROAD, SUITE 300" ZIP="89511-1136" /></ISSUER><REPORTING-OWNER><OWNER-DATA CIK="0001087425" CONFORMED-NAME="GALE ROGER W" /><FILING-VALUES ACT="34" FILE-NUMBER="001-32347" FILM-NUMBER="101170666" FORM-TYPE="4" /><MAIL-ADDRESS CITY="RENO" STATE="NV" STREET1="6225 NEIL ROAD, SUITE 300" STREET2="C/O ORMAT TECHNOLOGIES, INC." ZIP="89511" /></REPORTING-OWNER></SUBMISSION><ownershipDocument documentType="4" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0001296445" 
+ issuerName="ORMAT TECHNOLOGIES, INC." 
+ issuerTradingSymbol="ORA" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001087425" 
+ rptOwnerName="GALE ROGER W" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="RENO" rptOwnerState="NV" rptOwnerStreet1="C/O ORMAT TECHNOLOGIES, INC." rptOwnerStreet2="6225 NEIL ROAD" rptOwnerZipCode="89511">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="1" 
+ isOfficer="0" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable /> 
+<derivativeTable>
+<derivativeTransaction><securityTitle> value="Stock Option ( Right to Buy)" 
+<footnoteId id="F1" /> 
+</securityTitle>
+<conversionOrExercisePrice> value="28.19" 
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="A" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="7500" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate> value="2011-11-04" 
+</exerciseDate>
+<expirationDate value="2017-11-04">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="7500">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="45000" 
+<footnoteId id="F1" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="The total amount of 45,000 represents the following grants: (i) 7500 stock options at exercise price of $20.10 ea exercisable 11/09/2006 to 11/09/2014 (ii)7500 stock options at exercise price of $37.90 ea exercisable 11/07/2007 to 11/07/2013, (iii) 7,500 stock options granted at exercise price of $52.98 ea exercisable from 11/07/2008 to 11/07/2014 (iv)7500 stock options at exercise price of $25.74 ea exercisable 11/075/2009 to 11/07/2015 (v) 7500 stock options at exercise price of $38.50 ea exercisable 11/05/2010 to 11/05/2016 (vi) 7500 stock options at exercise price of $28.19 ea exercisable 11/04/2011 to 11/04/2017," /> 
+</footnotes>
+ remarks="Etty Rosner is signing on behalf of Mr. Gale pursuant to a power of attorney dated 09/28/2006 filed as an exhibit hereto." 
+<ownerSignature signatureDate="2010-11-08" signatureName="/s/ Etty Rosner">
+</ownerSignature>
+</ownershipDocument></Source>

@@ -1,0 +1,120 @@
+<Source file="./0001209191-10-053771.nc">
+<SUBMISSION ACCESSION-NUMBER="0001209191-10-053771" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001202432" CONFORMED-NAME="RAKOWICH WALTER C" /><FILING-VALUES ACT="34" FILE-NUMBER="001-12846" FILM-NUMBER="101173819" FORM-TYPE="4" /><MAIL-ADDRESS CITY="AURORA" STATE="CO" STREET1="14100 E 35TH PL" ZIP="80011" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="6798" CIK="0000899881" CONFORMED-NAME="PROLOGIS" FISCAL-YEAR-END="1231" IRS-NUMBER="742604728" STATE-OF-INCORPORATION="MD" /><BUSINESS-ADDRESS CITY="DENVER" PHONE="3033759292" STATE="CO" STREET1="4545 AIRPORT WAY" ZIP="80239" /><MAIL-ADDRESS CITY="DENVER" STATE="CO" STREET1="4545 AIRPORT WAY" ZIP="80239" /><FORMER-COMPANY DATE-CHANGED="19980717" FORMER-CONFORMED-NAME="PROLOGIS TRUST" /><FORMER-COMPANY DATE-CHANGED="19931228" FORMER-CONFORMED-NAME="SECURITY CAPITAL INDUSTRIAL TRUST" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0000899881" 
+ issuerName="PROLOGIS" 
+ issuerTradingSymbol="PLD" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001202432" 
+ rptOwnerName="RAKOWICH WALTER C" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="DENVER" rptOwnerState="CO" rptOwnerStreet1="4545 AIRPORT WAY" rptOwnerStreet2="" rptOwnerZipCode="80239" />
+
+
+<reportingOwnerRelationship isDirector="0" isOfficer="1" isOther="0" isTenPercentOwner="0" officerTitle="Chief Executive Officer">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Shares of Beneficial Interest, par value $.01" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<deemedExecutionDate value="2010-11-04">
+</deemedExecutionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="125000" 
+</transactionShares>
+<transactionPricePerShare value="6.87">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="590727" 
+<footnoteId id="F1" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Shares of Beneficial Interest, par value $.01" 
+<footnoteId id="F2" /> 
+</securityTitle>
+<transactionDate> value="2010-11-04" 
+</transactionDate>
+<deemedExecutionDate value="2010-11-04">
+</deemedExecutionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="F" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="87210" 
+</transactionShares>
+<transactionPricePerShare value="14.11">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="503517" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<derivativeTable><derivativeTransaction><securityTitle> value="Non Qualified Stock Options" 
+</securityTitle>
+<conversionOrExercisePrice value="6.87">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<deemedExecutionDate value="2010-11-04">
+</deemedExecutionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="125000" 
+</transactionShares>
+<transactionPricePerShare value="6.87">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate> value="2009-12-31" 
+</exerciseDate>
+<expirationDate value="2018-11-11">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Shares of Beneficial Interest" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="125000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="680336" 
+<footnoteId id="F3" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="Balance in Column 5 includes 1,782 ProLogis common shares acquired under the ProLogis Employee Share Purchase Plan on June 30, 2010." /> 
+ <footnote id="F2" text="Shares withheld for payment of the stock option exercise price and tax liability associated with the receipt of common shares acquired upon the exercise of stock options referenced in Table II." /> 
+ <footnote id="F3" text="Following this transaction, the reporting person has 371,399 vested stock options and 308,937 unvested stock options." /> 
+</footnotes>
+<remarks />
+<ownerSignature> signatureName="Kristi Oberson, attorney-in-fact for Walter Rakowich" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

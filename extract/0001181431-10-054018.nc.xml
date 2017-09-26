@@ -1,0 +1,107 @@
+<Source file="./0001181431-10-054018.nc">
+<SUBMISSION ACCESSION-NUMBER="0001181431-10-054018" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><ISSUER><COMPANY-DATA ASSIGNED-SIC="7372" CIK="0001134203" CONFORMED-NAME="TALEO CORP" FISCAL-YEAR-END="1231" IRS-NUMBER="000000000" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="DUBLIN" PHONE="9254523000" STATE="CA" STREET1="4140 DUBLIN BOULEVARD" STREET2="SUITE 400" ZIP="94568" /><MAIL-ADDRESS CITY="DUBLIN" STATE="CA" STREET1="4140 DUBLIN BOULEVARD" STREET2="SUITE 400" ZIP="94568" /><FORMER-COMPANY DATE-CHANGED="20010209" FORMER-CONFORMED-NAME="RECRUITSOFT INC" /></ISSUER><REPORTING-OWNER><OWNER-DATA CIK="0001232409" CONFORMED-NAME="GREGOIRE MICHAEL P" /><FILING-VALUES ACT="34" FILE-NUMBER="000-51299" FILM-NUMBER="101172415" FORM-TYPE="4" /><BUSINESS-ADDRESS CITY="DUBLIN" PHONE="925-452-3000" STATE="CA" STREET1="C/O TALEO CORPORATION" STREET2="4140 DUBLIN BOULEVARD, SUITE 400" ZIP="94568" /><MAIL-ADDRESS CITY="DUBLIN" STATE="CA" STREET1="C/O TALEO CORPORATION" STREET2="4140 DUBLIN BOULEVARD, SUITE 400" ZIP="94568" /></REPORTING-OWNER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0001134203" 
+ issuerName="TALEO CORP" 
+ issuerTradingSymbol="TLEO" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001232409" 
+ rptOwnerName="GREGOIRE MICHAEL P" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="DUBLIN" rptOwnerState="CA" rptOwnerStreet1="C/O TALEO CORPORATION" rptOwnerStreet2="4140 DUBLIN BOULEVARD, SUITE 400" rptOwnerZipCode="94568">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="1" 
+ isOfficer="1" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+ officerTitle="Chairman &amp; CEO" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Class A Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="25000" 
+</transactionShares>
+<transactionPricePerShare value="13.75">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="275077" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Class A Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="25000" 
+<footnoteId id="F1" /> 
+</transactionShares>
+<transactionPricePerShare> value="32" 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="250077" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<derivativeTable><derivativeTransaction><securityTitle> value="Employee Stock Option (right to buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="13.75">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="25000" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate> value="2006-12-14" 
+<footnoteId id="F2" /> 
+</exerciseDate>
+<expirationDate> value="2015-12-14" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Class A Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="25000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="50000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="The sale reported in this Form 4 was effected pursuant to a Rule 10b5-1 trading plan adopted by the Reporting Person on May 18, 2010." /> 
+ <footnote id="F2" text="The option is fully vested and exercisable." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="Josh Faddis, Attorney-in-fact for Michael P. Gregoire">
+</ownerSignature>
+</ownershipDocument></Source>

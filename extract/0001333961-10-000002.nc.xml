@@ -1,0 +1,68 @@
+<Source file="./0001333961-10-000002.nc">
+<SUBMISSION ACCESSION-NUMBER="0001333961-10-000002" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101105" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001333961" CONFORMED-NAME="Hymes Victor" /><FILING-VALUES ACT="34" FILE-NUMBER="811-02340" FILM-NUMBER="101171656" FORM-TYPE="4" /><MAIL-ADDRESS CITY="CHICAGO" STATE="IL" STREET1="C/O TONI BUGNI, JACKSON FUND SERVICES" STREET2="225 WEST WACKER DRIVE, SUITE 1200" ZIP="60606" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="0000" CIK="0000067813" CONFORMED-NAME="MONTGOMERY STREET INCOME SECURITIES, INC" FISCAL-YEAR-END="1231" IRS-NUMBER="942192107" STATE-OF-INCORPORATION="MD" /><BUSINESS-ADDRESS CITY="CHICAGO" PHONE="866-255-1935" STATE="IL" STREET1="225 WEST WACKER DRIVE" STREET2="SUITE 1200" ZIP="60606" /><MAIL-ADDRESS CITY="CHICAGO" STATE="IL" STREET1="225 WEST WACKER DRIVE" STREET2="SUITE 1200" ZIP="60606" /><FORMER-COMPANY DATE-CHANGED="19920703" FORMER-CONFORMED-NAME="MONTGOMERY STREET INCOME SECURITIES INC" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-05" schemaVersion="X0303">
+<issuer> issuerCik="0000067813" 
+ issuerName="MONTGOMERY STREET INCOME SECURITIES, INC" 
+ issuerTradingSymbol="MTS" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001333961" 
+ rptOwnerName="Hymes Victor" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="CHICAGO" rptOwnerState="IL" rptOwnerStreet1="C/O TONI BUGNI, JACKSON FUND SERVICES" rptOwnerStreet2="225 WEST WACKER DRIVE, SUITE 1200" rptOwnerZipCode="60606">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="1" 
+ isOfficer="0" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="2900" 
+</transactionShares>
+<transactionPricePerShare value="16.25">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="3511.2401" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="300" 
+</transactionShares>
+<transactionPricePerShare value="16.251">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="3211.2401" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<ownerSignature> signatureName="/s/ Victor L. Hymes" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

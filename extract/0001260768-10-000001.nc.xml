@@ -1,0 +1,89 @@
+<Source file="./0001260768-10-000001.nc">
+<SUBMISSION ACCESSION-NUMBER="0001260768-10-000001" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101029" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001260768" CONFORMED-NAME="DONOVAN WILLIAM JOSEPH" /><FILING-VALUES ACT="34" FILE-NUMBER="000-28238" FILM-NUMBER="101170909" FORM-TYPE="4" /><MAIL-ADDRESS CITY="DULLES" STATE="VA" STREET1="21351 RIDGETOP CIRCLE" ZIP="20166" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="5045" CIK="0000873198" CONFORMED-NAME="Applied Visual Sciences, Inc." FISCAL-YEAR-END="1231" IRS-NUMBER="541521616" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="HERNDON" PHONE="703-464-5495" STATE="VA" STREET1="250 EXCHANGE PLACE" STREET2="SUITE H" ZIP="20170" /><MAIL-ADDRESS CITY="HERNDON" STATE="VA" STREET1="250 EXCHANGE PLACE" STREET2="SUITE H" ZIP="20170" /><FORMER-COMPANY DATE-CHANGED="19960403" FORMER-CONFORMED-NAME="GUARDIAN TECHNOLOGIES INTERNATIONAL INC" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-10-29" schemaVersion="X0303">
+<issuer> issuerCik="0000873198" 
+ issuerName="Applied Visual Sciences, Inc." 
+ issuerTradingSymbol="APVS" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001260768" 
+ rptOwnerName="DONOVAN WILLIAM JOSEPH" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="HERNDON" rptOwnerState="VA" rptOwnerStreet1="250 EXCHANGE PLACE" rptOwnerStreet2="SUITE H" rptOwnerZipCode="20170">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="1" 
+ isOfficer="1" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+ officerTitle="President &amp; COO" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Rule 144 Restricted Common Stock, par value $0.01" 
+</securityTitle>
+<transactionDate value="2010-10-29">
+</transactionDate>
+<deemedExecutionDate value="2010-10-29">
+</deemedExecutionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="P" transactionFormType="5">
+</transactionCoding>
+<transactionTimeliness value="E">
+</transactionTimeliness>
+<transactionAmounts>
+<transactionShares> value="900000" 
+</transactionShares>
+<transactionPricePerShare value="0.25">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="910200" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<derivativeTable><derivativeTransaction><securityTitle> value="Stock Purchase Warrants" 
+</securityTitle>
+<conversionOrExercisePrice value="0.25">
+</conversionOrExercisePrice>
+<transactionDate value="2010-10-29">
+</transactionDate>
+<deemedExecutionDate value="2010-10-29">
+</deemedExecutionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="P" transactionFormType="5">
+</transactionCoding>
+<transactionTimeliness value="E">
+</transactionTimeliness>
+<transactionAmounts>
+<transactionShares> value="1600000" 
+</transactionShares>
+<transactionPricePerShare value="0.25">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate> value="2010-10-29" 
+</exerciseDate>
+<expirationDate value="2015-10-28">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Rule 144 Restricted Common Stock, par value $0.01" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="1600000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="3755772" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<ownerSignature> signatureName="William J Donovan" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

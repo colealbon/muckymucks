@@ -1,0 +1,116 @@
+<Source file="./0001427362-10-000002.nc">
+<SUBMISSION ACCESSION-NUMBER="0001427362-10-000002" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101108" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001239175" CONFORMED-NAME="FIEBIGER JAMES R" /><FILING-VALUES ACT="34" FILE-NUMBER="000-30269" FILM-NUMBER="101173599" FORM-TYPE="4" /><MAIL-ADDRESS CITY="WILSONVILLE" STATE="OR" STREET1="C/OMENTOR GRAPHICS CORP" STREET2="8005 SW BOECKMAN ROAD" ZIP="97070-7777" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="3674" CIK="0001040161" CONFORMED-NAME="PIXELWORKS, INC" FISCAL-YEAR-END="1231" IRS-NUMBER="911761992" STATE-OF-INCORPORATION="OR" /><BUSINESS-ADDRESS CITY="SAN JOSE" PHONE="408-200-9200" STATE="CA" STREET1="224 AIRPORT PARKWAY" STREET2="SUITE 400" ZIP="95110" /><MAIL-ADDRESS CITY="SAN JOSE" STATE="CA" STREET1="224 AIRPORT PARKWAY" STREET2="SUITE 400" ZIP="95110" /><FORMER-COMPANY DATE-CHANGED="20000210" FORMER-CONFORMED-NAME="PIXELWORKS INC" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-08" schemaVersion="X0303">
+<issuer> issuerCik="0001040161" 
+ issuerName="PIXELWORKS, INC" 
+ issuerTradingSymbol="PXLW" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001239175" 
+ rptOwnerName="FIEBIGER JAMES R" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="SAN JOSE" rptOwnerState="CA" rptOwnerStreet1="224 AIRPORT PARKWAY" rptOwnerStreet2="SUITE 400" rptOwnerZipCode="95110">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="1" 
+ isOfficer="0" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-08">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="P" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="8400" 
+</transactionShares>
+<transactionPricePerShare value="3.14">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="65000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<derivativeTable><derivativeHolding><securityTitle> value="Non-Qualified Stock Option (right to buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="1.37">
+</conversionOrExercisePrice>
+<exerciseDate>
+<footnoteId id="F1" /> 
+</exerciseDate>
+<expirationDate> value="2016-05-19" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="6000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="6000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Non-Qualified Stock Option (right to buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="2.43">
+</conversionOrExercisePrice>
+<exerciseDate>
+<footnoteId id="F1" /> 
+</exerciseDate>
+<expirationDate> value="2018-05-20" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="3333">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="3333" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Non-Qualified Stock Option (right to buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="4.14">
+</conversionOrExercisePrice>
+<exerciseDate>
+<footnoteId id="F1" /> 
+</exerciseDate>
+<expirationDate> value="2017-05-22" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="3333">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="3333" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="25% vest on the last day of the month of the first anniversary of the date of grant, with the remaining 75% vesting ratably on a monthly basis thereafter over three years." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="James R Fiebiger">
+</ownerSignature>
+</ownershipDocument></Source>

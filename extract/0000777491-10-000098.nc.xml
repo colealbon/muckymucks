@@ -1,0 +1,21 @@
+<Source file="./0000777491-10-000098.nc">
+<SUBMISSION ACCESSION-NUMBER="0000777491-10-000098" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101101" PUBLIC-DOCUMENT-COUNT="1" TYPE="3"><REPORTING-OWNER><OWNER-DATA CIK="0001504828" CONFORMED-NAME="Lucki Michael A." /><FILING-VALUES ACT="34" FILE-NUMBER="000-27261" FILM-NUMBER="101171525" FORM-TYPE="3" /><MAIL-ADDRESS CITY="ENGLEWOOD" STATE="CO" STREET1="9191 SOUTH JAMAICA STREET" ZIP="80112" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="8711" CIK="0000777491" CONFORMED-NAME="CH2M HILL COMPANIES LTD" FISCAL-YEAR-END="1231" IRS-NUMBER="930549963" STATE-OF-INCORPORATION="OR" /><BUSINESS-ADDRESS CITY="ENGLEWOOD" PHONE="3037710900" STATE="CO" STREET1="9191 S.JAMAICA STREET" ZIP="80112" /><MAIL-ADDRESS CITY="ENGLEWOOD" STATE="CO" STREET1="9191 S. JAMAICA STREET" ZIP="80112" /></ISSUER></SUBMISSION><ownershipDocument documentType="3" noSecuritiesOwned="1" periodOfReport="2010-11-01" schemaVersion="X0203">
+<issuer> issuerCik="0000777491" 
+ issuerName="CH2M HILL COMPANIES LTD" 
+ issuerTradingSymbol="NONE" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001504828" 
+ rptOwnerName="Lucki Michael A." 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="ENGLEWOOD" rptOwnerState="CO" rptOwnerStreet1="9191 SOUTH JAMAICA STREET" rptOwnerStreet2="" rptOwnerZipCode="80112" />
+
+
+<reportingOwnerRelationship isDirector="0" isOfficer="1" isOther="0" isTenPercentOwner="0" officerTitle="Sr. V.P. &amp; CFO">
+</reportingOwnerRelationship>
+</reportingOwner>
+<remarks />
+<ownerSignature> signatureName="Christine Grawemeyer - Attorney-in-Fact for Michael A. Lucki" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

@@ -1,0 +1,128 @@
+<Source file="./0001127602-10-027204.nc">
+<SUBMISSION ACCESSION-NUMBER="0001127602-10-027204" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101105" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001282170" CONFORMED-NAME="MORELAND KENNETH V" /><FILING-VALUES ACT="34" FILE-NUMBER="033-07012-99" FILM-NUMBER="101171334" FORM-TYPE="4" /><MAIL-ADDRESS CITY="BALTIMORE" STATE="MD" STREET1="100 E PRATT STREET" STREET2="T ROWE PRICE GROUP INC" ZIP="21202" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="6200" CIK="0001113169" CONFORMED-NAME="PRICE T ROWE GROUP INC" FISCAL-YEAR-END="1231" IRS-NUMBER="522264646" STATE-OF-INCORPORATION="MD" /><BUSINESS-ADDRESS CITY="BALTIMORE" PHONE="4103452000" STATE="MD" STREET1="100 EAST PRATT STREET" STREET2="P.O. BOX 89000" ZIP="21289-0320" /><MAIL-ADDRESS CITY="BALTIMORE" STATE="MD" STREET1="100 EAST PRATT STREET" STREET2="P.O. BOX 89000" ZIP="21289-0320" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" periodOfReport="2010-11-05" schemaVersion="X0303">
+<issuer> issuerCik="0001113169" 
+ issuerName="PRICE T ROWE GROUP INC" 
+ issuerTradingSymbol="TROW" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001282170" 
+ rptOwnerName="MORELAND KENNETH V" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="BALTIMORE" rptOwnerState="MD" rptOwnerStreet1="T. ROWE PRICE GROUP, INC." rptOwnerStreet2="P.O. BOX 89000" rptOwnerZipCode="21289-0320">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isOfficer="1" 
+ officerTitle="CFO &amp; Vice President" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-10-29">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="A" transactionFormType="5">
+</transactionCoding>
+<transactionTimeliness value="E">
+</transactionTimeliness>
+<transactionAmounts>
+<transactionShares> value="147.994" 
+</transactionShares>
+<transactionPricePerShare value="51.7731">
+<footnoteId id="F1" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="A" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="36540.288" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness />
+<transactionAmounts><transactionShares> value="13000" 
+</transactionShares>
+<transactionPricePerShare value="30.775">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="49540.288" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="F" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness />
+<transactionAmounts><transactionShares> value="9547" 
+</transactionShares>
+<transactionPricePerShare value="60.46">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="39993.288" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<derivativeTable><derivativeTransaction><securityTitle> value="Stock Options (Right to Buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="30.775">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness />
+<transactionAmounts><transactionShares> value="13000" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate> value="2005-12-20" 
+<footnoteId id="F2" /> 
+</exerciseDate>
+<expirationDate> value="2014-12-20" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="13000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="0" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="Shares acquired on 09/28/10, 09/30/2010 and 10/29/10 pursuant to the T. Rowe Price Group, Inc. Employee Stock Purchase Plan at the noted weighted-average price." /> 
+ <footnote id="F2" text="12/20/2004 Grant - The option vests 20% annually over a 5 year period beginning on 12/20/2005." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="/s/ Kenneth V. Moreland">
+</ownerSignature>
+</ownershipDocument></Source>

@@ -1,0 +1,55 @@
+<Source file="./0001127602-10-027372.nc">
+<SUBMISSION ACCESSION-NUMBER="0001127602-10-027372" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><ISSUER><COMPANY-DATA ASSIGNED-SIC="2834" CIK="0001100412" CONFORMED-NAME="ARRAY BIOPHARMA INC" FISCAL-YEAR-END="0630" IRS-NUMBER="841460811" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="BOULDER" PHONE="3033816600" STATE="CO" STREET1="3200 WALNUT STREET" ZIP="80301" /><MAIL-ADDRESS CITY="BOULDER" STATE="CO" STREET1="3200 WALNUT STREET" ZIP="80301" /></ISSUER><REPORTING-OWNER><OWNER-DATA CIK="0001191818" CONFORMED-NAME="LEFKOFF KYLE" /><FILING-VALUES ACT="34" FILE-NUMBER="001-16633" FILM-NUMBER="101173752" FORM-TYPE="4" /><MAIL-ADDRESS CITY="BOULDER" STATE="CO" STREET1="3200 WALNUT ST" ZIP="80301" /></REPORTING-OWNER></SUBMISSION><ownershipDocument documentType="4" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0001100412" 
+ issuerName="ARRAY BIOPHARMA INC" 
+ issuerTradingSymbol="ARRY" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001191818" 
+ rptOwnerName="LEFKOFF KYLE" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="BOULDER" rptOwnerState="CO" rptOwnerStreet1="1900 9TH STREET" rptOwnerStreet2="" rptOwnerZipCode="80302" />
+
+
+<reportingOwnerRelationship isDirector="1">
+</reportingOwnerRelationship>
+</reportingOwner>
+<derivativeTable><derivativeTransaction><securityTitle> value="Stock Option (Right to Buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="3.51">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="A" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness />
+<transactionAmounts><transactionShares> value="20000" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate><footnoteId id="F1" /> 
+</exerciseDate>
+<expirationDate> value="2020-11-04" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="20000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="20000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="The option vests in three equal annual installments beginning November 4, 2011." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="John R. Moore, attorney-in-fact for Reporting Person">
+</ownerSignature>
+</ownershipDocument></Source>

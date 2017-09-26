@@ -1,0 +1,109 @@
+<Source file="./0001127602-10-027232.nc">
+<SUBMISSION ACCESSION-NUMBER="0001127602-10-027232" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101105" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001189882" CONFORMED-NAME="SMITH STEPHEN R" /><FILING-VALUES ACT="34" FILE-NUMBER="000-30205" FILM-NUMBER="101171764" FORM-TYPE="4" /><MAIL-ADDRESS CITY="AURORA" STATE="IL" STREET1="870 N COMMONS DR" ZIP="60504" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="3674" CIK="0001102934" CONFORMED-NAME="CABOT MICROELECTRONICS CORP" FISCAL-YEAR-END="0930" IRS-NUMBER="364324765" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="AURORA" PHONE="6303755461" STATE="IL" STREET1="870 NORTH COMMONS DRIVE" ZIP="60504" /><MAIL-ADDRESS CITY="AURORA" STATE="IL" STREET1="870 N COMMONS DR" ZIP="60504" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" periodOfReport="2010-11-05" schemaVersion="X0303">
+<issuer> issuerCik="0001102934" 
+ issuerName="CABOT MICROELECTRONICS CORP" 
+ issuerTradingSymbol="CCMP" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001189882" 
+ rptOwnerName="SMITH STEPHEN R" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="AURORA" rptOwnerState="IL" rptOwnerStreet1="C/O CABOT MICROELECTRONICS CORPORATION" rptOwnerStreet2="870 COMMONS DRIVE" rptOwnerZipCode="60504">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isOfficer="1" 
+ officerTitle="VP, Marketing" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness />
+<transactionAmounts><transactionShares> value="400" 
+</transactionShares>
+<transactionPricePerShare value="41.11">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="22056" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness />
+<transactionAmounts><transactionShares> value="182" 
+</transactionShares>
+<transactionPricePerShare value="41.12">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="21874" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness />
+<transactionAmounts><transactionShares> value="100" 
+</transactionShares>
+<transactionPricePerShare value="41.12">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="21774" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness />
+<transactionAmounts><transactionShares> value="727" 
+</transactionShares>
+<transactionPricePerShare value="41.12">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="21047" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<ownerSignature signatureDate="2010-11-08" signatureName="/s/ H. Carol Bernstein (Power of Attorney)">
+</ownerSignature>
+</ownershipDocument></Source>

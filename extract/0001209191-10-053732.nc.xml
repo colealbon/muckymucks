@@ -1,0 +1,59 @@
+<Source file="./0001209191-10-053732.nc">
+<SUBMISSION ACCESSION-NUMBER="0001209191-10-053732" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001233000" CONFORMED-NAME="STOCKERT DAVID P" /><FILING-VALUES ACT="34" FILE-NUMBER="001-12080" FILM-NUMBER="101173112" FORM-TYPE="4" /><MAIL-ADDRESS CITY="ATLANTA" STATE="GA" STREET1="4401 NORTHSIDE PARKWAY" STREET2="SUITE 800" ZIP="30327-3057" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="6798" CIK="0000903127" CONFORMED-NAME="POST PROPERTIES INC" FISCAL-YEAR-END="1231" IRS-NUMBER="581550675" STATE-OF-INCORPORATION="GA" /><BUSINESS-ADDRESS CITY="ATLANTA" PHONE="4048465000" STATE="GA" STREET1="4401 NORTHSIDE PARKWAY" STREET2="SUITE 800" ZIP="30327" /><MAIL-ADDRESS CITY="ATLANTA" STATE="GA" STREET1="4401 NORTHSIDE PARKWAY" STREET2="SUITE 800" ZIP="30327" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0000903127" 
+ issuerName="POST PROPERTIES INC" 
+ issuerTradingSymbol="PPS" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001233000" 
+ rptOwnerName="STOCKERT DAVID P" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="ATLANTA" rptOwnerState="GA" rptOwnerStreet1="4401 NORTHSIDE PARKWAY" rptOwnerStreet2="SUITE 800" rptOwnerZipCode="30327-3057">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="1" 
+ isOfficer="1" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+ officerTitle="President and CEO" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="S" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="19400" 
+</transactionShares>
+<transactionPricePerShare value="32.7431">
+<footnoteId id="F1" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="D" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="138456" 
+<footnoteId id="F2" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<footnotes> <footnote id="F1" text="The price shown is the weighted average price at which shares were sold in multiple sales transactions made pursuant to a single market order. The range of prices for the transactions made was $32.70 to $32.85.  Upon request by SEC staff, the issuer or a security holder of the issuer, the reporting person will provide full information regarding the number of shares sold at each separate price." /> 
+ <footnote id="F2" text="The balance includes 53,536 restricted shares that have not vested." /> 
+</footnotes>
+<remarks />
+<ownerSignature> signatureName="/s/ Sherry Cohen, Power of Attorney" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

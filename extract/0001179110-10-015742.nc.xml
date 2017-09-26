@@ -1,0 +1,181 @@
+<Source file="./0001179110-10-015742.nc">
+<SUBMISSION ACCESSION-NUMBER="0001179110-10-015742" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><ISSUER><COMPANY-DATA ASSIGNED-SIC="8711" CIK="0000868857" CONFORMED-NAME="AECOM TECHNOLOGY CORP" FISCAL-YEAR-END="0930" IRS-NUMBER="611088522" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="LOS ANGELES" STATE="CA" STREET1="555 SOUTH FLOWER STREET" STREET2="SUITE 3700" ZIP="90071" /></ISSUER><REPORTING-OWNER><OWNER-DATA CIK="0001386944" CONFORMED-NAME="Bong Francis S Y" /><FILING-VALUES ACT="34" FILE-NUMBER="000-52423" FILM-NUMBER="101173884" FORM-TYPE="4" /><MAIL-ADDRESS CITY="LOS ANGELES" STATE="CA" STREET1="C/O AECOM TECHNOLOGY CORPORATION" STREET2="555 S. FLOWER STREET, SUITE 3700" ZIP="90071" /></REPORTING-OWNER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0000868857" 
+ issuerName="AECOM TECHNOLOGY CORP" 
+ issuerTradingSymbol="ACM" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001386944" 
+ rptOwnerName="Bong Francis S Y" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="LOS ANGELES" rptOwnerState="CA" rptOwnerStreet1="C/O AECOM TECHNOLOGY CORPORATION" rptOwnerStreet2="555 S. FLOWER STREET, SUITE 3700" rptOwnerZipCode="90071">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="1" 
+ isOfficer="0" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+<officerTitle /> 
+<otherText />
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+<footnoteId id="F1" /> 
+</transactionCoding>
+<transactionAmounts><transactionShares> value="4387" 
+</transactionShares>
+<transactionPricePerShare value="27.45">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="43938" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+<footnoteId id="F1" /> 
+</transactionCoding>
+<transactionAmounts><transactionShares> value="25613" 
+</transactionShares>
+<transactionPricePerShare value="27.45">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="18325" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeHolding>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="692832" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="by Greenwood Nominees LTD AC 320530 FBO Francis S Bong">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+</nonDerivativeTable>
+<derivativeTable><derivativeHolding><securityTitle> value="AGH Shares" 
+<footnoteId id="F2" /> 
+</securityTitle>
+<conversionOrExercisePrice><footnoteId id="F3" /> 
+</conversionOrExercisePrice>
+<exerciseDate><footnoteId id="F3" /> 
+</exerciseDate>
+<expirationDate><footnoteId id="F3" /> 
+</expirationDate>
+<underlyingSecurity><underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="267197.573">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="267197.573" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="by Halifax EEs Trustees International Limited">
+</natureOfOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Employee Stock Option" 
+</securityTitle>
+<conversionOrExercisePrice value="23.94">
+</conversionOrExercisePrice>
+<exerciseDate>
+<footnoteId id="F4" /> 
+</exerciseDate>
+<expirationDate> value="2015-12-01" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="3686">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="3686" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Restricted Stock Unit" 
+</securityTitle>
+<conversionOrExercisePrice>
+<footnoteId id="F5" /> 
+</conversionOrExercisePrice>
+<exerciseDate><footnoteId id="F6" /> 
+</exerciseDate>
+<expirationDate><footnoteId id="F6" /> 
+</expirationDate>
+<underlyingSecurity><underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="1254">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="1254" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Restricted Stock Unit" 
+</securityTitle>
+<conversionOrExercisePrice>
+<footnoteId id="F5" /> 
+</conversionOrExercisePrice>
+<exerciseDate><footnoteId id="F7" /> 
+</exerciseDate>
+<expirationDate><footnoteId id="F7" /> 
+</expirationDate>
+<underlyingSecurity><underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="3579">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="3579" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="The sales in this Form 4 were made pursuant to a 10b5-1 trading plan adopted on September 14, 2010." /> 
+ <footnote id="F2" text="Shares of AECOM Global Holdings Ltd (AGH)." /> 
+ <footnote id="F3" text="Each AGH share is the economic equivalent of one share of AECOM common stock." /> 
+ <footnote id="F4" text="The option vests in three equal annual installments beginning December 1, 2009." /> 
+ <footnote id="F5" text="Each restricted stock unit represents a contingent right to receive one share of AECOM common stock." /> 
+ <footnote id="F6" text="The restricted stock units vest in December 2011." /> 
+ <footnote id="F7" text="The restricted stock units vest in three equal annual installments beginning December 2010." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="/s/ David Y. Gan, Attorney-in-Fact for Francis S Y Bong">
+</ownerSignature>
+</ownershipDocument></Source>

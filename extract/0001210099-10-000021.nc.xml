@@ -1,0 +1,52 @@
+<Source file="./0001210099-10-000021.nc">
+<SUBMISSION ACCESSION-NUMBER="0001210099-10-000021" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101108" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001209802" CONFORMED-NAME="MYSZKA KENNETH F" /><FILING-VALUES ACT="34" FILE-NUMBER="001-13820" FILM-NUMBER="101172564" FORM-TYPE="4" /><MAIL-ADDRESS CITY="BUFFALO" STATE="NY" STREET1="C/O SOVRAN SELF STORAGE INC" STREET2="6467 MAIN STREET" ZIP="14221" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="6798" CIK="0000944314" CONFORMED-NAME="SOVRAN SELF STORAGE INC" FISCAL-YEAR-END="1231" IRS-NUMBER="161194043" STATE-OF-INCORPORATION="MD" /><BUSINESS-ADDRESS CITY="WILLIAMSVILLE" PHONE="7166331850" STATE="NY" STREET1="6467 MAIN ST" ZIP="14221" /><MAIL-ADDRESS CITY="WILLIAMSVILLE" STATE="NY" STREET1="6467 MAIN ST" ZIP="14221" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-08" schemaVersion="X0303">
+<issuer> issuerCik="0000944314" 
+ issuerName="SOVRAN SELF STORAGE INC" 
+ issuerTradingSymbol="SSS" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001209802" 
+ rptOwnerName="MYSZKA KENNETH F" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="BUFFALO" rptOwnerState="NY" rptOwnerStreet1="C/O SOVRAN SELF STORAGE INC" rptOwnerStreet2="6467 MAIN STREET" rptOwnerZipCode="14221">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="1" 
+ isOfficer="1" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+ officerTitle="COO" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-08">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="4000" 
+</transactionShares>
+<transactionPricePerShare value="39.86">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="214711" 
+<footnoteId id="F1" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<footnotes> <footnote id="F1" text="Includes 998 shares of common stock automatically purchased through regular dividend reinvestment in the Sovran Self Storage, Inc. Dividend Reinvestment and Stock Purchase Plan." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="David L. Rogers - attorney in fact">
+</ownerSignature>
+</ownershipDocument></Source>

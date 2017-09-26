@@ -1,0 +1,66 @@
+<Source file="./0001109357-10-000241.nc">
+<SUBMISSION ACCESSION-NUMBER="0001109357-10-000241" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101105" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001411453" CONFORMED-NAME="Crane Christopher M." /><FILING-VALUES ACT="34" FILE-NUMBER="001-16169" FILM-NUMBER="101172254" FORM-TYPE="4" /><MAIL-ADDRESS CITY="CHICAGO" STATE="IL" STREET1="10 SOUTH DEARBORN STREET" STREET2="54TH FLOOR" ZIP="60603" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="4931" CIK="0001109357" CONFORMED-NAME="EXELON CORP" FISCAL-YEAR-END="1231" IRS-NUMBER="232990190" STATE-OF-INCORPORATION="PA" /><BUSINESS-ADDRESS CITY="CHICAGO" PHONE="3123947399" STATE="IL" STREET1="PO BOX 805398" ZIP="60680-5398" /><MAIL-ADDRESS CITY="CHICAGO" STATE="IL" STREET1="PO BOX 805398" ZIP="60680-5398" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" periodOfReport="2010-11-05" schemaVersion="X0303">
+<issuer> issuerCik="0001109357" 
+ issuerName="EXELON CORP" 
+ issuerTradingSymbol="EXC" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001411453" 
+ rptOwnerName="Crane Christopher M." 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="CHICAGO" rptOwnerState="IL" rptOwnerStreet1="10 SOUTH DEARBORN STREET" rptOwnerStreet2="54TH FLOOR" rptOwnerZipCode="60603">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="1" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+ officerTitle="President and COO" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<derivativeTable><derivativeTransaction><securityTitle> value="Deferred Comp. - Phantom Shares" 
+</securityTitle>
+<conversionOrExercisePrice>
+<footnoteId id="F1" /> 
+</conversionOrExercisePrice>
+<transactionDate> value="2010-11-05" 
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="A" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="23" 
+</transactionShares>
+<transactionPricePerShare value="41.17">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate><footnoteId id="F1" /> 
+</exerciseDate>
+<expirationDate><footnoteId id="F1" /> 
+</expirationDate>
+<underlyingSecurity><underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="23">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="1823" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<footnotes>
+<footnote id="F1" text="Phantom shares held in a multi-fund deferred compensation plan to be settled for cash upon the reporting person&apos;s termination of employment for any reason on a 1:1 basis. Shares are acquired through regular periodic contributions, company matching contributions, and the automatic reinvestment of dividends." /> 
+</footnotes>
+<remarks />
+<ownerSignature> signatureName="Lawrence C. Bachman,  Attorney in Fact for Christopher M. Crane" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

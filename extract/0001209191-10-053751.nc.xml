@@ -1,0 +1,53 @@
+<Source file="./0001209191-10-053751.nc">
+<SUBMISSION ACCESSION-NUMBER="0001209191-10-053751" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><ISSUER><COMPANY-DATA ASSIGNED-SIC="7359" CIK="0001389305" CONFORMED-NAME="RSC Holdings Inc." FISCAL-YEAR-END="1231" IRS-NUMBER="221669012" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="SCOTTSDALE" PHONE="(480) 348-5918" STATE="AZ" STREET1="6929 E. GREENWAY PARKWAY SUITE 200" ZIP="85254" /><MAIL-ADDRESS CITY="SCOTTSDALE" STATE="AZ" STREET1="6929 E. GREENWAY PARKWAY SUITE 200" ZIP="85254" /></ISSUER><REPORTING-OWNER><OWNER-DATA CIK="0000934815" CONFORMED-NAME="COLLINS TIMOTHY C" STATE-OF-INCORPORATION="NY" /><FILING-VALUES ACT="34" FILE-NUMBER="001-33485" FILM-NUMBER="101173688" FORM-TYPE="4" /><MAIL-ADDRESS CITY="NEW YORK" STATE="NY" STREET1="C/O RIPPLEWOOD HOLDINGS LLC," STREET2="ONE ROCKEFELLER PLAZA" ZIP="10020" /></REPORTING-OWNER></SUBMISSION><ownershipDocument documentType="4" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0001389305" 
+ issuerName="RSC Holdings Inc." 
+ issuerTradingSymbol="RRR" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0000934815" 
+ rptOwnerName="COLLINS TIMOTHY C" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="NEW YORK" rptOwnerState="NY" rptOwnerStreet1="C/O RIPPLEWOOD HOLDINGS L.L.C." rptOwnerStreet2="ONE ROCKEFELLER PLAZA, 32ND FLOOR" rptOwnerZipCode="10020">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="0" 
+ isTenPercentOwner="0" 
+ isOther="1" 
+ otherText="See Remarks" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock, no par value per share" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="2524000" 
+</transactionShares>
+<transactionPricePerShare value="8.16">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="4461108" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="See Explanation">
+<footnoteId id="F1" /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<derivativeTable />
+<footnotes> <footnote id="F1" text="The reported shares are held directly by (i) RSC Acquisition LLC, whose sole member is Ripplewood Partners II, L.P., whose general partner is Ripplewood Partners II GP, L.P., whose general partner is RP II GP, LLC; and (ii) RSC Acquisition II LLC, which is managed by RP II GP, LLC. The sole member of RP II GP, LLC is Collins Family Partners, L.P., which is managed by its general partner, Collins Family Partners, Inc. The Reporting Person is the president and sole shareholder of Collins Family Partners, Inc. and may be deemed to share beneficial ownership of the shares shown as beneficially owned by RSC Acquisition LLC and RSC Acquisition II, LLC. However, pursuant to Rule 16a-1(a)(4) promulgated under the Securities Exchange Act of 1934, as amended, the Reporting Person disclaims that he is the beneficial owner of such shares, except to the extent of his pecuniary interest in such shares." /> 
+</footnotes>
+ remarks="Party to stockholders agreement" 
+<ownerSignature signatureDate="2010-11-08" signatureName="/s/ Timothy C. Collins">
+</ownerSignature>
+</ownershipDocument></Source>

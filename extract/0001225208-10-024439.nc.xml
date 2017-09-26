@@ -1,0 +1,67 @@
+<Source file="./0001225208-10-024439.nc">
+<SUBMISSION ACCESSION-NUMBER="0001225208-10-024439" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101101" PUBLIC-DOCUMENT-COUNT="1" TYPE="4/A"><REPORTING-OWNER><OWNER-DATA CIK="0001368432" CONFORMED-NAME="Truess James W" /><FILING-VALUES ACT="34" FILE-NUMBER="001-31574" FILM-NUMBER="101171831" FORM-TYPE="4/A" /><MAIL-ADDRESS CITY="VIRGINIA BEACH" STATE="VA" STREET1="AMERIGROUP CORPORATION" STREET2="4425 CORPORATION LANE" ZIP="23462" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="6324" CIK="0001064863" CONFORMED-NAME="AMERIGROUP CORP" FISCAL-YEAR-END="1231" IRS-NUMBER="541739323" /><BUSINESS-ADDRESS CITY="VIRGINIA BEACH" PHONE="7574906900" STATE="VA" STREET1="4425 CORPORATION LANE" STREET2="SUITE 100" ZIP="23462" /><MAIL-ADDRESS CITY="VIRGINIA BEACH" STATE="VA" STREET1="4425 CORPORATION LN" ZIP="23462" /></ISSUER></SUBMISSION><ownershipDocument dateOfOriginalSubmission="2010-11-01" documentType="4/A" periodOfReport="2010-11-01" schemaVersion="X0303">
+<issuer> issuerCik="0001064863" 
+ issuerName="AMERIGROUP CORP" 
+ issuerTradingSymbol="AGP" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001368432" 
+ rptOwnerName="Truess James W" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="VIRGINIA BEACH" rptOwnerState="VA" rptOwnerStreet1="4425 CORPORATION LANE" rptOwnerStreet2="" rptOwnerZipCode="23462" />
+
+
+<reportingOwnerRelationship isOfficer="1" officerTitle="EVP &amp; CFO">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-01">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+<footnoteId id="F1" /> 
+</transactionCoding>
+<transactionAmounts><transactionShares> value="1900.0000" 
+</transactionShares>
+<transactionPricePerShare value="42.4200">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="146073.0000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-01">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+<footnoteId id="F1" /> 
+</transactionCoding>
+<transactionAmounts><transactionShares> value="10100.0000" 
+</transactionShares>
+<transactionPricePerShare value="41.5200">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="135973.0000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<derivativeTable /> 
+<footnotes>
+<footnote id="F1" text="Transaction executed pursuant to 10(b)5-1 plan." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="/s/ Nicholas J. Pace, attorney-in-fact">
+</ownerSignature>
+</ownershipDocument></Source>

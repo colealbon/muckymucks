@@ -1,0 +1,41 @@
+<Source file="./0001127602-10-027380.nc">
+<SUBMISSION ACCESSION-NUMBER="0001127602-10-027380" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101105" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001376545" CONFORMED-NAME="Pugh Gordon G" /><FILING-VALUES ACT="34" FILE-NUMBER="001-14131" FILM-NUMBER="101173824" FORM-TYPE="4" /><MAIL-ADDRESS CITY="CAMBRIDGE" STATE="MA" STREET1="88 SIDNEY ST" ZIP="02139" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="2834" CIK="0000874663" CONFORMED-NAME="ALKERMES INC" FISCAL-YEAR-END="0331" IRS-NUMBER="232472830" STATE-OF-INCORPORATION="PA" /><BUSINESS-ADDRESS CITY="WALTHAM" PHONE="(781)609-6000" STATE="MA" STREET1="852 WINTER STREET" ZIP="02451-1420" /><MAIL-ADDRESS CITY="WALTHAM" STATE="MA" STREET1="852 WINTER STREET" ZIP="02451-1420" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" periodOfReport="2010-11-05" schemaVersion="X0303">
+<issuer> issuerCik="0000874663" 
+ issuerName="ALKERMES INC" 
+ issuerTradingSymbol="ALKS" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001376545" 
+ rptOwnerName="Pugh Gordon G" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="WALTHAM" rptOwnerState="MA" rptOwnerStreet1="852 WINTER ST." rptOwnerStreet2="" rptOwnerZipCode="02451" />
+
+
+<reportingOwnerRelationship isOfficer="1" officerTitle="SVP &amp; COO">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="F" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness />
+<transactionAmounts><transactionShares> value="159" 
+</transactionShares>
+<transactionPricePerShare value="12.10">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="20325" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<ownerSignature signatureDate="2010-11-08" signatureName="/s/ Jennifer Baptiste, attorney-in-fact for Gordon G. Pugh">
+</ownerSignature>
+</ownershipDocument></Source>

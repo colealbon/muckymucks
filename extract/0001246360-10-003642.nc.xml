@@ -1,0 +1,171 @@
+<Source file="./0001246360-10-003642.nc">
+<SUBMISSION ACCESSION-NUMBER="0001246360-10-003642" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101028" PUBLIC-DOCUMENT-COUNT="2" TYPE="4/A"><REPORTING-OWNER><OWNER-DATA CIK="0001200842" CONFORMED-NAME="MILLER KAREN J" /><FILING-VALUES ACT="34" FILE-NUMBER="000-08135" FILM-NUMBER="101173532" FORM-TYPE="4/A" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="5160" CIK="0000090185" CONFORMED-NAME="SIGMA ALDRICH CORP" FISCAL-YEAR-END="1231" IRS-NUMBER="431050617" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="ST LOUIS" PHONE="3147715765" STATE="MO" STREET1="3050 SPRUCE ST" ZIP="63103" /><MAIL-ADDRESS CITY="ST LOUIS" STATE="MO" STREET1="3050 SPRUCE STREET" ZIP="63103" /><FORMER-COMPANY DATE-CHANGED="19750925" FORMER-CONFORMED-NAME="SIGMA INTERNATIONAL LTD" /><FORMER-COMPANY DATE-CHANGED="19750908" FORMER-CONFORMED-NAME="ALDRICH CHEMICAL CO INC" /></ISSUER></SUBMISSION><ownershipDocument dateOfOriginalSubmission="2010-10-29" documentType="4/A" notSubjectToSection16="false" periodOfReport="2010-10-28" schemaVersion="X0303">
+<issuer> issuerCik="0000090185" 
+ issuerName="SIGMA ALDRICH CORP" 
+ issuerTradingSymbol="SIAL" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001200842" 
+ rptOwnerName="MILLER KAREN J" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="ST. LOUIS" rptOwnerState="MO" rptOwnerStreet1="3050 SPRUCE STREET" rptOwnerStreet2="" rptOwnerZipCode="63103" />
+
+
+<reportingOwnerRelationship isDirector="false" isOfficer="true" isOther="false" isTenPercentOwner="false" officerTitle="VP, Strategy &amp; Corp Developmen">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-10-28">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="M" 
+ equitySwapInvolved="false" 
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="2500" 
+</transactionShares>
+<transactionPricePerShare value="34.03">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="11600" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-10-28">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="M" 
+ equitySwapInvolved="false" 
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="3200" 
+</transactionShares>
+<transactionPricePerShare value="28.82">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="14800" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+<footnoteId id="F1" /> 
+</securityTitle>
+<transactionDate> value="2010-10-28" 
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="F" 
+ equitySwapInvolved="true" 
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="2833" 
+</transactionShares>
+<transactionPricePerShare value="62.56">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="11967" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<derivativeTable><derivativeTransaction><securityTitle> value="ISO Stock Option Right To Buy" 
+</securityTitle>
+<conversionOrExercisePrice value="34.03">
+</conversionOrExercisePrice>
+<transactionDate value="2010-10-28">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="M" 
+ equitySwapInvolved="false" 
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="2500" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate> value="2007-05-01" 
+</exerciseDate>
+<expirationDate value="2016-05-01">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="2500">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="0" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+<derivativeTransaction>
+<securityTitle> value="ISO Stock Option Right To Buy" 
+</securityTitle>
+<conversionOrExercisePrice value="28.825">
+</conversionOrExercisePrice>
+<transactionDate value="2010-10-28">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="M" 
+ equitySwapInvolved="false" 
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="3200" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate> value="2006-07-08" 
+</exerciseDate>
+<expirationDate value="2015-07-08">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="3200">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="0" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="Share balance is as of the transaction date. Share balance as of today is 11,967, which does not reflect a transaction processed on 11/05/2010, which has not been filed." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="Carrie Fields, Attorney in Fact">
+</ownerSignature>
+</ownershipDocument></Source>

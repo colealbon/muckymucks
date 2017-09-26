@@ -1,0 +1,297 @@
+<Source file="./0001127602-10-027377.nc">
+<SUBMISSION ACCESSION-NUMBER="0001127602-10-027377" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001230439" CONFORMED-NAME="GOLDSTON MARK R" /><FILING-VALUES ACT="34" FILE-NUMBER="000-33367" FILM-NUMBER="101173778" FORM-TYPE="4" /><MAIL-ADDRESS CITY="WESTLAKE VILLAGE" STATE="CA" STREET1="C/O UNITED ONLINE" STREET2="2555 TOWNSGATE ROAD" ZIP="91361" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="7370" CIK="0001142701" CONFORMED-NAME="UNITED ONLINE INC" FISCAL-YEAR-END="1231" IRS-NUMBER="770575839" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="WOODLAND HILLS" PHONE="818-287-3000" STATE="CA" STREET1="21301 BURBANK BOULEVARD" ZIP="91367" /><MAIL-ADDRESS CITY="WOODLAND HILLS" STATE="CA" STREET1="21301 BURBANK BOULEVARD" ZIP="91367" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0001142701" 
+ issuerName="UNITED ONLINE INC" 
+ issuerTradingSymbol="UNTD" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001230439" 
+ rptOwnerName="GOLDSTON MARK R" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="WOODLAND HILLS" rptOwnerState="CA" rptOwnerStreet1="21301 BURBANK BLVD." rptOwnerStreet2="" rptOwnerZipCode="91367" />
+
+
+<reportingOwnerRelationship isDirector="1" isOfficer="1" officerTitle="Chairman, President &amp; CEO">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness />
+<transactionAmounts><transactionShares> value="193658" 
+</transactionShares>
+<transactionPricePerShare value="3.334">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="3445150" 
+<footnoteId id="F1" /> 
+<footnoteId id="F2" />
+<footnoteId id="F3" /> 
+<footnoteId id="F4" />
+<footnoteId id="F5" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+<footnoteId id="F6" /> 
+</transactionCoding>
+<transactionTimeliness /> 
+<transactionAmounts>
+<transactionShares> value="193658" 
+</transactionShares>
+<transactionPricePerShare value="7.046">
+<footnoteId id="F7" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="D" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="3251492" 
+<footnoteId id="F1" /> 
+<footnoteId id="F2" />
+<footnoteId id="F3" /> 
+<footnoteId id="F4" />
+<footnoteId id="F5" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+<footnoteId id="F6" /> 
+</transactionCoding>
+<transactionTimeliness /> 
+<transactionAmounts>
+<transactionShares> value="192530" 
+</transactionShares>
+<transactionPricePerShare value="7.044">
+<footnoteId id="F8" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="D" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="3058962" 
+<footnoteId id="F1" /> 
+<footnoteId id="F2" />
+<footnoteId id="F3" /> 
+<footnoteId id="F4" />
+<footnoteId id="F5" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness />
+<transactionAmounts><transactionShares> value="43597" 
+</transactionShares>
+<transactionPricePerShare value="3.334">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="3102559" 
+<footnoteId id="F1" /> 
+<footnoteId id="F2" />
+<footnoteId id="F3" /> 
+<footnoteId id="F4" />
+<footnoteId id="F5" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+<footnoteId id="F6" /> 
+</transactionCoding>
+<transactionTimeliness /> 
+<transactionAmounts>
+<transactionShares> value="43597" 
+</transactionShares>
+<transactionPricePerShare value="7.065">
+<footnoteId id="F9" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="D" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="3058962" 
+<footnoteId id="F1" /> 
+<footnoteId id="F2" />
+<footnoteId id="F3" /> 
+<footnoteId id="F4" />
+<footnoteId id="F5" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+<footnoteId id="F6" /> 
+</transactionCoding>
+<transactionTimeliness /> 
+<transactionAmounts>
+<transactionShares> value="43326" 
+</transactionShares>
+<transactionPricePerShare value="7.066">
+<footnoteId id="F9" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="D" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="3015636" 
+<footnoteId id="F1" /> 
+<footnoteId id="F2" />
+<footnoteId id="F3" /> 
+<footnoteId id="F4" />
+<footnoteId id="F5" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeHolding>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="920622" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="By Mark R. Goldston &amp; Nancy Jane Goldston Family Trust">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+</nonDerivativeTable>
+<derivativeTable><derivativeTransaction><securityTitle> value="Stock Option (Right to Buy)" 
+<footnoteId id="F10" /> 
+</securityTitle>
+<conversionOrExercisePrice> value="3.334" 
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness />
+<transactionAmounts><transactionShares> value="193658" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate> value="2001-02-09" 
+<footnoteId id="F11" /> 
+</exerciseDate>
+<expirationDate> value="2011-02-08" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="193658">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="127889" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+<derivativeTransaction>
+<securityTitle> value="Stock Option (Right to Buy)" 
+<footnoteId id="F10" /> 
+</securityTitle>
+<conversionOrExercisePrice> value="3.334" 
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness />
+<transactionAmounts><transactionShares> value="43597" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate> value="2001-02-09" 
+<footnoteId id="F11" /> 
+</exerciseDate>
+<expirationDate> value="2011-02-08" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="43597">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="84292" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="Includes 750,000 shares subject to a restricted stock unit award granted on April 3, 2007 that will be issued as those units vest." /> 
+ <footnote id="F2" text="Includes 600,000 shares subject to a restricted stock unit award granted on March 14, 2008 that will be issued as those units vest." /> 
+ <footnote id="F3" text="Includes 216,667 shares subject to a restricted stock unit award granted on August 26, 2008 that will be issued as those units vest." /> 
+ <footnote id="F4" text="Includes 120,834 shares subject to a restricted stock unit award granted on March 6, 2009 that will be issued as those units vest." /> 
+ <footnote id="F5" text="Includes 500,000 shares subject to a restricted stock unit award granted on February 15, 2010 that will be issued as those units vest." /> 
+ <footnote id="F6" text="The sales reported on this Form 4 were effected pursuant to a Rule 10b5-1 trading plan adopted by the Reporting Person on May 27, 2010." /> 
+<footnote id="F7" text="Represents the weighted average sale price per share. The actual sales prices ranged from a low of $6.55 to a high of $7.31. The Reporting Person will provide upon request by the Securities and ExchangeCommission, the Issuer or any security holder of the Issuer full information regarding the number of shares sold at each separate price." />
+<footnote id="F8" text="Represents the weighted average sale price per share. The actual sales prices ranged from a low of $6.54 to a high of $7.31. The Reporting Person will provide upon request by the Securities and ExchangeCommission, the Issuer or any security holder of the Issuer full information regarding the number of shares sold at each separate price." />
+<footnote id="F9" text="Represents the weighted average sale price per share. The actual sales prices ranged from a low of $6.952 to a high of $7.20. The Reporting Person will provide upon request by the Securities and ExchangeCommission, the Issuer or any security holder of the Issuer full information regarding the number of shares sold at each separate price." />
+ <footnote id="F10" text="This option was granted under the United Online, Inc. 2001 Stock Incentive Plan in an exempt transaction pursuant to Rule 16b-3(d)." /> 
+ <footnote id="F11" text="The option was granted on February 9, 2001 for a total of 600,000 shares and was immediately exercisable for all of those shares.  However, any unvested shares purchased under such option would be subject to the Issuer&apos;s right to repurchase those shares, at the exercise price paid per share, upon the Reporting Person&apos;s termination of service with the Issuer prior to vesting in such shares.  25% of the total option shares vested on February 9, 2002, and the balance vested in 36 successive equal monthly installments upon the Reporting Person&apos;s completion of each additional month of service thereafter." /> 
+</footnotes>
+<ownerSignature> signatureName="/s/ Mark R. Goldston" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

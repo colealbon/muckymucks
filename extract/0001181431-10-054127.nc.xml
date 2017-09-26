@@ -1,0 +1,150 @@
+<Source file="./0001181431-10-054127.nc">
+<SUBMISSION ACCESSION-NUMBER="0001181431-10-054127" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><ISSUER><COMPANY-DATA ASSIGNED-SIC="6500" CIK="0001408100" CONFORMED-NAME="Kennedy-Wilson Holdings, Inc." FISCAL-YEAR-END="1231" IRS-NUMBER="260508760" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="BEVERLY HILLS" PHONE="310-887-6400" STATE="CA" STREET1="9701 WILSHIRE BLVD., SUITE 700" ZIP="90210" /><MAIL-ADDRESS CITY="BEVERLY HILLS" STATE="CA" STREET1="9701 WILSHIRE BLVD., SUITE 700" ZIP="90210" /><FORMER-COMPANY DATE-CHANGED="20070727" FORMER-CONFORMED-NAME="Prospect Acquisition Corp" /></ISSUER><REPORTING-OWNER><OWNER-DATA CIK="0000901819" CONFORMED-NAME="MCMORROW WILLIAM J" /><FILING-VALUES ACT="34" FILE-NUMBER="001-33824" FILM-NUMBER="101173914" FORM-TYPE="4" /><MAIL-ADDRESS CITY="SANTA MONICA" STATE="CA" STREET1="530 WILSHIRE BLVD" STREET2="STE 101" ZIP="90401" /></REPORTING-OWNER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0001408100" 
+ issuerName="Kennedy-Wilson Holdings, Inc." 
+ issuerTradingSymbol="KW" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0000901819" 
+ rptOwnerName="MCMORROW WILLIAM J" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="BEVERLY HILLS" rptOwnerState="CA" rptOwnerStreet1="C/O 9701 WILSHIRE BLVD., SUITE 700" rptOwnerStreet2="" rptOwnerZipCode="90212" />
+
+
+<reportingOwnerRelationship isDirector="1" isOfficer="1" isOther="0" isTenPercentOwner="1" officerTitle="Chief Executive Officer">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeHolding><securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="875271" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+<footnoteId id="F3" /> 
+</transactionCoding>
+<transactionAmounts><transactionShares> value="37556" 
+</transactionShares>
+<transactionPricePerShare value="10.7877">
+<footnoteId id="F1" /> 
+<footnoteId id="F2" />
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="12642713" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="By William J. McMorrow Revocable Trust">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+<footnoteId id="F3" /> 
+</transactionCoding>
+<transactionAmounts><transactionShares> value="7895" 
+</transactionShares>
+<transactionPricePerShare value="10.75">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="12634818" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="By William J. McMorrow Revocable Trust">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-08">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+<footnoteId id="F3" /> 
+</transactionCoding>
+<transactionAmounts><transactionShares> value="4849" 
+</transactionShares>
+<transactionPricePerShare value="10.7582">
+<footnoteId id="F2" /> 
+<footnoteId id="F4" />
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="12629969" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="By William J. McMorrow Revocable Trust">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeHolding>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="8443" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="By John &amp; Sons Retirement Trust">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="90851" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="By wife">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="52821" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="By son">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+</nonDerivativeTable>
+<footnotes> <footnote id="F1" text="The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $10.75 to 10.93 per share." /> 
+ <footnote id="F2" text="The reporting person undertakes to provide Kennedy-Wilson Holdings, Inc., any security holder of Kennedy-Wilson Holdings, Inc., or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the ranges indicated in the footnotes to this Form 4." /> 
+ <footnote id="F3" text="The sales reported in this Form 4 were effected pursuant to a Rule 10b5-1 trading plan adopted by the reporting person on September 15, 2010 covering a maximum of 300,000 shares of common stock." /> 
+ <footnote id="F4" text="The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $10.75 to 10.85 per share." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="/s/ William J. McMorrow">
+</ownerSignature>
+</ownershipDocument></Source>

@@ -1,0 +1,109 @@
+<Source file="./0001225208-10-024409.nc">
+<SUBMISSION ACCESSION-NUMBER="0001225208-10-024409" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001205315" CONFORMED-NAME="JOHNSON L ROBERT" /><FILING-VALUES ACT="34" FILE-NUMBER="001-08036" FILM-NUMBER="101170758" FORM-TYPE="4" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="3060" CIK="0000105770" CONFORMED-NAME="WEST PHARMACEUTICAL SERVICES INC" FISCAL-YEAR-END="1231" IRS-NUMBER="231210010" STATE-OF-INCORPORATION="PA" /><BUSINESS-ADDRESS CITY="LIONVILLE" PHONE="6105942900" STATE="PA" STREET1="101 GORDON DR" STREET2="P O BOX 645" ZIP="19341-0645" /><MAIL-ADDRESS CITY="LIONVILLE" STATE="PA" STREET1="101 GORDON DRIVE" STREET2="PO BOX 645" ZIP="19341-0645" /><FORMER-COMPANY DATE-CHANGED="19990405" FORMER-CONFORMED-NAME="WEST CO INC" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0000105770" 
+ issuerName="WEST PHARMACEUTICAL SERVICES INC" 
+ issuerTradingSymbol="WST" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001205315" 
+ rptOwnerName="JOHNSON L ROBERT" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="LIONVILLE" rptOwnerState="PA" rptOwnerStreet1="101 GORDON DRIVE" rptOwnerStreet2="" rptOwnerZipCode="19341" />
+
+
+<reportingOwnerRelationship isDirector="1">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="100.0000" 
+</transactionShares>
+<transactionPricePerShare value="39.1600">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="25816.9200" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="100.0000" 
+</transactionShares>
+<transactionPricePerShare value="39.1400">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="25716.9200" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="125.0000" 
+</transactionShares>
+<transactionPricePerShare value="39.1500">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="25591.9200" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="675.0000" 
+</transactionShares>
+<transactionPricePerShare value="39.1200">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="24916.9200" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<derivativeTable /> 
+<ownerSignature> signatureName="Joanne K. Boyle as Agent for L. Robert Johnson" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

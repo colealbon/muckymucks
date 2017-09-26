@@ -1,0 +1,104 @@
+<Source file="./0001374913-10-000003.nc">
+<SUBMISSION ACCESSION-NUMBER="0001374913-10-000003" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101105" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001374913" CONFORMED-NAME="McDonald Dean WA" /><FILING-VALUES ACT="34" FILE-NUMBER="001-08491" FILM-NUMBER="101173412" FORM-TYPE="4" /><MAIL-ADDRESS CITY="COEUR D&apos;ALENE" STATE="ID" STREET1="6500 N. MINERAL DRIVE, SUITE 200" ZIP="83815" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="1400" CIK="0000719413" CONFORMED-NAME="HECLA MINING CO/DE/" FISCAL-YEAR-END="1231" IRS-NUMBER="770664171" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="COEUR D&apos;ALENE" PHONE="2087694100" STATE="ID" STREET1="6500 N MINERAL DRIVE SUITE 200" STREET2="NONE" ZIP="83815-9408" /><MAIL-ADDRESS CITY="COEUR D&apos;ALENE" STATE="ID" STREET1="6500 N MINERAL DRIVE SUITE 200" STREET2="NONE" ZIP="83815-9408" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-05" schemaVersion="X0303">
+<issuer> issuerCik="0000719413" 
+ issuerName="HECLA MINING CO/DE/" 
+ issuerTradingSymbol="HL" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001374913" 
+ rptOwnerName="McDonald Dean WA" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="COEUR D&apos;ALENE" rptOwnerState="ID" rptOwnerStreet1="6500 N. MINERAL DRIVE, SUITE 200" rptOwnerStreet2="" rptOwnerZipCode="83815" />
+
+
+<reportingOwnerRelationship isDirector="0" isOfficer="1" isOther="0" isTenPercentOwner="0" officerTitle="Vice Pres. - Exploration">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="10000" 
+</transactionShares>
+<transactionPricePerShare value="6.435">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="109796" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="10000" 
+</transactionShares>
+<transactionPricePerShare value="7.87">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="99796" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<derivativeTable><derivativeTransaction><securityTitle> value="Stock Option" 
+</securityTitle>
+<conversionOrExercisePrice value="6.435">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="10000" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate> value="2007-09-01" 
+</exerciseDate>
+<expirationDate value="2011-09-01">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="10000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="163731" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<ownerSignature> signatureName="Tami D Hansen, Attorney-in-Fact for Dean W. McDonald" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

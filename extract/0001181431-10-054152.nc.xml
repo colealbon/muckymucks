@@ -1,0 +1,212 @@
+<Source file="./0001181431-10-054152.nc">
+<SUBMISSION ACCESSION-NUMBER="0001181431-10-054152" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001175523" CONFORMED-NAME="LEONARD GREEN PARTNERS LP" FISCAL-YEAR-END="1231" STATE-OF-INCORPORATION="DE" /><FILING-VALUES ACT="34" FILE-NUMBER="000-19797" FILM-NUMBER="101174145" FORM-TYPE="4" /><MAIL-ADDRESS CITY="LOS ANGELES" STATE="CA" STREET1="11111 SANTA MONICA BLVD" STREET2="STE 2000" ZIP="90025" /></REPORTING-OWNER><REPORTING-OWNER><OWNER-DATA CIK="0001175525" CONFORMED-NAME="LGP MANAGEMENT INC" FISCAL-YEAR-END="1231" STATE-OF-INCORPORATION="DE" /><FILING-VALUES ACT="34" FILE-NUMBER="000-19797" FILM-NUMBER="101174144" FORM-TYPE="4" /><MAIL-ADDRESS CITY="LOS ANGELES" STATE="CA" STREET1="11111 SANTA MONICA BLVD" STREET2="STE 2000" ZIP="90025" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="5411" CIK="0000865436" CONFORMED-NAME="WHOLE FOODS MARKET INC" FISCAL-YEAR-END="0909" IRS-NUMBER="741989366" STATE-OF-INCORPORATION="TX" /><BUSINESS-ADDRESS CITY="AUSTIN" PHONE="5124774455" STATE="TX" STREET1="550 BOWIE STREET" ZIP="78703" /><MAIL-ADDRESS CITY="AUSTIN" STATE="TX" STREET1="550 BOWIE STREET" ZIP="78703" /></ISSUER><REPORTING-OWNER><OWNER-DATA CIK="0001449640" CONFORMED-NAME="GEI Capital V, LLC" FISCAL-YEAR-END="1231" STATE-OF-INCORPORATION="DE" /><FILING-VALUES ACT="34" FILE-NUMBER="000-19797" FILM-NUMBER="101174147" FORM-TYPE="4" /><BUSINESS-ADDRESS CITY="LOS ANGELES" PHONE="310-954-0444" STATE="CA" STREET1="11111 SANTA MONICA BOULEVARD" STREET2="SUITE 2000" ZIP="90025" /><MAIL-ADDRESS CITY="LOS ANGELES" STATE="CA" STREET1="11111 SANTA MONICA BOULEVARD" STREET2="SUITE 2000" ZIP="90025" /></REPORTING-OWNER><REPORTING-OWNER><OWNER-DATA CIK="0001449643" CONFORMED-NAME="Green Equity Investors Side V, L.P." FISCAL-YEAR-END="1231" STATE-OF-INCORPORATION="DE" /><FILING-VALUES ACT="34" FILE-NUMBER="000-19797" FILM-NUMBER="101174148" FORM-TYPE="4" /><BUSINESS-ADDRESS CITY="LOS ANGELES" PHONE="310-954-0444" STATE="CA" STREET1="11111 SANTA MONICA BOULEVARD" STREET2="SUITE 2000" ZIP="90025" /><MAIL-ADDRESS CITY="LOS ANGELES" STATE="CA" STREET1="11111 SANTA MONICA BOULEVARD" STREET2="SUITE 2000" ZIP="90025" /></REPORTING-OWNER><REPORTING-OWNER><OWNER-DATA CIK="0001449644" CONFORMED-NAME="Green Equity Investors V, L.P." FISCAL-YEAR-END="1231" STATE-OF-INCORPORATION="DE" /><FILING-VALUES ACT="34" FILE-NUMBER="000-19797" FILM-NUMBER="101174149" FORM-TYPE="4" /><BUSINESS-ADDRESS CITY="LOS ANGELES" PHONE="310-954-0444" STATE="CA" STREET1="11111 SANTA MONICA BOULEVARD" STREET2="SUITE 2000" ZIP="90025" /><MAIL-ADDRESS CITY="LOS ANGELES" STATE="CA" STREET1="11111 SANTA MONICA BOULEVARD" STREET2="SUITE 2000" ZIP="90025" /></REPORTING-OWNER><REPORTING-OWNER><OWNER-DATA CIK="0001449645" CONFORMED-NAME="Green V Holdings, LLC" FISCAL-YEAR-END="1231" STATE-OF-INCORPORATION="DE" /><FILING-VALUES ACT="34" FILE-NUMBER="000-19797" FILM-NUMBER="101174146" FORM-TYPE="4" /><BUSINESS-ADDRESS CITY="LOS ANGELES" PHONE="310-954-0444" STATE="CA" STREET1="11111 SANTA MONICA BOULEVARD" STREET2="SUITE 2000" ZIP="90025" /><MAIL-ADDRESS CITY="LOS ANGELES" STATE="CA" STREET1="11111 SANTA MONICA BOULEVARD" STREET2="SUITE 2000" ZIP="90025" /></REPORTING-OWNER><REPORTING-OWNER><OWNER-DATA CIK="0001451301" CONFORMED-NAME="Thyme Coinvest, LLC" FISCAL-YEAR-END="1231" STATE-OF-INCORPORATION="DE" /><FILING-VALUES ACT="34" FILE-NUMBER="000-19797" FILM-NUMBER="101174150" FORM-TYPE="4" /><BUSINESS-ADDRESS CITY="LOS ANGELES" PHONE="310-954-0444" STATE="CA" STREET1="C/O LEONARD GREEN &amp; PARTNERS" STREET2="11111 SANTA MONICA BOULEVARD SUITE 2000" ZIP="90025" /><MAIL-ADDRESS CITY="LOS ANGELES" STATE="CA" STREET1="C/O LEONARD GREEN &amp; PARTNERS" STREET2="11111 SANTA MONICA BOULEVARD SUITE 2000" ZIP="90025" /></REPORTING-OWNER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0000865436" 
+ issuerName="WHOLE FOODS MARKET INC" 
+ issuerTradingSymbol="WFMI" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001449644" 
+ rptOwnerName="Green Equity Investors V, L.P." 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="LOS ANGELES" rptOwnerState="CA" rptOwnerStreet1="11111 SANTA MONICA BOULEVARD" rptOwnerStreet2="SUITE 2000" rptOwnerZipCode="90025">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="1" 
+ isOfficer="0" 
+ isTenPercentOwner="1" 
+ isOther="0" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<reportingOwner><reportingOwnerId> rptOwnerCik="0001449643" 
+ rptOwnerName="Green Equity Investors Side V, L.P." 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="LOS ANGELES" rptOwnerState="CA" rptOwnerStreet1="11111 SANTA MONICA BOULEVARD" rptOwnerStreet2="SUITE 2000" rptOwnerZipCode="90025">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="1" 
+ isOfficer="0" 
+ isTenPercentOwner="1" 
+ isOther="0" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<reportingOwner><reportingOwnerId> rptOwnerCik="0001449640" 
+ rptOwnerName="GEI Capital V, LLC" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="LOS ANGELES" rptOwnerState="CA" rptOwnerStreet1="11111 SANTA MONICA BOULEVARD" rptOwnerStreet2="SUITE 2000" rptOwnerZipCode="90025">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="0" 
+ isTenPercentOwner="1" 
+ isOther="0" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<reportingOwner><reportingOwnerId> rptOwnerCik="0001449645" 
+ rptOwnerName="Green V Holdings, LLC" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="LOS ANGELES" rptOwnerState="CA" rptOwnerStreet1="11111 SANTA MONICA BOULEVARD" rptOwnerStreet2="SUITE 2000" rptOwnerZipCode="90025">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="0" 
+ isTenPercentOwner="1" 
+ isOther="0" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<reportingOwner><reportingOwnerId> rptOwnerCik="0001175523" 
+ rptOwnerName="LEONARD GREEN PARTNERS LP" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="LOS ANGELES" rptOwnerState="CA" rptOwnerStreet1="11111 SANTA MONICA BOULEVARD" rptOwnerStreet2="SUITE 2000" rptOwnerZipCode="90025">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="0" 
+ isTenPercentOwner="1" 
+ isOther="0" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<reportingOwner><reportingOwnerId> rptOwnerCik="0001175525" 
+ rptOwnerName="LGP MANAGEMENT INC" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="LOS ANGELES" rptOwnerState="CA" rptOwnerStreet1="11111 SANTA MONICA BOULEVARD" rptOwnerStreet2="SUITE 2000" rptOwnerZipCode="90025">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="0" 
+ isTenPercentOwner="1" 
+ isOther="0" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<reportingOwner><reportingOwnerId> rptOwnerCik="0001451301" 
+ rptOwnerName="Thyme Coinvest, LLC" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="LOS ANGELES" rptOwnerState="CA" rptOwnerStreet1="11111 SANTA MONICA BOULEVARD" rptOwnerStreet2="SUITE 2000" rptOwnerZipCode="90025">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="0" 
+ isTenPercentOwner="1" 
+ isOther="0" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<deemedExecutionDate>
+<footnoteId id="F1" /> 
+</deemedExecutionDate>
+<transactionCoding> transactionFormType="4" 
+ transactionCode="S" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="3817824" 
+<footnoteId id="F2" /> 
+</transactionShares>
+<transactionPricePerShare> value="45.85" 
+<footnoteId id="F3" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="D" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="14649859" 
+<footnoteId id="F4" /> 
+<footnoteId id="F5" />
+<footnoteId id="F6" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<deemedExecutionDate>
+<footnoteId id="F1" /> 
+</deemedExecutionDate>
+<transactionCoding> transactionFormType="4" 
+ transactionCode="S" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="1145223" 
+<footnoteId id="F7" /> 
+</transactionShares>
+<transactionPricePerShare> value="45.85" 
+<footnoteId id="F3" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="D" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="4394484" 
+<footnoteId id="F4" /> 
+<footnoteId id="F5" />
+<footnoteId id="F8" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<deemedExecutionDate>
+<footnoteId id="F1" /> 
+</deemedExecutionDate>
+<transactionCoding> transactionFormType="4" 
+ transactionCode="S" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="36953" 
+<footnoteId id="F9" /> 
+</transactionShares>
+<transactionPricePerShare> value="45.85" 
+<footnoteId id="F3" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="D" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="141798" 
+<footnoteId id="F4" /> 
+<footnoteId id="F5" />
+<footnoteId id="F10" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<footnotes> <footnote id="F1" text="Not applicable." /> 
+ <footnote id="F2" text="Represents shares sold by Green Equity Investors V, L.P. (GEI V)." /> 
+ <footnote id="F3" text="This transaction was executed in a single block trade at $45.85 per share." /> 
+ <footnote id="F4" text="GEI Capital V, LLC (GEIC) is the general partner of GEI V and Green Equity Investors Side V, L.P. (GEI Side V).  Green V Holdings, LLC (Holdings) is a limited partner of GEI V.  Leonard Green &amp; Partners, L.P. (LGP) is the management company of GEI V and GEI Side V, the manager of Thyme Coinvest, LLC (Thyme) and an affiliate of GEIC and Holdings.  LGP Management, Inc. (LGPM) is the general partner of LGP." /> 
+ <footnote id="F5" text="GEI Side V and Thyme, as affiliated entities of GEI V, LGP, as the management company of GEI V and GEI Side V and the manager of Thyme, LGPM, as the general partner of LGP, GEIC, as the general partner of GEI V and GEI Side V, and Holdings, as a limited partner of GEI V directly (whether through ownership or position) or indirectly through one or more intermediaries, may be deemed for purposes of Section 16 of the Securities Exchange Act of 1934, as amended, to be the indirect beneficial owners of the shares of Common Stock owned by GEI V, GEI Side V or Thyme (such shares, collectively, the Shares) and, therefore, a ten percent holder hereunder." /> 
+ <footnote id="F6" text="Reflects shares owned by GEI V.  Each of GEI Side V, Thyme, LGP, LGPM, GEIC, and Holdings disclaims beneficial ownership of the Shares reported herein, except to the extent of its pecuniary interest therein, and this report shall not be deemed an admission that the reporting persons are the beneficial owners of such securities for purposes of Section 16 or for any other purposes." /> 
+ <footnote id="F7" text="Represents shares sold by GEI Side V." /> 
+ <footnote id="F8" text="Reflects shares owned by GEI Side V.  Each of GEI V, Thyme, LGP, LGPM, GEIC, and Holdings disclaims beneficial ownership of the Shares reported herein, except to the extent of its pecuniary interest therein, and this report shall not be deemed an admission that the reporting persons are the beneficial owners of such securities for purposes of Section 16 or for any other purposes." /> 
+ <footnote id="F9" text="Represents shares sold by Thyme." /> 
+ <footnote id="F10" text="Reflects shares owned by Thyme.  Each of GEI V, GEI Side V, LGP, LGPM, GEIC, and Holdings disclaims beneficial ownership of the Shares reported herein, except to the extent of its pecuniary interest therein, and this report shall not be deemed an admission that the reporting persons are the beneficial owners of such securities for purposes of Section 16 or for any other purposes." /> 
+</footnotes>
+ remarks="GEI V and GEI Side V may be deemed to be directors for purposes of Section 16 of the Securities Exchange Act of 1934, as amended, by reason of their collective right to nominate two persons to serve on the board of directors of Whole Foods Market, Inc. (the Company) in accordance with the terms and conditions of a securities purchase agreement dated as of November 5, 2008, as amended, by and among the Company, GEI V, and GEI Side V." 
+<ownerSignature signatureDate="2010-11-08" signatureName="/s/ Cody L. Franklin as Attorney-in-Fact for Jonathan D. Sokoloff, Manager of GEI Capital V, LLC, the general partner of Green Equity Investors V, L.P.">
+</ownerSignature>
+</ownershipDocument></Source>

@@ -1,0 +1,500 @@
+<Source file="./0001209191-10-053707.nc">
+<SUBMISSION ACCESSION-NUMBER="0001209191-10-053707" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101105" PUBLIC-DOCUMENT-COUNT="2" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001360712" CONFORMED-NAME="JONES GINGER M" /><FILING-VALUES ACT="34" FILE-NUMBER="001-14423" FILM-NUMBER="101172827" FORM-TYPE="4" /><MAIL-ADDRESS CITY="NEENAH" STATE="WI" STREET1="55 JEWELERS PARK DRIVE" ZIP="54956" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="3672" CIK="0000785786" CONFORMED-NAME="PLEXUS CORP" FISCAL-YEAR-END="1002" IRS-NUMBER="391344447" STATE-OF-INCORPORATION="WI" /><BUSINESS-ADDRESS CITY="NEENAH" PHONE="9207223451" STATE="WI" STREET1="PLEXUS CORP" STREET2="ONE PLEXUS WAY" ZIP="54956" /><MAIL-ADDRESS CITY="NEENAH" STATE="WI" STREET1="PLEXUS CORP" STREET2="ONE PLEXUS WAY" ZIP="54956" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-05" schemaVersion="X0303">
+<issuer> issuerCik="0000785786" 
+ issuerName="PLEXUS CORP" 
+ issuerTradingSymbol="PLXS" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001360712" 
+ rptOwnerName="JONES GINGER M" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="NEENAH" rptOwnerState="WI" rptOwnerStreet1="ONE PLEXUS WAY" rptOwnerStreet2="" rptOwnerZipCode="54956" />
+
+
+<reportingOwnerRelationship isDirector="0" isOfficer="1" isOther="0" isTenPercentOwner="0" officerTitle="VP and CFO">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock, $.01 par value" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="M" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="4560" 
+</transactionShares>
+<transactionPricePerShare>
+<footnoteId id="F1" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="A" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="7560" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeHolding>
+<securityTitle> value="Common Stock, $.01 par value" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="1516" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="401(k)">
+<footnoteId id="F2" /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+</nonDerivativeTable>
+<derivativeTable>
+<derivativeHolding><securityTitle> value="Option to buy" 
+</securityTitle>
+<conversionOrExercisePrice value="18.185">
+</conversionOrExercisePrice>
+<exerciseDate>
+<footnoteId id="F3" /> 
+</exerciseDate>
+<expirationDate> value="2017-04-09" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="10000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="10000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Option to buy" 
+</securityTitle>
+<conversionOrExercisePrice value="30.54">
+</conversionOrExercisePrice>
+<exerciseDate>
+<footnoteId id="F3" /> 
+</exerciseDate>
+<expirationDate> value="2017-11-05" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="4000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="4000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Option to buy" 
+</securityTitle>
+<conversionOrExercisePrice value="22.17">
+</conversionOrExercisePrice>
+<exerciseDate>
+<footnoteId id="F3" /> 
+</exerciseDate>
+<expirationDate> value="2018-01-28" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="4000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="4000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Option to buy" 
+</securityTitle>
+<conversionOrExercisePrice value="24.21">
+</conversionOrExercisePrice>
+<exerciseDate>
+<footnoteId id="F3" /> 
+</exerciseDate>
+<expirationDate> value="2018-04-28" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="4000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="4000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Option to buy" 
+</securityTitle>
+<conversionOrExercisePrice value="29.71">
+</conversionOrExercisePrice>
+<exerciseDate>
+<footnoteId id="F3" /> 
+</exerciseDate>
+<expirationDate> value="2018-07-29" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="4000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="4000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Option to buy" 
+</securityTitle>
+<conversionOrExercisePrice value="18.085">
+</conversionOrExercisePrice>
+<exerciseDate>
+<footnoteId id="F3" /> 
+</exerciseDate>
+<expirationDate> value="2018-10-31" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="5000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="5000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Option to buy" 
+</securityTitle>
+<conversionOrExercisePrice value="14.625">
+</conversionOrExercisePrice>
+<exerciseDate value="2010-02-02">
+<footnoteId id="F4" /> 
+</exerciseDate>
+<expirationDate> value="2019-02-02" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="5000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="5000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Option to buy" 
+</securityTitle>
+<conversionOrExercisePrice value="20.953">
+</conversionOrExercisePrice>
+<exerciseDate value="2010-05-04">
+<footnoteId id="F4" /> 
+</exerciseDate>
+<expirationDate> value="2019-05-04" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="5000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="5000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Option to buy" 
+</securityTitle>
+<conversionOrExercisePrice value="25.751">
+</conversionOrExercisePrice>
+<exerciseDate value="2010-08-03">
+<footnoteId id="F4" /> 
+</exerciseDate>
+<expirationDate> value="2019-08-03" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="5000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="5000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Option to buy" 
+</securityTitle>
+<conversionOrExercisePrice value="25.335">
+</conversionOrExercisePrice>
+<exerciseDate value="2010-11-02">
+<footnoteId id="F4" /> 
+</exerciseDate>
+<expirationDate> value="2019-11-02" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="5000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="5000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Option to buy" 
+</securityTitle>
+<conversionOrExercisePrice value="33.999">
+</conversionOrExercisePrice>
+<exerciseDate value="2011-01-25">
+<footnoteId id="F4" /> 
+</exerciseDate>
+<expirationDate> value="2020-01-25" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="5000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="5000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Option to buy" 
+</securityTitle>
+<conversionOrExercisePrice value="38.24">
+</conversionOrExercisePrice>
+<exerciseDate value="2011-04-23">
+<footnoteId id="F4" /> 
+</exerciseDate>
+<expirationDate> value="2020-04-23" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="5000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="5000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Option to buy" 
+</securityTitle>
+<conversionOrExercisePrice value="30.475">
+</conversionOrExercisePrice>
+<exerciseDate value="2011-07-26">
+<footnoteId id="F4" /> 
+</exerciseDate>
+<expirationDate> value="2020-07-26" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="5000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="5000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Option to buy" 
+</securityTitle>
+<conversionOrExercisePrice value="29.798">
+</conversionOrExercisePrice>
+<exerciseDate value="2011-11-01">
+<footnoteId id="F4" /> 
+</exerciseDate>
+<expirationDate> value="2020-11-01" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="5000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="5000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeTransaction>
+<securityTitle> value="Restricted Stock Units" 
+</securityTitle>
+<conversionOrExercisePrice>
+<footnoteId id="F1" /> 
+</conversionOrExercisePrice>
+<transactionDate> value="2010-11-05" 
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="M" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="4560" 
+</transactionShares>
+<transactionPricePerShare>
+<footnoteId id="F1" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="D" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate><footnoteId id="F1" /> 
+</exerciseDate>
+<expirationDate><footnoteId id="F1" /> 
+</expirationDate>
+<underlyingSecurity><underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="4560">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="0" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+<derivativeHolding>
+<securityTitle> value="Restricted Stock Units" 
+</securityTitle>
+<conversionOrExercisePrice>
+<footnoteId id="F5" /> 
+</conversionOrExercisePrice>
+<exerciseDate><footnoteId id="F5" /> 
+</exerciseDate>
+<expirationDate><footnoteId id="F5" /> 
+</expirationDate>
+<underlyingSecurity><underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="4975">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="4975" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Restricted Stock Units" 
+</securityTitle>
+<conversionOrExercisePrice>
+<footnoteId id="F6" /> 
+</conversionOrExercisePrice>
+<exerciseDate><footnoteId id="F6" /> 
+</exerciseDate>
+<expirationDate><footnoteId id="F6" /> 
+</expirationDate>
+<underlyingSecurity><underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="15000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="15000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Restricted Stock Units" 
+</securityTitle>
+<conversionOrExercisePrice>
+<footnoteId id="F7" /> 
+</conversionOrExercisePrice>
+<exerciseDate><footnoteId id="F7" /> 
+</exerciseDate>
+<expirationDate><footnoteId id="F7" /> 
+</expirationDate>
+<underlyingSecurity><underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="5000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="5000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="Each Restricted Stock Unit granted under the Plexus Corp. 2005 Equity Incentive Plan, which qualifies under Rule 16b-3, represented a contingent right to receive one share of Plexus Corp. common stock.  The Restricted Stock Units vested and were settled on November 5, 2010." /> 
+ <footnote id="F2" text="Shares of Plexus Corp. common stock held in the Plexus Corp. 401(k) Savings Plan as of the last report from the Plan&apos;s trustee." /> 
+ <footnote id="F3" text="Options granted under the Plexus Corp. 2008 Long-Term Incentive Plan, or a predecessor plan, which qualifies under Rule 16b-3; now fully vested." /> 
+ <footnote id="F4" text="Options granted under the Plexus Corp. 2008 Long-Term Incentive Plan, which qualifes under Rule 16b-3; one half vests each year, commencing on the first anniversary of grant." /> 
+ <footnote id="F5" text="Each Restricted Stock Unit granted under the Plexus Corp. 2008 Long-Term Incentive Plan, which qualifies under Rule 16b-3, represents a contingent right to receive one share of Plexus Corp. common stock. The Restricted Stock Units vest on October 31, 2011." /> 
+ <footnote id="F6" text="Each Restricted Stock Unit granted under the Plexus Corp. 2008 Long-Term Incentive Plan, which qualifies under Rule 16b-3, represents a contingent right to receive one share of Plexus Corp. common stock. The Restricted Stock Units vest on August 3, 2012." /> 
+ <footnote id="F7" text="Each Restricted Stock Unit granted under the Plexus Corp. 2008 Long-Term Incentive Plan, which qualifies under Rule 16b-3, represents a contingent right to receive one share of Plexus Corp. common stock. The Restricted Stock Units vest on January 25, 2013." /> 
+</footnotes>
+<remarks />
+<ownerSignature> signatureName="Ginger M. Jones, by Mary J. Bathke, Attorney-in-Fact" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

@@ -1,0 +1,121 @@
+<Source file="./0001225208-10-024416.nc">
+<SUBMISSION ACCESSION-NUMBER="0001225208-10-024416" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101105" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001206061" CONFORMED-NAME="BOND RITCHIE L" /><FILING-VALUES ACT="34" FILE-NUMBER="000-00516" FILM-NUMBER="101170957" FORM-TYPE="4" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="2650" CIK="0000091767" CONFORMED-NAME="SONOCO PRODUCTS CO" FISCAL-YEAR-END="1231" IRS-NUMBER="570248420" STATE-OF-INCORPORATION="SC" /><BUSINESS-ADDRESS CITY="HARTSVILLE" PHONE="8433837000" STATE="SC" STREET1="ONE NORTH SECOND ST" STREET2="P O BOX 160" ZIP="29551-0160" /><MAIL-ADDRESS CITY="HARTSVILLE" STATE="SC" STREET1="ONE N. SECOND STREET" ZIP="29550" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" periodOfReport="2010-11-05" schemaVersion="X0303">
+<issuer> issuerCik="0000091767" 
+ issuerName="SONOCO PRODUCTS CO" 
+ issuerTradingSymbol="SON" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001206061" 
+ rptOwnerName="BOND RITCHIE L" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="HARTSVILLE" rptOwnerState="SC" rptOwnerStreet1="ONE NORTH SECOND ST" rptOwnerStreet2="P O BOX 160" rptOwnerZipCode="29551-0160">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isOfficer="1" 
+ officerTitle="Staff VP, Treasurer, Sec." 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="6000.0000" 
+</transactionShares>
+<transactionPricePerShare value="23.6900">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="6000.0000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="1210.0000" 
+</transactionShares>
+<transactionPricePerShare value="34.0000">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="4790.0000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="D" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="4790.0000" 
+</transactionShares>
+<transactionPricePerShare value="34.0000">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="0.0000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<derivativeTable><derivativeTransaction><securityTitle> value="Stock Appreciation Right" 
+</securityTitle>
+<conversionOrExercisePrice value="23.6900">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="6000.0000" 
+</transactionShares>
+<transactionPricePerShare value="0.0000">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate> value="2010-02-04" 
+</exerciseDate>
+<expirationDate value="2016-02-04">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="6000.0000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="0.0000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<ownerSignature signatureDate="2010-11-08" signatureName="By: Elizabeth R. Kremer - Power of Attorney for Ritchie L. Bond">
+</ownerSignature>
+</ownershipDocument></Source>

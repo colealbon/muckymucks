@@ -1,0 +1,212 @@
+<Source file="./0000921895-10-001644.nc">
+<SUBMISSION ACCESSION-NUMBER="0000921895-10-001644" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><ISSUER><COMPANY-DATA ASSIGNED-SIC="3577" CIK="0001058811" CONFORMED-NAME="IMMERSION CORP" FISCAL-YEAR-END="1231" IRS-NUMBER="943180138" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="SAN JOSE" PHONE="408-467-1900" STATE="CA" STREET1="801 FOX LANE" ZIP="95131" /><MAIL-ADDRESS CITY="SAN JOSE" STATE="CA" STREET1="801 FOX LANE" ZIP="95131" /><FORMER-COMPANY DATE-CHANGED="19980602" FORMER-CONFORMED-NAME="IMMERSION HUMAN INTERFACE CORP" /></ISSUER><REPORTING-OWNER><OWNER-DATA CIK="0001275893" CONFORMED-NAME="RAMIUS ADVISORS LLC" FISCAL-YEAR-END="1231" /><FILING-VALUES ACT="34" FILE-NUMBER="000-27969" FILM-NUMBER="101174138" FORM-TYPE="4" /><BUSINESS-ADDRESS CITY="NEW YORK" PHONE="2122014823" STATE="NY" STREET1="599 LEXINGTON AVENUE" STREET2="20TH FLOOR" ZIP="10022" /><MAIL-ADDRESS CITY="NEW YORK" STATE="NY" STREET1="599 LEXINGTON AVENUE 20TH FLOOR" ZIP="10022" /></REPORTING-OWNER><REPORTING-OWNER><OWNER-DATA CIK="0001329989" CONFORMED-NAME="RCG STARBOARD ADVISORS, LLC" FISCAL-YEAR-END="1231" /><FILING-VALUES ACT="34" FILE-NUMBER="000-27969" FILM-NUMBER="101174134" FORM-TYPE="4" /><BUSINESS-ADDRESS CITY="NEW YORK" PHONE="212-201-4841" STATE="NY" STREET1="599 LEXINGTON AVENUE" STREET2="20TH FLOOR" ZIP="10022" /><MAIL-ADDRESS CITY="NEW YORK" STATE="NY" STREET1="599 LEXINGTON AVENUE" STREET2="20TH FLOOR" ZIP="10022" /><FORMER-NAME DATE-CHANGED="20050613" FORMER-CONFORMED-NAME="Admiral Advisors, LLC" /></REPORTING-OWNER><REPORTING-OWNER><OWNER-DATA CIK="0001373638" CONFORMED-NAME="RAMIUS VALUE &amp; OPPORTUNITY MASTER FUND LTD" /><FILING-VALUES ACT="34" FILE-NUMBER="000-27969" FILM-NUMBER="101174136" FORM-TYPE="4" /><BUSINESS-ADDRESS CITY="NEW YORK" PHONE="(212) 201-4823" STATE="NY" STREET1="C/O RAMIUS LLC" STREET2="599 LEXINGTON AVENUE 2OTH FLOOR" ZIP="10022" /><MAIL-ADDRESS CITY="NEW YORK" STATE="NY" STREET1="C/O RAMIUS LLC" STREET2="599 LEXINGTON AVENUE 2OTH FLOOR" ZIP="10022" /><FORMER-NAME DATE-CHANGED="20060823" FORMER-CONFORMED-NAME="Starboard Value &amp; Opportunity Master Fund Ltd" /></REPORTING-OWNER><REPORTING-OWNER><OWNER-DATA CIK="0001401165" CONFORMED-NAME="RCG PB, Ltd" FISCAL-YEAR-END="1231" STATE-OF-INCORPORATION="E9" /><FILING-VALUES ACT="34" FILE-NUMBER="000-27969" FILM-NUMBER="101174137" FORM-TYPE="4" /><BUSINESS-ADDRESS CITY="NEW YORK" PHONE="2122014823" STATE="NY" STREET1="C/O RAMIUS CAPITAL GROUP, LLC" STREET2="599 LEXINGTON AVENUE" ZIP="10022" /><MAIL-ADDRESS CITY="NEW YORK" STATE="NY" STREET1="C/O RAMIUS CAPITAL GROUP, LLC" STREET2="599 LEXINGTON AVENUE" ZIP="10022" /></REPORTING-OWNER><REPORTING-OWNER><OWNER-DATA CIK="0001418492" CONFORMED-NAME="RAMIUS ENTERPRISE MASTER FUND LTD" FISCAL-YEAR-END="1231" STATE-OF-INCORPORATION="E9" /><FILING-VALUES ACT="34" FILE-NUMBER="000-27969" FILM-NUMBER="101174135" FORM-TYPE="4" /><BUSINESS-ADDRESS CITY="NEW YORK" PHONE="2122014823" STATE="NY" STREET1="599 LEXINGTON AVENUE 20TH FLOOR" ZIP="10022" /><MAIL-ADDRESS CITY="NEW YORK" STATE="NY" STREET1="599 LEXINGTON AVENUE 20TH FLOOR" ZIP="10022" /><FORMER-NAME DATE-CHANGED="20071114" FORMER-CONFORMED-NAME="RCG Enterprise Ltd" /></REPORTING-OWNER><REPORTING-OWNER><OWNER-DATA CIK="0001475770" CONFORMED-NAME="Ramius LLC" FISCAL-YEAR-END="1231" STATE-OF-INCORPORATION="DE" /><FILING-VALUES ACT="34" FILE-NUMBER="000-27969" FILM-NUMBER="101174139" FORM-TYPE="4" /><BUSINESS-ADDRESS CITY="NEW YORK" PHONE="212 845 7900" STATE="NY" STREET1="599 LEXINGTON AVENUE" ZIP="10022" /><MAIL-ADDRESS CITY="NEW YORK" STATE="NY" STREET1="599 LEXINGTON AVENUE" ZIP="10022" /><FORMER-NAME DATE-CHANGED="20091030" FORMER-CONFORMED-NAME="Park Exchange LLC" /></REPORTING-OWNER><REPORTING-OWNER><OWNER-DATA CIK="0001479935" CONFORMED-NAME="Ramius Navigation Master Fund Ltd" /><FILING-VALUES ACT="34" FILE-NUMBER="000-27969" FILM-NUMBER="101174140" FORM-TYPE="4" /><BUSINESS-ADDRESS CITY="GRAND CAYMAN" PHONE="212-845-7900" STATE="E9" STREET1="C/O CITCO FUND SERVICES (CAYMAN ISLANDS)" STREET2="REGATTA OFFICE PARK, WINDWARD 1, 2ND FL" ZIP="KY1-1205" /><MAIL-ADDRESS CITY="GRAND CAYMAN" STATE="E9" STREET1="C/O CITCO FUND SERVICES (CAYMAN ISLANDS)" STREET2="REGATTA OFFICE PARK, WINDWARD 1, 2ND FL" ZIP="KY1-1205" /></REPORTING-OWNER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0001058811" 
+ issuerName="IMMERSION CORP" 
+ issuerTradingSymbol="IMMR" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001475770" 
+ rptOwnerName="Ramius LLC" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="NEW YORK" rptOwnerState="NY" rptOwnerStreet1="599 LEXINGTON AVE." rptOwnerStreet2="20TH FLOOR" rptOwnerZipCode="10022">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="0" 
+ isTenPercentOwner="1" 
+ isOther="0" 
+<officerTitle /> 
+<otherText />
+</reportingOwnerRelationship>
+</reportingOwner>
+<reportingOwner><reportingOwnerId> rptOwnerCik="0001275893" 
+ rptOwnerName="RAMIUS ADVISORS LLC" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="NEW YORK" rptOwnerState="NY" rptOwnerStreet1="C/O RAMIUS LLC" rptOwnerStreet2="599 LEXINGTON AVE., 20TH FLOOR" rptOwnerZipCode="10022">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="0" 
+ isTenPercentOwner="1" 
+ isOther="0" 
+<officerTitle /> 
+<otherText />
+</reportingOwnerRelationship>
+</reportingOwner>
+<reportingOwner><reportingOwnerId> rptOwnerCik="0001401165" 
+ rptOwnerName="RCG PB, Ltd" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="NEW YORK" rptOwnerState="NY" rptOwnerStreet1="C/O RAMIUS LLC" rptOwnerStreet2="599 LEXINGTON AVE., 20TH FLOOR" rptOwnerZipCode="10022">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="0" 
+ isTenPercentOwner="1" 
+ isOther="0" 
+<officerTitle /> 
+<otherText />
+</reportingOwnerRelationship>
+</reportingOwner>
+<reportingOwner><reportingOwnerId> rptOwnerCik="0001373638" 
+ rptOwnerName="RAMIUS VALUE &amp; OPPORTUNITY MASTER FUND LTD" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="NEW YORK" rptOwnerState="NY" rptOwnerStreet1="C/O RAMIUS LLC" rptOwnerStreet2="599 LEXINGTON AVE., 20TH FLOOR" rptOwnerZipCode="10022">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="0" 
+ isTenPercentOwner="1" 
+ isOther="0" 
+<officerTitle /> 
+<otherText />
+</reportingOwnerRelationship>
+</reportingOwner>
+<reportingOwner><reportingOwnerId> rptOwnerCik="0001418492" 
+ rptOwnerName="RAMIUS ENTERPRISE MASTER FUND LTD" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="GRAND CAYMAN" rptOwnerState="E9" rptOwnerStateDescription="CAYMAN ISLANDS" rptOwnerStreet1="C/O CITCO FUND SERVICES" rptOwnerStreet2="REGATA OFFICE PARK, WINDWARD 1" rptOwnerZipCode="KY1-1205">
+</reportingOwnerAddress>
+<reportingOwnerRelationship isDirector="0" isOfficer="0" isOther="0" isTenPercentOwner="1">
+<officerTitle /> 
+<otherText />
+</reportingOwnerRelationship>
+</reportingOwner>
+<reportingOwner><reportingOwnerId> rptOwnerCik="0001329989" 
+ rptOwnerName="RCG STARBOARD ADVISORS, LLC" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="NEW YORK" rptOwnerState="NY" rptOwnerStreet1="C/O RAMIUS LLC" rptOwnerStreet2="599 LEXINGTON AVE., 20TH FLOOR" rptOwnerZipCode="10022">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="0" 
+ isTenPercentOwner="1" 
+ isOther="0" 
+<officerTitle /> 
+<otherText />
+</reportingOwnerRelationship>
+</reportingOwner>
+<reportingOwner><reportingOwnerId> rptOwnerCik="0001479935" 
+ rptOwnerName="Ramius Navigation Master Fund Ltd" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="GRAND CAYMAN" rptOwnerState="E9" rptOwnerStateDescription="CAYMAN ISLANDS" rptOwnerStreet1="C/O CITCO FUND SERVICES" rptOwnerStreet2="REGATA OFFICE PARK, WINDWARD 1" rptOwnerZipCode="KY1-1205">
+</reportingOwnerAddress>
+<reportingOwnerRelationship isDirector="0" isOfficer="0" isOther="0" isTenPercentOwner="1">
+<officerTitle /> 
+<otherText />
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock, $0.001 par value" 
+<footnoteId id="F1" /> 
+<footnoteId id="F2" />
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="S" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionTimeliness />
+<transactionAmounts><transactionShares> value="359" 
+</transactionShares>
+<transactionPricePerShare value="6.1520">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="521512" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="By Ramius Navigation Master Fund Ltd">
+<footnoteId id="F3" /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction><securityTitle> value="Common Stock, $0.001 par value" 
+<footnoteId id="F1" /> 
+<footnoteId id="F2" />
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="S" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionTimeliness />
+<transactionAmounts><transactionShares> value="1193" 
+</transactionShares>
+<transactionPricePerShare value="6.1520">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="1733894" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="By Ramius Value &amp; Opportunity Master">
+<footnoteId id="F4" /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction><securityTitle> value="Common Stock, $0.001 par value" 
+<footnoteId id="F1" /> 
+<footnoteId id="F2" />
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="S" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionTimeliness />
+<transactionAmounts><transactionShares> value="948" 
+</transactionShares>
+<transactionPricePerShare value="6.1520">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="1378527" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="By RCG PB, Ltd">
+<footnoteId id="F5" /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<footnotes>
+<footnote id="F1" text="Each Reporting Person may be deemed to be a member of a Section 13(d) group that owns more than 10% of the Issuer&apos;s outstanding shares of Common Stock. To enable all of the Reporting Persons to gain access to the Securities and Exchange Commission&apos;s electronic filing system (which only accepts a maximum of 10 joint filers per report), this report is the first of two identical reports relating to the same transaction being filed with the Securities and Exchange Commission." /> 
+ <footnote id="F2" text="Each Reporting Person (other than Ramius Value and Opportunity Master Fund Ltd, Ramius Navigation Master Fund Ltd and RCG PB, Ltd) disclaims beneficial ownership of the shares of Common Stock reported herein except to the extent of its pecuniary interest therein, and this report shall not be deemed to be an admission that any Reporting Person is the beneficial owner of such shares of Common Stock for purposes of Section 16 or for any other purpose." /> 
+ <footnote id="F3" text="Shares of Common Stock beneficially owned by Navigation Master Fund. Enterprise Master Fund, as the sole shareholder of Navigation Master Fund, may be deemed to beneficially own the shares of Common Stock beneficially owned by Navigation Master Fund. Ramius Advisors, LLC (Ramius Advisors), as the investment advisor of Navigation Master Fund, may be deemed to beneficially own the shares of Common Stock beneficially owned by Navigation Master Fund. Ramius LLC (Ramius), as the sole member of Ramius Advisors, may be deemed to beneficially own the shares of Common Stock beneficially owned by Navigation Master Fund." /> 
+ <footnote id="F4" text="Shares of Common Stock beneficially owned by Ramius Value and Opportunity Master Fund Ltd (Value and Opportunity Master Fund). As the investment manager of Value and Opportunity Master Fund, Ramius Value and Opportunity Advisors LLC (Value and Opportunity Advisors) (f/k/a RCG Starboard Advisors, LLC) may be deemed to beneficially own the shares of Common Stock beneficially owned by Value and Opportunity Master Fund. Ramius, as the sole member of Value and Opportunity Advisors, may be deemed to beneficially own the shares of Common Stock beneficially owned by Value and Opportunity Master Fund." /> 
+ <footnote id="F5" text="Shares of Common Stock beneficially owned by RCG PB. Ramius Advisors, as the investment advisor of RCG PB, may be deemed to beneficially own the shares of Common Stock beneficially owned by RCG PB. Ramius, as the sole member of Ramius Advisors, may be deemed to beneficially own the shares of Common Stock beneficially owned by RCG PB." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="By: Ramius LLC; By: /s/ Owen S. Littman, Authorized Signatory">
+</ownerSignature>
+<ownerSignature signatureDate="2010-11-08" signatureName="By: Ramius Advisors, LLC; By: /s/ Owen S. Littman, Authorized Signatory">
+</ownerSignature>
+<ownerSignature signatureDate="2010-11-08" signatureName="By: RCG PB, Ltd; By: /s/ Owen S. Littman, Authorized Signatory">
+</ownerSignature>
+<ownerSignature signatureDate="2010-11-08" signatureName="By: Ramius Value and Opportunity Master Fund Ltd; By: /s/ Owen S. Littman, Authorized Signatory">
+</ownerSignature>
+<ownerSignature signatureDate="2010-11-08" signatureName="By: Ramius Enterprise Master Fund Ltd; By: /s/ Owen S. Littman, Authorized Signatory">
+</ownerSignature>
+<ownerSignature signatureDate="2010-11-08" signatureName="By: Ramius Value and Opportunity Advisors LLC; By: /s/ Owen S. Littman, Authorized Signatory">
+</ownerSignature>
+<ownerSignature signatureDate="2010-11-08" signatureName="By: Ramius Navigation Master Fund Ltd; By: /s/ Owen S. Littman, Authorized Signatory">
+</ownerSignature>
+</ownershipDocument></Source>

@@ -1,0 +1,57 @@
+<Source file="./0001179110-10-015744.nc">
+<SUBMISSION ACCESSION-NUMBER="0001179110-10-015744" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101105" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001265912" CONFORMED-NAME="TWINEM MARY J" /><FILING-VALUES ACT="34" FILE-NUMBER="000-24743" FILM-NUMBER="101173913" FORM-TYPE="4" /><MAIL-ADDRESS CITY="MINNEAPOLIS" STATE="MN" STREET1="5500 WAYZATA BLVD." STREET2="SUITE 1600" ZIP="55416" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="5812" CIK="0001062449" CONFORMED-NAME="BUFFALO WILD WINGS INC" FISCAL-YEAR-END="1228" IRS-NUMBER="311455915" STATE-OF-INCORPORATION="MN" /><BUSINESS-ADDRESS CITY="MINNEAPOLIS" PHONE="6125939943" STATE="MN" STREET1="5500 WAYZATA BOULEVARD" STREET2="SUITE 1600" ZIP="55416" /><MAIL-ADDRESS CITY="MINNEAPOLIS" STATE="MN" STREET1="5500 WAYZATA BOULEVARD" STREET2="SUITE 1600" ZIP="55416" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-05" schemaVersion="X0303">
+<issuer> issuerCik="0001062449" 
+ issuerName="BUFFALO WILD WINGS INC" 
+ issuerTradingSymbol="BWLD" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001265912" 
+ rptOwnerName="TWINEM MARY J" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="MINNEAPOLIS" rptOwnerState="MN" rptOwnerStreet1="5500 WAYZATA BLVD." rptOwnerStreet2="SUITE 1600" rptOwnerZipCode="55416">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="1" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+ officerTitle="Executive VP, CFO &amp; Treasurer" 
+<otherText /> 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable>
+<nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+<footnoteId id="F1" /> 
+</transactionCoding>
+<transactionAmounts><transactionShares> value="2000" 
+</transactionShares>
+<transactionPricePerShare value="48.7545">
+<footnoteId id="F2" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="D" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="65271" 
+<footnoteId id="F3" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<derivativeTable /> 
+<footnotes>
+<footnote id="F1" text="Sales effected pursuant to a Rule 10b5-1 trading plan adopted by the reporting person on November 19, 2009.  The sales reported on this Form 4 conclude the transactions contemplated by the Rule 10b5-1 trading plan." /> 
+ <footnote id="F2" text="Reflects the weighted average price of 2,000 shares of common stock of Buffalo Wild Wings, Inc. sold by the reporting person in multiple transactions on November 5, 2010 with sale prices ranging from $48.65 to $48.85 per share. The reporting person undertakes to provide upon request by the U.S. Securities and Exchange Commission staff, the issuer, or a security holder of the issuer, full information regarding the number of shares sold at each separate price." /> 
+ <footnote id="F3" text="Included in this amount are 10,482 shares of common stock issuable in settlement of performance restricted stock units, the receipt of which the reporting person has elected to defer." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="/s/ Erik J. Romslo, as Attorney-in-Fact for Mary J. Twinem">
+</ownerSignature>
+</ownershipDocument></Source>

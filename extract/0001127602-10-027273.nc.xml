@@ -1,0 +1,76 @@
+<Source file="./0001127602-10-027273.nc">
+<SUBMISSION ACCESSION-NUMBER="0001127602-10-027273" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001225930" CONFORMED-NAME="MCCOLLAM SHARON" /><FILING-VALUES ACT="34" FILE-NUMBER="001-14335" FILM-NUMBER="101172259" FORM-TYPE="4" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="2033" CIK="0000866873" CONFORMED-NAME="DEL MONTE FOODS CO" FISCAL-YEAR-END="0501" IRS-NUMBER="133542950" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="SAN FRANCISCO" PHONE="415-247-3000" STATE="CA" STREET1="ONE MARKET @ THE LANDMARK" STREET2="C/O DEL MONTE CORP" ZIP="94105" /><MAIL-ADDRESS CITY="SAN FRANCISCO" STATE="CA" STREET1="ONE MARKET @ THE LANDMARK" ZIP="94105" /><FORMER-COMPANY DATE-CHANGED="19600201" FORMER-CONFORMED-NAME="DMPF HOLDINGS CORP" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0000866873" 
+ issuerName="DEL MONTE FOODS CO" 
+ issuerTradingSymbol="DLM" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001225930" 
+ rptOwnerName="MCCOLLAM SHARON" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="SAN FRANCISCO" rptOwnerState="CA" rptOwnerStreet1="DEL MONTE CORPORATION" rptOwnerStreet2="ONE MARKET @ THE LANDMARK" rptOwnerZipCode="94105">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="1" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock, $0.01, Par Value" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="A" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness />
+<transactionAmounts><transactionShares> value="277" 
+<footnoteId id="F1" /> 
+</transactionShares>
+<transactionPricePerShare> value="14.36" 
+<footnoteId id="F2" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="A" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="68072" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock, $0.01, Par Value" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="A" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness />
+<transactionAmounts><transactionShares> value="1573" 
+<footnoteId id="F3" /> 
+</transactionShares>
+<transactionPricePerShare> value="14.47" 
+<footnoteId id="F4" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="A" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="69645" 
+<footnoteId id="F5" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<footnotes> <footnote id="F1" text="Represents 277.03 deferred stock units issued under Del Monte Foods Company&apos;s 2002 Stock Incentive Plan pursuant to the Del Monte Foods Company 2005 Non-Employee Director Deferred Compensation Plan, as amended, and similar prior plans.  Under such deferred compensation plans, each deferred stock unit issued in connection with the plan is credited with dividends that are converted into additional deferred stock units.  The deferred stock units reported herein reflect the additional deferred stock units credited in connection with the dividend the Company paid on 11/4/10." /> 
+ <footnote id="F2" text="Credited dividends were converted into additional deferred stock units based on the high/low average of the Company&apos;s stock on the transaction date." /> 
+ <footnote id="F3" text="Represents 1,572.76 deferred stock units issued under Del Monte Foods Company&apos;s 2002 Stock Incentive Plan pursuant to Del Monte Foods Company&apos;s 2005 Non-Employee Director Deferred Compensation Plan, as amended, in connection with deferral of cash compensation earned in accordance with the provisions of the Del Monte Non-Employee Director Compensation Plan." /> 
+ <footnote id="F4" text="Deferred cash compensation was converted into deferred stock units based on the high/low average of the Company&apos;s stock on the transaction date." /> 
+ <footnote id="F5" text="Includes 64,644.36 deferred stock units (including 18,593 deferred restricted stock units)." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="/s/ James Potter, signed pursuant to power of attorney">
+</ownerSignature>
+</ownershipDocument></Source>

@@ -1,0 +1,43 @@
+<Source file="./0001181431-10-054101.nc">
+<SUBMISSION ACCESSION-NUMBER="0001181431-10-054101" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001184754" CONFORMED-NAME="PEEK MARK S" /><FILING-VALUES ACT="34" FILE-NUMBER="001-33622" FILM-NUMBER="101173744" FORM-TYPE="4" /><MAIL-ADDRESS CITY="PALO ALTO" STATE="CA" STREET1="3401 HILLVIEW AVENUE" ZIP="94304" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="7372" CIK="0001124610" CONFORMED-NAME="VMWARE, INC." FISCAL-YEAR-END="1231" IRS-NUMBER="943292913" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="PALO ALTO" PHONE="(650) 427-5000" STATE="CA" STREET1="3401 HILLVIEW AVENUE" ZIP="94304" /><MAIL-ADDRESS CITY="PALO ALTO" STATE="CA" STREET1="3401 HILLVIEW AVENUE" ZIP="94304" /><FORMER-COMPANY DATE-CHANGED="20000923" FORMER-CONFORMED-NAME="VMWARE INC" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0001124610" 
+ issuerName="VMWARE, INC." 
+ issuerTradingSymbol="VMW" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001184754" 
+ rptOwnerName="PEEK MARK S" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="PALO ALTO" rptOwnerState="CA" rptOwnerStreet1="3401 HILLVIEW AVE" rptOwnerStreet2="" rptOwnerZipCode="94304" />
+
+
+<reportingOwnerRelationship isDirector="0" isOfficer="1" isOther="0" isTenPercentOwner="0" officerTitle="Chief Financial Officer">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Class A Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="1365" 
+</transactionShares>
+<transactionPricePerShare value="80.00">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="44176" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<remarks text="The transactions reported on this Form 4 were effected pursuant to a Rule 10b5-1 trading plan adopted by the reporting person." />
+<ownerSignature> signatureName="Larry Wainblat" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

@@ -1,0 +1,33 @@
+<Source file="./0001179110-10-015705.nc">
+<SUBMISSION ACCESSION-NUMBER="0001179110-10-015705" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="2" TYPE="3"><REPORTING-OWNER><OWNER-DATA CIK="0001504809" CONFORMED-NAME="Lillikas Yiorgos" /><FILING-VALUES ACT="34" FILE-NUMBER="001-16209" FILM-NUMBER="101171244" FORM-TYPE="3" /><MAIL-ADDRESS CITY="NICOSIA" STATE="G4" STREET1="20 KARPENISIOU STREET" ZIP="1077" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="6331" CIK="0000947484" CONFORMED-NAME="ARCH CAPITAL GROUP LTD." FISCAL-YEAR-END="1231" IRS-NUMBER="000000000" /><BUSINESS-ADDRESS CITY="HAMILTON" PHONE="441-278-9250" STATE="D0" STREET1="WESSEX HOUSE" STREET2="45 REID STREET" ZIP="HM 12" /><MAIL-ADDRESS CITY="HAMILTON" STATE="D0" STREET1="WESSEX HOUSE" STREET2="45 REID STREET" ZIP="HM 12" /><FORMER-COMPANY DATE-CHANGED="20000508" FORMER-CONFORMED-NAME="ARCH CAPITAL GROUP LTD" /><FORMER-COMPANY DATE-CHANGED="19950816" FORMER-CONFORMED-NAME="RISK CAPITAL HOLDINGS INC" /><FORMER-COMPANY DATE-CHANGED="19950703" FORMER-CONFORMED-NAME="RISK CAPITAL RE INC" /></ISSUER></SUBMISSION><ownershipDocument documentType="3" noSecuritiesOwned="0" periodOfReport="2010-11-04" schemaVersion="X0203">
+<issuer> issuerCik="0000947484" 
+ issuerName="ARCH CAPITAL GROUP LTD." 
+ issuerTradingSymbol="ACGL" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001504809" 
+ rptOwnerName="Lillikas Yiorgos" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="HAMILTON" rptOwnerState="D0" rptOwnerStateDescription="BERMUDA" rptOwnerStreet1="C/O ARCH CAPITAL GROUP LTD." rptOwnerStreet2="45 REID STREET" rptOwnerZipCode="HM 12">
+</reportingOwnerAddress>
+<reportingOwnerRelationship isDirector="1" isOfficer="0" isOther="0" isTenPercentOwner="0">
+<officerTitle /> 
+<otherText />
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeHolding><securityTitle> value="No securities are beneficially owned" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="0" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+</nonDerivativeTable>
+<derivativeTable /> 
+<ownerSignature> signatureName="/s/ Marcy Rathman, Attorney in fact" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

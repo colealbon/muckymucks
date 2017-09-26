@@ -1,0 +1,115 @@
+<Source file="./0000076334-10-000097.nc">
+<SUBMISSION ACCESSION-NUMBER="0000076334-10-000097" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101105" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001161707" CONFORMED-NAME="BANKS LEE C" /><FILING-VALUES ACT="34" FILE-NUMBER="001-04982" FILM-NUMBER="101171669" FORM-TYPE="4" /><MAIL-ADDRESS CITY="CLEVELAND" STATE="OH" STREET1="PARKER HANNIFIN CORP" STREET2="6035 PARKLAND BLVD" ZIP="44124-4141" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="3490" CIK="0000076334" CONFORMED-NAME="PARKER HANNIFIN CORP" FISCAL-YEAR-END="0630" IRS-NUMBER="340451060" STATE-OF-INCORPORATION="OH" /><BUSINESS-ADDRESS CITY="CLEVELAND" PHONE="2168963000" STATE="OH" STREET1="6035 PARKLAND BOULEVARD" ZIP="44124-4141" /><MAIL-ADDRESS CITY="CLEVELAND" STATE="OH" STREET1="6035 PARKLAND BOULEVARD" ZIP="44124-4141" /><FORMER-COMPANY DATE-CHANGED="19670907" FORMER-CONFORMED-NAME="PARKER APPLIANCE CO" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" periodOfReport="2010-11-05" schemaVersion="X0303">
+<issuer> issuerCik="0000076334" 
+ issuerName="PARKER HANNIFIN CORP" 
+ issuerTradingSymbol="PH" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001161707" 
+ rptOwnerName="BANKS LEE C" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="CLEVELAND" rptOwnerState="OH" rptOwnerStreet1="PARKER-HANNIFIN CORPORATION" rptOwnerStreet2="6035 PARKLAND BOULEVARD" rptOwnerZipCode="44124-4141">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="1" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+ officerTitle="EVP - Operating Officer" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeHolding><securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="7633.176" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="Parker Retirement Savings Plan">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="6823" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="Elizabeth K. Banks Revocable Trust">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="280" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="Emily Banks Custodial Account">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="280" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="Joseph Banks Custodial Account">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="305" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="Thomas Banks Custodial Account">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="12500" 
+</transactionShares>
+<transactionPricePerShare value="80.00">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="27591" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<remarks /> 
+<ownerSignature signatureDate="2010-11-08" signatureName="Rhoda M. Minichillo, Attorney-in-Fact">
+</ownerSignature>
+</ownershipDocument></Source>

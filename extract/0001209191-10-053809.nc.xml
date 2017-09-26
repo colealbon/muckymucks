@@ -1,0 +1,157 @@
+<Source file="./0001209191-10-053809.nc">
+<SUBMISSION ACCESSION-NUMBER="0001209191-10-053809" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101108" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001373919" CONFORMED-NAME="Theodore Kill" /><FILING-VALUES ACT="34" FILE-NUMBER="001-33731" FILM-NUMBER="101174019" FORM-TYPE="4" /><MAIL-ADDRESS CITY="CHICAGO" STATE="IL" STREET1="7401 W. WILSON AVENUE" ZIP="60706" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="3678" CIK="0000065270" CONFORMED-NAME="METHODE ELECTRONICS INC" FISCAL-YEAR-END="0501" IRS-NUMBER="362090085" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="CHICAGO" PHONE="7088676777" STATE="IL" STREET1="7401 W WILSON AVE" ZIP="60706" /><MAIL-ADDRESS CITY="CHICAGO" STATE="IL" STREET1="7401 WEST WILSON AVE" ZIP="60706" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-08" schemaVersion="X0303">
+<issuer> issuerCik="0000065270" 
+ issuerName="METHODE ELECTRONICS INC" 
+ issuerTradingSymbol="MEI" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001373919" 
+ rptOwnerName="Theodore Kill" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="HARWOOD HEIGHTS" rptOwnerState="IL" rptOwnerStreet1="7401 WEST WILSON AVENUE" rptOwnerStreet2="" rptOwnerZipCode="60706" />
+
+
+<reportingOwnerRelationship isDirector="0" isOfficer="1" isOther="0" isTenPercentOwner="0" officerTitle="VP Worldwide Auto Sales">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-08">
+</transactionDate>
+<deemedExecutionDate value="2010-11-08">
+</deemedExecutionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="A" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="60000" 
+</transactionShares>
+<transactionPricePerShare>
+<footnoteId id="F1" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="A" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="60000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-08">
+</transactionDate>
+<deemedExecutionDate value="2010-11-08">
+</deemedExecutionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="A" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="30000" 
+</transactionShares>
+<transactionPricePerShare>
+<footnoteId id="F2" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="A" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="90000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeHolding>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="53145" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="T. P. Kill Family Trust">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+</nonDerivativeTable>
+<derivativeTable><derivativeHolding><securityTitle> value="Options" 
+</securityTitle>
+<conversionOrExercisePrice value="9.24">
+</conversionOrExercisePrice>
+<exerciseDate value="2013-10-14">
+</exerciseDate>
+<expirationDate value="2020-10-14">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="12000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="12000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Options" 
+</securityTitle>
+<conversionOrExercisePrice value="6.46">
+</conversionOrExercisePrice>
+<exerciseDate value="2012-07-09">
+</exerciseDate>
+<expirationDate value="2019-07-09">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="30000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="30000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Options" 
+</securityTitle>
+<conversionOrExercisePrice value="2.72">
+</conversionOrExercisePrice>
+<exerciseDate value="2012-03-16">
+</exerciseDate>
+<expirationDate value="2019-03-16">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="30000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="30000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="Restricted Stock Award, which will vest in the event Methode acheives a pre-established enterprise value as of the end of fiscal 2015, granted under terms of the Methode Electronics, Inc. 2010 Stock Plan." /> 
+ <footnote id="F2" text="Restricted Stock Units granted under terms of the Methode Electronics, Inc. 2010 Stock Plan, which will vest ratably at the end of fiscal years 2011, 2012, 2013, 2014 and 2015." /> 
+</footnotes>
+<remarks />
+<ownerSignature> signatureName="Douglas A. Koman as Attorney-in-Fact for Teodore P. Kill" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

@@ -1,0 +1,119 @@
+<Source file="./0001140361-10-044304.nc">
+<SUBMISSION ACCESSION-NUMBER="0001140361-10-044304" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101108" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001492662" CONFORMED-NAME="Bayley Michael W" /><FILING-VALUES ACT="34" FILE-NUMBER="001-11884" FILM-NUMBER="101173763" FORM-TYPE="4" /><MAIL-ADDRESS CITY="MIAMI" STATE="FL" STREET1="ROYAL CARIBBEAN CRUISES LTD." STREET2="1050 CARIBBEAN WAY" ZIP="33132" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="4400" CIK="0000884887" CONFORMED-NAME="ROYAL CARIBBEAN CRUISES LTD" FISCAL-YEAR-END="1231" IRS-NUMBER="980081645" /><BUSINESS-ADDRESS CITY="MIAMI" PHONE="3055396000" STATE="FL" STREET1="1050 CARIBBEAN WAY" ZIP="33132" /><MAIL-ADDRESS CITY="MIAMI" STATE="FL" STREET1="1050 CARIBBEAN WAY" ZIP="33132" /><FORMER-COMPANY DATE-CHANGED="19920424" FORMER-CONFORMED-NAME="RA HOLDINGS INC" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-08" schemaVersion="X0303">
+<issuer> issuerCik="0000884887" 
+ issuerName="ROYAL CARIBBEAN CRUISES LTD" 
+ issuerTradingSymbol="RCL" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001492662" 
+ rptOwnerName="Bayley Michael W" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="MIAMI" rptOwnerState="FL" rptOwnerStreet1="ROYAL CARIBBEAN CRUISES LTD." rptOwnerStreet2="1050 CARIBBEAN WAY" rptOwnerZipCode="33132">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="1" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+ officerTitle="EVP, International" 
+<otherText /> 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable>
+<nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-08">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="M" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="11137" 
+</transactionShares>
+<transactionPricePerShare value="28.895">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="36513" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-08">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="S" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="11137" 
+</transactionShares>
+<transactionPricePerShare value="42.8022">
+<footnoteId id="F1" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="D" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="25376" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<derivativeTable><derivativeTransaction><securityTitle> value="Stock Option (Right to Buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="28.895">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-08">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="M" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="11137" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate><footnoteId id="F2" /> 
+</exerciseDate>
+<expirationDate> value="2018-09-03" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="11137">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="11136" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="Represents the weighted-average sale price per share of a series of transactions, all of which were executed on November 8, 2010. The actual sale prices ranged from a low of $42.80 to a high of $42.82. The Reporting Person undertakes to provide upon request of the SEC Staff, Royal Caribbean Cruises Ltd. or a Royal Caribbean Cruises Ltd. security holder full information regarding the number of shares sold at each price within the range." /> 
+ <footnote id="F2" text="Immediately." /> 
+</footnotes>
+<remarks />
+<ownerSignature> signatureName="Bradley H. Stein, Attorney-in-Fact for Michael W. Bayley" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

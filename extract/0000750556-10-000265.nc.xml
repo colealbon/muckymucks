@@ -1,0 +1,188 @@
+<Source file="./0000750556-10-000265.nc">
+<SUBMISSION ACCESSION-NUMBER="0000750556-10-000265" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><ISSUER><COMPANY-DATA ASSIGNED-SIC="6021" CIK="0000750556" CONFORMED-NAME="SUNTRUST BANKS INC" FISCAL-YEAR-END="1231" IRS-NUMBER="581575035" STATE-OF-INCORPORATION="GA" /><BUSINESS-ADDRESS CITY="ATLANTA" PHONE="4045887711" STATE="GA" STREET1="303 PEACHTREE ST N E" ZIP="30308" /><MAIL-ADDRESS CITY="ATLANTA" STATE="GA" STREET1="303 PEACHTREE ST N E" ZIP="30308" /></ISSUER><REPORTING-OWNER><OWNER-DATA CIK="0001014182" CONFORMED-NAME="PRINCE LARRY L" /><FILING-VALUES ACT="34" FILE-NUMBER="001-08918" FILM-NUMBER="101170716" FORM-TYPE="4" /><MAIL-ADDRESS CITY="ATLANTA" STATE="GA" STREET1="SUNTRUST BANKS INC" STREET2="P O BOX 4418 MC643" ZIP="30302" /></REPORTING-OWNER></SUBMISSION><ownershipDocument documentType="4" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0000750556" 
+ issuerName="SUNTRUST BANKS INC" 
+ issuerTradingSymbol="STI" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001014182" 
+ rptOwnerName="PRINCE LARRY L" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="ATLANTA" rptOwnerState="GA" rptOwnerStreet1="2999 CIRCLE 75 PARKWAY" rptOwnerStreet2="" rptOwnerZipCode="30339" />
+
+
+<reportingOwnerRelationship isDirector="1" isOfficer="0" isOther="0" isTenPercentOwner="0">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeHolding><securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="22000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding><securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="21090" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="Spouse">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+</nonDerivativeTable>
+<derivativeTable><derivativeTransaction><securityTitle> value="Phantom Stock Units" 
+<footnoteId id="F1" /> 
+</securityTitle>
+<conversionOrExercisePrice><footnoteId id="F1" /> 
+</conversionOrExercisePrice>
+<transactionDate> value="2010-11-04" 
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="A" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="56.7967" 
+</transactionShares>
+<transactionPricePerShare value="26.41">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate><footnoteId id="F1" /> 
+</exerciseDate>
+<expirationDate><footnoteId id="F1" /> 
+</expirationDate>
+<underlyingSecurity><underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="56.7967">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="25258.6142" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</derivativeTransaction>
+<derivativeHolding><securityTitle> value="Option" 
+<footnoteId id="F2" /> 
+</securityTitle>
+<conversionOrExercisePrice> value="51.125" 
+</conversionOrExercisePrice>
+<exerciseDate value="2000-11-14">
+</exerciseDate>
+<expirationDate value="2010-11-14">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="2000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="2000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding><securityTitle> value="Option" 
+<footnoteId id="F2" /> 
+</securityTitle>
+<conversionOrExercisePrice> value="64.57" 
+</conversionOrExercisePrice>
+<exerciseDate value="2001-11-13">
+</exerciseDate>
+<expirationDate value="2011-11-13">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="2000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="2000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding><securityTitle> value="Option" 
+<footnoteId id="F2" /> 
+</securityTitle>
+<conversionOrExercisePrice> value="54.28" 
+</conversionOrExercisePrice>
+<exerciseDate value="2003-02-11">
+</exerciseDate>
+<expirationDate value="2013-02-11">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="2000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="2000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding><securityTitle> value="Phantom Stock" 
+<footnoteId id="F3" /> 
+</securityTitle>
+<conversionOrExercisePrice><footnoteId id="F3" /> 
+</conversionOrExercisePrice>
+<exerciseDate><footnoteId id="F3" /> 
+</exerciseDate>
+<expirationDate><footnoteId id="F3" /> 
+</expirationDate>
+<underlyingSecurity><underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="9334.4781">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="9334.4781" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</derivativeHolding>
+</derivativeTable>
+<footnotes>
+<footnote id="F1" text="The phantom stock units were accrued under the SunTrust Banks, Inc. Directors Deferred Compensation Plan and are to be settled upon the reporting person&apos;s retirement.  Directors fees are deferred into this plan and are accounted for as if invested in SunTrust common stock.  These phantom stock units convert to common stock on a one-for-one basis." /> 
+ <footnote id="F2" text="Granted pursuant to the SunTrust Banks, Inc. 2000 Stock Plan." /> 
+ <footnote id="F3" text="Restricted stock units granted under the SunTrust Banks, Inc. 2004 Stock Plan and the 2009 Stock Plan.  Payments commence following the reporting person&apos;s departure from the Board of Directors of SunTrust Banks, Inc.  These securities convert to common stock on a one-for-one basis." /> 
+</footnotes>
+<remarks />
+<ownerSignature> signatureName="David W. Wisniewski,  Attorney-in-Fact for Larry L. Prince" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

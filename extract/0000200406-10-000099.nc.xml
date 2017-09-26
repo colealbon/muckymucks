@@ -1,0 +1,159 @@
+<Source file="./0000200406-10-000099.nc">
+<SUBMISSION ACCESSION-NUMBER="0000200406-10-000099" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001192205" CONFORMED-NAME="MULLIN LEO F" /><FILING-VALUES ACT="34" FILE-NUMBER="001-03215" FILM-NUMBER="101173561" FORM-TYPE="4" /><MAIL-ADDRESS CITY="NEW BRUCSWICK" STATE="NJ" STREET1="C/O JOHNSON &amp; JOHNSON" STREET2="ONE JOHNSON &amp; JOHNSON PLAZA" ZIP="08933" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="2834" CIK="0000200406" CONFORMED-NAME="JOHNSON &amp; JOHNSON" FISCAL-YEAR-END="0209" IRS-NUMBER="221024240" STATE-OF-INCORPORATION="NJ" /><BUSINESS-ADDRESS CITY="NEW BRUNSWICK" PHONE="732-524-2455" STATE="NJ" STREET1="ONE JOHNSON &amp; JOHNSON PLZ" ZIP="08933" /><MAIL-ADDRESS CITY="NEW BRUNSWICK" STATE="NJ" STREET1="ONE JOHNSON &amp; JOHNSON PLZ" ZIP="08933" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0000200406" 
+ issuerName="JOHNSON &amp; JOHNSON" 
+ issuerTradingSymbol="JNJ" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001192205" 
+ rptOwnerName="MULLIN LEO F" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="NEW BRUNSWICK" rptOwnerState="NJ" rptOwnerStreet1="JOHNSON &amp; JOHNSON" rptOwnerStreet2="ONE JOHNSON &amp; JOHNSON PLAZA" rptOwnerZipCode="08933">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="1" 
+ isOfficer="0" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="5400" 
+</transactionShares>
+<transactionPricePerShare value="51.57">
+<footnoteId id="F1" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="A" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="21594" 
+<footnoteId id="F2" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction><securityTitle> value="Common" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="F" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="4338" 
+</transactionShares>
+<transactionPricePerShare value="64.19">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="17256" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeHolding><securityTitle> value="Common" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="1200" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="Held by Family Partnership">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+</nonDerivativeTable>
+<derivativeTable><derivativeHolding><securityTitle> value="Phantom Stock Units" 
+</securityTitle>
+<conversionOrExercisePrice>
+<footnoteId id="F3" /> 
+</conversionOrExercisePrice>
+<exerciseDate><footnoteId id="F4" /> 
+</exerciseDate>
+<expirationDate><footnoteId id="F4" /> 
+</expirationDate>
+<underlyingSecurity><underlyingSecurityTitle> value="Common" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="0">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="9808" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeTransaction><securityTitle> value="Non-Employee Director Stock Options (Right to Buy)" 
+<footnoteId id="F5" /> 
+</securityTitle>
+<conversionOrExercisePrice> value="51.57" 
+<footnoteId id="F1" /> 
+</conversionOrExercisePrice>
+<transactionDate> value="2010-11-04" 
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="5400" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate> value="2002-01-02" 
+</exerciseDate>
+<expirationDate value="2010-12-31">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="5400">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="0" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<footnotes>
+<footnote id="F1" text="Adjusted to reflect two-for-one stock split in 2001." /> 
+ <footnote id="F2" text="Includes 697 shares held under Issuer&apos;s Dividend Reinvestment Program." /> 
+ <footnote id="F3" text="1 for 1" /> 
+ <footnote id="F4" text="The Phantom Stock Units held under the Issuer&apos;s Non-Employee Director Deferred Fee Plan are to be settled in cash upon the Reporting Person&apos;s Retirement (with each Phantom Stock Unit representing the fair market value of one share of Common Stock on the settlement date).  Alternatively, the cash value represented by the Phantom Stock Units may be transferred by the Reporting Person into an alternative investment account under the Plan at any time." /> 
+ <footnote id="F5" text="Awarded under the Stock Option Plan for Non-Employee Directors and exercisable in full one year from date of grant." /> 
+</footnotes>
+<remarks />
+<ownerSignature> signatureName="Linda E. King, as Attorney-in-Fact for Leo F. Mullin" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

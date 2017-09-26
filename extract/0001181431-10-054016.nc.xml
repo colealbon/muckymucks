@@ -1,0 +1,139 @@
+<Source file="./0001181431-10-054016.nc">
+<SUBMISSION ACCESSION-NUMBER="0001181431-10-054016" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101027" PUBLIC-DOCUMENT-COUNT="1" TYPE="4/A"><REPORTING-OWNER><OWNER-DATA CIK="0001275018" CONFORMED-NAME="ECKERT JAMES C" /><FILING-VALUES ACT="34" FILE-NUMBER="000-23383" FILM-NUMBER="101172374" FORM-TYPE="4/A" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="1382" CIK="0001046212" CONFORMED-NAME="OMNI ENERGY SERVICES CORP" FISCAL-YEAR-END="1231" IRS-NUMBER="721395273" STATE-OF-INCORPORATION="LA" /><BUSINESS-ADDRESS CITY="CARENCRO" PHONE="3188966664" STATE="LA" STREET1="4500 NE INTERSTATE 49" ZIP="70520" /><MAIL-ADDRESS CITY="CARENCRO" STATE="LA" STREET1="4484 NE EVANGELINE THRUWAY" ZIP="70520" /></ISSUER></SUBMISSION><ownershipDocument dateOfOriginalSubmission="2010-11-05" documentType="4/A" notSubjectToSection16="1" periodOfReport="2010-10-27" schemaVersion="X0303">
+<issuer> issuerCik="0001046212" 
+ issuerName="OMNI ENERGY SERVICES CORP" 
+ issuerTradingSymbol="OMNI" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001275018" 
+ rptOwnerName="ECKERT JAMES C" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="LAFAYETTE" rptOwnerState="LA" rptOwnerStreet1="PO BOX 3761" rptOwnerStreet2="" rptOwnerZipCode="70502" />
+
+
+<reportingOwnerRelationship isDirector="0" isOfficer="0" isOther="1" isTenPercentOwner="0" otherText="Advisory Director">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-10-27">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="D" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="333334" 
+</transactionShares>
+<transactionPricePerShare value="2.75">
+<footnoteId id="F1" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="D" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="0" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-10-27">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="D" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="26265" 
+</transactionShares>
+<transactionPricePerShare value="2.75">
+<footnoteId id="F1" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="D" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="0" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<derivativeTable><derivativeTransaction><securityTitle> value="Director Options" 
+</securityTitle>
+<conversionOrExercisePrice value="1.63">
+</conversionOrExercisePrice>
+<transactionDate value="2010-10-27">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="D" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="3000" 
+</transactionShares>
+<transactionPricePerShare>
+<footnoteId id="F2" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="D" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate><footnoteId id="F2" /> 
+</exerciseDate>
+<expirationDate> value="2019-05-28" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="3000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="0" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+<derivativeTransaction>
+<securityTitle> value="Series C 9% Convertible Preferred Shares" 
+</securityTitle>
+<conversionOrExercisePrice value="1.95">
+</conversionOrExercisePrice>
+<transactionDate value="2010-10-27">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="D" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="105640" 
+</transactionShares>
+<transactionPricePerShare>
+<footnoteId id="F3" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="D" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate><footnoteId id="F3" /> 
+</exerciseDate>
+<expirationDate><footnoteId id="F4" /> 
+</expirationDate>
+<underlyingSecurity><underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="105640">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="0" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="Disposed of pursuant to the Agreement and Plan of Merger, dated as of June 3, 2010 by and among Wellspring OMNI Holdings Corporation, Wellspring OMNI Acquisition Corporation and OMNI Energy Services Corp. (the Merger) in exchange for $2.75 per share." /> 
+ <footnote id="F2" text="In accordance with the terms of the Merger, this option was cancelled in exchange for a cash payment of $3,360.00." /> 
+ <footnote id="F3" text="Represents shares acquired as a result of the conversion of 206 shares of Series C Convertible Preferred Stock.  Such shares were disposed of pursuant to the Merger in exchange for $2.75 per share." /> 
+ <footnote id="F4" text="Not Applicable" /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="James Eckert">
+</ownerSignature>
+</ownershipDocument></Source>

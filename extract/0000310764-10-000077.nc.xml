@@ -1,0 +1,87 @@
+<Source file="./0000310764-10-000077.nc">
+<SUBMISSION ACCESSION-NUMBER="0000310764-10-000077" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101105" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001242914" CONFORMED-NAME="STRYKER RONDA E" /><FILING-VALUES ACT="34" FILE-NUMBER="000-09165" FILM-NUMBER="101172666" FORM-TYPE="4" /><MAIL-ADDRESS CITY="KALAMAZOO" STATE="MI" STREET1="P.O. BOX4085" ZIP="49002" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="3841" CIK="0000310764" CONFORMED-NAME="STRYKER CORP" FISCAL-YEAR-END="1231" IRS-NUMBER="381239739" STATE-OF-INCORPORATION="MI" /><BUSINESS-ADDRESS CITY="KALAMAZOO" PHONE="2693852600" STATE="MI" STREET1="2825 AIRVIEW BLVD" ZIP="49002" /><MAIL-ADDRESS CITY="KALAMAZOO" STATE="MI" STREET1="2825 AIRVIEW BLVD" ZIP="49002" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" periodOfReport="2010-11-05" schemaVersion="X0303">
+<issuer> issuerCik="0000310764" 
+ issuerName="STRYKER CORP" 
+ issuerTradingSymbol="SYK" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001242914" 
+ rptOwnerName="STRYKER RONDA E" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="KALAMAZOO" rptOwnerState="MI" rptOwnerStreet1="2825 AIRVIEW BLVD." rptOwnerStreet2="" rptOwnerZipCode="49002" />
+
+
+<reportingOwnerRelationship isDirector="1" isOfficer="0" isOther="0" isTenPercentOwner="0">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="40000" 
+</transactionShares>
+<transactionPricePerShare value="52.5436">
+<footnoteId id="F1" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="D" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="16406682" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="By Revocable Trust">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeHolding>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="17207398" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="By L. Lee Stryker Trust">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="132000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding><securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="40000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="By Husband">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+</nonDerivativeTable>
+<footnotes> <footnote id="F1" text="Represents the average price for transactions in a range from $52.3133 to $52.6904." /> 
+</footnotes>
+<remarks />
+<ownerSignature> signatureName="Julie A. Brown, attorney-in-fact for Ronda E. Stryker" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

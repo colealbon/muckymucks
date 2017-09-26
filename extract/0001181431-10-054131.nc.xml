@@ -1,0 +1,255 @@
+<Source file="./0001181431-10-054131.nc">
+<SUBMISSION ACCESSION-NUMBER="0001181431-10-054131" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001416058" CONFORMED-NAME="BATTER JOHN" /><FILING-VALUES ACT="34" FILE-NUMBER="001-32337" FILM-NUMBER="101173972" FORM-TYPE="4" /><MAIL-ADDRESS CITY="GLENDALE" STATE="CA" STREET1="C/O DREAMWORKS ANIMATION SKG, INC." STREET2="1000 FLOWER STREET" ZIP="91201" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="7812" CIK="0001297401" CONFORMED-NAME="DreamWorks Animation SKG, Inc." FISCAL-YEAR-END="1231" IRS-NUMBER="680589190" /><BUSINESS-ADDRESS CITY="GLENDALE" PHONE="(818) 695-5000" STATE="CA" STREET1="GRANDVIEW BUILDING" STREET2="1000 FLOWER STREET" ZIP="91201" /><MAIL-ADDRESS CITY="GLENDALE" STATE="CA" STREET1="GRANDVIEW BUILDING" STREET2="1000 FLOWER STREET" ZIP="91201" /><FORMER-COMPANY DATE-CHANGED="20040715" FORMER-CONFORMED-NAME="DreamWorks Animation, Inc." /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0001297401" 
+ issuerName="DreamWorks Animation SKG, Inc." 
+ issuerTradingSymbol="DWA" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001416058" 
+ rptOwnerName="BATTER JOHN" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="GLENDALE" rptOwnerState="CA" rptOwnerStreet1="C/O DREAMWORKS ANIMATION SKG, INC." rptOwnerStreet2="1000 FLOWER STREET" rptOwnerZipCode="91201">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="1" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+ officerTitle="Co-President of Production" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Class A Common Stock, par value $0.01 per share" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="5529" 
+</transactionShares>
+<transactionPricePerShare value="36.393">
+<footnoteId id="F1" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="D" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="94023" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Class A Common Stock, par value $0.01 per share" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="10083" 
+</transactionShares>
+<transactionPricePerShare value="24.795">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="104106" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Class A Common Stock, par value $0.01 per share" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="D" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="6806" 
+</transactionShares>
+<transactionPricePerShare value="36.1045">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="97300" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Class A Common Stock, par value $0.01 per share" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="3277" 
+</transactionShares>
+<transactionPricePerShare value="36.1045">
+<footnoteId id="F2" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="D" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="94023" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Class A Common Stock, par value $0.01 per share" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="27297" 
+</transactionShares>
+<transactionPricePerShare value="28.10">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="121320" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Class A Common Stock, par value $0.01 per share" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="D" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="20947" 
+</transactionShares>
+<transactionPricePerShare value="36.0936">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="100373" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Class A Common Stock, par value $0.01 per share" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="6350" 
+</transactionShares>
+<transactionPricePerShare value="36.0936">
+<footnoteId id="F3" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="D" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="94023" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<derivativeTable><derivativeTransaction><securityTitle> value="Stock Appreciation Rights" 
+</securityTitle>
+<conversionOrExercisePrice value="24.795">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="10083" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate><footnoteId id="F4" /> 
+</exerciseDate>
+<expirationDate> value="2016-01-03" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Class A Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="10083">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="10083" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+<derivativeTransaction>
+<securityTitle> value="Stock Appreciation Rights" 
+</securityTitle>
+<conversionOrExercisePrice value="28.10">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="27297" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate><footnoteId id="F5" /> 
+</exerciseDate>
+<expirationDate> value="2018-10-31" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Class A Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="27297">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="54594" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="The price reported in Column 4 is the weighted average price. These shares were sold in multiple transactions at prices ranging from $36.37 to $36.41, inclusive. The reporting person undertakes to provide to DreamWorks Animation SKG, Inc., any securityholder of DreamWorks Animation SKG, Inc. or staff of the Securities Exchange Commision, upon request, full information regarding the number of shares sold at each separate price within the ranges set forth in footnote (1) to this Form." /> 
+ <footnote id="F2" text="The price reported in Column 4 is the weighted average price. These shares were sold in multiple transactions at prices ranging from $36.104 to $36.12, inclusive. The reporting person undertakes to provide to DreamWorks Animation SKG, Inc., any securityholder of DreamWorks Animation SKG, Inc. or staff of the Securities Exchange Commision, upon request, full information regarding the number of shares sold at each separate price within the ranges set forth in footnote (1) to this Form." /> 
+ <footnote id="F3" text="The price reported in Column 4 is the weighted average price. These shares were sold in multiple transactions at prices ranging from $36.063 to $36.1325, inclusive. The reporting person undertakes to provide to DreamWorks Animation SKG, Inc., any securityholder of DreamWorks Animation SKG, Inc. or staff of the Securities Exchange Commision, upon request, full information regarding the number of shares sold at each separate price within the ranges set forth in footnote (1) to this Form." /> 
+ <footnote id="F4" text="The stock appreciation rights vested on January 3, 2010." /> 
+ <footnote id="F5" text="The stock appreciation rights vested on October 30, 2010." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="Robert A Kelly, as Attorney-in-Fact for John Batter">
+</ownerSignature>
+</ownershipDocument></Source>

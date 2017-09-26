@@ -1,0 +1,78 @@
+<Source file="./0001209191-10-053827.nc">
+<SUBMISSION ACCESSION-NUMBER="0001209191-10-053827" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20100811" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><ISSUER><COMPANY-DATA ASSIGNED-SIC="8050" CIK="0001332349" CONFORMED-NAME="Brookdale Senior Living Inc." FISCAL-YEAR-END="1231" IRS-NUMBER="203068069" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="BRENTWOOD" PHONE="(615) 221-2250" STATE="TN" STREET1="111 WESTWOOD PLACE" STREET2="SUITE 400" ZIP="37027" /><MAIL-ADDRESS CITY="BRENTWOOD" STATE="TN" STREET1="111 WESTWOOD PLACE" STREET2="SUITE 400" ZIP="37027" /></ISSUER><REPORTING-OWNER><OWNER-DATA CIK="0001124462" CONFORMED-NAME="KAUFFMAN ROBERT I" /><FILING-VALUES ACT="34" FILE-NUMBER="001-32641" FILM-NUMBER="101174107" FORM-TYPE="4" /><MAIL-ADDRESS CITY="NEW YORK, NY" STATE="X1" STREET1="C/O FIG LLC 1345 AVENUE OF THE AMERICAS" ZIP="10105" /></REPORTING-OWNER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-08-11" schemaVersion="X0303">
+<issuer> issuerCik="0001332349" 
+ issuerName="Brookdale Senior Living Inc." 
+ issuerTradingSymbol="BKD" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001124462" 
+ rptOwnerName="KAUFFMAN ROBERT I" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="NEW YORK" rptOwnerState="NY" rptOwnerStreet1="C/O FORTRESS INVESTMENT GROUP LLC" rptOwnerStreet2="1345 AVENUE OF THE AMERICAS, 46TH FLOOR" rptOwnerZipCode="10105">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="0" 
+ isTenPercentOwner="1" 
+ isOther="0" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-08-11">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="5" 
+ transactionCode="G" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionTimeliness value="E">
+</transactionTimeliness>
+<transactionAmounts>
+<transactionShares> value="25000" 
+</transactionShares>
+<transactionPricePerShare value="0.00">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="1640520" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-08">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="S" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="979688" 
+</transactionShares>
+<transactionPricePerShare value="18.76">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="660832" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+ remarks="The reporting person may be deemed to be part of a group that owns more than 10% of the outstanding common stock of the issuer." 
+<ownerSignature signatureDate="2010-11-08" signatureName="/s/ Robert I. Kauffman">
+</ownerSignature>
+</ownershipDocument></Source>

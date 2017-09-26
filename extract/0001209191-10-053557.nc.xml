@@ -1,0 +1,211 @@
+<Source file="./0001209191-10-053557.nc">
+<SUBMISSION ACCESSION-NUMBER="0001209191-10-053557" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="2" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001246457" CONFORMED-NAME="JAMMET BERNARD" /><FILING-VALUES ACT="34" FILE-NUMBER="000-09993" FILM-NUMBER="101171134" FORM-TYPE="4" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="7373" CIK="0000320345" CONFORMED-NAME="MICROS SYSTEMS INC" FISCAL-YEAR-END="0826" IRS-NUMBER="521101488" STATE-OF-INCORPORATION="MD" /><BUSINESS-ADDRESS CITY="COLUMBIA" PHONE="4432856000" STATE="MD" STREET1="7031 COLUMBIA GATEWAY DRIVE" ZIP="21046-2289" /><MAIL-ADDRESS CITY="COLUMBIA" STATE="MD" STREET1="7031 COLUMBIA GATEWAY DRIVE" ZIP="21046-2289" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0000320345" 
+ issuerName="MICROS SYSTEMS INC" 
+ issuerTradingSymbol="MCRS" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001246457" 
+ rptOwnerName="JAMMET BERNARD" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="COLUMBIA" rptOwnerState="MD" rptOwnerStreet1="7031 COLUMBIA GATEWAY DRIVE" rptOwnerStreet2="" rptOwnerZipCode="21046-2289" />
+
+
+<reportingOwnerRelationship isDirector="0" isOfficer="1" isOther="0" isTenPercentOwner="0" officerTitle="EVP, South America Group">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+<footnoteId id="F1" /> 
+</transactionDate>
+<deemedExecutionDate /> 
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="55784" 
+</transactionShares>
+<transactionPricePerShare value="23.7125">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="69648" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+<footnoteId id="F1" /> 
+</transactionDate>
+<deemedExecutionDate /> 
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="55784" 
+</transactionShares>
+<transactionPricePerShare value="45.653">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="13864" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+<footnoteId id="F1" /> 
+</transactionDate>
+<deemedExecutionDate /> 
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="4216" 
+</transactionShares>
+<transactionPricePerShare value="2371250.00">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="18080" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+<footnoteId id="F1" /> 
+</transactionDate>
+<deemedExecutionDate /> 
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="13864" 
+</transactionShares>
+<transactionPricePerShare value="45.653">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="4216" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<derivativeTable><derivativeTransaction><securityTitle> value="Incentive Stock Option (right to buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="23.7125">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="M" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="4216" 
+</transactionShares>
+<transactionPricePerShare value="23.7125">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate> value="2006-11-18" 
+<footnoteId id="F2" /> 
+</exerciseDate>
+<expirationDate> value="2015-11-18" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="4216">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="0" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+<derivativeTransaction>
+<securityTitle> value="Non-Qualified Stock Option (right to buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="23.7125">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="M" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="55784" 
+</transactionShares>
+<transactionPricePerShare value="45.653">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate> value="2006-11-18" 
+<footnoteId id="F2" /> 
+</exerciseDate>
+<expirationDate> value="2015-11-18" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="55784">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="0" 
+<footnoteId id="F3" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="Transaction was executed during an authorized trading window." /> 
+ <footnote id="F2" text="First one-third exercisable one year after date of grant; second one-third exercisable two years after date of grant; final one-third exercisable three years after date of grant." /> 
+ <footnote id="F3" text="Bernard Jammet owns derivative securities in the form of non-qualified stock options and incentive stock options in the aggregate amount of 120,000 shares." /> 
+</footnotes>
+<remarks />
+<ownerSignature> signatureName="Thomas L. Patz on behalf of Bernard Jammet" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

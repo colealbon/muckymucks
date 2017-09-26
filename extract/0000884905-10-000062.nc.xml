@@ -1,0 +1,196 @@
+<Source file="./0000884905-10-000062.nc">
+<SUBMISSION ACCESSION-NUMBER="0000884905-10-000062" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101101" PUBLIC-DOCUMENT-COUNT="2" TYPE="3"><REPORTING-OWNER><OWNER-DATA CIK="0001504943" CONFORMED-NAME="Panikar John" /><FILING-VALUES ACT="34" FILE-NUMBER="001-11037" FILM-NUMBER="101172799" FORM-TYPE="3" /><MAIL-ADDRESS CITY="DANBURY" STATE="CT" STREET1="39 OLD RIDGEBURY ROAD" ZIP="06810-5113" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="2810" CIK="0000884905" CONFORMED-NAME="PRAXAIR INC" FISCAL-YEAR-END="1231" IRS-NUMBER="061249050" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="DANBURY" PHONE="2038372000" STATE="CT" STREET1="39 OLD RIDGEBURY RD" ZIP="06810-5113" /><MAIL-ADDRESS CITY="DANBURY" STATE="CT" STREET1="39 OLD RIDGEBURY ROAD" ZIP="06810-5113" /><FORMER-COMPANY DATE-CHANGED="19600201" FORMER-CONFORMED-NAME="UNION CARBIDE INDUSTRIAL GASES INC" /></ISSUER></SUBMISSION><ownershipDocument documentType="3" noSecuritiesOwned="0" periodOfReport="2010-11-01" schemaVersion="X0203">
+<issuer> issuerCik="0000884905" 
+ issuerName="PRAXAIR INC" 
+ issuerTradingSymbol="PX" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001504943" 
+ rptOwnerName="Panikar John" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="DANBURY" rptOwnerState="CT" rptOwnerStreet1="C/O PRAXAIR, INC." rptOwnerStreet2="39 OLD RIDGEBURY ROAD" rptOwnerZipCode="06810-5113">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="1" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+ officerTitle="Vice President" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeHolding><securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="1424.2807" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="401(k)">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="500" 
+<footnoteId id="F1" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+</nonDerivativeTable>
+<derivativeTable>
+<derivativeHolding><securityTitle> value="Stock Option (right to buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="53.98">
+</conversionOrExercisePrice>
+<exerciseDate value="2007-02-28">
+<footnoteId id="F2" /> 
+</exerciseDate>
+<expirationDate> value="2016-02-29" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="5000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding><securityTitle> value="Stock Option (right to buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="61.47">
+</conversionOrExercisePrice>
+<exerciseDate value="2008-02-27">
+<footnoteId id="F2" /> 
+</exerciseDate>
+<expirationDate> value="2017-02-27" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="14000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding><securityTitle> value="Stock Option (right to buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="83.89">
+</conversionOrExercisePrice>
+<exerciseDate value="2009-02-26">
+<footnoteId id="F3" /> 
+</exerciseDate>
+<expirationDate> value="2018-02-26" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="5200">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding><securityTitle> value="Stock Option (right to buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="83.89">
+</conversionOrExercisePrice>
+<exerciseDate value="2009-02-26">
+<footnoteId id="F3" /> 
+</exerciseDate>
+<expirationDate> value="2018-02-26" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="7800">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding><securityTitle> value="Stock Option (right to buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="60.92">
+</conversionOrExercisePrice>
+<exerciseDate value="2010-02-24">
+<footnoteId id="F4" /> 
+</exerciseDate>
+<expirationDate> value="2019-02-24" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="8530">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding><securityTitle> value="Stock Option (right to buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="76.16">
+</conversionOrExercisePrice>
+<exerciseDate value="2011-02-23">
+<footnoteId id="F5" /> 
+</exerciseDate>
+<expirationDate> value="2020-02-23" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="7185">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</derivativeHolding>
+</derivativeTable>
+<footnotes>
+<footnote id="F1" text="Restricted stock unit award, payable in shares of Praxair Common Stock, vesting in three equal consecutive, annual installments beginning on February 23, 2011." /> 
+ <footnote id="F2" text="This option became exercisable in three (3) equal annual installments beginning on the first anniversary of the date of grant." /> 
+ <footnote id="F3" text="This option vests over three years in three consecutive equal annual installments beginning on February 26, 2009." /> 
+ <footnote id="F4" text="This option vests over three years in three consecutive equal annual installments beginning on February 24, 2010." /> 
+ <footnote id="F5" text="This option vests over three years in three consecutive equal annual installments beginning on February 23, 2011." /> 
+</footnotes>
+<remarks />
+<ownerSignature> signatureName="Anthony M. Pepper, Attorney-in-Fact" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

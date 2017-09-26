@@ -1,0 +1,45 @@
+<Source file="./0001213913-10-000015.nc">
+<SUBMISSION ACCESSION-NUMBER="0001213913-10-000015" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101105" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001398237" CONFORMED-NAME="Herink Daniel D" /><FILING-VALUES ACT="34" FILE-NUMBER="001-13998" FILM-NUMBER="101173429" FORM-TYPE="4" /><MAIL-ADDRESS CITY="KINGWOOD" STATE="TX" STREET1="19001 CRESCENT SPRINGS DRIVE" ZIP="77339" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="7363" CIK="0001000753" CONFORMED-NAME="ADMINISTAFF INC \DE\" FISCAL-YEAR-END="1231" IRS-NUMBER="760479645" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="KINGWOOD" PHONE="7133588986" STATE="TX" STREET1="19001 CRESCENT SPRINGS DR" ZIP="77339" /><MAIL-ADDRESS CITY="KINGWOOD" STATE="TX" STREET1="19001 CRESCENT SPRINGS DR" ZIP="77339" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" periodOfReport="2010-11-05" schemaVersion="X0303">
+<issuer> issuerCik="0001000753" 
+ issuerName="ADMINISTAFF INC \DE\" 
+ issuerTradingSymbol="ASF" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001398237" 
+ rptOwnerName="Herink Daniel D" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="KINGWOOD" rptOwnerState="TX" rptOwnerStreet1="19001 CRESCENT SPRINGS DRIVE" rptOwnerStreet2="" rptOwnerZipCode="77339" />
+
+
+<reportingOwnerRelationship isDirector="0" isOfficer="1" isOther="0" isTenPercentOwner="0" officerTitle="SVP Legal, Gen Counsel &amp; Sec&apos;y">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="1500" 
+</transactionShares>
+<transactionPricePerShare value="29.00">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="54793" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<remarks /> 
+<ownerSignature signatureDate="2010-11-08" signatureName="Mark T. Troutman, by Power of Attorney">
+</ownerSignature>
+</ownershipDocument></Source>

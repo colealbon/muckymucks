@@ -1,0 +1,49 @@
+<Source file="./0001209191-10-053556.nc">
+<SUBMISSION ACCESSION-NUMBER="0001209191-10-053556" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001189196" CONFORMED-NAME="TEUBER WILLIAM J JR" /><FILING-VALUES ACT="34" FILE-NUMBER="001-34084" FILM-NUMBER="101171127" FORM-TYPE="4" /><MAIL-ADDRESS CITY="HOPKINTON" STATE="MA" STREET1="EMC CORPORATION" STREET2="176 SOUTH STREET" ZIP="01748" /><FORMER-NAME DATE-CHANGED="20020913" FORMER-CONFORMED-NAME="TUEBER WILLIAM J JR" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="6022" CIK="0000763901" CONFORMED-NAME="POPULAR INC" FISCAL-YEAR-END="1231" IRS-NUMBER="660667416" /><BUSINESS-ADDRESS CITY="HATO REY" PHONE="7877659800" STATE="PR" STREET1="209 MUNOZ RIVERA AVE" STREET2="POPULAR CENTER BUILDING" ZIP="00918" /><MAIL-ADDRESS CITY="SAN JUAN" STATE="PR" STREET1="P.O. BOX 362708" ZIP="00936-2708" /><FORMER-COMPANY DATE-CHANGED="19920703" FORMER-CONFORMED-NAME="BANPONCE CORP" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0000763901" 
+ issuerName="POPULAR INC" 
+ issuerTradingSymbol="BPOP" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001189196" 
+ rptOwnerName="TEUBER WILLIAM J JR" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="HOPKINTON" rptOwnerState="MA" rptOwnerStreet1="176 SOUTH STREET" rptOwnerStreet2="" rptOwnerZipCode="01748" />
+
+
+<reportingOwnerRelationship isDirector="1" isOfficer="0" isOther="0" isTenPercentOwner="0">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock Par Value $0.01 per share" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<deemedExecutionDate value="2010-11-04">
+</deemedExecutionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="J" transactionFormType="4">
+<footnoteId id="F1" /> 
+</transactionCoding>
+<transactionTimeliness><value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="3986" 
+</transactionShares>
+<transactionPricePerShare value="0.00">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="118932" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<footnotes> <footnote id="F1" text="Award of Restricted Stock pursuant to Popular, Inc.&apos;s 2004 Omnibus Incentive Plan.  The restriction of such restricted stock award lapses upon the retirement of the director." /> 
+</footnotes>
+<remarks />
+<ownerSignature> signatureName="Marie Reyes-Rodriguez, Attorney-in-fact" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

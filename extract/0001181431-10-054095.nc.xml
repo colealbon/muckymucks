@@ -1,0 +1,44 @@
+<Source file="./0001181431-10-054095.nc">
+<SUBMISSION ACCESSION-NUMBER="0001181431-10-054095" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101108" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA ASSIGNED-SIC="3760" CIK="0001080669" CONFORMED-NAME="CHAPMAN LAURENCE A" FISCAL-YEAR-END="1231" STATE-OF-INCORPORATION="NY" /><FILING-VALUES ACT="34" FILE-NUMBER="001-32336" FILM-NUMBER="101173731" FORM-TYPE="4" /><MAIL-ADDRESS CITY="CHULA VISTA" STATE="CA" STREET1="850 LAGOON DRIVE" ZIP="91910" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="6798" CIK="0001297996" CONFORMED-NAME="Digital Realty Trust, Inc." FISCAL-YEAR-END="1231" IRS-NUMBER="000000000" STATE-OF-INCORPORATION="MD" /><BUSINESS-ADDRESS CITY="SAN FRANCISCO" PHONE="(415)738-6500" STATE="CA" STREET1="560 MISSION STREET" STREET2="SUITE 2900" ZIP="94105" /><MAIL-ADDRESS CITY="SAN FRANCISCO" STATE="CA" STREET1="560 MISSION STREET" STREET2="SUITE 2900" ZIP="94105" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-08" schemaVersion="X0303">
+<issuer> issuerCik="0001297996" 
+ issuerName="Digital Realty Trust, Inc." 
+ issuerTradingSymbol="DLR" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001080669" 
+ rptOwnerName="CHAPMAN LAURENCE A" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="SAN FRANCISCO" rptOwnerState="CA" rptOwnerStreet1="560 MISSION STREET, SUITE 2900" rptOwnerStreet2="" rptOwnerZipCode="94105" />
+
+
+<reportingOwnerRelationship isDirector="1" isOfficer="0" isOther="0" isTenPercentOwner="0">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-08">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="P" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="10000" 
+</transactionShares>
+<transactionPricePerShare value="55.16">
+<footnoteId id="F1" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="A" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="50964" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<footnotes> <footnote id="F1" text="Represents the average price. Exact purchase prices range from $55.10 to $55.20." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="/s/ Barbara Polster, attorney-in-fact">
+</ownerSignature>
+</ownershipDocument></Source>

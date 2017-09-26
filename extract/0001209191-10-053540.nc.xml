@@ -1,0 +1,63 @@
+<Source file="./0001209191-10-053540.nc">
+<SUBMISSION ACCESSION-NUMBER="0001209191-10-053540" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101106" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001379223" CONFORMED-NAME="Leiter Alois T" /><FILING-VALUES ACT="34" FILE-NUMBER="000-24347" FILM-NUMBER="101170936" FORM-TYPE="4" /><MAIL-ADDRESS CITY="WESTON" STATE="FL" STREET1="2660 RIVIERA MANOR" ZIP="33332" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="7372" CIK="0001016125" CONFORMED-NAME="ULTIMATE SOFTWARE GROUP INC" FISCAL-YEAR-END="1231" IRS-NUMBER="650694077" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="WESTON" PHONE="9542661000" STATE="FL" STREET1="ULTIMATE SOFTWARE GROUP INC" STREET2="2000 ULTIMATE WAY" ZIP="33326" /><MAIL-ADDRESS CITY="WESTON" STATE="FL" STREET1="ULTIMATE SOFTWARE GROUP INC" STREET2="2000 ULTIMATE WAY" ZIP="33326" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-06" schemaVersion="X0303">
+<issuer> issuerCik="0001016125" 
+ issuerName="ULTIMATE SOFTWARE GROUP INC" 
+ issuerTradingSymbol="ULTI" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001379223" 
+ rptOwnerName="Leiter Alois T" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="WESTON" rptOwnerState="FL" rptOwnerStreet1="2000 ULTIMATE WAY" rptOwnerStreet2="" rptOwnerZipCode="33326" />
+
+
+<reportingOwnerRelationship isDirector="1" isOfficer="0" isOther="0" isTenPercentOwner="0">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Restricted Stock Award" 
+</securityTitle>
+<transactionDate value="2010-11-06">
+</transactionDate>
+<deemedExecutionDate value="2010-11-06">
+</deemedExecutionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="A" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="1047" 
+</transactionShares>
+<transactionPricePerShare value="0.00">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="145361" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeHolding>
+<securityTitle> value="Common Stock, $0.01 par value" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="1315" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+<footnoteId id="F1" /> 
+</directOrIndirectOwnership>
+<natureOfOwnership> value="Held in custody account for minor child" 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+</nonDerivativeTable>
+<footnotes> <footnote id="F1" text="Held by William Salsburg, Mr. Leiter&apos;s father-in-law, FBO his grandchildren." /> 
+</footnotes>
+<remarks />
+<ownerSignature> signatureName="Felicia Alvaro by Power of Attorney for Alois T. Leiter" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

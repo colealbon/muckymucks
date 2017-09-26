@@ -1,0 +1,109 @@
+<Source file="./0001209191-10-053753.nc">
+<SUBMISSION ACCESSION-NUMBER="0001209191-10-053753" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001413731" CONFORMED-NAME="Leon Benjamin JR" /><FILING-VALUES ACT="34" FILE-NUMBER="001-32739" FILM-NUMBER="101173713" FORM-TYPE="4" /><MAIL-ADDRESS CITY="FRANKLIN" STATE="TN" STREET1="9009 CAROTHERS PARKWAY" STREET2="SUITE 501" ZIP="37067" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="6324" CIK="0001339553" CONFORMED-NAME="HealthSpring, Inc." FISCAL-YEAR-END="1231" IRS-NUMBER="201821898" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="FRANKLIN" PHONE="615-291-7000" STATE="TN" STREET1="9009 CAROTHERS PARKWAY, SUITE 501" ZIP="37067" /><MAIL-ADDRESS CITY="FRANKLIN" STATE="TN" STREET1="9009 CAROTHERS PARKWAY, SUITE 501" ZIP="37067" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0001339553" 
+ issuerName="HealthSpring, Inc." 
+ issuerTradingSymbol="HS" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001413731" 
+ rptOwnerName="Leon Benjamin JR" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="MIAMI" rptOwnerState="FL" rptOwnerStreet1="11501 SW 40TH STREET" rptOwnerStreet2="" rptOwnerZipCode="33165" />
+
+
+<reportingOwnerRelationship isDirector="1" isOfficer="0" isOther="0" isTenPercentOwner="0">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="S" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="95474" 
+</transactionShares>
+<transactionPricePerShare value="28.27">
+<footnoteId id="F1" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="D" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="430583" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="S" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="119660" 
+</transactionShares>
+<transactionPricePerShare value="28.00">
+<footnoteId id="F2" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="D" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="310923" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-08">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="S" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="11340" 
+</transactionShares>
+<transactionPricePerShare value="28.18">
+<footnoteId id="F3" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="D" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="299583" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<footnotes> <footnote id="F1" text="The price reported is a weighted average price. These shares were sold in multiple transactions at prices ranging from $28.14 to $28.84, inclusive. The reporting person undertakes to provide to HealthSpring, Inc., any security holder of HealthSpring, Inc., or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the ranges referenced in Footnotes (1),(2) and (3)." /> 
+ <footnote id="F2" text="The price reported is a weighted average price. These shares were sold in multiple transactions at prices ranging from $27.73 to $28.42, inclusive." /> 
+ <footnote id="F3" text="The price reported is a weighted average price. These shares were sold in multiple transactions at prices ranging from $27.75 to $27.96, inclusive." /> 
+</footnotes>
+<remarks />
+<ownerSignature> signatureName="/s/ J. Gentry Barden, Attorney-in-Fact" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

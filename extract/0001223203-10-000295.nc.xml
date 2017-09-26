@@ -1,0 +1,139 @@
+<Source file="./0001223203-10-000295.nc">
+<SUBMISSION ACCESSION-NUMBER="0001223203-10-000295" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001313872" CONFORMED-NAME="Frese Calvin W Jr" /><FILING-VALUES ACT="34" FILE-NUMBER="001-32205" FILM-NUMBER="101173864" FORM-TYPE="4" /><MAIL-ADDRESS CITY="LOS ANGELES" STATE="CA" STREET1="11150 SANTA MONICA BOULEVARD" STREET2="SUITE 1600" ZIP="90025" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="6500" CIK="0001138118" CONFORMED-NAME="CB RICHARD ELLIS GROUP INC" FISCAL-YEAR-END="1231" IRS-NUMBER="943391143" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="LOS ANGELES" PHONE="310-405-8900" STATE="CA" STREET1="11150 SANTA MONICA BOULEVARD" STREET2="SUITE 1600" ZIP="90025" /><MAIL-ADDRESS CITY="LOS ANGELES" STATE="CA" STREET1="11150 SANTA MONICA BOULEVARD" STREET2="SUITE 1600" ZIP="90025" /><FORMER-COMPANY DATE-CHANGED="20010411" FORMER-CONFORMED-NAME="CBRE HOLDING INC" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0001138118" 
+ issuerName="CB RICHARD ELLIS GROUP INC" 
+ issuerTradingSymbol="CBG" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001313872" 
+ rptOwnerName="Frese Calvin W Jr" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="CHICAGO" rptOwnerState="IL" rptOwnerStreet1="311 S. WACKER DRIVE" rptOwnerStreet2="SUITE 400" rptOwnerZipCode="60606">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="1" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+ officerTitle="President, Global Services" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Class A Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="119730" 
+</transactionShares>
+<transactionPricePerShare value="1.9233">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="535143" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Class A Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="158721" 
+</transactionShares>
+<transactionPricePerShare value="19.4899">
+<footnoteId id="F1" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="D" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="376422" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Class A Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="11009" 
+</transactionShares>
+<transactionPricePerShare value="19.49">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="0" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="By Calvin W. Frese, Jr. Trust">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<derivativeTable><derivativeTransaction><securityTitle> value="Stock Option (Right to Buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="1.9233">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="119730" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate> value="2004-09-16" 
+<footnoteId id="F2" /> 
+</exerciseDate>
+<expirationDate> value="2013-09-16" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Class A Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="119730">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="0" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="This transaction was executed in multiple trades at prices ranging from $19.48 to $19.50. The price reported above reflects the weighted average sale price. The reporting person hereby undertakes to provide upon request to the SEC staff, the issuer, or a security holder of the issuer full information regarding the number of shares sold at each separate price within the range." /> 
+ <footnote id="F2" text="This option vested and became exercisable at a rate of 20% per year over five (5) years commencing on September 16, 2003." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="Brian D. McAllister, Attorney-in-Fact">
+</ownerSignature>
+</ownershipDocument></Source>

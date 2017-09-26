@@ -1,0 +1,82 @@
+<Source file="./0001140361-10-044247.nc">
+<SUBMISSION ACCESSION-NUMBER="0001140361-10-044247" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101105" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><ISSUER><COMPANY-DATA ASSIGNED-SIC="6331" CIK="0001095073" CONFORMED-NAME="EVEREST RE GROUP LTD" FISCAL-YEAR-END="1231" IRS-NUMBER="980365432" STATE-OF-INCORPORATION="D0" /><BUSINESS-ADDRESS CITY="HAMILTON" PHONE="4412950006" STATE="D0" STREET1="WESSEX HOUSE - 2ND FLOOR" STREET2="45 REID STREET PO BOX HM 845" ZIP="HM DX" /><MAIL-ADDRESS CITY="LIBERTY CORNER" STATE="NJ" STREET1="C/O REINSURANCE HOLDINGS INC" STREET2="477 MARTINSVILLE RD PO BOX 830" ZIP="07938" /><FORMER-COMPANY DATE-CHANGED="19990915" FORMER-CONFORMED-NAME="EVEREST REINSURANCE GROUP LTD" /></ISSUER><REPORTING-OWNER><OWNER-DATA ASSIGNED-SIC="6331" CIK="0000914748" CONFORMED-NAME="EVEREST REINSURANCE HOLDINGS INC" FISCAL-YEAR-END="1231" STATE-OF-INCORPORATION="DE" /><FILING-VALUES ACT="34" FILE-NUMBER="001-15731" FILM-NUMBER="101173309" FORM-TYPE="4" /><BUSINESS-ADDRESS CITY="LIBERTY CORNER" PHONE="9086043000" STATE="NJ" STREET1="477 MARTINSVILLE RD" STREET2="PO BOX 830" ZIP="07938" /><MAIL-ADDRESS CITY="LIBERTY CORNER" STATE="NJ" STREET1="477 MARTINSVILLE RD" STREET2="PO BOX 830" ZIP="07938" /><FORMER-NAME DATE-CHANGED="19931115" FORMER-CONFORMED-NAME="PRUDENTIAL REINSURANCE HOLDINGS INC" /></REPORTING-OWNER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-05" schemaVersion="X0303">
+<issuer> issuerCik="0001095073" 
+ issuerName="EVEREST RE GROUP LTD" 
+ issuerTradingSymbol="RE" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0000914748" 
+ rptOwnerName="EVEREST REINSURANCE HOLDINGS INC" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="LIBERTY CORNER" rptOwnerState="NJ" rptOwnerStreet1="477 MARTINSVILLE RD" rptOwnerStreet2="PO BOX 830" rptOwnerZipCode="07938">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="0" 
+ isTenPercentOwner="1" 
+ isOther="1" 
+<officerTitle /> 
+ otherText="Indirect sub of Issuer" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable>
+<nonDerivativeTransaction><securityTitle> value="Common Shares" 
+<footnoteId id="F1" /> 
+</securityTitle>
+<transactionDate> value="2010-11-05" 
+</transactionDate>
+<deemedExecutionDate value="2010-11-05">
+</deemedExecutionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="P" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="60000" 
+</transactionShares>
+<transactionPricePerShare value="88.4556">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="8905922" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Shares" 
+<footnoteId id="F1" /> 
+</securityTitle>
+<transactionDate> value="2010-11-08" 
+</transactionDate>
+<deemedExecutionDate value="2010-11-08">
+</deemedExecutionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="P" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="70946" 
+</transactionShares>
+<transactionPricePerShare value="88.1331">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="8976868" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<derivativeTable /> 
+<footnotes>
+<footnote id="F1" text="Shares purchased in accordance with Issuer&apos;s share repurchse program" /> 
+</footnotes>
+<remarks />
+<ownerSignature> signatureName="Sanjoy Mukherjee, General Councel" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

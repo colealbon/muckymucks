@@ -1,0 +1,25 @@
+[MuckyMucks]
+django_app_dir=/Users/calbon/marvelcomputing/muckymucks/django_muckymucks/muckymucks/
+django_projects_dir=/Users/calbon/marvelcomputing/muckymucks/django_muckymucks/
+utilities_dir=/Users/calbon/marvelcomputing/muckymucks/utilities/
+site_packages_dir=/Library/Python/2.5/site-packages/
+
+[Download]
+sec_feed_dir=/Users/calbon/marvelcomputing/muckymucks/feed
+
+[Extract]
+extract_dir=/Users/calbon/marvelcomputing/muckymucks/extract
+
+[Logging]
+log_file_dir=/Users/calbon/marvelcomputing/muckymucks/utilities/log
+log_file_name=muckymucks_utilities.log
+log_level=debug
+# log_level options:
+#   debug
+#   info
+#   warning
+#   error
+#   critical
+logger_name=muckymucks_utilities
+logger_max_bytes=2000000
+logger_backup_count=5

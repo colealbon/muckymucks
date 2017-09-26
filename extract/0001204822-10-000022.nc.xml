@@ -1,0 +1,124 @@
+<Source file="./0001204822-10-000022.nc">
+<SUBMISSION ACCESSION-NUMBER="0001204822-10-000022" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101105" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001204822" CONFORMED-NAME="LEWIS RUSSELL S" /><FILING-VALUES ACT="34" FILE-NUMBER="000-23593" FILM-NUMBER="101172036" FORM-TYPE="4" /><MAIL-ADDRESS CITY="DULLES" STATE="VA" STREET1="21355 RIDGETOP CIRCLE" STREET2="ATTN: GENERAL COUNSEL" ZIP="20166" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="7371" CIK="0001014473" CONFORMED-NAME="VERISIGN INC/CA" FISCAL-YEAR-END="1231" IRS-NUMBER="943221585" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="DULLES" PHONE="7039483200" STATE="VA" STREET1="21355 RIDGETOP CIRCLE" STREET2="ATTN: GENERAL COUNSEL" ZIP="20166" /><MAIL-ADDRESS CITY="DULLES" STATE="VA" STREET1="21355 RIDGETOP CIRCLE" STREET2="ATTN: GENERAL COUNSEL" ZIP="20166" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-05" schemaVersion="X0303">
+<issuer> issuerCik="0001014473" 
+ issuerName="VERISIGN INC/CA" 
+ issuerTradingSymbol="VRSN" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001204822" 
+ rptOwnerName="LEWIS RUSSELL S" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="DULLES" rptOwnerState="VA" rptOwnerStreet1="21355 RIDGETOP CIRCLE" rptOwnerStreet2="" rptOwnerZipCode="20166" />
+
+
+<reportingOwnerRelationship isDirector="0" isOfficer="1" isOther="0" isTenPercentOwner="0" officerTitle="Executive Vice President">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="1563" 
+</transactionShares>
+<transactionPricePerShare value="32.28">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="112693" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="1530" 
+</transactionShares>
+<transactionPricePerShare value="35.14">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="111163" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="2676" 
+</transactionShares>
+<transactionPricePerShare value="35.1875">
+<footnoteId id="F1" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="D" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="108487" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<derivativeTable><derivativeTransaction><securityTitle> value="Non-Qualified Stock Option (right to buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="32.28">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="1563" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate> value="2009-08-04" 
+<footnoteId id="F2" /> 
+</exerciseDate>
+<expirationDate> value="2015-08-04" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="1563">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="10937" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="On November 5, 2010, the Reporting Person sold shares of common stock of VeriSign, Inc. at prices ranging from $35.1808 to $35.2000 per share.  The Reporting Person undertakes to provide upon request by the staff of the U.S. Securities and Exchange Commision, VeriSign, Inc., or a security holder of VeriSign, Inc. full information regarding the number of shares sold at each separate price." /> 
+ <footnote id="F2" text="Twenty-five percent (25%) of the total options granted vest and become exercisable on the first anniversary of the date of grant and thereafter with respect to 6.25% of the shares each quarterly anniversary of the date of grant until fully vested." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="By: Luci Altman, as attorney-in-fact  For: Russell S. Lewis">
+</ownerSignature>
+</ownershipDocument></Source>

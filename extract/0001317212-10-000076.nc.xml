@@ -1,0 +1,51 @@
+<Source file="./0001317212-10-000076.nc">
+<SUBMISSION ACCESSION-NUMBER="0001317212-10-000076" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001438223" CONFORMED-NAME="TIRVA ROBERT L." /><FILING-VALUES ACT="34" FILE-NUMBER="000-23993" FILM-NUMBER="101173584" FORM-TYPE="4" /><MAIL-ADDRESS CITY="IRVINE" STATE="CA" STREET1="5300 CALIFORNIA AVENUE" ZIP="92617" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="3674" CIK="0001054374" CONFORMED-NAME="BROADCOM CORP" FISCAL-YEAR-END="1231" IRS-NUMBER="330480482" STATE-OF-INCORPORATION="CA" /><BUSINESS-ADDRESS CITY="IRVINE" PHONE="949 926 5000" STATE="CA" STREET1="5300 CALIFORNIA AVENUE" ZIP="92617-3038" /><MAIL-ADDRESS CITY="IRVINE" STATE="CA" STREET1="5300 CALIFORNIA AVENUE" ZIP="92617-3038" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0001054374" 
+ issuerName="BROADCOM CORP" 
+ issuerTradingSymbol="BRCM" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001438223" 
+ rptOwnerName="TIRVA ROBERT L." 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="IRVINE" rptOwnerState="CA" rptOwnerStreet1="5300 CALIFORNIA AVENUE" rptOwnerStreet2="" rptOwnerZipCode="92617" />
+
+
+<reportingOwnerRelationship isDirector="0" isOfficer="1" isOther="0" isTenPercentOwner="0" officerTitle="SVP &amp; Corporate Controller">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Class A common stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="4000" 
+</transactionShares>
+<transactionPricePerShare value="42.51">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="72265" 
+<footnoteId id="F1" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<footnotes>
+<footnote id="F1" text="Includes (i) 8,951 shares that are held as Class A common stock and (ii) 63,314 shares in the form of restricted stock units that will entitle the Reporting Person to receive one share of Class A common stock per restricted stock unit." /> 
+</footnotes>
+<remarks />
+<ownerSignature> signatureName="/s/ Robert L. Tirva" 
+ signatureDate="2010-11-04" 
+</ownerSignature>
+</ownershipDocument></Source>

@@ -1,0 +1,124 @@
+<Source file="./0000076334-10-000098.nc">
+<SUBMISSION ACCESSION-NUMBER="0000076334-10-000098" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001021757" CONFORMED-NAME="PISTELL TIMOTHY K" /><FILING-VALUES ACT="34" FILE-NUMBER="001-04982" FILM-NUMBER="101172479" FORM-TYPE="4" /><MAIL-ADDRESS CITY="CLEVELAND" STATE="OH" STREET1="PARKER HANNIFIN CORP" STREET2="6035 PARKLAND BLVD" ZIP="44112" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="3490" CIK="0000076334" CONFORMED-NAME="PARKER HANNIFIN CORP" FISCAL-YEAR-END="0630" IRS-NUMBER="340451060" STATE-OF-INCORPORATION="OH" /><BUSINESS-ADDRESS CITY="CLEVELAND" PHONE="2168963000" STATE="OH" STREET1="6035 PARKLAND BOULEVARD" ZIP="44124-4141" /><MAIL-ADDRESS CITY="CLEVELAND" STATE="OH" STREET1="6035 PARKLAND BOULEVARD" ZIP="44124-4141" /><FORMER-COMPANY DATE-CHANGED="19670907" FORMER-CONFORMED-NAME="PARKER APPLIANCE CO" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0000076334" 
+ issuerName="PARKER HANNIFIN CORP" 
+ issuerTradingSymbol="PH" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001021757" 
+ rptOwnerName="PISTELL TIMOTHY K" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="CLEVELAND" rptOwnerState="OH" rptOwnerStreet1="PARKER-HANNIFIN CORPORATION" rptOwnerStreet2="6035 PARKLAND BOULEVARD" rptOwnerZipCode="44124-4141">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="1" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+ officerTitle="EVP- Finance Admin/CFO" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeHolding><securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="7716.33" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="Parker Retirement Savings Plan">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="3514" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="Linda S. Pistell Revocable Trust">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="18695" 
+</transactionShares>
+<transactionPricePerShare value="80.25">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="80520" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="19651" 
+</transactionShares>
+<transactionPricePerShare value="80.32">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="60869" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="6654" 
+</transactionShares>
+<transactionPricePerShare value="79.93">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="54215" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<remarks /> 
+<ownerSignature signatureDate="2010-11-08" signatureName="Rhoda M. Minichillo, Attorney-in-Fact">
+</ownerSignature>
+</ownershipDocument></Source>

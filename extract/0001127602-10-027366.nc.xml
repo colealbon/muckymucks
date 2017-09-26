@@ -1,0 +1,45 @@
+<Source file="./0001127602-10-027366.nc">
+<SUBMISSION ACCESSION-NUMBER="0001127602-10-027366" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001355294" CONFORMED-NAME="Miller William D" /><FILING-VALUES ACT="34" FILE-NUMBER="001-16393" FILM-NUMBER="101173583" FORM-TYPE="4" /><MAIL-ADDRESS CITY="HOUSTON" STATE="TX" STREET1="2101 CITY WEST BLVD" ZIP="77042" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="7372" CIK="0000835729" CONFORMED-NAME="BMC SOFTWARE INC" FISCAL-YEAR-END="0331" IRS-NUMBER="742126120" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="HOUSTON" PHONE="7139188800" STATE="TX" STREET1="2101 CITYWEST BLVD" ZIP="77042-2827" /><MAIL-ADDRESS CITY="HOUSTON" STATE="TX" STREET1="2101 CITYWEST BLVD" ZIP="77042-2827" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0000835729" 
+ issuerName="BMC SOFTWARE INC" 
+ issuerTradingSymbol="BMC" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001355294" 
+ rptOwnerName="Miller William D" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="HOUSTON" rptOwnerState="TX" rptOwnerStreet1="2101 CITYWEST BLVD." rptOwnerStreet2="" rptOwnerZipCode="77042" />
+
+
+<reportingOwnerRelationship isOfficer="1" officerTitle="Sr VP-Pres Mainframe Svc Mgmt">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="F" transactionFormType="4">
+<footnoteId id="F1" /> 
+</transactionCoding>
+<transactionTimeliness /> 
+<transactionAmounts>
+<transactionShares> value="2552" 
+</transactionShares>
+<transactionPricePerShare value="46.35">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="156337" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<footnotes> <footnote id="F1" text="Due to vesting of restricted stock awarded on 11/4/2008, shares were withheld for payment of required tax withholding obligation pursuant to an exempt, under Rule 16b-3(e), disposition to the Company." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="Christopher C. Chaffin, Attorney-in-Fact for William D. Miller">
+</ownerSignature>
+</ownershipDocument></Source>

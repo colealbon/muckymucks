@@ -1,0 +1,135 @@
+<Source file="./0001225208-10-024431.nc">
+<SUBMISSION ACCESSION-NUMBER="0001225208-10-024431" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001185790" CONFORMED-NAME="AVERITT RICHARD G" /><FILING-VALUES ACT="34" FILE-NUMBER="001-09109" FILM-NUMBER="101171667" FORM-TYPE="4" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="6211" CIK="0000720005" CONFORMED-NAME="RAYMOND JAMES FINANCIAL INC" FISCAL-YEAR-END="0930" IRS-NUMBER="591517485" STATE-OF-INCORPORATION="FL" /><BUSINESS-ADDRESS CITY="ST PETERSBURG" PHONE="727-567-1000" STATE="FL" STREET1="880 CARILLON PKWY" STREET2="P O BOX 12749" ZIP="33716" /><MAIL-ADDRESS CITY="ST. PETERSBURG" STATE="FL" STREET1="P O BOX 12749" ZIP="33716" /><FORMER-COMPANY DATE-CHANGED="19870303" FORMER-CONFORMED-NAME="RJ FINANCIAL CORP/FL" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0000720005" 
+ issuerName="RAYMOND JAMES FINANCIAL INC" 
+ issuerTradingSymbol="RJF" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001185790" 
+ rptOwnerName="AVERITT RICHARD G" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="ST. PETERSBURG" rptOwnerState="FL" rptOwnerStreet1="880 CARILLON PARKWAY" rptOwnerStreet2="" rptOwnerZipCode="33716" />
+
+
+<reportingOwnerRelationship isOfficer="1" officerTitle="CEO - RJFS">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+<footnoteId id="F1" /> 
+</transactionCoding>
+<transactionAmounts><transactionShares> value="50000.0000" 
+</transactionShares>
+<transactionPricePerShare value="30.0146">
+<footnoteId id="F2" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="D" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="225225.0000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeHolding>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="42997.0000" 
+<footnoteId id="F3" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="ESOP">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+</nonDerivativeTable>
+<derivativeTable><derivativeHolding><securityTitle> value="Employee Stock Option (right to buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="25.2800">
+</conversionOrExercisePrice>
+<exerciseDate>
+<footnoteId id="F4" /> 
+</exerciseDate>
+<expirationDate> value="2016-01-24" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="25000.0000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="25000.0000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Employee Stock Option (right to buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="30.4400">
+</conversionOrExercisePrice>
+<exerciseDate value="2010-11-27">
+</exerciseDate>
+<expirationDate value="2014-01-27">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="15000.0000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="15000.0000" 
+<footnoteId id="F5" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Employee Stock Option (right to buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="24.9733">
+</conversionOrExercisePrice>
+<exerciseDate value="2008-12-01">
+</exerciseDate>
+<expirationDate value="2012-02-01">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="15000.0000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="15000.0000" 
+<footnoteId id="F6" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="The sales reported in this Form 4 were effected pursuant to a Rule 10b5-1 sales trading plan adopted by the reporting person on June 15, 2010." /> 
+ <footnote id="F2" text="The price reported in Column 4 is a weighted average price.  These shares were sold in multiple transactions at prices ranging from $30.00 to $30.095, inclusive.  The reporting person undertakes to provide upon request by the SEC staff, the Issuer, or any security holder of the Issuer, full information regarding the number of shares sold at each separate price." /> 
+ <footnote id="F3" text="Includes number of shares acquired under ESOP through September 30, 2010" /> 
+ <footnote id="F4" text="Options becoming exercisable - 15,000 on 11/24/2012, 2,090 on 11/24/2013, 3,955 on 11/24/2014, 3,955 on 01/24/2015" /> 
+ <footnote id="F5" text="Options Becoming exercisable - 9,000 on 11/27/2010,  208 on 11/27/2011, 2,792 on 1/27/2012 and 3,000 on 1/27/2013" /> 
+ <footnote id="F6" text="Options Currently exercisable - 7,500; Options Becoming exercisable - 3,750 on 12/01/2010 and 3,750 on 2/01/2011" /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-05" signatureName="/s/ Richard G. Averitt III by Paul L. Matecki as Attorney-in-Fact">
+</ownerSignature>
+</ownershipDocument></Source>

@@ -1,0 +1,72 @@
+<Source file="./0001181431-10-054102.nc">
+<SUBMISSION ACCESSION-NUMBER="0001181431-10-054102" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101105" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001290936" CONFORMED-NAME="Barrenechea Mark J" /><FILING-VALUES ACT="34" FILE-NUMBER="000-51333" FILM-NUMBER="101173747" FORM-TYPE="4" /><MAIL-ADDRESS CITY="FREMONT" STATE="CA" STREET1="C/O SILICON GRAPHICS INTERNATIONAL CORP" STREET2="46600 LANDING PARKWAY" ZIP="94538" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="3571" CIK="0001316625" CONFORMED-NAME="Silicon Graphics International Corp" FISCAL-YEAR-END="0626" IRS-NUMBER="320047154" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="FREMONT" PHONE="408-240-8300" STATE="CA" STREET1="46600 LANDING PARKWAY" ZIP="94538" /><MAIL-ADDRESS CITY="FREMONT" STATE="CA" STREET1="46600 LANDING PARKWAY" ZIP="94538" /><FORMER-COMPANY DATE-CHANGED="20050203" FORMER-CONFORMED-NAME="Rackable Systems, Inc." /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-05" schemaVersion="X0303">
+<issuer> issuerCik="0001316625" 
+ issuerName="Silicon Graphics International Corp" 
+ issuerTradingSymbol="SGI" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001290936" 
+ rptOwnerName="Barrenechea Mark J" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="FREMONT" rptOwnerState="CA" rptOwnerStreet1="C/O SGI" rptOwnerStreet2="46600 LANDING PARKWAY" rptOwnerZipCode="94538">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="1" 
+ isOfficer="1" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+ officerTitle="President &amp; CEO" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="F" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="1146" 
+<footnoteId id="F1" /> 
+</transactionShares>
+<transactionPricePerShare> value="7.52" 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="170787" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="F" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="1146" 
+<footnoteId id="F1" /> 
+</transactionShares>
+<transactionPricePerShare> value="7.52" 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="169641" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<footnotes> <footnote id="F1" text="These shares were retained by the Company in order to meet the tax withholding obligations of the award holder in connection with the vesting of an installment of the restricted stock award. The amount retained by the Company was not in excess of the amount of the tax liability." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="/s/ Maurice Leibenstern as Attorney-in-Fact for Mark Barrenechea">
+</ownerSignature>
+</ownershipDocument></Source>

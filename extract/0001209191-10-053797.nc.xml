@@ -1,0 +1,47 @@
+<Source file="./0001209191-10-053797.nc">
+<SUBMISSION ACCESSION-NUMBER="0001209191-10-053797" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101105" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001476294" CONFORMED-NAME="Giraud C William" /><FILING-VALUES ACT="34" FILE-NUMBER="001-33615" FILM-NUMBER="101173977" FORM-TYPE="4" /><MAIL-ADDRESS CITY="MIDLAND" STATE="TX" STREET1="550 WEST TEXAS AVENUE" STREET2="SUITE 100" ZIP="79701" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="1311" CIK="0001358071" CONFORMED-NAME="CONCHO RESOURCES INC" FISCAL-YEAR-END="1231" IRS-NUMBER="760818600" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="MIDLAND" PHONE="432-683-7443" STATE="TX" STREET1="550 WEST TEXAS AVENUE" STREET2="SUITE 1300" ZIP="79701" /><MAIL-ADDRESS CITY="MIDLAND" STATE="TX" STREET1="550 WEST TEXAS AVENUE" STREET2="SUITE 1300" ZIP="79701" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" periodOfReport="2010-11-05" schemaVersion="X0303">
+<issuer> issuerCik="0001358071" 
+ issuerName="CONCHO RESOURCES INC" 
+ issuerTradingSymbol="CXO" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001476294" 
+ rptOwnerName="Giraud C William" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="MIDLAND" rptOwnerState="TX" rptOwnerStreet1="550 WEST TEXAS AVENUE" rptOwnerStreet2="SUITE 100" rptOwnerZipCode="79701">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="1" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+ officerTitle="Sr. VP, Gen. Counsel &amp; Secy." 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="F" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="2192" 
+</transactionShares>
+<transactionPricePerShare value="77.04">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="48914" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<derivativeTable /> 
+<ownerSignature signatureDate="2010-11-08" signatureName="/s/ C. William Giraud">
+</ownerSignature>
+</ownershipDocument></Source>

@@ -1,0 +1,190 @@
+<Source file="./0001127602-10-027360.nc">
+<SUBMISSION ACCESSION-NUMBER="0001127602-10-027360" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001381086" CONFORMED-NAME="Sohn Bruce" /><FILING-VALUES ACT="34" FILE-NUMBER="001-33156" FILM-NUMBER="101173558" FORM-TYPE="4" /><MAIL-ADDRESS CITY="TEMPE" STATE="AZ" STREET1="350 WEST WASHINGTON STREET." STREET2="SUITE 600" ZIP="85281" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="3674" CIK="0001274494" CONFORMED-NAME="FIRST SOLAR, INC." FISCAL-YEAR-END="1231" IRS-NUMBER="204623678" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="TEMPE" PHONE="(602) 414-9300" STATE="AZ" STREET1="350 WEST WASHINGTON STREET" STREET2="SUITE 600" ZIP="85281" /><MAIL-ADDRESS CITY="TEMPE" STATE="AZ" STREET1="350 WEST WASHINGTON STREET" STREET2="SUITE 600" ZIP="85281" /><FORMER-COMPANY DATE-CHANGED="20031229" FORMER-CONFORMED-NAME="FIRST SOLAR HOLDINGS LLC" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0001274494" 
+ issuerName="FIRST SOLAR, INC." 
+ issuerTradingSymbol="FSLR" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001381086" 
+ rptOwnerName="Sohn Bruce" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="TEMPE" rptOwnerState="AZ" rptOwnerStreet1="C/O FIRST SOLAR, INC." rptOwnerStreet2="350 WEST WASHINGTON STREET SUITE 600" rptOwnerZipCode="85281-1244">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isOfficer="1" 
+ officerTitle="President" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+<footnoteId id="F1" /> 
+</transactionCoding>
+<transactionTimeliness /> 
+<transactionAmounts>
+<transactionShares> value="50" 
+</transactionShares>
+<transactionPricePerShare value="54.50">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="23682" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+<footnoteId id="F1" /> 
+</transactionCoding>
+<transactionTimeliness /> 
+<transactionAmounts>
+<transactionShares> value="50" 
+</transactionShares>
+<transactionPricePerShare value="140.00">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="23632" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+<footnoteId id="F1" /> 
+</transactionCoding>
+<transactionTimeliness /> 
+<transactionAmounts>
+<transactionShares> value="4950" 
+</transactionShares>
+<transactionPricePerShare value="54.50">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="28582" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+<footnoteId id="F1" /> 
+</transactionCoding>
+<transactionTimeliness /> 
+<transactionAmounts>
+<transactionShares> value="4950" 
+</transactionShares>
+<transactionPricePerShare value="140.01">
+<footnoteId id="F2" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="D" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="23632" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<derivativeTable><derivativeTransaction><securityTitle> value="Non-Qualified Stock Options (Right to Buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="54.50">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness />
+<transactionAmounts><transactionShares> value="50" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate><footnoteId id="F3" /> 
+</exerciseDate>
+<expirationDate> value="2014-03-21" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="50">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="123950" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+<derivativeTransaction>
+<securityTitle> value="Non-Qualified Stock Options (Right to Buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="54.50">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness />
+<transactionAmounts><transactionShares> value="4950" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate><footnoteId id="F3" /> 
+</exerciseDate>
+<expirationDate> value="2014-03-21" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="4950">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="119000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="This transaction was effected pursuant to a Rule 10b5-1 trading plan previously adopted by the reporting person." /> 
+ <footnote id="F2" text="A total of 4,950 shares were sold on this date in multiple transactions at prices ranging from $140.00 to $140.08 with a total weighted average sale price of $140.01.  The reporting person undertakes to provide upon request by the staff of the SEC, the Issuer, or a secruity holder of the Issuer, full information regarding the number of shares sold at each separate price." /> 
+ <footnote id="F3" text="This option to purchase 150,000 shares vested with respect to 20% of the underlying shares on March 12, 2008, and has vested or will vest ratably each month during the 48 month period thereafter, subject to the Reporting Person&apos;s continued employment with the Issuer." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="/s/ Peter C. Bartolino, Attorney-in-fact">
+</ownerSignature>
+</ownershipDocument></Source>

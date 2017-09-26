@@ -1,0 +1,26 @@
+<Source file="./0001209191-10-053647.nc">
+<SUBMISSION ACCESSION-NUMBER="0001209191-10-053647" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><ISSUER><COMPANY-DATA ASSIGNED-SIC="2834" CIK="0001047188" CONFORMED-NAME="PENWEST PHARMACEUTICALS CO" FISCAL-YEAR-END="1231" IRS-NUMBER="911513032" STATE-OF-INCORPORATION="WA" /><BUSINESS-ADDRESS CITY="PATTERSON" PHONE="877-736-9378" STATE="NY" STREET1="2981 ROUTE 22" STREET2="SUITE 2" ZIP="12563-2335" /><MAIL-ADDRESS CITY="PATTERSON" STATE="NY" STREET1="2981 ROUTE 22" STREET2="SUITE 2" ZIP="12563-2335" /></ISSUER><REPORTING-OWNER><OWNER-DATA CIK="0001229247" CONFORMED-NAME="BAICHWAL ANAND" /><FILING-VALUES ACT="34" FILE-NUMBER="001-34267" FILM-NUMBER="101172027" FORM-TYPE="4" /><MAIL-ADDRESS CITY="DANBURY" STATE="CT" STREET1="39 OLD RIDGEBURY ROAD" STREET2="SUITE 11" ZIP="06810" /></REPORTING-OWNER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="1" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0001047188" 
+ issuerName="PENWEST PHARMACEUTICALS CO" 
+ issuerTradingSymbol="PPCO" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001229247" 
+ rptOwnerName="BAICHWAL ANAND" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="PATTERSON" rptOwnerState="NY" rptOwnerStreet1="2981 ROUTE 22" rptOwnerStreet2="SUITE 2" rptOwnerZipCode="12563-2335">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="1" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+ officerTitle="SVP Licensing &amp; BD" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<remarks />
+<ownerSignature> signatureName="Anand R. Baichwal" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

@@ -1,0 +1,53 @@
+<Source file="./0001179110-10-015699.nc">
+<SUBMISSION ACCESSION-NUMBER="0001179110-10-015699" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101105" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001330182" CONFORMED-NAME="Ayasli Yalcin" /><FILING-VALUES ACT="34" FILE-NUMBER="000-51448" FILM-NUMBER="101170845" FORM-TYPE="4" /><MAIL-ADDRESS CITY="CHELMSFORD" STATE="MA" STREET1="20 ALPHA ROAD" ZIP="01824" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="3674" CIK="0001130866" CONFORMED-NAME="HITTITE MICROWAVE CORP" IRS-NUMBER="042854672" /><BUSINESS-ADDRESS CITY="CHELMSFORD" PHONE="9782503343" STATE="MA" STREET1="20 ALPHA ROAD" ZIP="01824" /><MAIL-ADDRESS CITY="CHELMSFORD" STATE="MA" STREET1="20 ALPHA ROAD" ZIP="01824" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-05" schemaVersion="X0303">
+<issuer> issuerCik="0001130866" 
+ issuerName="HITTITE MICROWAVE CORP" 
+ issuerTradingSymbol="HITT" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001330182" 
+ rptOwnerName="Ayasli Yalcin" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="CHELMSFORD" rptOwnerState="MA" rptOwnerStreet1="C/O HITTITE MICROWAVE CORPORATION" rptOwnerStreet2="20 ALPHA ROAD" rptOwnerZipCode="01824">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="0" 
+ isTenPercentOwner="1" 
+ isOther="0" 
+<officerTitle /> 
+<otherText />
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+<footnoteId id="F1" /> 
+</transactionCoding>
+<transactionAmounts><transactionShares> value="16000" 
+</transactionShares>
+<transactionPricePerShare value="54.5524">
+<footnoteId id="F2" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="D" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="2166886" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<derivativeTable /> 
+<footnotes>
+<footnote id="F1" text="The sale reported in this Form 4 was effected pursuant to a 10b5-1 trading plan adopted by the reporting person." /> 
+ <footnote id="F2" text="This price represents the weighted average sale price of multiple transactions on the reported date at prices that ranged between $54.17 and $54.77. Detailed information regarding the number of shares sold at each separate price will be provided upon request by the Commission staff, the issuer, or a security holder of the issuer." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="/s/ Robert W. Sweet, Jr., Attorney-in-fact">
+</ownerSignature>
+</ownershipDocument></Source>

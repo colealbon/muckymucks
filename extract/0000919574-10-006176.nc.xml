@@ -1,0 +1,206 @@
+<Source file="./0000919574-10-006176.nc">
+<SUBMISSION ACCESSION-NUMBER="0000919574-10-006176" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001214344" CONFORMED-NAME="BERKOWITZ BRUCE R" /><FILING-VALUES ACT="34" FILE-NUMBER="001-08787" FILM-NUMBER="101173892" FORM-TYPE="4" /><MAIL-ADDRESS CITY="MIAMI" STATE="FL" STREET1="C/O FAIRHOLME CAPITAL MANAGEMENT, L.L.C." STREET2="4400 BISCAYNE BOULEVARD, 9TH FLOOR" ZIP="33137" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="6331" CIK="0000005272" CONFORMED-NAME="AMERICAN INTERNATIONAL GROUP INC" FISCAL-YEAR-END="1231" IRS-NUMBER="132592361" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="NEW YORK" PHONE="2127707000" STATE="NY" STREET1="70 PINE ST" ZIP="10270" /><MAIL-ADDRESS CITY="NEW YORK" STATE="NY" STREET1="70 PINE STREET" ZIP="10270" /><FORMER-COMPANY DATE-CHANGED="19700507" FORMER-CONFORMED-NAME="AMERICAN INTERNATIONAL ENTERPRISES INC" /></ISSUER><REPORTING-OWNER><OWNER-DATA CIK="0001056831" CONFORMED-NAME="FAIRHOLME CAPITAL MANAGEMENT LLC" FISCAL-YEAR-END="1231" STATE-OF-INCORPORATION="DE" /><FILING-VALUES ACT="34" FILE-NUMBER="001-08787" FILM-NUMBER="101173891" FORM-TYPE="4" /><BUSINESS-ADDRESS CITY="MIAMI" PHONE="305-358-3000" STATE="FL" STREET1="4400 BISCAYNE BOULEVARD" STREET2="9TH FLOOR" ZIP="33137" /><MAIL-ADDRESS CITY="MIAMI" STATE="FL" STREET1="4400 BISCAYNE BOULEVARD" STREET2="9TH FLOOR" ZIP="33137" /></REPORTING-OWNER><REPORTING-OWNER><OWNER-DATA CIK="0001096344" CONFORMED-NAME="FAIRHOLME FUNDS INC" FISCAL-YEAR-END="1130" STATE-OF-INCORPORATION="MD" /><FILING-VALUES ACT="34" FILE-NUMBER="001-08787" FILM-NUMBER="101173890" FORM-TYPE="4" /><BUSINESS-ADDRESS CITY="MIAMI" PHONE="305-358-3000" STATE="FL" STREET1="4400 BISCAYNE BOULEVARD" STREET2="9TH FLOOR" ZIP="33137" /><MAIL-ADDRESS CITY="MIAMI" STATE="FL" STREET1="4400 BISCAYNE BOULEVARD" STREET2="9TH FLOOR" ZIP="33137" /><FORMER-NAME DATE-CHANGED="19991005" FORMER-CONFORMED-NAME="FAIRHOLMES FUNDS INC" /></REPORTING-OWNER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0000005272" 
+ issuerName="AMERICAN INTERNATIONAL GROUP INC" 
+ issuerTradingSymbol="AIG" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001056831" 
+ rptOwnerName="FAIRHOLME CAPITAL MANAGEMENT LLC" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="MIAMI" rptOwnerState="FL" rptOwnerStreet1="4400 BISCAYNE BOULEVARD" rptOwnerStreet2="9TH FLOOR" rptOwnerZipCode="33137">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="0" 
+ isTenPercentOwner="1" 
+ isOther="0" 
+<officerTitle /> 
+<otherText />
+</reportingOwnerRelationship>
+</reportingOwner>
+<reportingOwner><reportingOwnerId> rptOwnerCik="0001096344" 
+ rptOwnerName="FAIRHOLME FUNDS INC" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="MIAMI" rptOwnerState="FL" rptOwnerStreet1="C/O FAIRHOLME CAPITAL MANAGEMENT, L.L.C." rptOwnerStreet2="4400 BISCAYNE BOULEVARD, 9TH FLOOR" rptOwnerZipCode="33137">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="0" 
+ isTenPercentOwner="1" 
+ isOther="0" 
+<officerTitle /> 
+<otherText />
+</reportingOwnerRelationship>
+</reportingOwner>
+<reportingOwner><reportingOwnerId> rptOwnerCik="0001214344" 
+ rptOwnerName="BERKOWITZ BRUCE R" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="MIAMI" rptOwnerState="FL" rptOwnerStreet1="C/O FAIRHOLME CAPITAL MANAGEMENT, L.L.C." rptOwnerStreet2="4400 BISCAYNE BOULEVARD, 9TH FLOOR" rptOwnerZipCode="33137">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="0" 
+ isTenPercentOwner="1" 
+ isOther="0" 
+<officerTitle /> 
+<otherText />
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="J" 
+ equitySwapInvolved="0" 
+<footnoteId id="F1" /> 
+</transactionCoding>
+<transactionTimeliness /> 
+<transactionAmounts>
+<transactionShares> value="4500" 
+</transactionShares>
+<transactionPricePerShare value="44.09">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="35453300" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="See Footnote">
+<footnoteId id="F2" /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="P" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionTimeliness />
+<transactionAmounts><transactionShares> value="50200" 
+</transactionShares>
+<transactionPricePerShare value="43.59">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="35503500" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="See Footnote">
+<footnoteId id="F2" /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeHolding><securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="31923200" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+<footnoteId id="F3" /> 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+</nonDerivativeTable>
+<derivativeTable>
+<derivativeTransaction><securityTitle> value="Convertible Preferred Stock" 
+</securityTitle>
+<conversionOrExercisePrice>
+<footnoteId id="F4" /> 
+</conversionOrExercisePrice>
+<transactionDate> value="2010-11-05" 
+</transactionDate>
+<deemedExecutionDate>
+<footnoteId id="F5" /> 
+</deemedExecutionDate>
+<transactionCoding> transactionFormType="4" 
+ transactionCode="J" 
+ equitySwapInvolved="0" 
+<footnoteId id="F1" /> 
+</transactionCoding>
+<transactionTimeliness /> 
+<transactionAmounts>
+<transactionShares> value="5200" 
+</transactionShares>
+<transactionPricePerShare>
+<footnoteId id="F4" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="D" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate><footnoteId id="F5" /> 
+</exerciseDate>
+<expirationDate><footnoteId id="F5" /> 
+</expirationDate>
+<underlyingSecurity><underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="487">
+<footnoteId id="F6" /> 
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="29874826" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="See Footnote">
+<footnoteId id="F7" /> 
+</natureOfOwnership>
+</ownershipNature>
+</derivativeTransaction>
+<derivativeHolding><securityTitle> value="Convertible Preferred Stock" 
+</securityTitle>
+<conversionOrExercisePrice>
+<footnoteId id="F4" /> 
+</conversionOrExercisePrice>
+<exerciseDate><footnoteId id="F5" /> 
+</exerciseDate>
+<expirationDate><footnoteId id="F5" /> 
+</expirationDate>
+<underlyingSecurity><underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="0">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="26703326" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+<footnoteId id="F3" /> 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+</derivativeTable>
+<footnotes>
+<footnote id="F1" text="The securities were held in an account managed by Fairholme Capital Management, L.L.C. (Fairholme) and were sold pursuant to an investment management agreement that was terminated. Accordingly, Fairholme and Mr. Berkowitz are no longer deemed to be the beneficial owners of such securities." /> 
+ <footnote id="F2" text="The reported securities are directly owned by The Fairholme Fund, a series of Fairholme Funds, Inc. (the Fund) and managed accounts advised by Fairholme. The securities may be deemed to be beneficially owned by Fairholme, as the investment manager, and by Bruce R. Berkowitz (Mr. Berkowitz) as the managing member of Fairholme. The Reporting Persons disclaim beneficial ownership in the securities reported on this Form 4 except to the extent of his or its pecuniary interest, if any, therein, and this report shall not be deemed to be an admission that the Reporting Persons are the beneficial owners of such securities for purposes of Section 16 of the Securities Exchange Act of 1934, as amended, or for any other purpose." /> 
+ <footnote id="F3" text="These securities are directly owned by the Fund, which is a Reporting Person." /> 
+ <footnote id="F4" text="The exchange is for 0.09867 shares of the Issuer&apos;s common stock, par value $2.50 per share, plus $3.2702 in cash for each validly tendered and accepted unit of convertible preferred stock." /> 
+ <footnote id="F5" text="The exchange offer for the convertible preferred stock expires on November 10, 2010." /> 
+ <footnote id="F6" text="This amount assumes that the Reporting Person has converted 95% of the preferred shares held by the Reporting Person into common stock." /> 
+ <footnote id="F7" text="The reported securities are directly owned by the Fund, Fairholme Focused Income Fund, a series of Fairholme Funds, Inc. and managed accounts advised by Fairholme. The securities may be deemed to be beneficially owned by Fairholme, as the investment manager, and by Bruce R. Berkowitz (Mr. Berkowitz) as the managing member of Fairholme. The Reporting Persons disclaim beneficial ownership in the securities reported on this Form 4 except to the extent of his or its pecuniary interest, if any, therein, and this report shall not be deemed to be an admission that the Reporting Persons are the beneficial owners of such securities for purposes of Section 16 of the Securities Exchange Act of 1934, as amended, or for any other purpose." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="Fairholme Capital Management, L.L.C. /s/ Bruce R. Berkowitz">
+</ownerSignature>
+<ownerSignature signatureDate="2010-11-08" signatureName="Fairholme Funds, Inc. By: Fairholme Capital Management, L.L.C., Investment Manager /s/ Bruce R. Berkowitz">
+</ownerSignature>
+<ownerSignature signatureDate="2010-11-08" signatureName="/s/ Bruce R. Berkowitz">
+</ownerSignature>
+</ownershipDocument></Source>

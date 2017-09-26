@@ -1,0 +1,85 @@
+<Source file="./0001267130-10-000072.nc">
+<SUBMISSION ACCESSION-NUMBER="0001267130-10-000072" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><ISSUER><COMPANY-DATA ASSIGNED-SIC="5940" CIK="0001267130" CONFORMED-NAME="CABELAS INC" FISCAL-YEAR-END="1231" IRS-NUMBER="200486586" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="SIDNEY" PHONE="308-254-5505" STATE="NE" STREET1="ONE CABELA DRIVE" ZIP="69160" /><MAIL-ADDRESS CITY="SIDNEY" STATE="NE" STREET1="ONE CABELA DRIVE" ZIP="69160" /></ISSUER><REPORTING-OWNER><OWNER-DATA CIK="0001008544" CONFORMED-NAME="MCCARTHY MICHAEL R" /><FILING-VALUES ACT="34" FILE-NUMBER="001-32227" FILM-NUMBER="101172567" FORM-TYPE="4" /><MAIL-ADDRESS CITY="OMAHA" STATE="NE" STREET1="1601 DODGE ST" STREET2="SUITE 3800" ZIP="68102" /></REPORTING-OWNER></SUBMISSION><ownershipDocument documentType="4" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0001267130" 
+ issuerName="CABELAS INC" 
+ issuerTradingSymbol="CAB" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001008544" 
+ rptOwnerName="MCCARTHY MICHAEL R" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="OMAHA," rptOwnerState="NE" rptOwnerStreet1="C/O MCCARTHY GROUP, LLC" rptOwnerStreet2="1601 DODGE STREET, SUITE 3800" rptOwnerZipCode="68102">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="1" 
+ isOfficer="0" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeHolding><securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="91015" 
+<footnoteId id="F1" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="by GRAT">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="3032016" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="By MGL Holdings, LLC">
+<footnoteId id="F2" /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="130900" 
+</transactionShares>
+<transactionPricePerShare value="22.80">
+<footnoteId id="F3" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="D" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="0" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="By Fulcrum Micro-Cap, L.L.C.">
+<footnoteId id="F4" /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<footnotes>
+<footnote id="F1" text="These shares were previously reported as directly beneficially owned but were transferred to a grantor retained annuity trust on October 1, 2010." /> 
+ <footnote id="F2" text="MGL Holdings, LLC is a wholly-owned subsidiary of McCarthy Group, LLC, or MGL.  The Reporting Person, as Chairman of MGL, may be deemed to share beneficial ownership of any securities of the Issuer that MGL may be deemed to beneficially own.  The Reporting Person disclaims beneficial ownership of all securities of the Issuer that MGL may be deemed to beneficially own except to the extent of his pecuniary interest therein." /> 
+ <footnote id="F3" text="The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $22.67 to $22.97. The Reporting Person has provided to the Issuer, and undertakes to provide to any security holder of the Issuer or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range set forth in this footnote (3)." /> 
+ <footnote id="F4" text="McCarthy Capital Corporation is the manager of Fulcrum Micro-Cap, L.L.C. and is an indirectly wholly-owned subsidiary of MGL.  The Reporting Person, as Chairman of MGL, may be deemed to share beneficial ownership of any securities of the Issuer that MGL may be deemed to beneficially own.  The Reporting Person disclaims beneficial ownership of all securities of the Issuer that MGL may be deemed to beneficially own except to the extent of his pecuniary interest therein." /> 
+</footnotes>
+<remarks />
+<ownerSignature> signatureName="Brent LaSure, Attorney-in-Fact" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

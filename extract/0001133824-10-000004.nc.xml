@@ -1,0 +1,60 @@
+<Source file="./0001133824-10-000004.nc">
+<SUBMISSION ACCESSION-NUMBER="0001133824-10-000004" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101108" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001133824" CONFORMED-NAME="MURRAY DONALD B" /><FILING-VALUES ACT="34" FILE-NUMBER="000-32113" FILM-NUMBER="101173068" FORM-TYPE="4" /><MAIL-ADDRESS CITY="COSTA MESA" STATE="CA" STREET1="RESOURCES CONNECTION" STREET2="695 TOWN CTR DR STE 600" ZIP="92626" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="7389" CIK="0001084765" CONFORMED-NAME="RESOURCES CONNECTION INC" FISCAL-YEAR-END="0531" IRS-NUMBER="330832424" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="IRVINE" PHONE="7144306400" STATE="CA" STREET1="17101 ARMSTRONG AVENUE" ZIP="92614" /><MAIL-ADDRESS CITY="IRVINE" STATE="CA" STREET1="17101 ARMSTRONG AVENUE" ZIP="92614" /><FORMER-COMPANY DATE-CHANGED="20000824" FORMER-CONFORMED-NAME="RC TRANSACTION CORP" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-08" schemaVersion="X0303">
+<issuer> issuerCik="0001084765" 
+ issuerName="RESOURCES CONNECTION INC" 
+ issuerTradingSymbol="RECN" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001133824" 
+ rptOwnerName="MURRAY DONALD B" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="IRVINE" rptOwnerState="CA" rptOwnerStreet1="17101 ARMSTRONG AVENUE" rptOwnerStreet2="" rptOwnerZipCode="92614" />
+
+
+<reportingOwnerRelationship isDirector="1" isOfficer="1" isOther="0" isTenPercentOwner="0" officerTitle="Executive Chairman and CEO">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-08">
+</transactionDate>
+<deemedExecutionDate value="2010-11-08">
+</deemedExecutionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="G" transactionFormType="4">
+<footnoteId id="F1" /> 
+</transactionCoding>
+<transactionAmounts><transactionShares> value="10000" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="1130119" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="Murray Fam Trust">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeHolding>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="140000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="Murray Fam Inc Trust">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+</nonDerivativeTable>
+<footnotes> <footnote id="F1" text="Gift to Orange County Community Foundation" /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="Donald B Murray">
+</ownerSignature>
+</ownershipDocument></Source>

@@ -1,0 +1,170 @@
+<Source file="./0000095052-10-000079.nc">
+<SUBMISSION ACCESSION-NUMBER="0000095052-10-000079" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><ISSUER><COMPANY-DATA ASSIGNED-SIC="2844" CIK="0000095052" CONFORMED-NAME="ELIZABETH ARDEN INC" FISCAL-YEAR-END="0630" IRS-NUMBER="590914138" STATE-OF-INCORPORATION="FL" /><BUSINESS-ADDRESS CITY="MIRAMAR" PHONE="954-364-6900" STATE="FL" STREET1="2400 SW 145 AVENUE" STREET2="SUITE 2S" ZIP="33027" /><MAIL-ADDRESS CITY="MIRAMAR" STATE="FL" STREET1="2400 SW 145 AVENUE" STREET2="SUITE 2S" ZIP="33027" /><FORMER-COMPANY DATE-CHANGED="19951212" FORMER-CONFORMED-NAME="FRENCH FRAGRANCES INC" /><FORMER-COMPANY DATE-CHANGED="19920703" FORMER-CONFORMED-NAME="SUAVE SHOE CORP" /></ISSUER><REPORTING-OWNER><OWNER-DATA CIK="0001229134" CONFORMED-NAME="RONKIN JOEL B" /><FILING-VALUES ACT="34" FILE-NUMBER="001-06370" FILM-NUMBER="101171367" FORM-TYPE="4" /><MAIL-ADDRESS CITY="MIRAMAR" STATE="FL" STREET1="C/O ELIZABETH ARDEN, INC." STREET2="2400 SW 145 AVENUE, 2ND FLOOR" ZIP="33027" /></REPORTING-OWNER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0000095052" 
+ issuerName="ELIZABETH ARDEN INC" 
+ issuerTradingSymbol="RDEN" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001229134" 
+ rptOwnerName="RONKIN JOEL B" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="MIRAMAR" rptOwnerState="FL" rptOwnerStreet1="C/O ELIZABETH ARDEN, INC." rptOwnerStreet2="2400 SW 145 AVENUE, 2ND FLOOR" rptOwnerZipCode="33027">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="1" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+ officerTitle="EVP, GM - North America" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock, $.01 par value" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="3382" 
+</transactionShares>
+<transactionPricePerShare value="13.3125">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="165053" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock, $.01 par value" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+<footnoteId id="F1" /> 
+</transactionCoding>
+<transactionTimeliness><value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="3382" 
+</transactionShares>
+<transactionPricePerShare value="22">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="161671" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock, $.01 par value" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="1125" 
+</transactionShares>
+<transactionPricePerShare value="13.3125">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="162796" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<derivativeTable><derivativeTransaction><securityTitle> value="Stock Option (Right to Buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="13.3125">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="3382" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate> value="2002-01-31" 
+</exerciseDate>
+<expirationDate value="2011-01-31">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="3382">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="13096" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+<derivativeTransaction>
+<securityTitle> value="Stock Option (Right to Buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="13.3125">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="1125" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate> value="2002-01-31" 
+</exerciseDate>
+<expirationDate value="2011-01-31">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="1125">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="11971" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="Cashless exercise of an expiring stock option pursuant to a 10b5-1 trading plan adopted by the reporting person on September 16, 2010." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="Joel B. Ronkin">
+</ownerSignature>
+</ownershipDocument></Source>

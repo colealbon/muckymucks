@@ -1,0 +1,152 @@
+<Source file="./0001209191-10-053583.nc">
+<SUBMISSION ACCESSION-NUMBER="0001209191-10-053583" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101105" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><ISSUER><COMPANY-DATA ASSIGNED-SIC="2631" CIK="0000731939" CONFORMED-NAME="TEMPLE INLAND INC" FISCAL-YEAR-END="1231" IRS-NUMBER="751903917" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="AUSTIN" PHONE="5124345800" STATE="TX" STREET1="1300 MOPAC EXPRESSWAY SOUTH" STREET2="3RD FLOOR" ZIP="78746" /><MAIL-ADDRESS CITY="AUSTIN" STATE="TX" STREET1="1300 MOPAC EXPRESSWAY SOUTH" STREET2="3RD FLOOR" ZIP="78746" /></ISSUER><REPORTING-OWNER><OWNER-DATA CIK="0001185919" CONFORMED-NAME="REED W ALLEN" /><FILING-VALUES ACT="34" FILE-NUMBER="001-08634" FILM-NUMBER="101171296" FORM-TYPE="4" /><MAIL-ADDRESS CITY="NEW YORK" STATE="NY" STREET1="MORGAN STANLEY INVESTMENT MANAGEMENT" STREET2="522 FIFTH AVENUE" ZIP="10036" /></REPORTING-OWNER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-05" schemaVersion="X0303">
+<issuer> issuerCik="0000731939" 
+ issuerName="TEMPLE INLAND INC" 
+ issuerTradingSymbol="TIN" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001185919" 
+ rptOwnerName="REED W ALLEN" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="AUSTIN" rptOwnerState="TX" rptOwnerStreet1="1300 S. MOPAC" rptOwnerStreet2="THIRD FLOOR" rptOwnerZipCode="78746">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="1" 
+ isOfficer="0" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeHolding><securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="5000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+</nonDerivativeTable>
+<derivativeTable><derivativeHolding><securityTitle> value="Option (right to buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="5.36">
+<footnoteId id="F1" /> 
+</conversionOrExercisePrice>
+<exerciseDate> value="2001-02-04" 
+</exerciseDate>
+<expirationDate value="2015-02-04">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="4000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="4000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Option (right to buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="9.37">
+<footnoteId id="F1" /> 
+</conversionOrExercisePrice>
+<exerciseDate> value="2002-02-02" 
+<footnoteId id="F2" /> 
+</exerciseDate>
+<expirationDate> value="2011-02-02" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="2000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="2000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Option (right to buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="10.56">
+<footnoteId id="F1" /> 
+</conversionOrExercisePrice>
+<exerciseDate> value="2003-02-02" 
+<footnoteId id="F3" /> 
+</exerciseDate>
+<expirationDate> value="2012-02-02" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="2000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="2000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeTransaction>
+<securityTitle> value="Restricted Stock Units (Deferred)" 
+</securityTitle>
+<conversionOrExercisePrice>
+<footnoteId id="F4" /> 
+</conversionOrExercisePrice>
+<transactionDate> value="2010-11-05" 
+</transactionDate>
+<deemedExecutionDate value="2010-11-05">
+</deemedExecutionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="A" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="1043" 
+</transactionShares>
+<transactionPricePerShare value="0.00">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate> value="2019-05-03" 
+<footnoteId id="F4" /> 
+</exerciseDate>
+<expirationDate> value="2034-05-03" 
+<footnoteId id="F4" /> 
+</expirationDate>
+<underlyingSecurity><underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="1043">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="100822" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="The exercise price of these outstanding options were amended from that previously reported in connection with the spin-off announced by the Company effective 12/28/2007, and pursuant to anti-dilution provisions set forth in the option plan and is intended to give the option the same economic value it had before the spin-off." /> 
+ <footnote id="F2" text="Option Vesting Schedule:  Options Exercisable 02/02/2002 - 800; Options Exercisable 02/02/2003 - 800; Options Exercisable 02/02/2004 - 400." /> 
+ <footnote id="F3" text="Option Vesting Schedule:  Options Exercisable 02/02/2003 - 800; Options Exercisable 02/02/2004 - 800; Options Exercisable 02/02/2005 - 400." /> 
+ <footnote id="F4" text="Restricted stock units deferred under a Company plan, to be settled upon the reporting person&apos;s retirement. RSUs earned before 2006 are payable in stock. RSUs earned in 2006 or later are payable in cash." /> 
+</footnotes>
+<remarks />
+<ownerSignature> signatureName="Leslie K. O'Neal signed on behalf of W. Allen Reed" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

@@ -1,0 +1,48 @@
+<Source file="./0001008281-10-000005.nc">
+<SUBMISSION ACCESSION-NUMBER="0001008281-10-000005" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001008281" CONFORMED-NAME="SIMON MELVIN J" /><FILING-VALUES ACT="34" FILE-NUMBER="000-27266" FILM-NUMBER="101172854" FORM-TYPE="4" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="3661" CIK="0001002135" CONFORMED-NAME="WESTELL TECHNOLOGIES INC" FISCAL-YEAR-END="0331" IRS-NUMBER="363154957" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="AURORA" PHONE="6308982500" STATE="IL" STREET1="750 N COMMONS DRIVE" ZIP="60504" /><MAIL-ADDRESS CITY="AURORA" STATE="IL" STREET1="750 NORTH COMMONS DRIVE" ZIP="60504" /><FORMER-COMPANY DATE-CHANGED="19951012" FORMER-CONFORMED-NAME="ELECTRONIC INFORMATION TECHNOLOGIES INC" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0001002135" 
+ issuerName="WESTELL TECHNOLOGIES INC" 
+ issuerTradingSymbol="WSTL" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001008281" 
+ rptOwnerName="SIMON MELVIN J" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="ARLINGTON HEIGHTS" rptOwnerState="IL" rptOwnerStreet1="2136 LAKE SHORE CIRCLE" rptOwnerStreet2="" rptOwnerZipCode="60004" />
+
+
+<reportingOwnerRelationship isDirector="0" isOfficer="0" isOther="0" isTenPercentOwner="1">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Westell Technologies Inc. Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="P" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="23595" 
+</transactionShares>
+<transactionPricePerShare value="2.8">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="13980338" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+<footnoteId id="F1" /> 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<footnotes>
+<footnote id="F1" text="122,209 direct41,930 by attribution246,024 as Trustee of Trusts13,570,175 as co-trustee of Voting Trust" />
+</footnotes>
+<ownerSignature> signatureName="Melvin J. Simon" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

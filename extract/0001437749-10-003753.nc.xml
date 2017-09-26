@@ -1,0 +1,139 @@
+<Source file="./0001437749-10-003753.nc">
+<SUBMISSION ACCESSION-NUMBER="0001437749-10-003753" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101105" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001269812" CONFORMED-NAME="MUHLEISEN ANGIE" /><FILING-VALUES ACT="34" FILE-NUMBER="001-31924" FILM-NUMBER="101171683" FORM-TYPE="4" /><MAIL-ADDRESS CITY="LINCOLN" STATE="NE" STREET1="3643 S 48TH STREET P O BOX 82535" ZIP="68501-2535" /><FORMER-NAME DATE-CHANGED="20031110" FORMER-CONFORMED-NAME="MULHEISEN ANGIE" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="6141" CIK="0001258602" CONFORMED-NAME="NELNET INC" FISCAL-YEAR-END="1231" IRS-NUMBER="840748903" STATE-OF-INCORPORATION="NE" /><BUSINESS-ADDRESS CITY="LINCOLN" PHONE="402-458-2370" STATE="NE" STREET1="121 SOUTH 13TH ST" STREET2="STE 201" ZIP="68508" /><MAIL-ADDRESS CITY="LINCOLN" STATE="NE" STREET1="121 SOUTH 13TH ST" STREET2="STE 201" ZIP="68508" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" periodOfReport="2010-11-05" schemaVersion="X0303">
+<issuer> issuerCik="0001258602" 
+ issuerName="NELNET INC" 
+ issuerTradingSymbol="NNI" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001269812" 
+ rptOwnerName="MUHLEISEN ANGIE" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="LINCOLN" rptOwnerState="NE" rptOwnerStreet1="C/O FARMERS &amp; MERCHANTS INVESTMENT INC." rptOwnerStreet2="6801 SOUTH 27TH STREET" rptOwnerZipCode="68512">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isTenPercentOwner="1" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Class A Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+<footnoteId id="F1" /> 
+<footnoteId id="F2" />
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="10000.0000" 
+</transactionShares>
+<transactionPricePerShare value="23.0437">
+<footnoteId id="F3" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="D" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="1184390.0000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="By spouse">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeHolding>
+<securityTitle> value="Class A Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="2698819.0000" 
+<footnoteId id="F4" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding>
+<securityTitle> value="Class A Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="404500.0000" 
+<footnoteId id="F5" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="By corporation">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding>
+<securityTitle> value="Class A Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="456610.0000" 
+<footnoteId id="F6" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="By GRAT">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding>
+<securityTitle> value="Class A Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="456610.0000" 
+<footnoteId id="F7" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="By GRAT">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding>
+<securityTitle> value="Class A Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="575245.0000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="By daughter">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding>
+<securityTitle> value="Class A Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="575245.0000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="By son">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+</nonDerivativeTable>
+<footnotes> <footnote id="F1" text="These shares were sold by Dan Muhleisen pursuant to a Rule 10b5-1 Sales Plan (the Plan) entered into on May 12, 2010, which provides for the sale of shares of the issuer&apos;s Class A Common Stock, subject to limit price provisions and an expiration date of August 13, 2011. To the extent any future sales occur pursuant to the Plan, such sales will be publicly disclosed in Form 4 filings with the Securities and Exchange Commission (the SEC)." /> 
+ <footnote id="F2" text="Rule 10b5-1, promulgated under the Securities Exchange Act of 1934, allows significant shareholders of a company who are not in possession of material non-public information to establish pre-arranged plans to buy or sell a specified number of shares of such company&apos;s stock. Once a plan is established, the shareholder does not retain or exercise any discretion over sales of stock under the plan and the pre-planned trades may be executed at later dates as set forth in the plan." /> 
+ <footnote id="F3" text="The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $22.83 to $23.23 inclusive. The reporting person undertakes to provide to the issuer, any security holder of the issuer, or the staff of the SEC, upon request, full information regarding the number of shares sold at each separate price within such range." /> 
+ <footnote id="F4" text="These shares include 88,864 shares that the reporting person holds jointly with her spouse." /> 
+ <footnote id="F5" text="Shares held by Farmers &amp; Merchants Investment Inc. (F&amp;M), of which the reporting person is a director, executive officer and owns or controls approximately 38.5% of the outstanding voting stock. The reporting person continues to report beneficial ownership of all the shares held by F&amp;M, but disclaims beneficial ownership of the shares held by F&amp;M except to the extent of her pecuniary interests therein." /> 
+ <footnote id="F6" text="Shares held by the Angela L. Muhleisen Grantor Retained Annuity Trust dated August 29, 2003. The reporting person continues to report beneficial ownership of all the shares held by the trust, but disclaims beneficial ownership of the shares held by the trust except to the extent of her pecuniary interests therein." /> 
+ <footnote id="F7" text="Shares held by the Dan D. Muhleisen Grantor Retained Annuity Trust dated August 29, 2003. The reporting person continues to report beneficial ownership of all the shares held by the trust, but disclaims beneficial ownership of the shares held by the trust except to the extent of her pecuniary interests therein." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="/s/ Angie R. Miller, Attorney-in-Fact for Angela L. Muhleisen">
+</ownerSignature>
+</ownershipDocument></Source>

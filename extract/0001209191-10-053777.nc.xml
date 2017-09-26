@@ -1,0 +1,48 @@
+<Source file="./0001209191-10-053777.nc">
+<SUBMISSION ACCESSION-NUMBER="0001209191-10-053777" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101028" PUBLIC-DOCUMENT-COUNT="2" TYPE="3"><ISSUER><COMPANY-DATA ASSIGNED-SIC="6021" CIK="0001406251" CONFORMED-NAME="WESTERN LIBERTY BANCORP" FISCAL-YEAR-END="1231" IRS-NUMBER="260469120" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="NEW YORK" PHONE="212.445.7800" STATE="NY" STREET1="1370 AVENUE OF THE AMERICAS, 28TH FLOOR" ZIP="10019" /><MAIL-ADDRESS CITY="NEW YORK" STATE="NY" STREET1="1370 AVENUE OF THE AMERICAS, 28TH FLOOR" ZIP="10019" /><FORMER-COMPANY DATE-CHANGED="20070710" FORMER-CONFORMED-NAME="Global Consumer Acquisition Corp." /></ISSUER><REPORTING-OWNER><OWNER-DATA CIK="0001249298" CONFORMED-NAME="ROSENBAUM GEORGE A JR" /><FILING-VALUES ACT="34" FILE-NUMBER="001-33803" FILM-NUMBER="101173885" FORM-TYPE="3" /><MAIL-ADDRESS CITY="ROSWELL" STATE="NM" STREET1="P.O. BOX 340" ZIP="88202" /></REPORTING-OWNER></SUBMISSION><ownershipDocument documentType="3" noSecuritiesOwned="0" periodOfReport="2010-10-28" schemaVersion="X0203">
+<issuer> issuerCik="0001406251" 
+ issuerName="WESTERN LIBERTY BANCORP" 
+ issuerTradingSymbol="WLBC" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001249298" 
+ rptOwnerName="ROSENBAUM GEORGE A JR" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="LAS VEGAS" rptOwnerState="NV" rptOwnerStreet1="8363 W. SUNSET ROAD" rptOwnerStreet2="SUITE 350" rptOwnerZipCode="89113">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="1" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+ officerTitle="Chief Financial Officer" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable /> 
+<derivativeTable>
+<derivativeHolding><securityTitle> value="Restricted Stock" 
+</securityTitle>
+<conversionOrExercisePrice>
+<footnoteId id="F1" /> 
+</conversionOrExercisePrice>
+<exerciseDate><footnoteId id="F1" /> 
+</exerciseDate>
+<expirationDate><footnoteId id="F1" /> 
+</expirationDate>
+<underlyingSecurity><underlyingSecurityTitle> value="Common Stock, par value $0.0001 per share" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="38819">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="Represents a restricted stock grant that vests in equal installments on each of the first 5 anniversaries of the grant date and that will otherwise automatically vest in full upon a change in control." /> 
+</footnotes>
+ remarks="Exhibit ---Exhibit 24 -- Power of Attorney" 
+<ownerSignature signatureDate="2010-11-08" signatureName="/s/ George A. Rosenbaum, Jr.">
+</ownerSignature>
+</ownershipDocument></Source>

@@ -1,0 +1,230 @@
+<Source file="./0000938775-10-000050.nc">
+<SUBMISSION ACCESSION-NUMBER="0000938775-10-000050" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="2" TYPE="4"><ISSUER><COMPANY-DATA ASSIGNED-SIC="8200" CIK="0000922475" CONFORMED-NAME="ITT EDUCATIONAL SERVICES INC" FISCAL-YEAR-END="1231" IRS-NUMBER="362061311" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="CARMEL" PHONE="317 706 9200" STATE="IN" STREET1="13000 NORTH MERIDIAN" ZIP="46032-1404" /><MAIL-ADDRESS CITY="CARMEL" STATE="IN" STREET1="13000 NORTH MERIDIAN STREET" STREET2="-" ZIP="46032-1404" /></ISSUER><REPORTING-OWNER><OWNER-DATA CIK="0000847243" CONFORMED-NAME="RICHARD C BLUM &amp; ASSOCIATES INC" FISCAL-YEAR-END="1231" STATE-OF-INCORPORATION="CA" /><FILING-VALUES ACT="34" FILE-NUMBER="001-13144" FILM-NUMBER="101174028" FORM-TYPE="4" /><BUSINESS-ADDRESS CITY="SAN FRANCISCO" PHONE="415-434-1111" STATE="CA" STREET1="909 MONTGOMERY STREET" STREET2="SUITE 400" ZIP="94133" /><MAIL-ADDRESS CITY="SAN FRANCISCO" STATE="CA" STREET1="909 MONTGOMERY STREET" STREET2="SUITE 400" ZIP="94133" /><FORMER-NAME DATE-CHANGED="19931213" FORMER-CONFORMED-NAME="BLUM RICHARD C &amp; ASSOCIATES INC" /></REPORTING-OWNER><REPORTING-OWNER><OWNER-DATA CIK="0000938775" CONFORMED-NAME="BLUM CAPITAL PARTNERS LP" FISCAL-YEAR-END="1231" STATE-OF-INCORPORATION="CA" /><FILING-VALUES ACT="34" FILE-NUMBER="001-13144" FILM-NUMBER="101174029" FORM-TYPE="4" /><BUSINESS-ADDRESS CITY="SAN FRANCISCO" PHONE="4154341111" STATE="CA" STREET1="909 MONTGOMERY STREET # 400" ZIP="94133" /><MAIL-ADDRESS CITY="SAN FRANCISCO" STATE="CA" STREET1="909 MONTGOMERY STREET" STREET2="SUITE 400" ZIP="94133" /><FORMER-NAME DATE-CHANGED="19970219" FORMER-CONFORMED-NAME="BLUM RICHARD C &amp; ASSOCIATES L P" /></REPORTING-OWNER><REPORTING-OWNER><OWNER-DATA CIK="0001327007" CONFORMED-NAME="Blum Strategic GP III, L.L.C." FISCAL-YEAR-END="1231" STATE-OF-INCORPORATION="DE" /><FILING-VALUES ACT="34" FILE-NUMBER="001-13144" FILM-NUMBER="101174027" FORM-TYPE="4" /><BUSINESS-ADDRESS CITY="SAN FRANCISCO" PHONE="415.434.1111" STATE="CA" STREET1="909 MONTGOMERY STREET, SUITE 400" ZIP="94133" /><MAIL-ADDRESS CITY="SAN FRANCISCO" STATE="CA" STREET1="909 MONTGOMERY STREET, SUITE 400" ZIP="94133" /></REPORTING-OWNER><REPORTING-OWNER><OWNER-DATA CIK="0001339873" CONFORMED-NAME="Saddlepoint Partners GP, L.L.C." FISCAL-YEAR-END="1231" STATE-OF-INCORPORATION="DE" /><FILING-VALUES ACT="34" FILE-NUMBER="001-13144" FILM-NUMBER="101174025" FORM-TYPE="4" /><BUSINESS-ADDRESS CITY="SAN FRANCISCO" PHONE="415.434.1111" STATE="CA" STREET1="909 MONTGOMERY STREET" STREET2="SUITE 400" ZIP="94133" /><MAIL-ADDRESS CITY="SAN FRANCISCO" STATE="CA" STREET1="909 MONTGOMERY STREET" STREET2="SUITE 400" ZIP="94133" /></REPORTING-OWNER><REPORTING-OWNER><OWNER-DATA CIK="0001420349" CONFORMED-NAME="Blum Strategic GP IV, L.L.C." /><FILING-VALUES ACT="34" FILE-NUMBER="001-13144" FILM-NUMBER="101174026" FORM-TYPE="4" /><BUSINESS-ADDRESS CITY="SAN FRANCISCO" PHONE="415 434 1111" STATE="CA" STREET1="909 MONTOGOMERY STREET" STREET2="SUITE 400" ZIP="94133" /><MAIL-ADDRESS CITY="SAN FRANCISCO" STATE="CA" STREET1="909 MONTOGOMERY STREET" STREET2="SUITE 400" ZIP="94133" /></REPORTING-OWNER></SUBMISSION><ownershipDocument documentType="4" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0000922475" 
+ issuerName="ITT EDUCATIONAL SERVICES INC" 
+ issuerTradingSymbol="ESI" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0000938775" 
+ rptOwnerName="BLUM CAPITAL PARTNERS LP" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="SAN FRANCISCO" rptOwnerState="CA" rptOwnerStreet1="909 MONTGOMERY STREET" rptOwnerStreet2="SUITE 400" rptOwnerZipCode="94133">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="0" 
+ isTenPercentOwner="1" 
+ isOther="0" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<reportingOwner><reportingOwnerId> rptOwnerCik="0000847243" 
+ rptOwnerName="RICHARD C BLUM &amp; ASSOCIATES INC" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="SAN FRANCISCO" rptOwnerState="CA" rptOwnerStreet1="909 MONTGOMERY STREET" rptOwnerStreet2="SUITE 400" rptOwnerZipCode="94133">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="0" 
+ isTenPercentOwner="1" 
+ isOther="0" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<reportingOwner><reportingOwnerId> rptOwnerCik="0001327007" 
+ rptOwnerName="Blum Strategic GP III, L.L.C." 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="SAN FRANCISCO" rptOwnerState="CA" rptOwnerStreet1="909 MONTGOMERY STREET" rptOwnerStreet2="SUITE 400" rptOwnerZipCode="94133">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="0" 
+ isTenPercentOwner="1" 
+ isOther="0" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<reportingOwner><reportingOwnerId> rptOwnerCik="0001420349" 
+ rptOwnerName="Blum Strategic GP IV, L.L.C." 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="SAN FRANCISCO" rptOwnerState="CA" rptOwnerStreet1="909 MONTGOMERY STREET" rptOwnerStreet2="SUITE 400" rptOwnerZipCode="94133">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="0" 
+ isTenPercentOwner="1" 
+ isOther="0" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<reportingOwner><reportingOwnerId> rptOwnerCik="0001339873" 
+ rptOwnerName="Saddlepoint Partners GP, L.L.C." 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="SAN FRANCISCO" rptOwnerState="CA" rptOwnerStreet1="909 MONTGOMERY STREET" rptOwnerStreet2="SUITE 400" rptOwnerZipCode="94133">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="0" 
+ isTenPercentOwner="1" 
+ isOther="0" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeHolding><securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="947" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+<footnoteId id="F1" /> 
+<footnoteId id="F7" />
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding><securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="42794" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+<footnoteId id="F2" /> 
+<footnoteId id="F7" />
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding><securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="124800" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+<footnoteId id="F3" /> 
+<footnoteId id="F7" />
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding><securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="469700" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+<footnoteId id="F4" /> 
+<footnoteId id="F7" />
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding><securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="130400" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+<footnoteId id="F5" /> 
+<footnoteId id="F7" />
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding><securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="76000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+<footnoteId id="F6" /> 
+<footnoteId id="F7" />
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding><securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="1662125" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+<footnoteId id="F9" /> 
+</directOrIndirectOwnership>
+<natureOfOwnership><value /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding><securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="20651" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+<footnoteId id="F10" /> 
+</directOrIndirectOwnership>
+<natureOfOwnership><value /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="P" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="24200" 
+</transactionShares>
+<transactionPricePerShare value="58.06">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="1573488" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+<footnoteId id="F8" /> 
+</directOrIndirectOwnership>
+<natureOfOwnership><value /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<footnotes>
+<footnote id="F1" text="These shares are owned directly by Blum Capital Partners, L.P. (Blum LP). They may be deemed to be owned indirectly by RCBA Inc., as described in Note (7). RCBA Inc. disclaims beneficial ownership of these shares, except to the extent of any pecuniary interest therein." /> 
+ <footnote id="F2" text="These shares are owned directly by BK Capital Partners IV, L.P." /> 
+ <footnote id="F3" text="These shares are owned directly by Stinson Capital Partners, L.P." /> 
+ <footnote id="F4" text="These shares are owned directly by Stinson Capital Partners C, L.P." /> 
+ <footnote id="F5" text="These shares are owned directly by Stinson Capital Partners L, L.P." /> 
+ <footnote id="F6" text="These shares are owned directly by Stinson Capital Partners (QP), L.P." /> 
+ <footnote id="F7" text="These shares may be deemed to be owned indirectly by the following parties: (i) Blum Capital Partners, L.P. (Blum LP), the general partner of the limited partnerships described in Notes (2), (3), (4), (5) and (6); and (ii) Richard C. Blum &amp; Associates, Inc. (RCBA Inc.), the general partner of Blum LP.  Blum LP and RCBA Inc. disclaim beneficial ownership of these shares, except to the extent of any pecuniary interest therein." /> 
+ <footnote id="F8" text="These shares are owned directly by Blum Strategic Partners III, L.P. (Strategic III).  The shares also may be deemed to be owned indirectly by (i) Blum Strategic GP III, L.P. (Blum GP III LP), the general partner of Strategic III, and (ii) Blum Strategic GP III, L.L.C. (Blum GP III), the general partner of Blum GP III LP.  Both Blum GP III LP and Blum GP III disclaim beneficial ownership of these shares, except to the extent of any pecuniary interest therein." /> 
+ <footnote id="F9" text="These shares are owned directly by Blum Strategic Partners IV, L.P. (Strategic IV).  The shares also may be deemed to be owned indirectly by (i) Blum Strategic GP IV, L.P. (Blum GP IV LP), the general partner of Strategic IV, and (ii) Blum Strategic GP IV, L.L.C. (Blum GP IV), the general partner of Blum GP IV LP.  Both Blum GP IV LP and Blum GP IV disclaim beneficial ownership of these shares, except to the extent of any pecuniary interest therein." /> 
+ <footnote id="F10" text="These shares are owned directly by Saddlepoint Equity, L.L.C. (Saddlepoint Equity).  The shares also may be deemed to be owned indirectly by (i) Saddlepoint Partners GP, L.L.C. (Saddlepoint GP), the managing member of Saddlepoint Equity; (ii) Blum LP, the managing member of Saddlepoint GP; and (iii) RCBA Inc., the general partner of Blum LP.  Saddlepoint GP, Blum LP and RCBA Inc. disclaim beneficial ownership of these shares, except to the extent of any pecuniary interest therein." /> 
+</footnotes>
+<remarks />
+<ownerSignature> signatureName="See Attached Signature Page" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

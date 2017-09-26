@@ -1,0 +1,94 @@
+<Source file="./0000791907-10-000125.nc">
+<SUBMISSION ACCESSION-NUMBER="0000791907-10-000125" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101108" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001408190" CONFORMED-NAME="Pietkiewicz Steve" /><FILING-VALUES ACT="34" FILE-NUMBER="000-14864" FILM-NUMBER="101173676" FORM-TYPE="4" /><MAIL-ADDRESS CITY="MILPITAS" STATE="CA" STREET1="1630 MCCARTHY BLVD." ZIP="95035" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="3674" CIK="0000791907" CONFORMED-NAME="LINEAR TECHNOLOGY CORP /CA/" FISCAL-YEAR-END="0703" IRS-NUMBER="942778785" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="MILPITAS" PHONE="4084321900" STATE="CA" STREET1="1630 MCCARTHY BLVD" ZIP="95035" /><MAIL-ADDRESS CITY="MILPITAS" STATE="CA" STREET1="1630 MCCARTHY BLVD" ZIP="95035" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-08" schemaVersion="X0303">
+<issuer> issuerCik="0000791907" 
+ issuerName="LINEAR TECHNOLOGY CORP /CA/" 
+ issuerTradingSymbol="LLTC" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001408190" 
+ rptOwnerName="Pietkiewicz Steve" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="MILPITAS" rptOwnerState="CA" rptOwnerStreet1="1630 MCCARTHY BLVD." rptOwnerStreet2="" rptOwnerZipCode="95035" />
+
+
+<reportingOwnerRelationship isDirector="0" isOfficer="1" isOther="0" isTenPercentOwner="0" officerTitle="VP POWER MANAGEMENT PRODUCTS">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="COMMON STOCK" 
+</securityTitle>
+<transactionDate value="2010-11-08">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="2827" 
+</transactionShares>
+<transactionPricePerShare value="33.06">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="68062" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="COMMON STOCK" 
+</securityTitle>
+<transactionDate value="2010-11-08">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="3000" 
+</transactionShares>
+<transactionPricePerShare value="33.08">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="65062" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="COMMON STOCK" 
+</securityTitle>
+<transactionDate value="2010-11-08">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="4145" 
+</transactionShares>
+<transactionPricePerShare value="33.08">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="0" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="BY TRUST">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<ownerSignature> signatureName="STEVE PIETKIEWICZ" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

@@ -1,0 +1,55 @@
+<Source file="./0001209191-10-053525.nc">
+<SUBMISSION ACCESSION-NUMBER="0001209191-10-053525" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001383274" CONFORMED-NAME="Christenson Carl R" /><FILING-VALUES ACT="34" FILE-NUMBER="001-33209" FILM-NUMBER="101170878" FORM-TYPE="4" /><MAIL-ADDRESS CITY="BRAINTREE" STATE="MA" STREET1="C/O ALTRA INDUSTRIAL MOTION INC." STREET2="300 GRANITE STREET" ZIP="02184" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="3569" CIK="0001374535" CONFORMED-NAME="Altra Holdings, Inc." FISCAL-YEAR-END="1231" IRS-NUMBER="611478870" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="BRAINTREE" PHONE="781-917-0600" STATE="MA" STREET1="300 GRANITE STREET" STREET2="SUITE 201" ZIP="02184" /><MAIL-ADDRESS CITY="BRAINTREE" STATE="MA" STREET1="300 GRANITE STREET" STREET2="SUITE 201" ZIP="02184" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0001374535" 
+ issuerName="Altra Holdings, Inc." 
+ issuerTradingSymbol="AIMC" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001383274" 
+ rptOwnerName="Christenson Carl R" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="BRAINTREE" rptOwnerState="MA" rptOwnerStreet1="300 GRANITE STREET" rptOwnerStreet2="SUITE 201" rptOwnerZipCode="02184">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="1" 
+ isOfficer="1" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+ officerTitle="Chief Executive Officer" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock, par value $0.01" 
+<footnoteId id="F1" /> 
+</securityTitle>
+<transactionDate> value="2010-11-04" 
+</transactionDate>
+<deemedExecutionDate value="2010-11-04">
+</deemedExecutionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+<footnoteId id="F1" /> 
+</transactionCoding>
+<transactionTimeliness><value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="1500" 
+</transactionShares>
+<transactionPricePerShare value="16.525">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="546893" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<footnotes> <footnote id="F1" text="Shares sold pursuant to 10b5-1 plan" /> 
+</footnotes>
+<remarks />
+<ownerSignature> signatureName="Todd Patriacca, Attorney-in-fact" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

@@ -1,0 +1,46 @@
+<Source file="./0000313143-10-000100.nc">
+<SUBMISSION ACCESSION-NUMBER="0000313143-10-000100" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><ISSUER><COMPANY-DATA ASSIGNED-SIC="3841" CIK="0000313143" CONFORMED-NAME="HAEMONETICS CORP" FISCAL-YEAR-END="0331" IRS-NUMBER="042882273" STATE-OF-INCORPORATION="MA" /><BUSINESS-ADDRESS CITY="BRAINTREE" PHONE="7818487100" STATE="MA" STREET1="400 WOOD RD" ZIP="02184" /><MAIL-ADDRESS CITY="BRAINTREE" STATE="MA" STREET1="400 WOOD ROAD" ZIP="02184" /></ISSUER><REPORTING-OWNER><OWNER-DATA CIK="0001249549" CONFORMED-NAME="RUXIN MICHAEL I" /><FILING-VALUES ACT="34" FILE-NUMBER="001-14041" FILM-NUMBER="101173022" FORM-TYPE="4" /><MAIL-ADDRESS CITY="BRAINTREE" STATE="MA" STREET1="HAEMONETICS CORPORATION INCORPORATED" STREET2="400 WOOD ROAD" ZIP="02184" /></REPORTING-OWNER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0000313143" 
+ issuerName="HAEMONETICS CORP" 
+ issuerTradingSymbol="HAE" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001249549" 
+ rptOwnerName="RUXIN MICHAEL I" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="BRAINTREE" rptOwnerState="MA" rptOwnerStreet1="400 WOOD ROAD" rptOwnerStreet2="" rptOwnerZipCode="02184" />
+
+
+<reportingOwnerRelationship isDirector="0" isOfficer="1" isOther="1" isTenPercentOwner="0" officerTitle="VP Global Software Strategies" otherText="VP Global Software Strategies">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="P" transactionFormType="4">
+<footnoteId id="F1" /> 
+</transactionCoding>
+<transactionAmounts><transactionShares> value="215.0" 
+</transactionShares>
+<transactionPricePerShare value="46.3356">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="215.0" 
+<footnoteId id="F2" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<footnotes> <footnote id="F1" text="Acquisition of shares of Common Stock pursuant to the Employee Stock Purchase Plan.  Participant elected to purchase shares at least six months in advance of the effective date of the transaction." /> 
+ <footnote id="F2" text="Total includes Restricted Stock Awards and/or Restricted Stock Units that are subject to restrictions until vesting requirements are met.  Grant was made under 2005 Long Term Incentive Compensation Plan." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-05" signatureName="By: Susan M. Hanlon For: Michael Ruxin M.D.">
+</ownerSignature>
+</ownershipDocument></Source>

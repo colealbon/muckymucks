@@ -1,0 +1,95 @@
+<Source file="./0001225208-10-024412.nc">
+<SUBMISSION ACCESSION-NUMBER="0001225208-10-024412" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101105" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001208341" CONFORMED-NAME="SHAW RICHARD C" /><FILING-VALUES ACT="34" FILE-NUMBER="001-02299" FILM-NUMBER="101170853" FORM-TYPE="4" /><MAIL-ADDRESS CITY="CLEVELAND" STATE="OH" STREET1="ONE APPLIED PLZ" ZIP="44115-5056" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="5080" CIK="0000109563" CONFORMED-NAME="APPLIED INDUSTRIAL TECHNOLOGIES INC" FISCAL-YEAR-END="0630" IRS-NUMBER="340117420" STATE-OF-INCORPORATION="OH" /><BUSINESS-ADDRESS CITY="CLEVELAND" PHONE="216-426-4753" STATE="OH" STREET1="ONE APPLIED PLAZA" ZIP="44115-5056" /><MAIL-ADDRESS CITY="CLEVELAND" STATE="OH" STREET1="ONE APPLIED PLAZA" ZIP="44115-5056" /><FORMER-COMPANY DATE-CHANGED="19920703" FORMER-CONFORMED-NAME="BEARINGS INC /OH/" /><FORMER-COMPANY DATE-CHANGED="19600201" FORMER-CONFORMED-NAME="BROWN JIM STORES INC" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" periodOfReport="2010-11-05" schemaVersion="X0303">
+<issuer> issuerCik="0000109563" 
+ issuerName="APPLIED INDUSTRIAL TECHNOLOGIES INC" 
+ issuerTradingSymbol="AIT" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001208341" 
+ rptOwnerName="SHAW RICHARD C" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="CLEVELAND" rptOwnerState="OH" rptOwnerStreet1="ONE APPLIED PLAZA" rptOwnerStreet2="" rptOwnerZipCode="44115" />
+
+
+<reportingOwnerRelationship isOfficer="1" officerTitle="VP-Communications &amp; Learning">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<deemedExecutionDate value="2010-11-05">
+</deemedExecutionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="200.0000" 
+</transactionShares>
+<transactionPricePerShare value="31.6200">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="35057.0000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<deemedExecutionDate value="2010-11-05">
+</deemedExecutionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="700.0000" 
+</transactionShares>
+<transactionPricePerShare value="31.6000">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="34357.0000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeHolding>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="13306.6700" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="Deferred Compensation Plan">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="1153.6400" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="Retirement Savings Plan">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+</nonDerivativeTable>
+<derivativeTable /> 
+<ownerSignature> signatureName="Dianne Misenko/POA for Richard C. Shaw" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

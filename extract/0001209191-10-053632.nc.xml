@@ -1,0 +1,72 @@
+<Source file="./0001209191-10-053632.nc">
+<SUBMISSION ACCESSION-NUMBER="0001209191-10-053632" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001496772" CONFORMED-NAME="Smith Mark A." /><FILING-VALUES ACT="34" FILE-NUMBER="001-34827" FILM-NUMBER="101171800" FORM-TYPE="4" /><MAIL-ADDRESS CITY="GREENWOOD VILLAGE" STATE="CO" STREET1="5619 DENVER TECH CENTER PARKWAY" STREET2="SUITE 1000" ZIP="80111" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="1000" CIK="0001489137" CONFORMED-NAME="Molycorp, Inc." FISCAL-YEAR-END="1231" IRS-NUMBER="272301797" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="GREENWOOD VILLAGE" PHONE="(303) 843-8040" STATE="CO" STREET1="5619 DENVER TECH CENTER PARKWAY" STREET2="SUITE 1000" ZIP="80111" /><MAIL-ADDRESS CITY="GREENWOOD VILLAGE" STATE="CO" STREET1="5619 DENVER TECH CENTER PARKWAY" STREET2="SUITE 1000" ZIP="80111" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0001489137" 
+ issuerName="Molycorp, Inc." 
+ issuerTradingSymbol="MCP" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001496772" 
+ rptOwnerName="Smith Mark A." 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="GREENWOOD VILLAGE" rptOwnerState="CO" rptOwnerStreet1="5619 DENVER TECH CENTER PARKWAY" rptOwnerStreet2="SUITE 1000" rptOwnerZipCode="80111">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="1" 
+ isOfficer="1" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+ officerTitle="President and CEO" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="A" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="6000" 
+<footnoteId id="F1" /> 
+</transactionShares>
+<transactionPricePerShare> value="0.00" 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="883248" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeHolding>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="301734" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="See footnote">
+<footnoteId id="F2" /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+</nonDerivativeTable>
+<footnotes>
+<footnote id="F1" text="The shares were granted pursuant to the issuer&apos;s 2010 Equity and Performance Incentive Plan.  The shares are restricted stock that vest on the third anniversary of the grant date." /> 
+ <footnote id="F2" text="The shares are held by KMSMITH LLC.  Kimberly Smith, the spouse of the reporting person, has sole voting and investment power with respect to the shares held by KMSMITH LLC.  The reporting person disclaims beneficial ownership of the shares, except to the extent of his pecuniary interest therein." /> 
+</footnotes>
+<remarks />
+<ownerSignature> signatureName="/s/ Andrea G. Leider, as Attorney-in-Fact for Mark A. Smith" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

@@ -1,0 +1,123 @@
+<Source file="./0000908834-10-000344.nc">
+<SUBMISSION ACCESSION-NUMBER="0000908834-10-000344" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0000897715" CONFORMED-NAME="DEZWIREK PHILLIP" /><FILING-VALUES ACT="34" FILE-NUMBER="000-29429" FILM-NUMBER="101172794" FORM-TYPE="4" /><MAIL-ADDRESS CITY="TORONTO" STATE="A6" STREET1="2300 YONGE STREET, P.O. BOX 2408" STREET2="SUITE 1710" ZIP="M4P 1E4" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="3674" CIK="0001081078" CONFORMED-NAME="API Technologies Corp." FISCAL-YEAR-END="0531" IRS-NUMBER="980200798" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="RONKONKOMA" PHONE="631-981-2400" STATE="NY" STREET1="2200 SMITHTOWN AVENUE" ZIP="11779" /><MAIL-ADDRESS CITY="RONKONKOMA" STATE="NY" STREET1="2200 SMITHTOWN AVENUE" ZIP="11779" /><FORMER-COMPANY DATE-CHANGED="20061106" FORMER-CONFORMED-NAME="API Nanotronics Corp." /><FORMER-COMPANY DATE-CHANGED="20000207" FORMER-CONFORMED-NAME="RUBINCON VENTURES INC" /><FORMER-COMPANY DATE-CHANGED="19990325" FORMER-CONFORMED-NAME="RUBINCON RESOURCES INC" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0001081078" 
+ issuerName="API Technologies Corp." 
+ issuerTradingSymbol="ATNY" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0000897715" 
+ rptOwnerName="DEZWIREK PHILLIP" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="TORONTO" rptOwnerState="A6" rptOwnerStateDescription="ONTARIO, CANADA" rptOwnerStreet1="2300 YONGE STREET, SUITE 1710" rptOwnerStreet2="PO BOX 2408" rptOwnerZipCode="M4P 1E4">
+</reportingOwnerAddress>
+<reportingOwnerRelationship isDirector="1" isOfficer="1" isOther="0" isTenPercentOwner="1" officerTitle="Chairman and CEO">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="P" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="5000" 
+</transactionShares>
+<transactionPricePerShare value=".95">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="654067" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="P" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="5000" 
+</transactionShares>
+<transactionPricePerShare value=".96">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="659067" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeHolding><securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="50000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="Retirement account of which spouse is beneficiary">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="783334" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="By Icarus Investment Corp. (Delaware)">
+<footnoteId id="F1" /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding><securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="2398087" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="By Icarus Investment Corp. (Ontario)">
+<footnoteId id="F2" /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding><securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="66667" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="By wife">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+</nonDerivativeTable>
+<footnotes> <footnote id="F1" text="Owned 50% by filer." /> 
+ <footnote id="F2" text="Filer is a director and 1% owner." /> 
+</footnotes>
+<remarks />
+<ownerSignature> signatureName="/s/ By Kathryn Erickson, as Attorney-in-Fact" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

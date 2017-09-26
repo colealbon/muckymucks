@@ -1,0 +1,120 @@
+<Source file="./0001209191-10-053534.nc">
+<SUBMISSION ACCESSION-NUMBER="0001209191-10-053534" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101106" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001249676" CONFORMED-NAME="YANOVER ROBERT" /><FILING-VALUES ACT="34" FILE-NUMBER="000-24347" FILM-NUMBER="101170911" FORM-TYPE="4" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="7372" CIK="0001016125" CONFORMED-NAME="ULTIMATE SOFTWARE GROUP INC" FISCAL-YEAR-END="1231" IRS-NUMBER="650694077" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="WESTON" PHONE="9542661000" STATE="FL" STREET1="ULTIMATE SOFTWARE GROUP INC" STREET2="2000 ULTIMATE WAY" ZIP="33326" /><MAIL-ADDRESS CITY="WESTON" STATE="FL" STREET1="ULTIMATE SOFTWARE GROUP INC" STREET2="2000 ULTIMATE WAY" ZIP="33326" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-06" schemaVersion="X0303">
+<issuer> issuerCik="0001016125" 
+ issuerName="ULTIMATE SOFTWARE GROUP INC" 
+ issuerTradingSymbol="ULTI" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001249676" 
+ rptOwnerName="YANOVER ROBERT" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="WESTON" rptOwnerState="FL" rptOwnerStreet1="2000 ULTIMATE WAY" rptOwnerStreet2="" rptOwnerZipCode="33326" />
+
+
+<reportingOwnerRelationship isDirector="1" isOfficer="0" isOther="0" isTenPercentOwner="0">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Restricted Stock Award" 
+</securityTitle>
+<transactionDate value="2010-11-06">
+</transactionDate>
+<deemedExecutionDate value="2010-11-06">
+</deemedExecutionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="A" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="1515" 
+</transactionShares>
+<transactionPricePerShare value="0.00">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="15368" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeHolding>
+<securityTitle> value="Common Stock, $0.01 par value" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="4103" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="By GRAT">
+<footnoteId id="F1" /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding><securityTitle> value="Common Stock, $0.01 par value" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="44743" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="Held by Yanover Family Trust">
+<footnoteId id="F2" /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding><securityTitle> value="Common Stock, $0.01 par value" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="6700" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="By Spouse">
+<footnoteId id="F3" /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding><securityTitle> value="Common Stock, $0.01 par value" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="66139" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="By GRAT">
+<footnoteId id="F4" /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding><securityTitle> value="Common Stock, $0.01 par value" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="88000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="By GRAT">
+<footnoteId id="F5" /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+</nonDerivativeTable>
+<footnotes>
+<footnote id="F1" text="These shares were previously reported as directly beneficially owned but were contributed to a Grantor Retained Annuity Trust on May 30, 2008." /> 
+ <footnote id="F2" text="Shares held by Yanover Family Limited Partnership (YFLP).  The reporting person is an officer of the general partner of YFLP.  The reporting person disclaims beneficial ownership of these securities, and this report shall not be deemed an admission that the reporting person is the beneficial owner of such securities for the purposes of Section 16 or any other purpose." /> 
+ <footnote id="F3" text="These shares are held by Judith Yanover, Mr. Yanover&apos;s spouse." /> 
+ <footnote id="F4" text="These shares are held in an indirect beneficially owned Grantor Retained Annuity Trust dated January 2009." /> 
+ <footnote id="F5" text="These shares were previously reported as directly beneficially owned but were contributed to a Grantor Retained Annuity Trust on June 30, 2010." /> 
+</footnotes>
+<remarks />
+<ownerSignature> signatureName="Felicia Alvaro by Power of Attorney for Robert A. Yanover" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

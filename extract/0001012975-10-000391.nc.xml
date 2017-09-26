@@ -1,0 +1,45 @@
+<Source file="./0001012975-10-000391.nc">
+<SUBMISSION ACCESSION-NUMBER="0001012975-10-000391" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20100930" PUBLIC-DOCUMENT-COUNT="1" TYPE="5"><ISSUER><COMPANY-DATA ASSIGNED-SIC="2870" CIK="0000825542" CONFORMED-NAME="SCOTTS MIRACLE-GRO CO" FISCAL-YEAR-END="0930" IRS-NUMBER="311414921" STATE-OF-INCORPORATION="OH" /><BUSINESS-ADDRESS CITY="MARYSVILLE" PHONE="9376440011" STATE="OH" STREET1="14111 SCOTTSLAWN ROAD" ZIP="43041" /><MAIL-ADDRESS CITY="MARYSVILLE" STATE="OH" STREET1="14111 SCOTTSLAWN ROAD" STREET2="N/A" ZIP="43041" /><FORMER-COMPANY DATE-CHANGED="19920703" FORMER-CONFORMED-NAME="SCOTTS COMPANY" /><FORMER-COMPANY DATE-CHANGED="19900104" FORMER-CONFORMED-NAME="CDS HOLDING CORP" /></ISSUER><REPORTING-OWNER><OWNER-DATA CIK="0000945527" CONFORMED-NAME="Hagedorn Partnership, L.P." FISCAL-YEAR-END="1231" STATE-OF-INCORPORATION="DE" /><FILING-VALUES ACT="34" FILE-NUMBER="001-11593" FILM-NUMBER="101171178" FORM-TYPE="5" /><BUSINESS-ADDRESS CITY="PORT WASHINGTON" PHONE="5168836550X151" STATE="NY" STREET1="SCOTTS MIRACLE-GRO PRODUCTS INC" STREET2="800 PORT WASHINGTON BLVD" ZIP="11050" /><MAIL-ADDRESS CITY="PORT WASHINGTON" STATE="NY" STREET1="SCOTTS MIRACLE-GRO PRODUCTS INC" STREET2="800 PORT WASHINGTON BLVD" ZIP="11050" /><FORMER-NAME DATE-CHANGED="19950522" FORMER-CONFORMED-NAME="HAGEDORN PARTNERSHIPS L P" /></REPORTING-OWNER></SUBMISSION><ownershipDocument documentType="5" form3HoldingsReported="0" form4TransactionsReported="0" periodOfReport="2010-09-30" schemaVersion="X0303">
+<issuer> issuerCik="0000825542" 
+ issuerName="SCOTTS MIRACLE-GRO CO" 
+ issuerTradingSymbol="SMG" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0000945527" 
+ rptOwnerName="Hagedorn Partnership, L.P." 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="PORT WASHINGTON" rptOwnerState="NY" rptOwnerStreet1="800 PORT WASHINGTON BOULEVARD" rptOwnerStreet2="" rptOwnerZipCode="11050" />
+
+
+<reportingOwnerRelationship isDirector="0" isOfficer="0" isOther="0" isTenPercentOwner="1">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Shares" 
+</securityTitle>
+<transactionDate value="2010-05-20">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="G" transactionFormType="5">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="32142" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="19893216" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<remarks /> 
+<ownerSignature signatureDate="2010-11-08" signatureName="/s/ Rob McMahon, Attorney-in-Fact">
+</ownerSignature>
+</ownershipDocument></Source>

@@ -1,0 +1,62 @@
+<Source file="./0001181431-10-054020.nc">
+<SUBMISSION ACCESSION-NUMBER="0001181431-10-054020" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101101" PUBLIC-DOCUMENT-COUNT="1" TYPE="3"><ISSUER><COMPANY-DATA ASSIGNED-SIC="6211" CIK="0001060749" CONFORMED-NAME="KNIGHT CAPITAL GROUP, INC." FISCAL-YEAR-END="1231" IRS-NUMBER="223689303" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS PHONE="2012229400" /><MAIL-ADDRESS CITY="JERSEY CITY" STATE="NJ" STREET1="545 WASHINGTON BLVD." ZIP="07310" /><FORMER-COMPANY DATE-CHANGED="20000725" FORMER-CONFORMED-NAME="KNIGHT TRADING GROUP INC" /><FORMER-COMPANY DATE-CHANGED="19980429" FORMER-CONFORMED-NAME="KNIGHT TRIMARK GROUP INC" /></ISSUER><REPORTING-OWNER><OWNER-DATA CIK="0001338197" CONFORMED-NAME="Smyth James P" /><FILING-VALUES ACT="34" FILE-NUMBER="001-14223" FILM-NUMBER="101172434" FORM-TYPE="3" /><MAIL-ADDRESS CITY="JERSEY CITY" STATE="NJ" STREET1="545 WASHINGTON BLVD" ZIP="07310" /></REPORTING-OWNER></SUBMISSION><ownershipDocument documentType="3" noSecuritiesOwned="0" periodOfReport="2010-11-01" schemaVersion="X0203">
+<issuer> issuerCik="0001060749" 
+ issuerName="KNIGHT CAPITAL GROUP, INC." 
+ issuerTradingSymbol="KCG" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001338197" 
+ rptOwnerName="Smyth James P" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="JERSEY CITY" rptOwnerState="NJ" rptOwnerStreet1="KNIGHT CAPITAL GROUP, INC." rptOwnerStreet2="545 WASHINGTON BOULEVARD" rptOwnerZipCode="07310">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="1" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+ officerTitle="Executive Vice President" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeHolding><securityTitle> value="Class A Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="62197" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding>
+<securityTitle> value="Restricted Class A Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="31847" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+<footnoteId id="F1" /> 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding><securityTitle> value="Restricted Stock Units" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="176795" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+<footnoteId id="F2" /> 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+</nonDerivativeTable>
+<footnotes>
+<footnote id="F1" text="Restrictions lapse on 01/31/2011." /> 
+ <footnote id="F2" text="Restrictions lapse pursuant to the following schedule: 70,406 on 01/31/2011; 70,406 on 01/31/2012; and 35,983 on 01/31/2013." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="/s/ James P. Smyth">
+</ownerSignature>
+</ownershipDocument></Source>

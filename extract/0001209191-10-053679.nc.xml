@@ -1,0 +1,121 @@
+<Source file="./0001209191-10-053679.nc">
+<SUBMISSION ACCESSION-NUMBER="0001209191-10-053679" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001404882" CONFORMED-NAME="Saxena Jitendra S" /><FILING-VALUES ACT="34" FILE-NUMBER="001-33445" FILM-NUMBER="101172431" FORM-TYPE="4" /><MAIL-ADDRESS CITY="FRAMINGHAM" STATE="MA" STREET1="C/O NETEZZA CORPORATION" STREET2="200 CROSSING BOULEVARD SUITE 500" ZIP="01702" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="3571" CIK="0001132484" CONFORMED-NAME="NETEZZA CORP" FISCAL-YEAR-END="0131" IRS-NUMBER="043527320" /><BUSINESS-ADDRESS CITY="MARLBOROUGH" PHONE="(508) 382-8200" STATE="MA" STREET1="26 FOREST STREET" ZIP="01752" /><MAIL-ADDRESS CITY="MARLBOROUGH" STATE="MA" STREET1="26 FOREST STREET" ZIP="01752" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0001132484" 
+ issuerName="NETEZZA CORP" 
+ issuerTradingSymbol="NZ" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001404882" 
+ rptOwnerName="Saxena Jitendra S" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="MARLBOROUGH" rptOwnerState="MA" rptOwnerStreet1="C/O NETEZZA CORPORATION" rptOwnerStreet2="26 FOREST STREET" rptOwnerZipCode="01752">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="1" 
+ isOfficer="0" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="M" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="42000" 
+</transactionShares>
+<transactionPricePerShare value="2.50">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="1265242" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="S" 
+ equitySwapInvolved="0" 
+<footnoteId id="F1" /> 
+</transactionCoding>
+<transactionTimeliness><value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="42000" 
+</transactionShares>
+<transactionPricePerShare value="26.98">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="1223242" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<derivativeTable><derivativeTransaction><securityTitle> value="Employee Stock Option (right to buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="2.50">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="M" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="42000" 
+</transactionShares>
+<transactionPricePerShare value="0.00">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate><footnoteId id="F2" /> 
+</exerciseDate>
+<expirationDate> value="2016-02-20" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="42000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="232000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="The sales reported in this Form 4 were effected pursuant to a Rule 10b5-1 trading plan adopted by the reporting person on January 15, 2010." /> 
+ <footnote id="F2" text="Represents partial exercise of an option to purchase an aggregate of 400,000 shares granted by the issuer pursuant to its 2000 Stock Incentive Plan on February 20, 2006. This option is currently vested as to 380,000 shares, and will vest as to 20,000 additional shares on February 1, 2011." /> 
+</footnotes>
+<remarks />
+<ownerSignature> signatureName="/s/ Corey C. DuFresne (as attorney-in-fact for Jitendra S. Saxena)" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

@@ -1,0 +1,67 @@
+<Source file="./0001127602-10-027240.nc">
+<SUBMISSION ACCESSION-NUMBER="0001127602-10-027240" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101105" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA ASSIGNED-SIC="2400" CIK="0001028902" CONFORMED-NAME="NUTTER WALLACE LEE" FISCAL-YEAR-END="1231" STATE-OF-INCORPORATION="NC" /><FILING-VALUES ACT="34" FILE-NUMBER="001-16189" FILM-NUMBER="101172015" FORM-TYPE="4" /><MAIL-ADDRESS CITY="JACKSONVILLE" STATE="FL" STREET1="50 NORTH LAURA STREET" STREET2="19TH FLOOR" ZIP="32202" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="4931" CIK="0001111711" CONFORMED-NAME="NISOURCE INC/DE" FISCAL-YEAR-END="1231" IRS-NUMBER="352108964" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="MERRILLVILLE" PHONE="2196475200" STATE="IN" STREET1="801 EAST 86TH AVE" ZIP="46410-6272" /><MAIL-ADDRESS CITY="MERRILLVILLE" STATE="IN" STREET1="801 EAST 86TH AVE" ZIP="46410-6272" /><FORMER-COMPANY DATE-CHANGED="20000412" FORMER-CONFORMED-NAME="NEW NISOURCE INC" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" periodOfReport="2010-11-05" schemaVersion="X0303">
+<issuer> issuerCik="0001111711" 
+ issuerName="NISOURCE INC/DE" 
+ issuerTradingSymbol="NI" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001028902" 
+ rptOwnerName="NUTTER WALLACE LEE" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="MERRILLVILLE" rptOwnerState="IN" rptOwnerStreet1="801 E 86TH AVENUE" rptOwnerStreet2="" rptOwnerZipCode="46410-6272" />
+
+
+<reportingOwnerRelationship isDirector="1">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<deemedExecutionDate value="2010-11-05">
+</deemedExecutionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="P" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness />
+<transactionAmounts><transactionShares> value="30000" 
+</transactionShares>
+<transactionPricePerShare value="17.5769">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="60000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<derivativeTable><derivativeHolding><securityTitle> value="Phantom Stock" 
+</securityTitle>
+<conversionOrExercisePrice value="0">
+</conversionOrExercisePrice>
+<exerciseDate>
+<footnoteId id="F1" /> 
+</exerciseDate>
+<expirationDate><footnoteId id="F1" /> 
+</expirationDate>
+<underlyingSecurity><underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="20872.852">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="20872.852" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="The reported phantom stock units were acquired under the NiSource Inc. 2010 Omnibus Incentive Plan and are to be settled upon the reporting person&apos;s retirement or other termination of service." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-05" signatureName="Gary W. Pottorff, attorney-in-fact for Wallace Lee Nutter">
+</ownerSignature>
+</ownershipDocument></Source>

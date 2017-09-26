@@ -1,0 +1,49 @@
+<Source file="./0001404409-10-000064.nc">
+<SUBMISSION ACCESSION-NUMBER="0001404409-10-000064" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101105" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001202243" CONFORMED-NAME="AUSLEY DUBOSE" /><FILING-VALUES ACT="34" FILE-NUMBER="001-08180" FILM-NUMBER="101172205" FORM-TYPE="4" /><MAIL-ADDRESS CITY="TAMPA" STATE="FL" STREET1="C/O TECO ENERGY INC" STREET2="P O BOX 111" ZIP="336010111" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="4911" CIK="0000350563" CONFORMED-NAME="TECO ENERGY INC" FISCAL-YEAR-END="1231" IRS-NUMBER="592052286" STATE-OF-INCORPORATION="FL" /><BUSINESS-ADDRESS CITY="TAMPA" PHONE="8132284111" STATE="FL" STREET1="702 N FRANKLIN ST" STREET2="TECO PLAZA" ZIP="33602" /><MAIL-ADDRESS CITY="TAMPA" STATE="FL" STREET1="702 N FRANKLIN ST" STREET2="TECO PLAZA" ZIP="33602" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" periodOfReport="2010-11-05" schemaVersion="X0303">
+<issuer> issuerCik="0000350563" 
+ issuerName="TECO ENERGY INC" 
+ issuerTradingSymbol="TE" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001202243" 
+ rptOwnerName="AUSLEY DUBOSE" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="TAMPA" rptOwnerState="FL" rptOwnerStreet1="C/O TECO ENERGY, INC." rptOwnerStreet2="P. O. BOX 111" rptOwnerZipCode="33601-0111">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="1" 
+ isOfficer="0" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="9026" 
+</transactionShares>
+<transactionPricePerShare value="17.615">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="27606" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<remarks /> 
+<ownerSignature signatureDate="2010-11-08" signatureName="David E. Schwartz, by Power of Attorney">
+</ownerSignature>
+</ownershipDocument></Source>

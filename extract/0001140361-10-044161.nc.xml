@@ -1,0 +1,198 @@
+<Source file="./0001140361-10-044161.nc">
+<SUBMISSION ACCESSION-NUMBER="0001140361-10-044161" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><ISSUER><COMPANY-DATA ASSIGNED-SIC="6029" CIK="0001017793" CONFORMED-NAME="SUN BANCORP INC /NJ/" FISCAL-YEAR-END="1231" IRS-NUMBER="521382541" STATE-OF-INCORPORATION="NJ" /><BUSINESS-ADDRESS CITY="VINELAND" PHONE="8566917700" STATE="NJ" STREET1="226 LANDIS AVENUE" ZIP="08360" /><MAIL-ADDRESS CITY="VINELAND" STATE="NJ" STREET1="226 LANDIS AVE" ZIP="08360" /></ISSUER><REPORTING-OWNER><OWNER-DATA CIK="0001026610" CONFORMED-NAME="ROSS WILBUR L JR" /><FILING-VALUES ACT="34" FILE-NUMBER="000-20957" FILM-NUMBER="101172082" FORM-TYPE="4" /><MAIL-ADDRESS CITY="PALM BEACH" STATE="FL" STREET1="328 EL VEDADO ROAD" ZIP="33480" /></REPORTING-OWNER><REPORTING-OWNER><OWNER-DATA CIK="0001202045" CONFORMED-NAME="WL ROSS &amp; CO LLC" FISCAL-YEAR-END="1231" STATE-OF-INCORPORATION="DE" /><FILING-VALUES ACT="34" FILE-NUMBER="000-20957" FILM-NUMBER="101172078" FORM-TYPE="4" /><BUSINESS-ADDRESS CITY="NEW YORK" PHONE="2128261100" STATE="NY" STREET1="600 LEXINGTON AVENUE" ZIP="10022" /><MAIL-ADDRESS CITY="NEW YORK" STATE="NY" STREET1="600 LEXINGTON AVENUE" ZIP="10022" /></REPORTING-OWNER><REPORTING-OWNER><OWNER-DATA CIK="0001414643" CONFORMED-NAME="WLR Recovery Fund IV LP" STATE-OF-INCORPORATION="DE" /><FILING-VALUES ACT="34" FILE-NUMBER="000-20957" FILM-NUMBER="101172084" FORM-TYPE="4" /><BUSINESS-ADDRESS CITY="New York" PHONE="(212) 826-1100" STATE="NY" STREET1="1166 Avenue of the Americas" STREET2="27th Floor" ZIP="10036" /><MAIL-ADDRESS CITY="New York" STATE="NY" STREET1="1166 Avenue of the Americas" STREET2="27th Floor" ZIP="10036" /></REPORTING-OWNER><REPORTING-OWNER><OWNER-DATA CIK="0001429295" CONFORMED-NAME="WLR Recovery Associates IV LLC" FISCAL-YEAR-END="1231" STATE-OF-INCORPORATION="DE" /><FILING-VALUES ACT="34" FILE-NUMBER="000-20957" FILM-NUMBER="101172080" FORM-TYPE="4" /><BUSINESS-ADDRESS CITY="NEW YORK" PHONE="(212) 826-1100" STATE="NY" STREET1="1166 AVENUE OF THE AMERICAS" ZIP="10036" /><MAIL-ADDRESS CITY="NEW YORK" STATE="NY" STREET1="1166 AVENUE OF THE AMERICAS" ZIP="10036" /></REPORTING-OWNER><REPORTING-OWNER><OWNER-DATA CIK="0001431790" CONFORMED-NAME="WL Ross Group, L.P." FISCAL-YEAR-END="1231" /><FILING-VALUES ACT="34" FILE-NUMBER="000-20957" FILM-NUMBER="101172083" FORM-TYPE="4" /><BUSINESS-ADDRESS CITY="NEW YORK" PHONE="(212) 826-1100" STATE="NY" STREET1="1166 AVENUE OF THE AMERICAS" ZIP="10036" /><MAIL-ADDRESS CITY="NEW YORK" STATE="NY" STREET1="1166 AVENUE OF THE AMERICAS" ZIP="10036" /></REPORTING-OWNER><REPORTING-OWNER><OWNER-DATA CIK="0001431791" CONFORMED-NAME="El Vedado, LLC" FISCAL-YEAR-END="1231" /><FILING-VALUES ACT="34" FILE-NUMBER="000-20957" FILM-NUMBER="101172079" FORM-TYPE="4" /><BUSINESS-ADDRESS CITY="NEW YORK" PHONE="(212) 826-1100" STATE="NY" STREET1="1166 AVENUE OF THE AMERICAS" ZIP="10036" /><MAIL-ADDRESS CITY="NEW YORK" STATE="NY" STREET1="1166 AVENUE OF THE AMERICAS" ZIP="10036" /></REPORTING-OWNER><REPORTING-OWNER><OWNER-DATA CIK="0001498175" CONFORMED-NAME="WLR SBI AcquisitionCo, LLC" FISCAL-YEAR-END="1231" STATE-OF-INCORPORATION="DE" /><FILING-VALUES ACT="34" FILE-NUMBER="000-20957" FILM-NUMBER="101172081" FORM-TYPE="4" /><BUSINESS-ADDRESS CITY="NEW YORK" PHONE="212 826-1100" STATE="NY" STREET1="1166 AVENUE OF THE AMERICAS" STREET2="27TH FLOOR" ZIP="10036" /><MAIL-ADDRESS CITY="NEW YORK" STATE="NY" STREET1="1166 AVENUE OF THE AMERICAS" STREET2="27TH FLOOR" ZIP="10036" /></REPORTING-OWNER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0001017793" 
+ issuerName="SUN BANCORP INC /NJ/" 
+ issuerTradingSymbol="SNBC" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001026610" 
+ rptOwnerName="ROSS WILBUR L JR" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="WEST PALM BEACH" rptOwnerState="FL" rptOwnerStreet1="319 CLEMATIS STREET, ROOM 1000" rptOwnerStreet2="" rptOwnerZipCode="33401" />
+
+
+<reportingOwnerRelationship isDirector="1" isOfficer="0" isOther="0" isTenPercentOwner="1">
+<officerTitle /> 
+<otherText />
+</reportingOwnerRelationship>
+</reportingOwner>
+<reportingOwner><reportingOwnerId> rptOwnerCik="0001498175" 
+ rptOwnerName="WLR SBI AcquisitionCo, LLC" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="NEW YORK" rptOwnerState="NY" rptOwnerStreet1="1166 AVENUE OF THE AMERICAS" rptOwnerStreet2="27TH FLOOR" rptOwnerZipCode="10036">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="0" 
+ isTenPercentOwner="1" 
+ isOther="0" 
+<officerTitle /> 
+<otherText />
+</reportingOwnerRelationship>
+</reportingOwner>
+<reportingOwner><reportingOwnerId> rptOwnerCik="0001429295" 
+ rptOwnerName="WLR Recovery Associates IV LLC" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="NEW YORK" rptOwnerState="NY" rptOwnerStreet1="1166 AVENUE OF THE AMERICAS" rptOwnerStreet2="27TH FLOOR" rptOwnerZipCode="10036">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="0" 
+ isTenPercentOwner="1" 
+ isOther="0" 
+<officerTitle /> 
+<otherText />
+</reportingOwnerRelationship>
+</reportingOwner>
+<reportingOwner><reportingOwnerId> rptOwnerCik="0001431791" 
+ rptOwnerName="El Vedado, LLC" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="WEST PALM BEACH" rptOwnerState="FL" rptOwnerStreet1="319 CLEMATIS STREET, ROOM 1000" rptOwnerStreet2="" rptOwnerZipCode="33401" />
+
+
+<reportingOwnerRelationship isDirector="0" isOfficer="0" isOther="0" isTenPercentOwner="1">
+<officerTitle /> 
+<otherText />
+</reportingOwnerRelationship>
+</reportingOwner>
+<reportingOwner><reportingOwnerId> rptOwnerCik="0001202045" 
+ rptOwnerName="WL ROSS &amp; CO LLC" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="NEW YORK" rptOwnerState="NY" rptOwnerStreet1="1166 AVENUE OF THE AMERICAS" rptOwnerStreet2="27TH FLOOR" rptOwnerZipCode="10036">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="0" 
+ isTenPercentOwner="1" 
+ isOther="0" 
+<officerTitle /> 
+<otherText />
+</reportingOwnerRelationship>
+</reportingOwner>
+<reportingOwner><reportingOwnerId> rptOwnerCik="0001414643" 
+ rptOwnerName="WLR Recovery Fund IV LP" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="NEW YORK" rptOwnerState="NY" rptOwnerStreet1="1166 AVENUE OF THE AMERICAS" rptOwnerStreet2="27TH FLOOR" rptOwnerZipCode="10036">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="0" 
+ isTenPercentOwner="1" 
+ isOther="0" 
+<officerTitle /> 
+<otherText />
+</reportingOwnerRelationship>
+</reportingOwner>
+<reportingOwner><reportingOwnerId> rptOwnerCik="0001431790" 
+ rptOwnerName="WL Ross Group, L.P." 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="NEW YORK" rptOwnerState="NY" rptOwnerStreet1="1166 AVENUE OF THE AMERICAS" rptOwnerStreet2="27TH FLOOR" rptOwnerZipCode="10036">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="0" 
+ isTenPercentOwner="1" 
+ isOther="0" 
+<officerTitle /> 
+<otherText />
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="C" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="10656500" 
+</transactionShares>
+<transactionPricePerShare value="4">
+<footnoteId id="F4" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="A" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="12469000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="See Footnotes">
+<footnoteId id="F1" /> 
+<footnoteId id="F2" />
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<derivativeTable><derivativeTransaction><securityTitle> value="Mandatorily Conv. Cum. Non-Voting Perpetual Preferred Stock" 
+</securityTitle>
+<conversionOrExercisePrice value="4">
+<footnoteId id="F4" /> 
+</conversionOrExercisePrice>
+<transactionDate> value="2010-11-04" 
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="C" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="10656500" 
+</transactionShares>
+<transactionPricePerShare>
+<footnoteId id="F4" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="D" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate><footnoteId id="F3" /> 
+</exerciseDate>
+<expirationDate><footnoteId id="F3" /> 
+</expirationDate>
+<underlyingSecurity><underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="10656500">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="0" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="See Footnotes">
+<footnoteId id="F1" /> 
+<footnoteId id="F2" />
+</natureOfOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="The 12,469,000 shares of Common Stock are held directly by WLR SBI AcquisitionCo, LLC." /> 
+ <footnote id="F2" text="Wilbur L. Ross, Jr. is the managing member of El Vedado, LLC, the general partner of WL Ross Group, L.P., which in turn is the managing member of WLR Recovery Associates IV LLC.  WLR Recovery Associates IV LLC is the general partner of WLR Recovery Fund IV, L.P., which is the sole manager of WLR SBI AcquisitionCo, LLC, and WL Ross &amp; Co. LLC is the investment manager of WL Ross Group, L.P.  Accordingly, WLR Recovery Fund IV, L.P., WLR Recovery Associates IV LLC, WL Ross Group, L.P., El Vedado, LLC, Wilbur L. Ross, Jr. and WL Ross &amp; Co. LLC may be deemed to share voting and dispositive power over the common stock held by WLR SBI AcquisitionCo, LLC." /> 
+ <footnote id="F3" text="Shares of Mandatorily Convertible Cumulative Non-Voting Perpetual Preferred Stock,  Series B  (the Series B Preferred Stock)  converted into shares of common stock after the holders of common stock as of September 15, 2010 approved an amendment to Sun Bancorp, Inc.&apos;s Amended and Restated Certificate of Incorporation to increase the number of authorized shares of common stock to 100,000,000 and approve the issuance of such converted shares of common stock to investors including, but not limited to, the Reporting Persons." /> 
+ <footnote id="F4" text="The conversion price per share of Series B Preferred Stock was $4.00.  The number of shares of Common Stock issued upon conversion of a share of Series B Preferred Stock was determined by dividing: (i) the $1,000 liquidation preference, plus all accrued and unpaid dividends for any prior dividend periods, by (ii) the conversion price of $4.00. The shares of Series B Preferred Stock were converted into Common Stock on November 4, 2010." /> 
+</footnotes>
+<remarks />
+<ownerSignature> signatureName="/s/ Wilbur L. Ross, Jr." 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+<ownerSignature signatureDate="2010-11-08" signatureName="/s/ Wilbur L. Ross, Jr.">
+</ownerSignature>
+<ownerSignature signatureDate="2010-11-08" signatureName="/s/ Wilbur L. Ross, Jr.">
+</ownerSignature>
+<ownerSignature signatureDate="2010-11-08" signatureName="/s/ Wilbur L. Ross, Jr.">
+</ownerSignature>
+<ownerSignature signatureDate="2010-11-08" signatureName="/s/ Wilbur L. Ross, Jr.">
+</ownerSignature>
+<ownerSignature signatureDate="2010-11-08" signatureName="/s/ Wilbur L. Ross, Jr.">
+</ownerSignature>
+<ownerSignature signatureDate="2010-11-08" signatureName="/s/ Wilbur L. Ross, Jr.">
+</ownerSignature>
+</ownershipDocument></Source>

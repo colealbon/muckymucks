@@ -1,0 +1,86 @@
+<Source file="./0001144204-10-058344.nc">
+<SUBMISSION ACCESSION-NUMBER="0001144204-10-058344" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101015" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001026081" CONFORMED-NAME="SEIDMAN LAWRENCE B" STATE-OF-INCORPORATION="NJ" /><FILING-VALUES ACT="34" FILE-NUMBER="000-11486" FILM-NUMBER="101173604" FORM-TYPE="4" /><MAIL-ADDRESS CITY="PARSIPPANY" STATE="NJ" STREET1="LANIDEX CENTER" STREET2="100 MISTY LANE P O BOX 5430" ZIP="07054" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="6022" CIK="0000712771" CONFORMED-NAME="CENTER BANCORP INC" FISCAL-YEAR-END="1231" IRS-NUMBER="521273725" STATE-OF-INCORPORATION="NJ" /><BUSINESS-ADDRESS CITY="UNION" PHONE="9086889500" STATE="NJ" STREET1="2455 MORRIS AVE" ZIP="07083" /><MAIL-ADDRESS CITY="UNION" STATE="NJ" STREET1="2455 MORRIS AVE" ZIP="07083" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-10-15" schemaVersion="X0303">
+<issuer> issuerCik="0000712771" 
+ issuerName="CENTER BANCORP INC" 
+ issuerTradingSymbol="CNBC" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001026081" 
+ rptOwnerName="SEIDMAN LAWRENCE B" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="PARSIPPANY" rptOwnerState="NJ" rptOwnerStreet1="LANIDEX CENTER" rptOwnerStreet2="100 MISTY LANE P O BOX 5430" rptOwnerZipCode="07054">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="1" 
+ isOfficer="0" 
+ isTenPercentOwner="1" 
+ isOther="0" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-10-15">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="P" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="7600" 
+</transactionShares>
+<transactionPricePerShare value="7.79">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="3462606" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="See Footnote">
+<footnoteId id="F1" /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="P" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="6200" 
+</transactionShares>
+<transactionPricePerShare value="7.80">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="3468806" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="See Footnote">
+<footnoteId id="F2" /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeHolding><securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="68439" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+</nonDerivativeTable>
+<footnotes><footnote id="F1" text="Seidman &amp; Associates, L.L.C. (615,202), Seidman Investment Partnership, L.P. (620,420), Seidman Investment Partnership II,L.P. (565,267), LSBK06-08, LLC. (363,197), Broad Park Investors, L.L.C. (506,527), CBPS (388,871),  2514 Multi (23,900),Contrarian (78,496),             Chewey Gooey Cookies, L.P. (272,415), Reese Trust (2,970), Brody Trust (2,970), Jacob Trust(2,970),  LBS SEP-IRA (12,545), Brent Wolmer (6,856)." />
+<footnote id="F2" text="Seidman &amp; Associates, L.L.C. (621,402), Seidman Investment Partnership, L.P. (620,420), Seidman Investment Partnership II,L.P. (565,267), LSBK06-08, LLC. (363,197), Broad Park Investors, L.L.C. (506,527), CBPS (388,871),  2514 Multi (23,900),Contrarian (78,496),             Chewey Gooey Cookies, L.P. (272,415), Reese Trust (2,970), Brody Trust (2,970), Jacob Trust(2,970),  LBS SEP-IRA (12,545), Brent Wolmer (6,856)." />
+</footnotes>
+<ownerSignature> signatureName="/s/ Joseph D. Gangemi, Attorney-in-Fact" 
+ signatureDate="2010-11-05" 
+</ownerSignature>
+</ownershipDocument></Source>

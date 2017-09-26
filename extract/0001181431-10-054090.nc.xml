@@ -1,0 +1,211 @@
+<Source file="./0001181431-10-054090.nc">
+<SUBMISSION ACCESSION-NUMBER="0001181431-10-054090" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101108" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001120799" CONFORMED-NAME="LEVIN GREGORY" /><FILING-VALUES ACT="34" FILE-NUMBER="000-21423" FILM-NUMBER="101173691" FORM-TYPE="4" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="5812" CIK="0001013488" CONFORMED-NAME="BJs RESTAURANTS INC" FISCAL-YEAR-END="1230" IRS-NUMBER="330485615" STATE-OF-INCORPORATION="CA" /><BUSINESS-ADDRESS CITY="HUNTINGTON BEACH" PHONE="(714) 500-2440" STATE="CA" STREET1="7755 CENTER AVENUE" STREET2="SUITE 300" ZIP="92647" /><MAIL-ADDRESS CITY="HUNTINGTON BEACH" STATE="CA" STREET1="7755 CENTER AVENUE" STREET2="SUITE 300" ZIP="92647" /><FORMER-COMPANY DATE-CHANGED="19960614" FORMER-CONFORMED-NAME="CHICAGO PIZZA &amp; BREWERY INC" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-08" schemaVersion="X0303">
+<issuer> issuerCik="0001013488" 
+ issuerName="BJs RESTAURANTS INC" 
+ issuerTradingSymbol="BJRI" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001120799" 
+ rptOwnerName="LEVIN GREGORY" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="HUNTINGTON BEACH" rptOwnerState="CA" rptOwnerStreet1="7755 CENTER AVENUE" rptOwnerStreet2="SUITE 300" rptOwnerZipCode="92647">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="1" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+ officerTitle="Exec VP and CFO" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeHolding><securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="27526" 
+<footnoteId id="F2" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-08">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="10000" 
+</transactionShares>
+<transactionPricePerShare value="20.74">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="10000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-08">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="10000" 
+</transactionShares>
+<transactionPricePerShare value="35.376">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="0" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<derivativeTable><derivativeHolding><securityTitle> value="Non Qualified Stock Option" 
+</securityTitle>
+<conversionOrExercisePrice value="18.86">
+</conversionOrExercisePrice>
+<exerciseDate value="2010-12-30">
+<footnoteId id="F1" /> 
+</exerciseDate>
+<expirationDate> value="2019-12-30" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="13186">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="0" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeTransaction>
+<securityTitle> value="Common Stock Purchase Option" 
+</securityTitle>
+<conversionOrExercisePrice value="20.74">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-08">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="10000" 
+</transactionShares>
+<transactionPricePerShare value="20.74">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate> value="2006-09-06" 
+<footnoteId id="F1" /> 
+</exerciseDate>
+<expirationDate> value="2015-09-06" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="100000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="90000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+<derivativeHolding>
+<securityTitle> value="Common Stock Purchase Option" 
+</securityTitle>
+<conversionOrExercisePrice value="19.96">
+</conversionOrExercisePrice>
+<exerciseDate value="2008-01-03">
+<footnoteId id="F1" /> 
+</exerciseDate>
+<expirationDate> value="2017-01-03" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="10000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="4000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Non Qualified Stock Options" 
+</securityTitle>
+<conversionOrExercisePrice value="16.63">
+</conversionOrExercisePrice>
+<exerciseDate value="2009-01-02">
+<footnoteId id="F1" /> 
+</exerciseDate>
+<expirationDate> value="2018-01-02" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="25348">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="0" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Non Qualified Stock Options" 
+</securityTitle>
+<conversionOrExercisePrice value="10.11">
+</conversionOrExercisePrice>
+<exerciseDate value="2009-12-31">
+<footnoteId id="F1" /> 
+</exerciseDate>
+<expirationDate> value="2018-12-31" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="15000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="0" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="The options vest 20% per year beginning on the first anniversary of the date of grant." /> 
+ <footnote id="F2" text="Of this amount, 10,526 shares represent a restricted stock award vesting in five equal installments beginning on 1/2/2009, 15,000 shares represent a restricted stock award vesting in five equal installments beginning on 12/31/2009 and 2,000 shares are held directly by Mr. Levin." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="Dianne Scott, Attorney-in-fact for Gregory S. Levin">
+</ownerSignature>
+</ownershipDocument></Source>

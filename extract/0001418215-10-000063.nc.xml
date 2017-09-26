@@ -1,0 +1,147 @@
+<Source file="./0001418215-10-000063.nc">
+<SUBMISSION ACCESSION-NUMBER="0001418215-10-000063" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001197843" CONFORMED-NAME="IVESTER JONATHAN D" /><FILING-VALUES ACT="34" FILE-NUMBER="000-29823" FILM-NUMBER="101173445" FORM-TYPE="4" /><MAIL-ADDRESS CITY="AUSTIN" STATE="TX" STREET1="400 W CESAR CHAVEZ" ZIP="78701" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="3674" CIK="0001038074" CONFORMED-NAME="SILICON LABORATORIES INC" FISCAL-YEAR-END="1231" IRS-NUMBER="742793174" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="AUSTIN" PHONE="5124168500" STATE="TX" STREET1="400 W CESAR CHAVEZ" ZIP="78701" /><MAIL-ADDRESS CITY="AUSTIN" STATE="TX" STREET1="400 W CESAR CHAVEZ" ZIP="78701" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0001038074" 
+ issuerName="SILICON LABORATORIES INC" 
+ issuerTradingSymbol="SLAB" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001197843" 
+ rptOwnerName="IVESTER JONATHAN D" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="AUSTIN" rptOwnerState="TX" rptOwnerStreet1="400 W CESAR CHAVEZ" rptOwnerStreet2="" rptOwnerZipCode="78701" />
+
+
+<reportingOwnerRelationship isDirector="0" isOfficer="1" isOther="0" isTenPercentOwner="0" officerTitle="Sr VP of Worldwide Operations">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeHolding><securityTitle> value="Common Stock, $0.0001 par value" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="116031" 
+<footnoteId id="F1" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock, $0.0001 par value" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="900" 
+<footnoteId id="F2" /> 
+</transactionShares>
+<transactionPricePerShare> value="41.85" 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="7950" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="E Ivester Heritage Trust">
+<footnoteId id="F3" /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction><securityTitle> value="Common Stock, $0.0001 par value" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="900" 
+<footnoteId id="F2" /> 
+</transactionShares>
+<transactionPricePerShare> value="41.85" 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="7950" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="S Ivester Heritage Trust">
+<footnoteId id="F4" /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction><securityTitle> value="Common Stock, $0.0001 par value" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="900" 
+<footnoteId id="F2" /> 
+</transactionShares>
+<transactionPricePerShare> value="41.85" 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="7950" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="E Ivester Heritage Trust">
+<footnoteId id="F4" /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction><securityTitle> value="Common Stock, $0.0001 par value" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="900" 
+<footnoteId id="F2" /> 
+</transactionShares>
+<transactionPricePerShare> value="41.85" 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="7950" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="B Ivester Heritage Trust">
+<footnoteId id="F4" /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<footnotes>
+<footnote id="F1" text="Includes shares purchased by Reporting Person through the Issuer&apos;s 2009 Employee Stock Purchase Plan on the Plan&apos;s most recent semi-annual purchase date." /> 
+ <footnote id="F2" text="Shares sold pursuant to Reporting Person&apos;s 10b5-1 Trading Plan." /> 
+ <footnote id="F3" text="These shares are held in a trust for the benefit of Reporting Person&apos;s child." /> 
+ <footnote id="F4" text="These shares are held in a trust for the benefit of Reporting Person&apos;s child.  Reporting Person is co-trustee of the trust." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-04" signatureName="Jonathan D. Ivester">
+</ownerSignature>
+</ownershipDocument></Source>

@@ -1,0 +1,233 @@
+<Source file="./0001209191-10-053745.nc">
+<SUBMISSION ACCESSION-NUMBER="0001209191-10-053745" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101102" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001439935" CONFORMED-NAME="Madhu Sanjay" /><FILING-VALUES ACT="34" FILE-NUMBER="001-34126" FILM-NUMBER="101173614" FORM-TYPE="4" /><MAIL-ADDRESS CITY="TAMPA" STATE="FL" STREET1="425 EAST DAVIS BLVD." ZIP="33606" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="6331" CIK="0001400810" CONFORMED-NAME="Homeowners Choice, Inc." FISCAL-YEAR-END="1231" IRS-NUMBER="000000000" STATE-OF-INCORPORATION="FL" /><BUSINESS-ADDRESS CITY="CLEARWATER" PHONE="727-213-3600" STATE="FL" STREET1="2340 DREW STREET" STREET2="SUITE 200" ZIP="33765" /><MAIL-ADDRESS CITY="CLEARWATER" STATE="FL" STREET1="2340 DREW STREET" STREET2="SUITE 200" ZIP="33765" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-02" schemaVersion="X0303">
+<issuer> issuerCik="0001400810" 
+ issuerName="Homeowners Choice, Inc." 
+ issuerTradingSymbol="HCII" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001439935" 
+ rptOwnerName="Madhu Sanjay" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="CLEARWATER" rptOwnerState="FL" rptOwnerStreet1="2340 DREW STREET" rptOwnerStreet2="SUITE 200" rptOwnerZipCode="33765">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="1" 
+ isOfficer="1" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+ officerTitle="Vice President" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeHolding><securityTitle> value="Common stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="2100" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="By Self&apos;s IRA">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding>
+<securityTitle> value="Common stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="200" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="By Son">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding>
+<securityTitle> value="Common stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="3000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="By Spouse&apos;s IRA">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding>
+<securityTitle> value="Common stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="80000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="By Universal Finance &amp; Investments, LLC">
+<footnoteId id="F1" /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeTransaction><securityTitle> value="Common stock" 
+</securityTitle>
+<transactionDate value="2010-11-02">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="M" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="30000" 
+</transactionShares>
+<transactionPricePerShare value="2.50">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="30000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<derivativeTable><derivativeTransaction><securityTitle> value="Stock Option (Right to Buy)" 
+<footnoteId id="F2" /> 
+</securityTitle>
+<conversionOrExercisePrice> value="2.50" 
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-02">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="M" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="30000" 
+</transactionShares>
+<transactionPricePerShare value="2.50">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate><footnoteId id="F3" /> 
+</exerciseDate>
+<expirationDate> value="2017-05-31" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="30000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="0" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+<derivativeHolding>
+<securityTitle> value="Stock Warrant (Right to Buy)" 
+</securityTitle>
+<conversionOrExercisePrice>
+<footnoteId id="F4" /> 
+</conversionOrExercisePrice>
+<exerciseDate> value="2008-07-30" 
+</exerciseDate>
+<expirationDate value="2013-07-30">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="1050">
+<footnoteId id="F4" /> 
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="1050" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="By Self&apos;s IRA">
+</natureOfOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Stock Warrant (Right to Buy)" 
+</securityTitle>
+<conversionOrExercisePrice>
+<footnoteId id="F5" /> 
+</conversionOrExercisePrice>
+<exerciseDate> value="2008-07-30" 
+</exerciseDate>
+<expirationDate value="2013-07-30">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="100">
+<footnoteId id="F5" /> 
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="100" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="By Son">
+</natureOfOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Stock Warrant (Right to Buy)" 
+</securityTitle>
+<conversionOrExercisePrice>
+<footnoteId id="F6" /> 
+</conversionOrExercisePrice>
+<exerciseDate> value="2008-07-30" 
+</exerciseDate>
+<expirationDate value="2013-07-30">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="1500">
+<footnoteId id="F6" /> 
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="1500" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="By Spouse&apos;s IRA">
+</natureOfOwnership>
+</ownershipNature>
+</derivativeHolding>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="The reporting person holds voting and investment power of the 80,000 shares held by Universal Finance &amp; Investments, LLC." /> 
+ <footnote id="F2" text="The options were granted pursuant to the Homeowners Choice, Inc. 2007 Stock Option and Incentive Plan." /> 
+ <footnote id="F3" text="Commencing on May 1, 2008 and continuing on the same day of each calendar year thereafter through and including May 1, 2010, the amount of 10,000 options will vest and become exercisable on each such annual vesting date." /> 
+ <footnote id="F4" text="In connection with the Homeowners Choice, Inc. initial public offering (IPO), 2,100 units were purchased on 7/25/08 at a price of $7.00 per unit, with each unit consisting of one share of common stock and one warrant. Two warrants may be exercised to acquire one share of common stock at an exercise price equal to $9.10 per share.  The warrants may be exercised any time after the closing of the IPO up to five years after the July 30, 2008 IPO closing date." /> 
+ <footnote id="F5" text="In connection with the Homeowners Choice, Inc. initial public offering (IPO), 200 units were purchased on 7/25/08 at a price of $7.00 per unit, with each unit consisting of one share of common stock and one warrant. Two warrants may be exercised to acquire one share of common stock at an exercise price equal to $9.10 per share.  The warrants may be exercised any time after the closing of the IPO up to five years after the July 30, 2008 IPO closing date." /> 
+ <footnote id="F6" text="In connection with the Homeowners Choice, Inc. initial public offering (IPO), 3,000 units were purchased on 7/25/08 at a price of $7.00 per unit, with each unit consisting of one share of common stock and one warrant. Two warrants may be exercised to acquire one share of common stock at an exercise price equal to $9.10 per share.  The warrants may be exercised any time after the closing of the IPO up to five years after the July 30, 2008 IPO closing date." /> 
+</footnotes>
+<remarks />
+<ownerSignature> signatureName="/s/ Cathy J. Welch as Attorney-in-fact for Sanjay Madhu" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

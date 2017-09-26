@@ -1,0 +1,59 @@
+<Source file="./0001181431-10-053908.nc">
+<SUBMISSION ACCESSION-NUMBER="0001181431-10-053908" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101105" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001376431" CONFORMED-NAME="Glover Ellen" /><FILING-VALUES ACT="34" FILE-NUMBER="001-33045" FILM-NUMBER="101170863" FORM-TYPE="4" /><MAIL-ADDRESS CITY="FAIRFAX" STATE="VA" STREET1="ICF INTERNATIONAL, INC." STREET2="9300 LEE HIGHWAY" ZIP="22031" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="8742" CIK="0001362004" CONFORMED-NAME="ICF International, Inc." FISCAL-YEAR-END="1231" IRS-NUMBER="223661438" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="FAIRFAX" PHONE="(703) 934-3000" STATE="VA" STREET1="9300 LEE HIGHWAY" ZIP="22031" /><MAIL-ADDRESS CITY="FAIRFAX" STATE="VA" STREET1="9300 LEE HIGHWAY" ZIP="22031" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-05" schemaVersion="X0303">
+<issuer> issuerCik="0001362004" 
+ issuerName="ICF International, Inc." 
+ issuerTradingSymbol="ICFI" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001376431" 
+ rptOwnerName="Glover Ellen" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="FAIRFAX" rptOwnerState="VA" rptOwnerStreet1="ICF INTERNATIONAL, INC." rptOwnerStreet2="9300 LEE HIGHWAY" rptOwnerZipCode="22031">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="1" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+ officerTitle="EVP" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeHolding><securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="26418" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+<footnoteId id="F1" /> 
+</transactionCoding>
+<transactionAmounts><transactionShares> value="3760" 
+</transactionShares>
+<transactionPricePerShare value="27.50000">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="22658" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<footnotes> <footnote id="F1" text="Ellen Glover Trading Plan - These shares were sold pursuant to a Rule 10b5-1 Trading Plan dated April 1, 2010." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="/s/ James J. Maiwurm, Attorney-in-fact">
+</ownerSignature>
+</ownershipDocument></Source>

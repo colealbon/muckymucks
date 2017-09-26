@@ -1,0 +1,46 @@
+<Source file="./0001127602-10-027200.nc">
+<SUBMISSION ACCESSION-NUMBER="0001127602-10-027200" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101105" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001203074" CONFORMED-NAME="ROGERS BRIAN C" /><FILING-VALUES ACT="34" FILE-NUMBER="033-07012-99" FILM-NUMBER="101171308" FORM-TYPE="4" /><MAIL-ADDRESS CITY="BALTIMORE" STATE="MD" STREET1="T ROWE PRICE GROUP INC" STREET2="100 E PRATT ST" ZIP="21202" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="6200" CIK="0001113169" CONFORMED-NAME="PRICE T ROWE GROUP INC" FISCAL-YEAR-END="1231" IRS-NUMBER="522264646" STATE-OF-INCORPORATION="MD" /><BUSINESS-ADDRESS CITY="BALTIMORE" PHONE="4103452000" STATE="MD" STREET1="100 EAST PRATT STREET" STREET2="P.O. BOX 89000" ZIP="21289-0320" /><MAIL-ADDRESS CITY="BALTIMORE" STATE="MD" STREET1="100 EAST PRATT STREET" STREET2="P.O. BOX 89000" ZIP="21289-0320" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" periodOfReport="2010-11-05" schemaVersion="X0303">
+<issuer> issuerCik="0001113169" 
+ issuerName="PRICE T ROWE GROUP INC" 
+ issuerTradingSymbol="TROW" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001203074" 
+ rptOwnerName="ROGERS BRIAN C" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="BALTIMORE" rptOwnerState="MD" rptOwnerStreet1="T. ROWE PRICE GROUP, INC." rptOwnerStreet2="P.O. BOX 89000" rptOwnerZipCode="21289-0320">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="1" 
+ isOfficer="1" 
+ officerTitle="COB, CIO &amp; Vice President" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="G" transactionFormType="5">
+</transactionCoding>
+<transactionTimeliness value="E">
+</transactionTimeliness>
+<transactionAmounts>
+<transactionShares> value="10000" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="2349181" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<ownerSignature signatureDate="2010-11-08" signatureName="/s/ Brian c. Rogers">
+</ownerSignature>
+</ownershipDocument></Source>

@@ -1,0 +1,117 @@
+<Source file="./0001209191-10-053715.nc">
+<SUBMISSION ACCESSION-NUMBER="0001209191-10-053715" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001375240" CONFORMED-NAME="Miiller Ronald L" /><FILING-VALUES ACT="34" FILE-NUMBER="001-33026" FILM-NUMBER="101172871" FORM-TYPE="4" /><MAIL-ADDRESS CITY="OCEANPORT" STATE="NJ" STREET1="2 CRESCENT PLACE" ZIP="07757" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="7372" CIK="0001169561" CONFORMED-NAME="COMMVAULT SYSTEMS INC" FISCAL-YEAR-END="0331" IRS-NUMBER="000000000" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="OCEANPORT" PHONE="732-870-4000" STATE="NJ" STREET1="2 CRESCENT PLACE" ZIP="07757-0900" /><MAIL-ADDRESS CITY="OCEANPORT" STATE="NJ" STREET1="2 CRESCENT PLACE" ZIP="07757-0900" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0001169561" 
+ issuerName="COMMVAULT SYSTEMS INC" 
+ issuerTradingSymbol="CVLT" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001375240" 
+ rptOwnerName="Miiller Ronald L" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="OCEANPORT" rptOwnerState="NJ" rptOwnerStreet1="2 CRESCENT PLACE" rptOwnerStreet2="" rptOwnerZipCode="07757" />
+
+
+<reportingOwnerRelationship isDirector="0" isOfficer="1" isOther="0" isTenPercentOwner="0" officerTitle="VP of Sales, Americas">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+<footnoteId id="F1" /> 
+</securityTitle>
+<transactionDate> value="2010-11-04" 
+</transactionDate>
+<deemedExecutionDate value="2010-11-04">
+</deemedExecutionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="25000" 
+</transactionShares>
+<transactionPricePerShare value="4.70">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="64654" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+<footnoteId id="F1" /> 
+</securityTitle>
+<transactionDate> value="2010-11-04" 
+</transactionDate>
+<deemedExecutionDate value="2010-11-04">
+</deemedExecutionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="25000" 
+</transactionShares>
+<transactionPricePerShare value="30.00">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="39654" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<derivativeTable><derivativeTransaction><securityTitle> value="Options to Purchase Common Stock" 
+<footnoteId id="F1" /> 
+</securityTitle>
+<conversionOrExercisePrice> value="4.70" 
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<deemedExecutionDate value="2010-11-04">
+</deemedExecutionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="25000" 
+</transactionShares>
+<transactionPricePerShare value="4.70">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate><footnoteId id="F2" /> 
+</exerciseDate>
+<expirationDate> value="2015-07-29" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="25000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="0" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="All transactions shown on this form have taken place pursuant to a pre-arranged trading plan in compliance with Rule 10b5-1 of the Securities and Exchange Act of 1934." /> 
+ <footnote id="F2" text="The options to purchase common stock are subject to a 4-year vesting schedule, as follows:  25% on the first anniversary of the grant with the remaining options vesting in equal quarterly installments thereafter." /> 
+</footnotes>
+<remarks />
+<ownerSignature> signatureName="Warren H. Mondschein, Attorney-in-Fact" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

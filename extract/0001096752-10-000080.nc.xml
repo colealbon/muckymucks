@@ -1,0 +1,425 @@
+<Source file="./0001096752-10-000080.nc">
+<SUBMISSION ACCESSION-NUMBER="0001096752-10-000080" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><ISSUER><COMPANY-DATA ASSIGNED-SIC="3690" CIK="0001096752" CONFORMED-NAME="ENERGIZER HOLDINGS INC" FISCAL-YEAR-END="0930" IRS-NUMBER="431863181" STATE-OF-INCORPORATION="MO" /><BUSINESS-ADDRESS CITY="ST LOUIS" PHONE="3149852161" STATE="MO" STREET1="533 MARYVILLE UNIVERSITY DRIVE" ZIP="63141" /><MAIL-ADDRESS CITY="ST LOUIS" STATE="MO" STREET1="533 MARYVILLE UNIVERSITY DRIVE" ZIP="63141" /></ISSUER><REPORTING-OWNER><OWNER-DATA CIK="0001283856" CONFORMED-NAME="HATFIELD DAVID P" /><FILING-VALUES ACT="34" FILE-NUMBER="001-15401" FILM-NUMBER="101173250" FORM-TYPE="4" /><MAIL-ADDRESS CITY="ST. LOUIS" STATE="MO" STREET1="C/O ENERGIZER" STREET2="533 MARYVILLE UNIVERSITY DRIVE" ZIP="63141" /></REPORTING-OWNER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0001096752" 
+ issuerName="ENERGIZER HOLDINGS INC" 
+ issuerTradingSymbol="ENR" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001283856" 
+ rptOwnerName="HATFIELD DAVID P" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="ST LOUIS" rptOwnerState="MO" rptOwnerStreet1="ENERGIZER HOLDINGS, INC." rptOwnerStreet2="533 MARYVILLE UNIVERSITY DRIVE" rptOwnerZipCode="63141">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="1" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+ officerTitle="PRES &amp; CEO, ENR PERSONAL CARE" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Energizer Holdings, Inc. Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="4675" 
+</transactionShares>
+<transactionPricePerShare value="68.1006">
+<footnoteId id="F1" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="D" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="0" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Energizer Holdings, Inc. Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="I" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="2752" 
+</transactionShares>
+<transactionPricePerShare value="67.3">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="0" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="By 401(k)">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<derivativeTable><derivativeTransaction><securityTitle> value="Phantom Stk Units in Deferred Compensation Plan  CM" 
+</securityTitle>
+<conversionOrExercisePrice value="0">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="I" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="2485" 
+</transactionShares>
+<transactionPricePerShare value="67.3">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate><footnoteId id="F2" /> 
+</exerciseDate>
+<expirationDate><footnoteId id="F2" /> 
+</expirationDate>
+<underlyingSecurity><underlyingSecurityTitle> value="Energizer Holdings, Inc. Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="2485">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="6317" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+<derivativeTransaction>
+<securityTitle> value="Phantom Stock Units in Deferred Compensation Plan" 
+</securityTitle>
+<conversionOrExercisePrice value="0">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="I" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="23433" 
+</transactionShares>
+<transactionPricePerShare value="67.3">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate><footnoteId id="F2" /> 
+</exerciseDate>
+<expirationDate><footnoteId id="F2" /> 
+</expirationDate>
+<underlyingSecurity><underlyingSecurityTitle> value="Energizer Holdings, Inc. Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="23433">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="0" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+<derivativeTransaction>
+<securityTitle> value="Phantom Stock Units in Executive Savings Investment Plan" 
+</securityTitle>
+<conversionOrExercisePrice value="0">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="I" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="200" 
+</transactionShares>
+<transactionPricePerShare value="67.3">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate><footnoteId id="F2" /> 
+</exerciseDate>
+<expirationDate><footnoteId id="F2" /> 
+</expirationDate>
+<underlyingSecurity><underlyingSecurityTitle> value="Energizer Holdings, Inc. Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="200">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="0" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+<derivativeHolding>
+<securityTitle> value="Non-Qualified Stock Option 10/12/09" 
+</securityTitle>
+<conversionOrExercisePrice value="65.63">
+</conversionOrExercisePrice>
+<exerciseDate value="2012-10-12">
+<footnoteId id="F3" /> 
+</exerciseDate>
+<expirationDate> value="2019-10-11" 
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Energizer Holdings, Inc. Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="30000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="30000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Non-Qualified Stock Option 10/19/04" 
+</securityTitle>
+<conversionOrExercisePrice value="46.13">
+</conversionOrExercisePrice>
+<exerciseDate value="2005-10-19">
+</exerciseDate>
+<expirationDate value="2014-10-18">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Energizer Holdings, Inc. Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="15000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="15000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Non-Qualified Stock Option 9/23/02" 
+</securityTitle>
+<conversionOrExercisePrice value="30.1">
+</conversionOrExercisePrice>
+<exerciseDate value="2005-09-23">
+</exerciseDate>
+<expirationDate value="2012-09-22">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Energizer Holdings, Inc. Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="16667">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="16667" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Restricted Stock Equilvalents 2/6/09" 
+</securityTitle>
+<conversionOrExercisePrice value="0">
+</conversionOrExercisePrice>
+<exerciseDate>
+<footnoteId id="F4" /> 
+</exerciseDate>
+<expirationDate><footnoteId id="F4" /> 
+</expirationDate>
+<underlyingSecurity><underlyingSecurityTitle> value="Energizer Holdings, Inc. Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="4571">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="4571" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Restricted Stock Equiv. 11/1/10 PB" 
+</securityTitle>
+<conversionOrExercisePrice value="0">
+</conversionOrExercisePrice>
+<exerciseDate>
+<footnoteId id="F5" /> 
+</exerciseDate>
+<expirationDate><footnoteId id="F5" /> 
+</expirationDate>
+<underlyingSecurity><underlyingSecurityTitle> value="Energizer Holdings, Inc. Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="13300">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="13300" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Restricted Stock Equiv. 11/1/10 TB" 
+</securityTitle>
+<conversionOrExercisePrice value="0">
+</conversionOrExercisePrice>
+<exerciseDate>
+<footnoteId id="F6" /> 
+</exerciseDate>
+<expirationDate><footnoteId id="F6" /> 
+</expirationDate>
+<underlyingSecurity><underlyingSecurityTitle> value="Energizer Holdings, Inc. Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="5700">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="5700" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Restricted Stock Equivalent 10/10/07" 
+</securityTitle>
+<conversionOrExercisePrice value="0">
+</conversionOrExercisePrice>
+<exerciseDate>
+<footnoteId id="F7" /> 
+</exerciseDate>
+<expirationDate><footnoteId id="F7" /> 
+</expirationDate>
+<underlyingSecurity><underlyingSecurityTitle> value="Energizer Holdings, Inc. Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="3426">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="3426" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Restricted Stock Equivalent 10/12/09 PB" 
+</securityTitle>
+<conversionOrExercisePrice value="0">
+</conversionOrExercisePrice>
+<exerciseDate>
+<footnoteId id="F8" /> 
+</exerciseDate>
+<expirationDate><footnoteId id="F8" /> 
+</expirationDate>
+<underlyingSecurity><underlyingSecurityTitle> value="Energizer Holdings, Inc. Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="15400">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="15400" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Restricted Stock Equivalent 10/12/09 TB" 
+</securityTitle>
+<conversionOrExercisePrice value="0">
+</conversionOrExercisePrice>
+<exerciseDate>
+<footnoteId id="F9" /> 
+</exerciseDate>
+<expirationDate><footnoteId id="F9" /> 
+</expirationDate>
+<underlyingSecurity><underlyingSecurityTitle> value="Energizer Holdings, Inc. Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="6600">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="6600" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Restricted Stock Equivalent 10/13/08" 
+</securityTitle>
+<conversionOrExercisePrice value="0">
+</conversionOrExercisePrice>
+<exerciseDate>
+<footnoteId id="F10" /> 
+</exerciseDate>
+<expirationDate><footnoteId id="F10" /> 
+</expirationDate>
+<underlyingSecurity><underlyingSecurityTitle> value="Energizer Holdings, Inc. Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="20000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="20000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+<derivativeHolding>
+<securityTitle> value="Restricted Stock Equivalents 5/19/03" 
+</securityTitle>
+<conversionOrExercisePrice value="0">
+</conversionOrExercisePrice>
+<exerciseDate>
+<footnoteId id="F11" /> 
+</exerciseDate>
+<expirationDate><footnoteId id="F11" /> 
+</expirationDate>
+<underlyingSecurity><underlyingSecurityTitle> value="Energizer Holdings, Inc. Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="9646">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="9646" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeHolding>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="In accordance with SEC guidance authorizing aggregate reporting of same-day, same-way open market purchases and sales, the shares were sold at a price range between $68.06 and $68.1413.  Upon request, full information regarding the number of shares sold at each separate price will be provided." /> 
+ <footnote id="F2" text="Phantom stock units are payable in cash following termination of the Reporting Person&apos;s employment with Energizer Holdings, Inc." /> 
+ <footnote id="F3" text="100% exercisable on October 12, 2012 as long as Recipient is still employed on said date. Options will also become exercisable upon the Recipient&apos;s death or disability, and in the event of a change of control of the Company occurring on or after November 1, 2011." /> 
+ <footnote id="F4" text="Vesting of performance RSEs granted 2/6/09 was contingent upon achievement of Company and individual performance goals for fiscal year 2009.  Following fiscal year end, 4,670 equivalents vested and were deferred until retirement in accordance with Reporting Person&apos;s deferral election. The remaining 10,397 equivalents were forfeited in accordance with the terms of the performance award." /> 
+ <footnote id="F5" text="12.5% of Restricted Stock Equivalents will vest and convert into shares of ENR common stock in November, 2013, only if CAGR in EPS equals or exceeds 5% for the period between 9/30/10 and 9/30/13, proportionately increasing in 1/10th of 1% increments up to 100% of the RSEs granted if 12% or greater CAGR for that period is achieved.  All RSEs will also vest and convert upon the Reporting Person&apos;s death or permanent disability.  In the event of a change of control, at least 50% of the RSEs will vest, with additional percentages potentially vesting dependent upon CAGR in EPS prior to the change of control." /> 
+ <footnote id="F6" text="Restricted Stock Equivalents (RSE) granted will vest and convert into shares of ENR Common Stock on  11/1/2013 as long as Recipient is still employed on said date. All RSEs will also vest and convert upon the Reporting Person&apos;s death or permanent disability, or in the event of a change of control of the Company." /> 
+ <footnote id="F7" text="25% of Restricted Stock Equivalents (RSE) granted will vest and convert into shares of ENR Common Stock on  10/10/10.  An additional 5% will vest and convert into shares of ENR Common Stock in November,  2010, only if CAGR in earnings per share equals or exceeds  8% for the period between 9/30/07 and 9/30/10;  that percentage will be 15% if CAGR for the period equals or exceeds 9%, and 25% if CAGR for the period equals or exceeds 10%.  The remaining 50% of RSE granted will vest in its entirety and convert into shares of ENR Common Stock only if CAGR for the period equals or exceeds  15% (with incremental vesting between 11% and 15%).  All RSE will also vest and convert upon the Reporting Person&apos;s death or permanent disability.  In the event of  a change in control, some or all of the equivalents will also vest.  All equivalents that do not vest will be forfeited." /> 
+ <footnote id="F8" text="12.5% of Restricted Stock Equivalents will vest and convert into shares of ENR common stock in November, 2012, only if CAGR in EPS equals or exceeds 5% for the period between 9/30/09 and 9/30/12, proportionately increasing in 1/10th of 1% increments up to 100% of the RSEs granted if 12% or greater CAGR for that period is achieved.  All RSEs will also vest and convert upon the Reporting Person&apos;s death or permanent disability.  In the event of a change of control, at least 50% of the RSEs will vest, with additional percentages potentially vesting dependent upon CAGR in EPS prior to the change of control." /> 
+ <footnote id="F9" text="Restricted Stock Equivalents (RSE) granted will vest and convert into shares of ENR Common Stock on  10/12/2012 as long as Recipient is still employed on said date. All RSEs will also vest and convert upon the Reporting Person&apos;s death or permanent disability, or in the event of a change of control of the Company." /> 
+ <footnote id="F10" text="25% of Restricted Stock Equivalents (RSE) granted will vest and convert into shares of ENR common stock on 10/13/2011.  An additional 5% will vest and convert into shares of ENR common stock in November, 2011, only if CAGR in EPS equals or exceeds 8% for the period between 9/30/08 and 9/30/11, proportionately increasing in 1/10th of 1% increments up to 75% of the RSEs granted if 15% CAGR for that period is achieved.  All RSEs will also vest and convert upon the Reporting Person&apos;s death or permanent disability.  In the event of a change of control, at least 50% of the RSEs will vest, with additional percentages potentially vesting dependent upon CAGR in EPS prior to the change of control." /> 
+ <footnote id="F11" text="Restricted Stock Equivalents convert into shares of Energizer Common Stock - 1/3 on 5/19/06, 1/3 on 5/19/09 and 1/3 on 5/19/12, unless Reporting Person elects to defer conversion until retirement or other termination, or unless deferral of conversion is mandated by Energizer Holdings, Inc.   Equivalents subject to forfeture if Reporting Person voluntarily terminates employment prior to conversion dates, other than upon retirement after attaining age 55." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="DAVID P. HATFIELD">
+</ownerSignature>
+</ownershipDocument></Source>

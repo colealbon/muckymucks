@@ -1,0 +1,121 @@
+<Source file="./0001209191-10-053754.nc">
+<SUBMISSION ACCESSION-NUMBER="0001209191-10-053754" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001132108" CONFORMED-NAME="RIPPLEWOOD PARTNERS II LP" /><FILING-VALUES ACT="34" FILE-NUMBER="001-33485" FILM-NUMBER="101173724" FORM-TYPE="4" /><BUSINESS-ADDRESS CITY="NEW YORK" PHONE="2125826700" STATE="NY" STREET1="C/O RIPPLEWOOD HOLDINGS LLC" STREET2="ONE ROCKEFELLER PLAZA" ZIP="10020" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="7359" CIK="0001389305" CONFORMED-NAME="RSC Holdings Inc." FISCAL-YEAR-END="1231" IRS-NUMBER="221669012" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="SCOTTSDALE" PHONE="(480) 348-5918" STATE="AZ" STREET1="6929 E. GREENWAY PARKWAY SUITE 200" ZIP="85254" /><MAIL-ADDRESS CITY="SCOTTSDALE" STATE="AZ" STREET1="6929 E. GREENWAY PARKWAY SUITE 200" ZIP="85254" /></ISSUER><REPORTING-OWNER><OWNER-DATA CIK="0001400221" CONFORMED-NAME="RSC Acquisition LLC" /><FILING-VALUES ACT="34" FILE-NUMBER="001-33485" FILM-NUMBER="101173725" FORM-TYPE="4" /><BUSINESS-ADDRESS CITY="NEW YORK" PHONE="0000000000" STATE="NY" STREET1="C/O RIPPLEWOOD HOLDINGS L.L.C." STREET2="ONE ROCKEFELLER PLAZA, 32ND FLOOR" ZIP="10020" /><MAIL-ADDRESS CITY="NEW YORK" STATE="NY" STREET1="C/O RIPPLEWOOD HOLDINGS L.L.C." STREET2="ONE ROCKEFELLER PLAZA, 32ND FLOOR" ZIP="10020" /></REPORTING-OWNER><REPORTING-OWNER><OWNER-DATA CIK="0001400222" CONFORMED-NAME="Collins Family Partner Inc." /><FILING-VALUES ACT="34" FILE-NUMBER="001-33485" FILM-NUMBER="101173720" FORM-TYPE="4" /><BUSINESS-ADDRESS CITY="NEW YORK" PHONE="0000000000" STATE="NY" STREET1="C/O RIPPLEWOOD HOLDINGS L.L.C." STREET2="ONE ROCKEFELLER PLAZA, 32ND FLOOR" ZIP="10020" /><MAIL-ADDRESS CITY="NEW YORK" STATE="NY" STREET1="C/O RIPPLEWOOD HOLDINGS L.L.C." STREET2="ONE ROCKEFELLER PLAZA, 32ND FLOOR" ZIP="10020" /></REPORTING-OWNER><REPORTING-OWNER><OWNER-DATA CIK="0001400223" CONFORMED-NAME="Collins Family Partners, L.P." /><FILING-VALUES ACT="34" FILE-NUMBER="001-33485" FILM-NUMBER="101173721" FORM-TYPE="4" /><BUSINESS-ADDRESS CITY="NEW YORK" PHONE="0000000000" STATE="NY" STREET1="C/O RIPPLEWOOD HOLDINGS L.L.C." STREET2="ONE ROCKEFELLER PLAZA, 32ND FLOOR" ZIP="10020" /><MAIL-ADDRESS CITY="NEW YORK" STATE="NY" STREET1="C/O RIPPLEWOOD HOLDINGS L.L.C." STREET2="ONE ROCKEFELLER PLAZA, 32ND FLOOR" ZIP="10020" /></REPORTING-OWNER><REPORTING-OWNER><OWNER-DATA CIK="0001400224" CONFORMED-NAME="RP II GP, LLC" /><FILING-VALUES ACT="34" FILE-NUMBER="001-33485" FILM-NUMBER="101173722" FORM-TYPE="4" /><BUSINESS-ADDRESS CITY="NEW YORK" PHONE="0000000000" STATE="NY" STREET1="C/O RIPPLEWOOD HOLDINGS L.L.C." STREET2="ONE ROCKEFELLER PLAZA, 32ND FLOOR" ZIP="10020" /><MAIL-ADDRESS CITY="NEW YORK" STATE="NY" STREET1="C/O RIPPLEWOOD HOLDINGS L.L.C." STREET2="ONE ROCKEFELLER PLAZA, 32ND FLOOR" ZIP="10020" /></REPORTING-OWNER><REPORTING-OWNER><OWNER-DATA CIK="0001400225" CONFORMED-NAME="Ripplewood Partners II GP, L.P." /><FILING-VALUES ACT="34" FILE-NUMBER="001-33485" FILM-NUMBER="101173723" FORM-TYPE="4" /><BUSINESS-ADDRESS CITY="NEW YORK" PHONE="0000000000" STATE="NY" STREET1="C/O RIPPLEWOOD HOLDINGS L.L.C." STREET2="ONE ROCKEFELLER PLAZA, 32ND FLOOR" ZIP="10020" /><MAIL-ADDRESS CITY="NEW YORK" STATE="NY" STREET1="C/O RIPPLEWOOD HOLDINGS L.L.C." STREET2="ONE ROCKEFELLER PLAZA, 32ND FLOOR" ZIP="10020" /></REPORTING-OWNER></SUBMISSION><ownershipDocument documentType="4" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0001389305" 
+ issuerName="RSC Holdings Inc." 
+ issuerTradingSymbol="RRR" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001400221" 
+ rptOwnerName="RSC Acquisition LLC" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="NEW YORK" rptOwnerState="NY" rptOwnerStreet1="C/O RIPPLEWOOD HOLDINGS L.L.C." rptOwnerStreet2="ONE ROCKEFELLER PLAZA, 32ND FLOOR" rptOwnerZipCode="10020">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="0" 
+ isTenPercentOwner="0" 
+ isOther="1" 
+ otherText="See Remarks" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<reportingOwner><reportingOwnerId> rptOwnerCik="0001132108" 
+ rptOwnerName="RIPPLEWOOD PARTNERS II LP" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="NEW YORK" rptOwnerState="NY" rptOwnerStreet1="C/O RIPPLEWOOD HOLDINGS L.L.C." rptOwnerStreet2="ONE ROCKEFELLER PLAZA, 32ND FLOOR" rptOwnerZipCode="10020">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="0" 
+ isTenPercentOwner="0" 
+ isOther="1" 
+ otherText="See Remarks" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<reportingOwner><reportingOwnerId> rptOwnerCik="0001400225" 
+ rptOwnerName="Ripplewood Partners II GP, L.P." 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="NEW YORK" rptOwnerState="NY" rptOwnerStreet1="C/O RIPPLEWOOD HOLDINGS L.L.C." rptOwnerStreet2="ONE ROCKEFELLER PLAZA, 32ND FLOOR" rptOwnerZipCode="10020">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="0" 
+ isTenPercentOwner="0" 
+ isOther="1" 
+ otherText="See Remarks" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<reportingOwner><reportingOwnerId> rptOwnerCik="0001400224" 
+ rptOwnerName="RP II GP, LLC" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="NEW YORK" rptOwnerState="NY" rptOwnerStreet1="C/O RIPPLEWOOD HOLDINGS L.L.C." rptOwnerStreet2="ONE ROCKEFELLER PLAZA, 32ND FLOOR" rptOwnerZipCode="10020">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="0" 
+ isTenPercentOwner="0" 
+ isOther="1" 
+ otherText="See Remarks" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<reportingOwner><reportingOwnerId> rptOwnerCik="0001400223" 
+ rptOwnerName="Collins Family Partners, L.P." 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="NEW YORK" rptOwnerState="NY" rptOwnerStreet1="C/O RIPPLEWOOD HOLDINGS L.L.C." rptOwnerStreet2="ONE ROCKEFELLER PLAZA, 32ND FLOOR" rptOwnerZipCode="10020">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="0" 
+ isTenPercentOwner="0" 
+ isOther="1" 
+ otherText="See Remarks" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<reportingOwner><reportingOwnerId> rptOwnerCik="0001400222" 
+ rptOwnerName="Collins Family Partner Inc." 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="NEW YORK" rptOwnerState="NY" rptOwnerStreet1="C/O RIPPLEWOOD HOLDINGS L.L.C." rptOwnerStreet2="ONE ROCKEFELLER PLAZA, 32ND FLOOR" rptOwnerZipCode="10020">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="0" 
+ isTenPercentOwner="0" 
+ isOther="1" 
+ otherText="See Remarks" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock, no par value per share" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="1725066" 
+</transactionShares>
+<transactionPricePerShare value="8.16">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="3049012" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+<footnoteId id="F1" /> 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<derivativeTable />
+<footnotes> <footnote id="F1" text="RSC Acquisition LLC is a limited liability company whose sole member is Ripplewood Partners II, L.P., whose general partner is Ripplewood Partners II GP, L.P., whose general partner is RP II GP, LLC, whose sole member is Collins Family Partners, L.P., which is managed by its general partner, Collins Family Partners, Inc. Timothy Collins, as the president and sole shareholder of Collins Family Partners, Inc., may be deemed to share beneficial ownership of the shares shown as beneficially owned by RSC Acquisition LLC. However, pursuant to Rule 16a-1(a)(4) promulgated under the Securities Exchange Act of 1934, as amended, Mr. Collins disclaims that he is the beneficial owner of such shares, except to the extent of his pecuniary interest in such shares." /> 
+</footnotes>
+ remarks="Party to stockholders agreement" 
+<ownerSignature signatureDate="2010-11-08" signatureName="RSC ACQUISITION LLC, By: Ripplewood Partners II, L.P., its sole Member, By: Ripplewood Partners II GP, L.P., its General Partner, By: RP II GP, LLC, its General Partner, By: /s/ Christopher P. Minnetian, Name: Christopher P. Minnetian, Title: Secretary">
+</ownerSignature>
+</ownershipDocument></Source>

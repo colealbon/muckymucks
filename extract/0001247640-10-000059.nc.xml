@@ -1,0 +1,185 @@
+<Source file="./0001247640-10-000059.nc">
+<SUBMISSION ACCESSION-NUMBER="0001247640-10-000059" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001467684" CONFORMED-NAME="Miller Andrew M." /><FILING-VALUES ACT="34" FILE-NUMBER="000-27978" FILM-NUMBER="101173795" FORM-TYPE="4" /><MAIL-ADDRESS CITY="PLEASANTON" STATE="CA" STREET1="4750 WILLOW RD." ZIP="94588" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="3661" CIK="0001010552" CONFORMED-NAME="POLYCOM INC" FISCAL-YEAR-END="1231" IRS-NUMBER="943128324" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="PLEASANTON" PHONE="9259246000" STATE="CA" STREET1="4750 WILLOW ROAD" ZIP="94588-2708" /><MAIL-ADDRESS CITY="PLEASANTON" STATE="CA" STREET1="4750 WILLOW RD" ZIP="94588" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0001010552" 
+ issuerName="POLYCOM INC" 
+ issuerTradingSymbol="PLCM" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001467684" 
+ rptOwnerName="Miller Andrew M." 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="PLEASANTON" rptOwnerState="CA" rptOwnerStreet1="4750 WILLOW ROAD" rptOwnerStreet2="" rptOwnerZipCode="94588" />
+
+
+<reportingOwnerRelationship isDirector="1" isOfficer="1" isOther="0" isTenPercentOwner="0" officerTitle="President and CEO">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="12500" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="32899" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="F" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="4858" 
+</transactionShares>
+<transactionPricePerShare value="34.65">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="28041" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<derivativeTable>
+<derivativeTransaction><securityTitle> value="Performance Shares" 
+</securityTitle>
+<conversionOrExercisePrice value="0">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="12500" 
+<footnoteId id="F1" /> 
+</transactionShares>
+<transactionPricePerShare> value="0" 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate><footnoteId id="F1" /> 
+</exerciseDate>
+<expirationDate><footnoteId id="F1" /> 
+</expirationDate>
+<underlyingSecurity><underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="12500">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="62500" 
+<footnoteId id="F1" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</derivativeTransaction>
+<derivativeTransaction><securityTitle> value="Performance Shares" 
+</securityTitle>
+<conversionOrExercisePrice value="0">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="A" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="17500" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate><footnoteId id="F2" /> 
+</exerciseDate>
+<expirationDate><footnoteId id="F2" /> 
+</expirationDate>
+<underlyingSecurity><underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="17500">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="17500" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</derivativeTransaction>
+<derivativeTransaction><securityTitle> value="Restricted Stock Units" 
+</securityTitle>
+<conversionOrExercisePrice value="0">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="A" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="17500" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate><footnoteId id="F3" /> 
+</exerciseDate>
+<expirationDate><footnoteId id="F3" /> 
+</expirationDate>
+<underlyingSecurity><underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="17500">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="17500" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<footnotes>
+<footnote id="F1" text="On November 4, 2010, the independent members of Polycom&apos;s Board of Directors certified the achievement of targets for market share and revenue for certain products. The Performance Shares vested as to 12,500 shares on that date.  The remaining 62,500 shares under the Performance Shares vest on each six-month anniversary of the August 4, 2009 grant date commencing 18 months after the grant date and ending 42 months after the grant date, contingent upon the achievement of targets for Total Shareholder Return. The actual total shares that may vest ranges from 0% to 200% of the remaining 62,500 share target amount, depending upon performance. Vesting of all shares further is contingent on continued employment through the applicable vesting date.  The award shall be fully vested as of February 4, 2013 or upon the date performance is certified, if later." /> 
+ <footnote id="F2" text="Each Target Performance Share represents a contingent right to receive one share of Polycom, Inc. common stock. The number of shares reflected in this filing is at the target award level. The actual shares that may vest ranges from 0% to 200% of the target amount, depending upon performance.The Performance Shares vest upon achievement of certain performance criteria based on Total Shareholder Return and are scheduled to vest as to one-third of the total target award on each of the first three (3) anniversaries of the November 4, 2010 Grant Date (or such later date as the Compensation Committee certifies achievement of the performance criteria)." /> 
+ <footnote id="F3" text="This Restricted Stock Unit Award is scheduled to vest as to one-third of the total shares awarded on each of the first three (3) anniversaries of the November 4, 2010 Grant Date, until fully vested on November 4, 2013." /> 
+</footnotes>
+<remarks />
+<ownerSignature> signatureName="/s/ JoAnne Zinman , Attorney-in-Fact for Andrew M. Miller" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

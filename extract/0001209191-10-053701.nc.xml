@@ -1,0 +1,364 @@
+<Source file="./0001209191-10-053701.nc">
+<SUBMISSION ACCESSION-NUMBER="0001209191-10-053701" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0000942061" CONFORMED-NAME="LINDNER S CRAIG" FISCAL-YEAR-END="1231" STATE-OF-INCORPORATION="OH" /><FILING-VALUES ACT="34" FILE-NUMBER="001-13653" FILM-NUMBER="101172780" FORM-TYPE="4" /><MAIL-ADDRESS CITY="CINCINNATI" STATE="OH" STREET1="2ND FLOOR PROVIDENT TOWER" STREET2="ONE EAST FOURTH STREET" ZIP="45202" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="6331" CIK="0001042046" CONFORMED-NAME="AMERICAN FINANCIAL GROUP INC" FISCAL-YEAR-END="1208" IRS-NUMBER="311544320" STATE-OF-INCORPORATION="OH" /><BUSINESS-ADDRESS CITY="CINCINNATI" PHONE="5135792121" STATE="OH" STREET1="ONE EAST FOURTH STREET" STREET2="SUITE 919" ZIP="45202" /><MAIL-ADDRESS CITY="CINCINNATI" STATE="OH" STREET1="ONE EAST FOURTH STREET" STREET2="SUITE 919" ZIP="45202" /><FORMER-COMPANY DATE-CHANGED="19970709" FORMER-CONFORMED-NAME="AMERICAN FINANCIAL GROUP HOLDINGS INC" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0001042046" 
+ issuerName="AMERICAN FINANCIAL GROUP INC" 
+ issuerTradingSymbol="AFG" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0000942061" 
+ rptOwnerName="LINDNER S CRAIG" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="CINCINNATI" rptOwnerState="OH" rptOwnerStreet1="ONE EAST FOURTH STREET" rptOwnerStreet2="" rptOwnerZipCode="45202" />
+
+
+<reportingOwnerRelationship isDirector="1" isOfficer="1" isOther="0" isTenPercentOwner="0" officerTitle="Co-CEO &amp; Co-President">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-09-16">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="5" 
+ transactionCode="G" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionTimeliness value="E">
+</transactionTimeliness>
+<transactionAmounts>
+<transactionShares> value="20000" 
+</transactionShares>
+<transactionPricePerShare value="0.00">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="2346089" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="#1">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-09-23">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="5" 
+ transactionCode="G" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionTimeliness value="E">
+</transactionTimeliness>
+<transactionAmounts>
+<transactionShares> value="2500" 
+</transactionShares>
+<transactionPricePerShare value="0.00">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="2343589" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="#1">
+<footnoteId id="F1" /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-10-15">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="5" 
+ transactionCode="G" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionTimeliness value="E">
+</transactionTimeliness>
+<transactionAmounts>
+<transactionShares> value="10000" 
+</transactionShares>
+<transactionPricePerShare value="0.00">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="2333589" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="#1">
+<footnoteId id="F1" /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-10-15">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="5" 
+ transactionCode="G" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionTimeliness value="E">
+</transactionTimeliness>
+<transactionAmounts>
+<transactionShares> value="1000" 
+</transactionShares>
+<transactionPricePerShare value="0.00">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="2332589" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="#1">
+<footnoteId id="F1" /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="S" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="75000" 
+</transactionShares>
+<transactionPricePerShare value="31.5207">
+<footnoteId id="F2" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="D" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="2257589" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="#1">
+<footnoteId id="F1" /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="S" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="75000" 
+</transactionShares>
+<transactionPricePerShare value="31.6817">
+<footnoteId id="F3" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="D" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="2182589" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="#1">
+<footnoteId id="F1" /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-08">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="S" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="50000" 
+</transactionShares>
+<transactionPricePerShare value="31.4535">
+<footnoteId id="F4" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="D" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="2132589" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="#1">
+<footnoteId id="F1" /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeHolding><securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="111120" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="#3">
+<footnoteId id="F5" /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding><securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="23554" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="#6">
+<footnoteId id="F6" /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding><securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="1020043" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="#9">
+<footnoteId id="F7" /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding><securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="1485000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="#10">
+<footnoteId id="F8" /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding><securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="27026.41" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="#12">
+<footnoteId id="F9" /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding><securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="37464" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="#16">
+<footnoteId id="F10" /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding><securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="36330" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="#20">
+<footnoteId id="F11" /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="S" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="50000" 
+</transactionShares>
+<transactionPricePerShare value="31.6075">
+<footnoteId id="F12" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="D" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="250546" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="#23">
+<footnoteId id="F13" /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<footnotes>
+<footnote id="F1" text="Indirect #1:  SCL TTEE of the SCL Living Trust DTD 03/30/83." /> 
+ <footnote id="F2" text="The price reported in Column 4 is a weighted average price.  These shares were sold in multiple transactions at prices ranging from $31.49 to $31.59, inclusive.  The reporting person undertakes to provide to American Financial Group, Inc., (AFG), any security holder of AFG, or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the ranges set forth in footnote 2, 3, 4 and 12 to this Form 4." /> 
+ <footnote id="F3" text="The price reported in Column 4 is a weighted average price.  These shares were sold in multiple transactions at prices ranging from $31.60  to $31.87, inclusive." /> 
+ <footnote id="F4" text="The price reported in Column 4 is a weighted average price.  These shares were sold in multiple transactions at prices ranging from $31.40 to 31.62, inclusive." /> 
+ <footnote id="F5" text="Indirect #3:  By Frances R. Lindner, Trustee for the Frances R. Lindner living Trust dated 9/13/93. (SCL)" /> 
+ <footnote id="F6" text="Indirect #6:  FRL, Cust. CFL Under OH  Tsfr to Min Act. (SCL)" /> 
+ <footnote id="F7" text="Indirect #9:  KEL, TTEE Under an Irrev. Trust Ind. with SCL DTD 12/22/83. (SCL)" /> 
+ <footnote id="F8" text="Indirect #10:  SCL Investments, LLC (SCL)" /> 
+ <footnote id="F9" text="Indirect #12: The Company&apos;s Retirement and Savings Plans.  The number of shares of Common Stock which would be represented by the value of the Reporting Person&apos;s Company Securities Funds account in the Issuer&apos;s Retirement and Savings Plan is based on a statement dated as of 12/31/09. (SCL)" /> 
+ <footnote id="F10" text="Indirect #16:  M. Nyhart TTEE CFL Under Trust Agreement dtd 3/8/96. (SCL)" /> 
+ <footnote id="F11" text="Indirect #20:  KEL, TTEE CFL C/U Irrev Trust DTD 2/13/85. (SCL)" /> 
+ <footnote id="F12" text="The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $31.60 to $31.63, inclusive." /> 
+ <footnote id="F13" text="Indirect #23:  CFL TR U/A DTD 4/21/05 FRL TTEE (SCL)" /> 
+</footnotes>
+<remarks />
+<ownerSignature><signatureName>S. Craig LindnerBy:  Karl J. Grafe, as Attorney-in-Fact</signatureName>
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

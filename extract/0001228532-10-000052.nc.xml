@@ -1,0 +1,78 @@
+<Source file="./0001228532-10-000052.nc">
+<SUBMISSION ACCESSION-NUMBER="0001228532-10-000052" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101105" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001391790" CONFORMED-NAME="Cooper Beth W" /><FILING-VALUES ACT="34" FILE-NUMBER="001-11590" FILM-NUMBER="101172290" FORM-TYPE="4" /><MAIL-ADDRESS CITY="DOVER" STATE="DE" STREET1="CHESAPEAKE UTILITIES CORPORATION" STREET2="909 SILVER LAKE BOULEVARD" ZIP="19904" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="4923" CIK="0000019745" CONFORMED-NAME="CHESAPEAKE UTILITIES CORP" FISCAL-YEAR-END="1231" IRS-NUMBER="510064146" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="DOVER" PHONE="3027346799" STATE="DE" STREET1="909 SILVER LAKE BLVD" STREET2="PO BOX 615" ZIP="19903-0615" /><MAIL-ADDRESS CITY="DOVER" STATE="DE" STREET1="909 SILVER LAKE BLVD" ZIP="19904" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-05" schemaVersion="X0303">
+<issuer> issuerCik="0000019745" 
+ issuerName="CHESAPEAKE UTILITIES CORP" 
+ issuerTradingSymbol="CPK" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001391790" 
+ rptOwnerName="Cooper Beth W" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="DOVER" rptOwnerState="DE" rptOwnerStreet1="CHESAPEAKE UTILITIES CORPORATION" rptOwnerStreet2="909 SILVER LAKE BOULEVARD" rptOwnerZipCode="19904">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="1" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+ officerTitle="Sr.VP, CFO, Treas. &amp; Corp. Sec" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="P" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="5" 
+</transactionShares>
+<transactionPricePerShare value="36.51">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="8605" 
+<footnoteId id="F1" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="P" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="0" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="6118" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="Via 401k Plan">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<footnotes> <footnote id="F1" text="These shares were acquired through the Company&apos;s Automatic Dividend Reinvestment and Direct Stock Purchase Plan." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="Beth W. Cooper">
+</ownerSignature>
+</ownershipDocument></Source>

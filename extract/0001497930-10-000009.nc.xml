@@ -1,0 +1,111 @@
+<Source file="./0001497930-10-000009.nc">
+<SUBMISSION ACCESSION-NUMBER="0001497930-10-000009" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101105" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001342113" CONFORMED-NAME="WALLING KEVIN R" /><FILING-VALUES ACT="34" FILE-NUMBER="001-05318" FILM-NUMBER="101171150" FORM-TYPE="4" /><MAIL-ADDRESS CITY="LATROBE" STATE="PA" STREET1="1600 TECHNOLOGY WAY" STREET2="P.O. BOX 231" ZIP="15650" /><FORMER-NAME DATE-CHANGED="20051021" FORMER-CONFORMED-NAME="Walling Kevin R" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="3541" CIK="0000055242" CONFORMED-NAME="KENNAMETAL INC" FISCAL-YEAR-END="0630" IRS-NUMBER="250900168" STATE-OF-INCORPORATION="PA" /><BUSINESS-ADDRESS CITY="LATROBE" PHONE="7245395000" STATE="PA" STREET1="1600 TECHNOLOGY WAY" STREET2="P O  BOX 231" ZIP="15650" /><MAIL-ADDRESS CITY="LATROBE" STATE="PA" STREET1="1600 TECHNOLOGY WAY" STREET2="PO BOX 231" ZIP="15650" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-05" schemaVersion="X0303">
+<issuer> issuerCik="0000055242" 
+ issuerName="KENNAMETAL INC" 
+ issuerTradingSymbol="kmt" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001342113" 
+ rptOwnerName="WALLING KEVIN R" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="LATROBE" rptOwnerState="PA" rptOwnerStreet1="1600 TECHNOLOGY WAY" rptOwnerStreet2="P.O. BOX 231" rptOwnerZipCode="15650">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="1" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+ officerTitle="Vice President" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="13000" 
+</transactionShares>
+<transactionPricePerShare value="25.52">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="26211" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="13000" 
+</transactionShares>
+<transactionPricePerShare value="35.004">
+<footnoteId id="F1" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="D" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="13211" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<derivativeTable><derivativeTransaction><securityTitle> value="Non-qualified Stock Option (right to buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="25.52">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="13000" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate> value="2009-11-01" 
+</exerciseDate>
+<expirationDate value="2015-11-01">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="13000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="13000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="This price is a weighted average price.  The range of prices for transactions was $35.00 - $35.06.  Full information regarding the number of shares sold at each separate price will be provided upon request." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="By: Kevin G. Nowe  For: Kevin R. Walling">
+</ownerSignature>
+</ownershipDocument></Source>

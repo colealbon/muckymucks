@@ -1,0 +1,76 @@
+<Source file="./0001246360-10-003646.nc">
+<SUBMISSION ACCESSION-NUMBER="0001246360-10-003646" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101105" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0000904067" CONFORMED-NAME="SOONG RAYMOND" /><FILING-VALUES ACT="34" FILE-NUMBER="002-25577" FILM-NUMBER="101173665" FORM-TYPE="4" /><MAIL-ADDRESS CITY="WESTLAKE" STATE="CA" STREET1="C/O DIODES INC" STREET2="3050 E HILLCREST DR" ZIP="91362" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="3674" CIK="0000029002" CONFORMED-NAME="DIODES INC /DEL/" FISCAL-YEAR-END="1231" IRS-NUMBER="952039518" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="DALLAS" PHONE="972-385-2810" STATE="TX" STREET1="15660 NORTH DALLAS PARKWAY" STREET2="SUITE 850" ZIP="75248" /><MAIL-ADDRESS CITY="DALLAS" STATE="TX" STREET1="15660 NORTH DALLAS PARKWAY" STREET2="SUITE 850" ZIP="75248" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="false" periodOfReport="2010-11-05" schemaVersion="X0303">
+<issuer> issuerCik="0000029002" 
+ issuerName="DIODES INC /DEL/" 
+ issuerTradingSymbol="DIOD" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0000904067" 
+ rptOwnerName="SOONG RAYMOND" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="DALLAS" rptOwnerState="TX" rptOwnerStreet1="15660 DALLAS PARKWAY" rptOwnerStreet2="SUITE 850" rptOwnerZipCode="75248">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="true" 
+ isOfficer="false" 
+ isTenPercentOwner="false" 
+ isOther="false" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Diodes Inc. Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="S" 
+ equitySwapInvolved="false" 
+<footnoteId id="F1" /> 
+</transactionCoding>
+<transactionAmounts><transactionShares> value="2540" 
+</transactionShares>
+<transactionPricePerShare value="23.0313">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="176538" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Diodes Inc. Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="S" 
+ equitySwapInvolved="false" 
+<footnoteId id="F2" /> 
+</transactionCoding>
+<transactionAmounts><transactionShares> value="100" 
+</transactionShares>
+<transactionPricePerShare value="23">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="176438" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<footnotes> <footnote id="F1" text="Sale pursuant to previously filed 10b5-1 Plan." /> 
+ <footnote id="F2" text="Sale pursuant to previously filed 10b5-1 Plan." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="Richard D. White as power of attorney for Raymond Soong">
+</ownerSignature>
+</ownershipDocument></Source>

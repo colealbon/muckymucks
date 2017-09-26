@@ -1,0 +1,38 @@
+<Source file="./0000914190-10-000665.nc">
+<SUBMISSION ACCESSION-NUMBER="0000914190-10-000665" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101105" PUBLIC-DOCUMENT-COUNT="1" TYPE="3"><REPORTING-OWNER><OWNER-DATA CIK="0001504920" CONFORMED-NAME="Craney Stephen H." /><FILING-VALUES ACT="34" FILE-NUMBER="001-34839" FILM-NUMBER="101171100" FORM-TYPE="3" /><MAIL-ADDRESS CITY="WINONA" STATE="MN" STREET1="25340 SANDPIPER LANE" ZIP="55987" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="3845" CIK="0001488917" CONFORMED-NAME="Electromed, Inc." IRS-NUMBER="000000000" STATE-OF-INCORPORATION="MN" /><BUSINESS-ADDRESS CITY="NEW PRAGUE" PHONE="952-758-9299" STATE="MN" STREET1="500 SIXTH AVENUE NW" ZIP="56071" /><MAIL-ADDRESS CITY="NEW PRAGUE" STATE="MN" STREET1="500 SIXTH AVENUE NW" ZIP="56071" /></ISSUER></SUBMISSION><ownershipDocument documentType="3" noSecuritiesOwned="0" periodOfReport="2010-11-05" schemaVersion="X0203">
+<issuer> issuerCik="0001488917" 
+ issuerName="Electromed, Inc." 
+ issuerTradingSymbol="ELMD" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001504920" 
+ rptOwnerName="Craney Stephen H." 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="NEW PRAGUE" rptOwnerState="MN" rptOwnerStreet1="C/O ELECTROMED, INC." rptOwnerStreet2="500 SIXTH STREET NW" rptOwnerZipCode="56701">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="1" 
+ isOfficer="0" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeHolding><securityTitle> value="Common stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="258334" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+</nonDerivativeTable>
+<remarks /> 
+<ownerSignature signatureDate="2010-11-05" signatureName="/s/ Stephen H. Craney">
+</ownerSignature>
+</ownershipDocument></Source>

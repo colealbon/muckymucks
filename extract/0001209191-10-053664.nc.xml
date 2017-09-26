@@ -1,0 +1,56 @@
+<Source file="./0001209191-10-053664.nc">
+<SUBMISSION ACCESSION-NUMBER="0001209191-10-053664" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001256470" CONFORMED-NAME="MARETT MICHAEL A" /><FILING-VALUES ACT="34" FILE-NUMBER="000-22920" FILM-NUMBER="101172123" FORM-TYPE="4" /><MAIL-ADDRESS CITY="ATLANTA" STATE="GA" STREET1="1600 PARKWOOD CIRCLE" STREET2="STE 200" ZIP="30339-2119" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="3669" CIK="0000870753" CONFORMED-NAME="NUMEREX CORP /PA/" FISCAL-YEAR-END="1231" IRS-NUMBER="112948749" STATE-OF-INCORPORATION="PA" /><BUSINESS-ADDRESS CITY="ATLANTA" PHONE="770-693-5950" STATE="GA" STREET1="1600 PARKWOOD CIRCLE" STREET2="SUITE 200" ZIP="30339" /><MAIL-ADDRESS CITY="ATLANTA" STATE="GA" STREET1="1600 PARKWOOD CIRCLE" STREET2="SUITE 200" ZIP="30339" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0000870753" 
+ issuerName="NUMEREX CORP /PA/" 
+ issuerTradingSymbol="NMRX" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001256470" 
+ rptOwnerName="MARETT MICHAEL A" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="ATLANTA" rptOwnerState="GA" rptOwnerStreet1="1600 PARKWOOD CIRCLE" rptOwnerStreet2="SUITE 500" rptOwnerZipCode="30339">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="1" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+ officerTitle="EVP" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="S" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="3000" 
+</transactionShares>
+<transactionPricePerShare value="8.83">
+<footnoteId id="F1" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="D" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="1350" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<footnotes> <footnote id="F1" text="The price reported in Column 4 is a weighted average price. These shares were sold in multiple transations at prices ranging from $8.75 to $8.93, inclusive. The reporting person undertakes to provide to the Registrant, any security holder of the Registrant, or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the ranges set forth in footnote 1 to this Form 4." /> 
+</footnotes>
+<remarks />
+<ownerSignature> signatureName="/s/Michael A. Marett" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

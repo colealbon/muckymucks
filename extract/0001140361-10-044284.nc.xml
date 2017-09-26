@@ -1,0 +1,73 @@
+<Source file="./0001140361-10-044284.nc">
+<SUBMISSION ACCESSION-NUMBER="0001140361-10-044284" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20100930" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001258286" CONFORMED-NAME="ATWELL ROBERT P" /><FILING-VALUES ACT="34" FILE-NUMBER="000-30785" FILM-NUMBER="101173567" FORM-TYPE="4" /><MAIL-ADDRESS CITY="SAN MARCOS" STATE="CA" STREET1="100 SAN MARCOS BLVD STE 400" ZIP="92069" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="7812" CIK="0001115818" CONFORMED-NAME="Camelot Entertainment Group, Inc." FISCAL-YEAR-END="1231" IRS-NUMBER="522195605" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="IRVINE" PHONE="949-754-3030" STATE="CA" STREET1="8001 IRVINE CENTER DRIVE" STREET2="SUITE 400" ZIP="82618" /><MAIL-ADDRESS CITY="IRVINE" STATE="CA" STREET1="8001 IRVINE CENTER DRIVE" STREET2="SUITE 400" ZIP="82618" /><FORMER-COMPANY DATE-CHANGED="20000530" FORMER-CONFORMED-NAME="DSTAGE COM INC" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-09-30" schemaVersion="X0303">
+<issuer> issuerCik="0001115818" 
+ issuerName="Camelot Entertainment Group, Inc." 
+ issuerTradingSymbol="CMGR" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001258286" 
+ rptOwnerName="ATWELL ROBERT P" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="IRVINE" rptOwnerState="CA" rptOwnerStreet1="8001 IRVINE CENTER DRIVE, SUITE 400" rptOwnerStreet2="" rptOwnerZipCode="92618" />
+
+
+<reportingOwnerRelationship isDirector="1" isOfficer="1" isOther="0" isTenPercentOwner="1" officerTitle="President &amp; CEO">
+<otherText /> 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable>
+<nonDerivativeTransaction><securityTitle> value="Preferred A 144 Stock" 
+</securityTitle>
+<transactionDate value="2010-09-30">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="P" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="7749390" 
+</transactionShares>
+<transactionPricePerShare value=".0001">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="21374400" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Preferred B 144 Stock" 
+</securityTitle>
+<transactionDate value="2010-09-30">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="P" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="855979" 
+</transactionShares>
+<transactionPricePerShare value=".0001">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="27564300" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<derivativeTable /> 
+<remarks /> 
+<ownerSignature signatureDate="2010-11-08" signatureName="ROBERT P. ATWELL">
+</ownerSignature>
+</ownershipDocument></Source>

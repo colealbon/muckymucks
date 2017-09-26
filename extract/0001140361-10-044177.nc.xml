@@ -1,0 +1,45 @@
+<Source file="./0001140361-10-044177.nc">
+<SUBMISSION ACCESSION-NUMBER="0001140361-10-044177" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20100301" PUBLIC-DOCUMENT-COUNT="1" TYPE="3/A"><REPORTING-OWNER><OWNER-DATA CIK="0001486080" CONFORMED-NAME="Bhatia Mohit" /><FILING-VALUES ACT="34" FILE-NUMBER="001-33626" FILM-NUMBER="101172448" FORM-TYPE="3/A" /><MAIL-ADDRESS CITY="NEW YORK" STATE="NY" STREET1="C/O GENPACT PROCESS SOLUTIONS LLC" STREET2="105 MADISION AVENUE, 2ND FLOOR" ZIP="10016" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="8742" CIK="0001398659" CONFORMED-NAME="Genpact LTD" FISCAL-YEAR-END="1231" IRS-NUMBER="980533350" STATE-OF-INCORPORATION="D0" /><BUSINESS-ADDRESS CITY="HAMILTON" PHONE="4412952244" STATE="D0" STREET1="CANON&apos;S COURT" STREET2="22 VICTORIA STREET" ZIP="HM122" /><MAIL-ADDRESS CITY="HAMILTON" STATE="D0" STREET1="CANON&apos;S COURT" STREET2="22 VICTORIA STREET" ZIP="HM122" /></ISSUER></SUBMISSION><ownershipDocument dateOfOriginalSubmission="2010-03-01" documentType="3/A" noSecuritiesOwned="0" periodOfReport="2010-03-01" schemaVersion="X0203">
+<issuer> issuerCik="0001398659" 
+ issuerName="Genpact LTD" 
+ issuerTradingSymbol="G" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001486080" 
+ rptOwnerName="Bhatia Mohit" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="NEW YORK" rptOwnerState="NY" rptOwnerStreet1="C/O GENPACT PROCESS SOLUTIONS, LLC" rptOwnerStreet2="105 MADISON AVENUE, 2ND FLOOR" rptOwnerZipCode="10016">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="1" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+ officerTitle="Chief Financial Officer" 
+<otherText /> 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable>
+<nonDerivativeHolding><securityTitle> value="Common Shares" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="11104" 
+<footnoteId id="F1" /> 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature>
+<directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+</nonDerivativeTable>
+<derivativeTable /> 
+<footnotes>
+<footnote id="F1" text="These common shares were unintentionally omitted from the initial Form 3 filed by the Reporting Person." /> 
+</footnotes>
+<remarks />
+<ownerSignature> signatureName="/s/ Heather White, as Attorney-in-fact for Mohit Bhatia" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

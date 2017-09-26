@@ -1,0 +1,117 @@
+<Source file="./0001181431-10-054066.nc">
+<SUBMISSION ACCESSION-NUMBER="0001181431-10-054066" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001212364" CONFORMED-NAME="CORTES JOSE" /><FILING-VALUES ACT="34" FILE-NUMBER="001-15477" FILM-NUMBER="101173214" FORM-TYPE="4" /><MAIL-ADDRESS CITY="SAN DIEGO" STATE="CA" STREET1="C/O MAXWELL TECHNOLOGIES INC" STREET2="4244 BALBOA AVE" ZIP="92123" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="3690" CIK="0000319815" CONFORMED-NAME="MAXWELL TECHNOLOGIES INC" FISCAL-YEAR-END="1231" IRS-NUMBER="952390133" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="SAN DIEGO" PHONE="858-503-3300" STATE="CA" STREET1="9244 BALBOA AVENUE" ZIP="92123" /><MAIL-ADDRESS CITY="SAN DIEGO" STATE="CA" STREET1="9244 BALBOA AVENUE" ZIP="92123" /><FORMER-COMPANY DATE-CHANGED="19920703" FORMER-CONFORMED-NAME="MAXWELL LABORATORIES INC /DE/" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0000319815" 
+ issuerName="MAXWELL TECHNOLOGIES INC" 
+ issuerTradingSymbol="MXWL" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001212364" 
+ rptOwnerName="CORTES JOSE" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="SAN DIEGO" rptOwnerState="CA" rptOwnerStreet1="9244  BALBOA AVENUE" rptOwnerStreet2="" rptOwnerZipCode="92123" />
+
+
+<reportingOwnerRelationship isDirector="1" isOfficer="0" isOther="0" isTenPercentOwner="0">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="18700" 
+</transactionShares>
+<transactionPricePerShare value="16.2617">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="1463732" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="By Montena, S.A.">
+<footnoteId id="F1" /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="11729" 
+</transactionShares>
+<transactionPricePerShare value="16.2675">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="1452003" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="By Montena, S.A.">
+<footnoteId id="F1" /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-08">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="34678" 
+</transactionShares>
+<transactionPricePerShare value="16.0415">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="1414325" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="By Montena, S.A.">
+<footnoteId id="F1" /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeHolding><securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="24707" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+<nonDerivativeHolding>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="5000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="By Mother-in-Law">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+</nonDerivativeTable>
+<footnotes> <footnote id="F1" text="Mr. Cortes is a principal in Montena, SA. Mr. Cortes may be deemed to exercise voting and investment power over such shares. Mr. Cortes disclaims beneficial ownership of such shares, except to his proportionate interest therein." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="Kevin S. Royal - Attorney in Fact">
+</ownerSignature>
+</ownershipDocument></Source>

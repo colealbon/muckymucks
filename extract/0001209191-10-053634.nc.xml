@@ -1,0 +1,75 @@
+<Source file="./0001209191-10-053634.nc">
+<SUBMISSION ACCESSION-NUMBER="0001209191-10-053634" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001453651" CONFORMED-NAME="Sisler Lee M" /><FILING-VALUES ACT="34" FILE-NUMBER="000-27894" FILM-NUMBER="101171819" FORM-TYPE="4" /><MAIL-ADDRESS CITY="UPPER SANDUSKY" STATE="OH" STREET1="118 SOUTH SANDUSKY AVENUE" ZIP="43351" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="6022" CIK="0001009976" CONFORMED-NAME="COMMERCIAL BANCSHARES INC \OH\" FISCAL-YEAR-END="1231" IRS-NUMBER="341787239" STATE-OF-INCORPORATION="OH" /><BUSINESS-ADDRESS CITY="UPPER SANDUSKY" PHONE="4192945781" STATE="OH" STREET1="118 S SANDUSKY AVE" STREET2="P O BOX 90" ZIP="43351" /><MAIL-ADDRESS CITY="UPPER SANDUSKY" STATE="OH" STREET1="118 S SANDUSKY AVE" STREET2="PO BOX 90" ZIP="43351" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0001009976" 
+ issuerName="COMMERCIAL BANCSHARES INC \OH\" 
+ issuerTradingSymbol="CMOH" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001453651" 
+ rptOwnerName="Sisler Lee M" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="MARION" rptOwnerState="OH" rptOwnerStreet1="3599 GOODING RD" rptOwnerStreet2="" rptOwnerZipCode="43302" />
+
+
+<reportingOwnerRelationship isDirector="1" isOfficer="0" isOther="0" isTenPercentOwner="0">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="P" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="178" 
+</transactionShares>
+<transactionPricePerShare value="14.38">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="25824" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<derivativeTable><derivativeHolding><securityTitle> value="Shares held under deferred compensation plan" 
+</securityTitle>
+<conversionOrExercisePrice>
+<footnoteId id="F1" /> 
+</conversionOrExercisePrice>
+<exerciseDate><footnoteId id="F2" /> 
+</exerciseDate>
+<expirationDate><footnoteId id="F2" /> 
+</expirationDate>
+<underlyingSecurity><underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="758.5111">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="758.5111" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="Held in rabbi trust">
+</natureOfOwnership>
+</ownershipNature>
+</derivativeHolding>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="The conversion rate for these shares is 1 for 1." /> 
+ <footnote id="F2" text="These shares are exercisable immediately and participant account balances are payable upon termination of service on the Company&apos;s Board of Directors." /> 
+</footnotes>
+<remarks />
+<ownerSignature> signatureName="/s/ David J. Browne, as power of attorney for Lee M. Sisler" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

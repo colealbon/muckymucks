@@ -1,0 +1,58 @@
+<Source file="./0001140361-10-044308.nc">
+<SUBMISSION ACCESSION-NUMBER="0001140361-10-044308" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101108" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001296321" CONFORMED-NAME="BOUTSIKARIS JOHN C" /><FILING-VALUES ACT="34" FILE-NUMBER="001-33919" FILM-NUMBER="101173867" FORM-TYPE="4" /><MAIL-ADDRESS CITY="WOODINVILLE" STATE="MN" STREET1="14206 207TH PLACE NE" ZIP="98077-7633" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="3550" CIK="0000906193" CONFORMED-NAME="KEY TECHNOLOGY INC" FISCAL-YEAR-END="0930" IRS-NUMBER="930822509" STATE-OF-INCORPORATION="OR" /><BUSINESS-ADDRESS CITY="WALLA WALLA" PHONE="5095292161" STATE="WA" STREET1="150 AVERY ST" ZIP="99362" /><MAIL-ADDRESS CITY="WALLA WALLA" STATE="WA" STREET1="150 AVERY STREET" ZIP="99362" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-08" schemaVersion="X0303">
+<issuer> issuerCik="0000906193" 
+ issuerName="KEY TECHNOLOGY INC" 
+ issuerTradingSymbol="KTEC" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001296321" 
+ rptOwnerName="BOUTSIKARIS JOHN C" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="WALLA WALLA" rptOwnerState="WA" rptOwnerStreet1="C/O KEY TECHNOLOGY, INC." rptOwnerStreet2="150 AVERY STREET" rptOwnerZipCode="99362">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="1" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+ officerTitle="SVP GLOBAL SALES &amp; AFTERMARKET" 
+<otherText /> 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable>
+<nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-08">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="A" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="3284" 
+<footnoteId id="F1" /> 
+</transactionShares>
+<transactionPricePerShare> value="0" 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="68124" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<derivativeTable /> 
+<footnotes>
+<footnote id="F1" text="Represents restricted stock award the restrictions on which shall lapse on December 15, 2011 based on the achievement of certain performance criteria for the year ended September 30, 2011 and continued employment." /> 
+</footnotes>
+<remarks />
+<ownerSignature> signatureName="/s/ John C. Boutsikaris" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

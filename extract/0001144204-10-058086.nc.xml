@@ -1,0 +1,129 @@
+<Source file="./0001144204-10-058086.nc">
+<SUBMISSION ACCESSION-NUMBER="0001144204-10-058086" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101025" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001408381" CONFORMED-NAME="Yu Xiaojing" /><FILING-VALUES ACT="34" FILE-NUMBER="001-33929" FILM-NUMBER="101170782" FORM-TYPE="4" /><MAIL-ADDRESS CITY="BEIJING" STATE="F4" STREET1="SUITE 305, ZEYANG TOWER" STREET2="NO. 166 FUSHI ROAD, SHIJINGSHAN DISTRICT" ZIP="100043" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="6770" CIK="0000790024" CONFORMED-NAME="CHINA SHEN ZHOU MINING &amp; RESOURCES, INC." FISCAL-YEAR-END="1231" IRS-NUMBER="870430816" STATE-OF-INCORPORATION="NV" /><BUSINESS-ADDRESS CITY="BEIJING" PHONE="86-010-68867292" STATE="F4" STREET1="NO. 166 FUSHI ROAD ZEYANG TOWER" STREET2="SHIJINGSHAN DISTRICT" ZIP="100043" /><MAIL-ADDRESS CITY="BEIJING" STATE="F4" STREET1="NO. 166 FUSHI ROAD ZEYANG TOWER" STREET2="SHIJINGSHAN DISTRICT" ZIP="100043" /><FORMER-COMPANY DATE-CHANGED="20000515" FORMER-CONFORMED-NAME="EARTH PRODUCTS &amp; TECHNOLOGIES INC" /><FORMER-COMPANY DATE-CHANGED="19950601" FORMER-CONFORMED-NAME="ENVIRONMENTAL PLASMA ARC TECHNOLOGY INC" /><FORMER-COMPANY DATE-CHANGED="19921224" FORMER-CONFORMED-NAME="CONCEPT GOLD INC" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-10-25" schemaVersion="X0303">
+<issuer> issuerCik="0000790024" 
+ issuerName="CHINA SHEN ZHOU MINING &amp; RESOURCES, INC." 
+ issuerTradingSymbol="SHZ" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001408381" 
+ rptOwnerName="Yu Xiaojing" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="BEIJING" rptOwnerState="F4" rptOwnerStateDescription="CHINA" rptOwnerStreet1="SUITE 1210, ZEYANG TOWER" rptOwnerStreet2="NO. 166 FUSHI ROAD, SHIJINGSHAN DISTRICT" rptOwnerZipCode="100043">
+</reportingOwnerAddress>
+<reportingOwnerRelationship isDirector="1" isOfficer="1" isOther="0" isTenPercentOwner="1" officerTitle="CEO, President">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-10-25">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="30000" 
+</transactionShares>
+<transactionPricePerShare value="3.3">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="15237000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-10-25">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="20000" 
+</transactionShares>
+<transactionPricePerShare value="3.4">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="15217000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-10-26">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="20000" 
+</transactionShares>
+<transactionPricePerShare value="3.7">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="15197000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-10-26">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="20000" 
+</transactionShares>
+<transactionPricePerShare value="3.5">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="15177000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-10-27">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="10000" 
+</transactionShares>
+<transactionPricePerShare value="3.61">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="15167000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<ownerSignature> signatureName="/s/ Xiaojing Yu" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

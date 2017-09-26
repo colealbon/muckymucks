@@ -1,0 +1,115 @@
+<Source file="./0001225208-10-024447.nc">
+<SUBMISSION ACCESSION-NUMBER="0001225208-10-024447" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101105" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001205344" CONFORMED-NAME="WOZNIAK THOMAS P" /><FILING-VALUES ACT="34" FILE-NUMBER="001-12372" FILM-NUMBER="101172371" FORM-TYPE="4" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="2890" CIK="0000912513" CONFORMED-NAME="CYTEC INDUSTRIES INC/DE/" FISCAL-YEAR-END="1231" IRS-NUMBER="223268660" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="WEST PATERSON" PHONE="9733573100" STATE="NJ" STREET1="FIVE GARRET MOUNTAIN PLAZA" ZIP="07424" /><MAIL-ADDRESS CITY="WEST PATERSON" STATE="NJ" STREET1="FIVE GARRET MOUNTAIN PLAZA" ZIP="07424" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" periodOfReport="2010-11-05" schemaVersion="X0303">
+<issuer> issuerCik="0000912513" 
+ issuerName="CYTEC INDUSTRIES INC/DE/" 
+ issuerTradingSymbol="CYT" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001205344" 
+ rptOwnerName="WOZNIAK THOMAS P" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="WOODLAND PARK" rptOwnerState="NJ" rptOwnerStreet1="FIVE GARRET MOUNTAIN PLAZA" rptOwnerStreet2="" rptOwnerZipCode="07424" />
+
+
+<reportingOwnerRelationship isOfficer="1" officerTitle="Treasurer">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="3500.0000" 
+</transactionShares>
+<transactionPricePerShare value="33.6300">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="18542.0000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="3500.0000" 
+</transactionShares>
+<transactionPricePerShare value="52.1791">
+<footnoteId id="F1" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="D" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="15042.0000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeHolding>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="4602.0000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+<footnoteId id="F2" /> 
+</directOrIndirectOwnership>
+<natureOfOwnership> value="Savings Plan" 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+</nonDerivativeTable>
+<derivativeTable><derivativeTransaction><securityTitle> value="Option Right to buy" 
+</securityTitle>
+<conversionOrExercisePrice value="33.6300">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="3500.0000" 
+</transactionShares>
+<transactionPricePerShare value="0.0000">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate> value="2002-01-22" 
+</exerciseDate>
+<expirationDate value="2011-01-21">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="3500.0000">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="6500.0000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="The sales prices ranged from $ 52.13 to $52.205, with a weighted average price of $52.1791. The undersigned reporting person hereby undertakes to provide upon request by the Commission staff, the issuer, or a security holder of the issuer, full information regarding the number of shares purchased or sold at each separate price." /> 
+ <footnote id="F2" text="Excludes shares held in Employees&apos; Savings Plan or Supplemental Plan which are eligible for deferred reporting on Form 5, as per note to instruction 4(a)(i)." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="\s\Frank Macerato, Attorney in Fact">
+</ownerSignature>
+</ownershipDocument></Source>

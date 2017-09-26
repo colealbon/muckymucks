@@ -1,0 +1,48 @@
+<Source file="./0001179110-10-015733.nc">
+<SUBMISSION ACCESSION-NUMBER="0001179110-10-015733" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001479998" CONFORMED-NAME="Moore James Richard" /><FILING-VALUES ACT="34" FILE-NUMBER="001-32427" FILM-NUMBER="101173741" FORM-TYPE="4" /><MAIL-ADDRESS CITY="SALT LAKE CITY" STATE="UT" STREET1="500 HUNTSMAN WAY" ZIP="84108" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="2800" CIK="0001307954" CONFORMED-NAME="Huntsman CORP" FISCAL-YEAR-END="1231" IRS-NUMBER="421648585" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="SALT LAKE CITY" PHONE="(801) 584-5700" STATE="UT" STREET1="500 HUNTSMAN WAY" ZIP="84108" /><MAIL-ADDRESS CITY="SALT LAKE CITY" STATE="UT" STREET1="500 HUNTSMAN WAY" ZIP="84108" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0001307954" 
+ issuerName="Huntsman CORP" 
+ issuerTradingSymbol="HUN" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001479998" 
+ rptOwnerName="Moore James Richard" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="SALT LAKE CITY" rptOwnerState="UT" rptOwnerStreet1="500 HUNTSMAN WAY" rptOwnerStreet2="" rptOwnerZipCode="84108" />
+
+
+<reportingOwnerRelationship isDirector="0" isOfficer="1" isOther="0" isTenPercentOwner="0" officerTitle="Exec VP, GC and Sec">
+<otherText /> 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable>
+<nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="7990" 
+<footnoteId id="F1" /> 
+</transactionShares>
+<transactionPricePerShare> value="14.50" 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="61594" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<derivativeTable /> 
+<footnotes>
+<footnote id="F1" text="Shares sold pursuant to a Rule 10b5-1 trading plan." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="Sean H. Pettey, by Power of Attorney">
+</ownerSignature>
+</ownershipDocument></Source>

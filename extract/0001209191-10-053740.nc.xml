@@ -1,0 +1,167 @@
+<Source file="./0001209191-10-053740.nc">
+<SUBMISSION ACCESSION-NUMBER="0001209191-10-053740" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101105" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001208748" CONFORMED-NAME="DAILEY MARK D" /><FILING-VALUES ACT="34" FILE-NUMBER="001-13179" FILM-NUMBER="101173564" FORM-TYPE="4" /><MAIL-ADDRESS CITY="IRVING" STATE="TX" STREET1="222 W LAS COLINAS BLVD" STREET2="1550" ZIP="75039" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="3561" CIK="0000030625" CONFORMED-NAME="FLOWSERVE CORP" FISCAL-YEAR-END="1231" IRS-NUMBER="310267900" STATE-OF-INCORPORATION="NY" /><BUSINESS-ADDRESS CITY="IRVING" PHONE="9724436500" STATE="TX" STREET1="5215 N. O&apos;CONNOR BLVD." STREET2="SUITE 2300" ZIP="75039" /><MAIL-ADDRESS CITY="IRVING" STATE="TX" STREET1="5215 N. O&apos;CONNOR BLVD." STREET2="SUITE 2300" ZIP="75039" /><FORMER-COMPANY DATE-CHANGED="19970508" FORMER-CONFORMED-NAME="DURCO INTERNATIONAL INC" /><FORMER-COMPANY DATE-CHANGED="19920703" FORMER-CONFORMED-NAME="DURIRON CO INC" /><FORMER-COMPANY DATE-CHANGED="19900509" FORMER-CONFORMED-NAME="THE DURIRON CO INC" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-05" schemaVersion="X0303">
+<issuer> issuerCik="0000030625" 
+ issuerName="FLOWSERVE CORP" 
+ issuerTradingSymbol="FLS" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001208748" 
+ rptOwnerName="DAILEY MARK D" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="IRVING" rptOwnerState="TX" rptOwnerStreet1="5215 N. O&apos;CONNOR BLVD., SUITE 2300" rptOwnerStreet2="" rptOwnerZipCode="75039" />
+
+
+<reportingOwnerRelationship isDirector="0" isOfficer="1" isOther="0" isTenPercentOwner="0" officerTitle="SVP and Chief Admin Ofcr">
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock ($1.25 par value per share)" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="S" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="468" 
+</transactionShares>
+<transactionPricePerShare value="99.02">
+<footnoteId id="F1" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="D" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="18281" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock ($1.25 par value per share)" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="S" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="700" 
+</transactionShares>
+<transactionPricePerShare value="100.13">
+<footnoteId id="F2" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="D" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="17581" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock ($1.25 par value per share)" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="S" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="1000" 
+</transactionShares>
+<transactionPricePerShare value="101.53">
+<footnoteId id="F3" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="D" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="16581" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock ($1.25 par value per share)" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="S" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="800" 
+</transactionShares>
+<transactionPricePerShare value="102.18">
+<footnoteId id="F4" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="D" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="15781" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock ($1.25 par value per share)" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<deemedExecutionDate />
+<transactionCoding> transactionFormType="4" 
+ transactionCode="S" 
+ equitySwapInvolved="0" 
+</transactionCoding>
+<transactionTimeliness>
+<value /> 
+</transactionTimeliness>
+<transactionAmounts><transactionShares> value="3100" 
+</transactionShares>
+<transactionPricePerShare value="104.02">
+<footnoteId id="F5" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="D" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="12681" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<footnotes> <footnote id="F1" text="The price reported is a weighted average price. The shares were sold in multiple transactions at prices ranging from $98.740 to $99.500, inclusive. The reporting person undertakes to provide Flowserve Corporation, any security holder of Flowserve Corporation or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range set forth above." /> 
+ <footnote id="F2" text="The price reported is a weighted average price. The shares were sold in multiple transactions at prices ranging from $99.830 to $100.470, inclusive." /> 
+ <footnote id="F3" text="The price reported is a weighted average price. The shares were sold in multiple transactions at prices ranging from $100.970 to $101.8925, inclusive." /> 
+ <footnote id="F4" text="The price reported is a weighted average price. The shares were sold in multiple transactions at prices ranging from $101.9750 to $102.4450, inclusive." /> 
+ <footnote id="F5" text="The price reported is a weighted average price. The shares were sold in multiple transactions at prices ranging from $103.4300 to $104.4000, inclusive." /> 
+</footnotes>
+<remarks />
+<ownerSignature> signatureName="/s/Ronald F. Shuff, Attorney-in-Fact" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

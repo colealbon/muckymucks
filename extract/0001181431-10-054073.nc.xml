@@ -1,0 +1,183 @@
+<Source file="./0001181431-10-054073.nc">
+<SUBMISSION ACCESSION-NUMBER="0001181431-10-054073" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001188789" CONFORMED-NAME="AYER WILLIAM S" /><FILING-VALUES ACT="34" FILE-NUMBER="001-08957" FILM-NUMBER="101173393" FORM-TYPE="4" /><MAIL-ADDRESS CITY="SEATTLE" STATE="WA" STREET1="ALASKA AIR GROUP" STREET2="19300 PACIFIC HIGHWAY SOUTH" ZIP="98188" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="4512" CIK="0000766421" CONFORMED-NAME="ALASKA AIR GROUP INC" FISCAL-YEAR-END="1231" IRS-NUMBER="911292054" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="SEATTLE" PHONE="206.392.5040" STATE="WA" STREET1="19300 PACIFIC HWY SOUTH" ZIP="98188" /><MAIL-ADDRESS CITY="SEATTLE" STATE="WA" STREET1="PO BOX 68947" ZIP="98168-0947" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0000766421" 
+ issuerName="ALASKA AIR GROUP INC" 
+ issuerTradingSymbol="ALK" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001188789" 
+ rptOwnerName="AYER WILLIAM S" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="SEATTLE" rptOwnerState="WA" rptOwnerStreet1="C/O ALASKA AIR GROUP INC" rptOwnerStreet2="19300 INTERNATIONAL BLVD" rptOwnerZipCode="98188">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="1" 
+ isOfficer="1" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+ officerTitle="CHAIRMAN, PRESIDENT &amp; CEO" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="COMMON STOCK" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+<footnoteId id="F1" /> 
+</transactionCoding>
+<transactionAmounts><transactionShares> value="10297" 
+</transactionShares>
+<transactionPricePerShare value="55.00">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="40587" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="COMMON STOCK" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+<footnoteId id="F2" /> 
+</transactionCoding>
+<transactionAmounts><transactionShares> value="16513" 
+</transactionShares>
+<transactionPricePerShare value="30.89">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="57100" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="COMMON STOCK" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+<footnoteId id="F2" /> 
+</transactionCoding>
+<transactionAmounts><transactionShares> value="16513" 
+</transactionShares>
+<transactionPricePerShare value="56.1265">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="40587" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="COMMON STOCK" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+<footnoteId id="F1" /> 
+</transactionCoding>
+<transactionAmounts><transactionShares> value="1600" 
+</transactionShares>
+<transactionPricePerShare value="56.00">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="38987" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="COMMON STOCK" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+<footnoteId id="F1" /> 
+</transactionCoding>
+<transactionAmounts><transactionShares> value="9786" 
+</transactionShares>
+<transactionPricePerShare value="56.0204">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="29201" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeHolding>
+<securityTitle> value="COMMON STOCK" 
+<footnoteId id="F3" /> 
+</securityTitle>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="90338" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+</nonDerivativeTable>
+<derivativeTable><derivativeTransaction><securityTitle> value="EMPLOYEE STOCK OPTION (RT TO BUY)" 
+</securityTitle>
+<conversionOrExercisePrice value="30.89">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+<footnoteId id="F2" /> 
+</transactionCoding>
+<transactionAmounts><transactionShares> value="16513" 
+</transactionShares>
+<transactionPricePerShare value="0">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate> value="2003-01-30" 
+</exerciseDate>
+<expirationDate value="2012-01-30">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="COMMON" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="16513">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="55250" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<footnotes> <footnote id="F1" text="THIS SALE OF SHARES WAS EFFECTED PURSUANT TO A RULE 10b5-1 TRADING PLAN ADOPTED BY MR. AYER ON AUGUST 4, 2010." /> 
+ <footnote id="F2" text="THIS SAME-DAY EXERCISE AND SALE OF OPTIONS WAS EFFECTED PURSUANT TO A RULE 10b-5-1 TRADING PLAN ADOPTED BY MR. AYER ON AUGUST 4, 2010." /> 
+ <footnote id="F3" text="STOCK UNITS AWARDED UNDER THE 2004 LONG-TERM INCENTIVE EQUITY AND 2008 PERFORMANCE INCENTIVE PLANS; NOT YET VESTED BUT NO LONGER SUBJECT TO FORFEITURE." /> 
+</footnotes>
+<ownerSignature signatureDate="2010-11-08" signatureName="JEANNE E. GAMMON, ATTORNEY IN FACT FOR WILLIAM S. AYER">
+</ownerSignature>
+</ownershipDocument></Source>

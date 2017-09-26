@@ -1,0 +1,119 @@
+<Source file="./0001057058-10-000084.nc">
+<SUBMISSION ACCESSION-NUMBER="0001057058-10-000084" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101104" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001064312" CONFORMED-NAME="BOUCK STEVEN F" /><FILING-VALUES ACT="34" FILE-NUMBER="001-31507" FILM-NUMBER="101172610" FORM-TYPE="4" /><MAIL-ADDRESS CITY="ROSEVILLE" STATE="CA" STREET1="C/O WASTE CONNECTIONS INC" STREET2="2260 DOUGLAS BLVD SUITE 280" ZIP="95661" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="4953" CIK="0001057058" CONFORMED-NAME="WASTE CONNECTIONS, INC." FISCAL-YEAR-END="1231" IRS-NUMBER="943283464" STATE-OF-INCORPORATION="DE" /><BUSINESS-ADDRESS CITY="FOLSOM" PHONE="9166088200" STATE="CA" STREET1="2295 IRON POINT ROAD" STREET2="SUITE 200" ZIP="95630-8767" /><MAIL-ADDRESS CITY="FOLSOM" STATE="CA" STREET1="2295 IRON POINT ROAD" STREET2="SUITE 200" ZIP="95630-8767" /><FORMER-COMPANY DATE-CHANGED="19980304" FORMER-CONFORMED-NAME="WASTE CONNECTIONS INC/DE" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" periodOfReport="2010-11-04" schemaVersion="X0303">
+<issuer> issuerCik="0001057058" 
+ issuerName="WASTE CONNECTIONS, INC." 
+ issuerTradingSymbol="WCN" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001064312" 
+ rptOwnerName="BOUCK STEVEN F" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="FOLSOM" rptOwnerState="CA" rptOwnerStreet1="2295 IRON POINT ROAD" rptOwnerStreet2="SUITE 200" rptOwnerZipCode="95630">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="1" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+ officerTitle="President" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="11125" 
+</transactionShares>
+<transactionPricePerShare value="16.62">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="181511" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction><securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="11125" 
+</transactionShares>
+<transactionPricePerShare value="41.0088">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="170386" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+</nonDerivativeTable>
+<derivativeTable>
+<derivativeTransaction><securityTitle> value="Employee Stock Option (Right to Buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="16.62">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-04">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="11125" 
+<footnoteId id="F2" /> 
+</transactionShares>
+<transactionPricePerShare> value="0" 
+<footnoteId id="F1" /> 
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode> value="D" 
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate> value="2005-10-27" 
+</exerciseDate>
+<expirationDate value="2014-02-03">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="11125">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="0" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+<natureOfOwnership>
+<value /> 
+</natureOfOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<footnotes>
+<footnote id="F1" text="The zero in Table II, Column 8 is a placeholder only that is required by the EDGAR software and should be disregarded." /> 
+ <footnote id="F2" text="This option was previously reported as an option for 72,327 shares of common stock at an exercise price of $37.40 per share, but was adjusted to reflect WCI&apos;s 3-for-2 stock splits in the form of 50% stock dividends effective June 24, 2004 and March 13, 2007.  Accordingly, on March 13, 2007, the date the stock dividend was paid, the option became exercisable for 162,737 shares at an exercise price of $16.62 per share." /> 
+</footnotes>
+<remarks />
+<ownerSignature> signatureName="Steve Bouck" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>

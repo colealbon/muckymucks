@@ -1,0 +1,116 @@
+<Source file="./0001181431-10-054026.nc">
+<SUBMISSION ACCESSION-NUMBER="0001181431-10-054026" DATE-OF-FILING-DATE-CHANGE="20101108" FILING-DATE="20101108" PERIOD="20101105" PUBLIC-DOCUMENT-COUNT="1" TYPE="4"><REPORTING-OWNER><OWNER-DATA CIK="0001284615" CONFORMED-NAME="KYLE REX W" /><FILING-VALUES ACT="34" FILE-NUMBER="333-27641" FILM-NUMBER="101172602" FORM-TYPE="4" /></REPORTING-OWNER><ISSUER><COMPANY-DATA ASSIGNED-SIC="6022" CIK="0001038205" CONFORMED-NAME="BANK OF THE OZARKS INC" FISCAL-YEAR-END="1231" IRS-NUMBER="710556208" STATE-OF-INCORPORATION="AR" /><BUSINESS-ADDRESS CITY="LITTLE ROCK" PHONE="5019782265" STATE="AR" STREET1="12615 CHENAL PARKWAY" STREET2="SUITE 3100" ZIP="72211" /><MAIL-ADDRESS CITY="LITTLE ROCK" STATE="AR" STREET1="12615 CHENAL PARKWAY" ZIP="72211" /></ISSUER></SUBMISSION><ownershipDocument documentType="4" notSubjectToSection16="0" periodOfReport="2010-11-05" schemaVersion="X0303">
+<issuer> issuerCik="0001038205" 
+ issuerName="BANK OF THE OZARKS INC" 
+ issuerTradingSymbol="OZRK" 
+</issuer>
+<reportingOwner>
+<reportingOwnerId> rptOwnerCik="0001284615" 
+ rptOwnerName="KYLE REX W" 
+</reportingOwnerId>
+<reportingOwnerAddress rptOwnerCity="LITTLE ROCK" rptOwnerState="AR" rptOwnerStreet1="17901 CHENAL PARKWAY" rptOwnerStreet2="P.O. BOX 8811" rptOwnerZipCode="72231">
+ /&gt;
+ 
+</reportingOwnerAddress>
+<reportingOwnerRelationship> isDirector="0" 
+ isOfficer="1" 
+ isTenPercentOwner="0" 
+ isOther="0" 
+ officerTitle="President - Trust Division" 
+</reportingOwnerRelationship>
+</reportingOwner>
+<nonDerivativeTable><nonDerivativeTransaction><securityTitle> value="Employee Stock Option (Right to Buy)" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="1700" 
+</transactionShares>
+<transactionPricePerShare value="31.04">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="A">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="3700" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeTransaction>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="S" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="1700" 
+</transactionShares>
+<transactionPricePerShare value="39.06">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="2000" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</nonDerivativeTransaction>
+<nonDerivativeHolding>
+<securityTitle> value="Common Stock" 
+</securityTitle>
+<postTransactionAmounts>
+<sharesOwnedFollowingTransaction> value="536" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="I" 
+</directOrIndirectOwnership>
+<natureOfOwnership value="Shares held in 401(k) at 11/15/2010">
+</natureOfOwnership>
+</ownershipNature>
+</nonDerivativeHolding>
+</nonDerivativeTable>
+<derivativeTable><derivativeTransaction><securityTitle> value="Employee Stock Option (Right to Buy)" 
+</securityTitle>
+<conversionOrExercisePrice value="31.04">
+</conversionOrExercisePrice>
+<transactionDate value="2010-11-05">
+</transactionDate>
+<transactionCoding equitySwapInvolved="0" transactionCode="M" transactionFormType="4">
+</transactionCoding>
+<transactionAmounts>
+<transactionShares> value="1700" 
+</transactionShares>
+<transactionPricePerShare value="31.04">
+</transactionPricePerShare>
+<transactionAcquiredDisposedCode value="D">
+</transactionAcquiredDisposedCode>
+</transactionAmounts>
+<exerciseDate> value="2010-10-16" 
+</exerciseDate>
+<expirationDate value="2014-10-16">
+</expirationDate>
+<underlyingSecurity>
+<underlyingSecurityTitle> value="Common Stock" 
+</underlyingSecurityTitle>
+<underlyingSecurityShares value="1700">
+</underlyingSecurityShares>
+</underlyingSecurity>
+<postTransactionAmounts><sharesOwnedFollowingTransaction> value="0" 
+</sharesOwnedFollowingTransaction>
+</postTransactionAmounts>
+<ownershipNature><directOrIndirectOwnership> value="D" 
+</directOrIndirectOwnership>
+</ownershipNature>
+</derivativeTransaction>
+</derivativeTable>
+<ownerSignature> signatureName="/s/ Rex Kyle W" 
+ signatureDate="2010-11-08" 
+</ownerSignature>
+</ownershipDocument></Source>
